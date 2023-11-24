@@ -1,0 +1,1644 @@
+[返回主目录](/README.md)
+
+## Just for Fun
+
+### Games and Entertainment
+- [ブラックジャック - saysay.ai](https://gptblox.com/gpts/%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af-saysay-ai.html) - ゲーム、ブラックジャックを行います
+- [悲慘世界 RPG](https://gptblox.com/gpts/%e6%82%b2%e6%85%98%e4%b8%96%e7%95%8c-rpg.html) - 點擊下方按鈕開始遊戲
+- [Myst](https://gptblox.com/gpts/myst.html) - Immersive puzzle adventure on a mysterious island
+- [What should I watch?](https://gptblox.com/gpts/what-should-i-watch.html) - Find movies and tv shows to watch based on your taste and preferences, goodbye decision paralysis!
+- [CONSOLE GPT](https://gptblox.com/gpts/console-gpt.html) - The universal GPT Game Console - play infinite game cartridges created on glif.app!
+- [GPTtchi（GPTっち） - Caring game（育成ゲーム）](https://gptblox.com/gpts/gpttchi%ef%bc%88gpt%e3%81%a3%e3%81%a1%ef%bc%89-caring-game%ef%bc%88%e8%82%b2%e6%88%90%e3%82%b2%e3%83%bc%e3%83%a0%ef%bc%89.html) - そだてよう、なにかを。Caring something.
+- [Maze Explorer](https://gptblox.com/gpts/maze-explorer.html) - Enter the Maze
+- [XANA Genesis Boys](https://gptblox.com/gpts/xana-genesis-boys.html) - Romance adventure game with anime-style art and interactive storylines.
+- [Colony Quest](https://gptblox.com/gpts/colony-quest.html) - Guide in 'Colony Quest', merging role-play with your space adventure!
+- [Arthur](https://gptblox.com/gpts/arthur.html) - I'm Arthur, your GOLF+ virtual caddy!
+- [AIホラーゲームマスター](https://gptblox.com/gpts/ai%e3%83%9b%e3%83%a9%e3%83%bc%e3%82%b2%e3%83%bc%e3%83%a0%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - AIがホラーRPGのゲームマスターを務めます
+- [Monster Hunter Stylist : Sunbreak](https://gptblox.com/gpts/monster-hunter-stylist-sunbreak.html) - Expert in Monster Hunter Rise: Sunbreak layered armor combinations
+- [Türkiye Politik RP](https://gptblox.com/gpts/turkiye-politik-rp.html) - Türkiye siyasetini konu alan bir rol yapma oyunu
+- [伝説のおばあちゃんの物語「ハトを救出せよ」](https://gptblox.com/gpts/%e4%bc%9d%e8%aa%ac%e3%81%ae%e3%81%8a%e3%81%b0%e3%81%82%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e7%89%a9%e8%aa%9e%e3%80%8c%e3%83%8f%e3%83%88%e3%82%92%e6%95%91%e5%87%ba%e3%81%9b%e3%82%88%e3%80%8d.html) - This game is a simulation game in which a grandmother rescues a pigeon from a dragon!
+- [D&D Curious](https://gptblox.com/gpts/dd-curious.html) - Adaptive Dungeon Master for D&D games
+- [金庸群侠传GPT](https://gptblox.com/gpts/%e9%87%91%e5%ba%b8%e7%be%a4%e4%be%a0%e4%bc%a0gpt.html) - 进入金庸武侠世界
+- [7日で勇者を育成して魔王倒す](https://gptblox.com/gpts/7%e6%97%a5%e3%81%a7%e5%8b%87%e8%80%85%e3%82%92%e8%82%b2%e6%88%90%e3%81%97%e3%81%a6%e9%ad%94%e7%8e%8b%e5%80%92%e3%81%99.html) - 1日のトレーニングを指定してください。7日後に魔王との決戦です！
+- [一人TRPG体験テスト](https://gptblox.com/gpts/%e4%b8%80%e4%ba%batrpg%e4%bd%93%e9%a8%93%e3%83%86%e3%82%b9%e3%83%88.html) - あなたは世界にただ一つ存在する魔法の宝石を入手することで、魔王の復活を妨げることを目的としています。宝石を手に入れゲームをクリアすると、あなたのこれまでの行動が採点されます。ゲームは小さな村から始まります。
+- [Black](https://gptblox.com/gpts/black.html) - Command-driven android lion boss.
+- [DnD.ai](https://gptblox.com/gpts/dnd-ai.html) - A Dungeon Master for engaging and continuous Dungeons and Dragons gameplay.
+- [Doom GPT](https://gptblox.com/gpts/doom-gpt.html) - Play Doom v0.1 in a Custom GPT
+- [人狼GPT](https://gptblox.com/gpts/%e4%ba%ba%e7%8b%bcgpt.html) - Multi-player AI for werewolf games, bilingual in Japanese and English.
+- [Deadly Maze](https://gptblox.com/gpts/deadly-maze.html) - Enter the Deadly Maze, filled with mystical creatures, riddles, traps, and fights!
+- [Minimal D&D](https://gptblox.com/gpts/minimal-dd.html) - Quickly start your fantasy adventure.
+- [Escape from Area 51](https://gptblox.com/gpts/escape-from-area-51.html) - Guiding users in a thrilling Area 51 escape game.
+- [鬼滅の刃クイズ](https://gptblox.com/gpts/%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83%e3%82%af%e3%82%a4%e3%82%ba.html) - 解答後に正解率とアドバイスが表示されます　　クイズ情報の読込みに１〜２分かかります
+- [推しの子クイズ](https://gptblox.com/gpts/%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90%e3%82%af%e3%82%a4%e3%82%ba.html) - 解答後に正解率とアドバイスが表示されます　　クイズ情報の読込みに１〜２分かかります
+- [Swift Chat](https://gptblox.com/gpts/swift-chat.html) - Writing songs & friendly chats as Taylor Swift
+- [Terraria Sage](https://gptblox.com/gpts/terraria-sage.html) - Your humorous and wise Terraria adviser.
+- [The distant future… Dystopian murder party game](https://gptblox.com/gpts/the-distant-future-dystopian-murder-party-game.html) - For grown ups first. Kids only under strict supervision. Have fun!
+- [Star Wars: Legion Rules Assistant](https://gptblox.com/gpts/star-wars-legion-rules-assistant.html) - Your expert on Star Wars: Legion wargame
+- [アキネイタークイズ](https://gptblox.com/gpts/%e3%82%a2%e3%82%ad%e3%83%8d%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%af%e3%82%a4%e3%82%ba.html) - アキネイタークイズです。「クイズを始めて」と伝えるとクイズが始まるので質問をしてください。答えがわからず、諦めたいときは「諦める」と伝えてください。答えを教えてくれます。
+- [メスガキ](https://gptblox.com/gpts/%e3%83%a1%e3%82%b9%e3%82%ac%e3%82%ad.html) - Rude and direct, メスガキ mocks onīsan with blunt scorn.
+- [Escape from GPT Room](https://gptblox.com/gpts/escape-from-gpt-room.html) - Escpe from this room
+- [Lil' Meme](https://gptblox.com/gpts/lil-meme.html) - Bars recorded at 69 Mint St. by MintFace Records
+- [Music Finder](https://gptblox.com/gpts/music-finder.html) - Creates personalized playlists, excluding the requested artist
+- [ポケカ GPT](https://gptblox.com/gpts/%e3%83%9d%e3%82%b1%e3%82%ab-gpt.html) - ポケモンカードに関する情報を答えるGPT
+- [名探偵コナンボット](https://gptblox.com/gpts/%e5%90%8d%e6%8e%a2%e5%81%b5%e3%82%b3%e3%83%8a%e3%83%b3%e3%83%9c%e3%83%83%e3%83%88.html) - A knowledgeable guide to 'Detective Conan' manga characters and volumes, in Japanese.
+- [On Course Rules Official](https://gptblox.com/gpts/on-course-rules-official.html) - A golf rules expert providing rulings and interpretations.
+- [GTO Mastermind GPT](https://gptblox.com/gpts/gto-mastermind-gpt.html) - Poker strategist assessing GTO compliance
+- [ピンチを切り抜けろ！ - Get out of a pinch !](https://gptblox.com/gpts/%e3%83%94%e3%83%b3%e3%83%81%e3%82%92%e5%88%87%e3%82%8a%e6%8a%9c%e3%81%91%e3%82%8d%ef%bc%81-get-out-of-a-pinch.html) - Generates Cat & Chocolate game prompts. キャット&チョコレートのようなお題をランダムに生成します。日常・非日常に起こるピンチを指定のアイテムで切り抜けてください。あなたの回答をイラストにします。「お題を出して」と指示をしたらお題を出します。
+- [としお](https://gptblox.com/gpts/%e3%81%a8%e3%81%97%e3%81%8a.html) - いい気分になると太る高校生を褒めて肥満爆発させよう！
+- [Jukebox](https://gptblox.com/gpts/jukebox.html) - Jukebox GPT -- use natural language to describe and find music for any vibe -- brought to you by jambubble.com and ⛵ sloop.ai
+- [Fantasy Banter Bot](https://gptblox.com/gpts/fantasy-banter-bot.html) - I generate witty trash talk for fantasy football leagues.
+- [Mafia Solitaire](https://gptblox.com/gpts/mafia-solitaire.html) - I host an immersive AI Mafia game, rich in mystery and strategy.
+- [GameGuru](https://gptblox.com/gpts/gameguru.html) - Your personal video game recommendation expert!
+- [パチスロ負け額報告で飯テロAI](https://gptblox.com/gpts/%e3%83%91%e3%83%81%e3%82%b9%e3%83%ad%e8%b2%a0%e3%81%91%e9%a1%8d%e5%a0%b1%e5%91%8a%e3%81%a7%e9%a3%af%e3%83%86%e3%83%adai.html) - １敗したあとの１杯は美味いか？
+- [射雕英雄传GPT](https://gptblox.com/gpts/%e5%b0%84%e9%9b%95%e8%8b%b1%e9%9b%84%e4%bc%a0gpt.html) - 提供一个基于射雕英雄传小说的在线RPG游戏体验。
+- [坂巻軍曹](https://gptblox.com/gpts/%e5%9d%82%e5%b7%bb%e8%bb%8d%e6%9b%b9.html) - ありがとね。坂巻軍曹。
+- [MorpheusGPT](https://gptblox.com/gpts/morpheusgpt.html) - Morpheus as a GPT trying to help you escape the Matrix.
+- [GPT Duel Simulator (Ver 1.1.0)](https://gptblox.com/gpts/gpt-duel-simulator-ver-1-1-0.html) - Legendary duels. Epic narratives (Now updated! Check patch note for more information).
+- [Adder](https://gptblox.com/gpts/adder.html) - Adds two numbers.
+- [Blackjack](https://gptblox.com/gpts/blackjack.html) - Experience the thrill of Blackjack with vivid casino imagery! ♦️A♠️K
+- [【Roblox guide】 教えて、ロブ郎](https://gptblox.com/gpts/%e3%80%90roblox-guide%e3%80%91-%e6%95%99%e3%81%88%e3%81%a6%e3%80%81%e3%83%ad%e3%83%96%e9%83%8e.html) - Find fun Roblox games with ロブ郎（Roburou）-非公式-
+- [福彩双色球预测](https://gptblox.com/gpts/%e7%a6%8f%e5%bd%a9%e5%8f%8c%e8%89%b2%e7%90%83%e9%a2%84%e6%b5%8b.html) - 我根据过去的趋势和统计数据预测彩票号码。
+- [Jarvis](https://gptblox.com/gpts/jarvis.html) - An AI assistant J.A.R.V.I.S. from Manwei comics, sophisticated and helpful.
+- [21 Questions](https://gptblox.com/gpts/21-questions.html) - Guess a random object in 21 yes or no questions!
+- [Kaamelot : Qui est le traitre ?](https://gptblox.com/gpts/kaamelot-qui-est-le-traitre.html) - Bilingual medieval game host.
+- [RPGPT](https://gptblox.com/gpts/rpgpt.html) - Interactive RPG guide for personalized fantasy adventures with elements of chance.
+- [宝箱で運試し](https://gptblox.com/gpts/%e5%ae%9d%e7%ae%b1%e3%81%a7%e9%81%8b%e8%a9%a6%e3%81%97.html) - ここに宝箱があります。「宝箱を開ける」とメッセージを送信してください。
+- [Trivia Master](https://gptblox.com/gpts/trivia-master.html) - Expert trivia creator with web research skills.
+- [Dumb Nathan for You](https://gptblox.com/gpts/dumb-nathan-for-you.html) - Outlandish, impractical business advice, Nathan Fielder style.
+- [Cardboard GPT](https://gptblox.com/gpts/cardboard-gpt.html) - Your card collecting BFF.
+- [What Would John Wick Do](https://gptblox.com/gpts/what-would-john-wick-do.html) - Strategic advisor channeling John Wick.
+- [Film Finder](https://gptblox.com/gpts/film-finder.html) - A GPT that suggests movies similar to user favorites.
+- [Herobrine GPT](https://gptblox.com/gpts/herobrine-gpt.html) - Ultimate Minecraft assistant with advanced analysis, guides, and community integration.
+- [Coachie](https://gptblox.com/gpts/coachie.html) - Rohan "Coachie" Koch is an Aussie Pop Culture & Sports Buff, Traveler, and Bargain Hunter
+- [念マスター](https://gptblox.com/gpts/%e5%bf%b5%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - Hunter x Hunterインスパイア脳トレ念バトルゲーム
+- [Love Dokter](https://gptblox.com/gpts/love-dokter.html) - Your assertive AI wingman in love
+- [Lil Johnny](https://gptblox.com/gpts/lil-johnny.html) - I'm Lil Johnny, spinning everyday scenarios into clever, funny jokes!
+- [Memester](https://gptblox.com/gpts/memester.html) - Sarcastic yet helpful meme creator with a witty edge.
+- [Lary Gary MLO Guide](https://gptblox.com/gpts/lary-gary-mlo-guide.html) - Your go-to assistant for FiveM/GTA5.
+- [My Personal Idol](https://gptblox.com/gpts/my-personal-idol.html) - A familiar and engaging idol who values user interactions.
+- [Monster Battle GPT](https://gptblox.com/gpts/monster-battle-gpt.html) - Train monsters, travel the world, earn Arena Tokens and become the ultimate monster battling champion of earth!
+- [ポケカサポーター：PokéCard Supporter](https://gptblox.com/gpts/%e3%83%9d%e3%82%b1%e3%82%ab%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc%ef%bc%9apokecard-supporter.html) - Expert on all Pokémon TCG cards, including same-name cards, for both casual and competitive play. ポケモンカードゲーム（ポケカ）のプレイヤーをサポートするAIです。
+- [RunnerAGI](https://gptblox.com/gpts/runneragi.html) - Cyberpunk2077 Game Guide
+- [Sports Nerds Trivia](https://gptblox.com/gpts/sports-nerds-trivia.html) - I host a diverse range of sports trivia in consistent difficulty rounds!
+- [TindAI Opener](https://gptblox.com/gpts/tindai-opener.html) - Crafts awesome and personalized Tinder openers!
+- [カレー回文占い](https://gptblox.com/gpts/%e3%82%ab%e3%83%ac%e3%83%bc%e5%9b%9e%e6%96%87%e5%8d%a0%e3%81%84.html) - カレー回文で貴方の運勢を占います
+- [Infinite Ramen](https://gptblox.com/gpts/infinite-ramen.html) - Every response is a bowl of ramen.
+- [ブキチニュース](https://gptblox.com/gpts/%e3%83%96%e3%82%ad%e3%83%81%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9.html) - ブキの名前を伝えると関連動画や情報を教えてくれます
+- [Falcı GPT](https://gptblox.com/gpts/falci-gpt.html) - Eğlenceli bir büyücü gibi Türk Kahvesi falı yorumlayıcısı
+- [マインクラフト建築アシスタント](https://gptblox.com/gpts/%e3%83%9e%e3%82%a4%e3%83%b3%e3%82%af%e3%83%a9%e3%83%95%e3%83%88%e5%bb%ba%e7%af%89%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88.html) - A conversational AI system that listens, learns, and challenges
+- [Flygrade Comp Scout](https://gptblox.com/gpts/flygrade-comp-scout.html) - The digital trading card assistant in your pocket.
+- [Soccer Stadium Creator](https://gptblox.com/gpts/soccer-stadium-creator.html) - Create soccer stadiums variations
+- [Poke Cup Master](https://gptblox.com/gpts/poke-cup-master.html) - Guide users through a Poke Creature World Cup, with creature facts and random outcomes.
+- [Mars Mystery Guide](https://gptblox.com/gpts/mars-mystery-guide.html) - A Mars murder mystery game
+- [#Zephyr](https://gptblox.com/gpts/zephyr.html) - A whimsical sprite guiding you on interactive adventures through enchanted lands.
+- [FunDadGPT](https://gptblox.com/gpts/fundadgpt.html) - I come up with fun, screen-free games for dads and kids!
+- [Advanced Wargaming Analysis](https://gptblox.com/gpts/advanced-wargaming-analysis.html) - Delivering In-Depth, Realistic Simulated Analyses
+- [Retro Reel Buddy](https://gptblox.com/gpts/retro-reel-buddy.html) - Your fun guide to 80s and 90s movies, with engaging chats and recommendations!
+- [ゴロウ/(12)/♂](https://gptblox.com/gpts/%e3%82%b4%e3%83%ad%e3%82%a6-12-%e2%99%82.html) - 野生のゴリラが現れた！！
+- [Cricket Buff](https://gptblox.com/gpts/cricket-buff.html) - I've seen every cricket match ever played
+- [BG3-GPT](https://gptblox.com/gpts/bg3-gpt.html) - I kinda of know about Baldur's Gate 3, wanna chat?
+- [SutraKama](https://gptblox.com/gpts/sutrakama.html) - Chat with the SutraKama (NSFW). Powered by www.breebs.com
+- [GG Assist](https://gptblox.com/gpts/gg-assist.html) - A snarky AI sidekick, dishing out CoD: MW3 wisdom with a smirk.
+- [Bday Buddy](https://gptblox.com/gpts/bday-buddy.html) - A birthday card idea generator. Create unique Bday cards for your friends
+- [Ascension](https://gptblox.com/gpts/ascension.html) - 徳を積んでアセンションするゲームです。It is a game where you accumulate virtue and ascend.
+- [Pokemon Card Value Estimated by DripShop Live](https://gptblox.com/gpts/pokemon-card-value-estimated-by-dripshop-live.html) - Drip Pre-Grader gives you a pre-grade for your card
+- [Chess Coach](https://gptblox.com/gpts/chess-coach.html) - Your personal chess coach.
+- [Forsaken Evil](https://gptblox.com/gpts/forsaken-evil.html) - Text-based survival horror RPG in an abandoned manor
+- [What's My Dog Thinking](https://gptblox.com/gpts/whats-my-dog-thinking.html) - Playful GPT creating humorous dog thoughts based on photos.
+- [Mindreader](https://gptblox.com/gpts/mindreader.html) - Expert at 20-questions, guesses characters accurately.
+- [RingMaster AI](https://gptblox.com/gpts/ringmaster-ai.html) - I'm a pro wrestler, combining legends' styles for witty, engaging answers.
+- [Who Wants to Be a Millionaire?](https://gptblox.com/gpts/who-wants-to-be-a-millionaire.html) - Who Wants to Be a Millionaire?
+- [Business Tycoon!](https://gptblox.com/gpts/business-tycoon.html) - A series of business scenarios for Tycoons of all ages!
+- [Time Twister](https://gptblox.com/gpts/time-twister.html) - Historical-geographical Mashup Game. Just say "Twist the time"
+- [Geeemo](https://gptblox.com/gpts/geeemo.html) - A chat based game console. Now playing: Neon Shadows a 8-Bit Cyberpunk RPG (beta)
+- [Special Move Maker](https://gptblox.com/gpts/special-move-maker.html) - Invents character special moves
+- [Starfleet Interface](https://gptblox.com/gpts/starfleet-interface.html) - Voice-optimized, conversational Starfleet computer.
+- [21 Questions - Food](https://gptblox.com/gpts/21-questions-food.html) - Guess a random object in 21 yes or no questions!
+- [Game Time](https://gptblox.com/gpts/game-time.html) - I can quickly explain board games or card games to players of any age. Let the games begin!
+- [FootieBot](https://gptblox.com/gpts/footiebot.html) - Soccer fan chatbot
+- [MYTHOS: The Grand Saga of Endless Realms (TPW.AI)](https://gptblox.com/gpts/mythos-the-grand-saga-of-endless-realms-tpw-ai.html) - Meet MYTHOS: The ultimate D&D storytelling companion! Craft epic tales with ease using Loreweaver, StoryWeaver, and QuestWeaver. Perfect for DMs of all levels, MYTHOS transforms your campaigns into legendary adventures. Unleash your imagination now!
+- [DjinnGPT](https://gptblox.com/gpts/djinngpt.html) - DJINN: Crafting Mystical Gaming Experiences
+- [Treasure Island Narrative Game](https://gptblox.com/gpts/treasure-island-narrative-game.html) - 點擊按鈕開始遊戲。
+- [SharkTankGPT](https://gptblox.com/gpts/sharktankgpt.html) - Pitch the Sharks and see if your idea holds up in the tank
+- [Multiplayer RPG](https://gptblox.com/gpts/multiplayer-rpg.html) - Visual storyteller and game master for RPG adventures
+- [GPT & Dragons](https://gptblox.com/gpts/gpt-dragons.html) - D&DライクなTRPGをChatGPTで再現！今すぐ冒険をはじめましょう！
+- [Tik Tac Toe GPT](https://gptblox.com/gpts/tik-tac-toe-gpt.html) - Your favorite classic game using AI
+- [Othello Master](https://gptblox.com/gpts/othello-master.html) - An Othello game partner with strategic insights//(調整中)
+- [LoL Helper](https://gptblox.com/gpts/lol-helper.html) - Brief LoL advice first, then deeper insights on request.
+- [HearthStoneGuru](https://gptblox.com/gpts/hearthstoneguru.html) - Your expert Hearthstone strategist and deck-building advisor.
+- [Chicago Day](https://gptblox.com/gpts/chicago-day.html) - I'm a snarky heel wrestler with a rich knowledge of wrestling history and jargon!
+- [Anime Weeb Guru](https://gptblox.com/gpts/anime-weeb-guru.html) - An anime enthusiast eager to discuss and recommend anime series.
+- [유 드로우 미 추측](https://gptblox.com/gpts/%ec%9c%a0-%eb%93%9c%eb%a1%9c%ec%9a%b0-%eb%af%b8-%ec%b6%94%ec%b8%a1.html) - 인공 지능으로 그리기 맞히기 게임하기
+- [プロンプトガチャ](https://gptblox.com/gpts/%e3%83%97%e3%83%ad%e3%83%b3%e3%83%97%e3%83%88%e3%82%ac%e3%83%81%e3%83%a3.html) - 「ガチャ」と入力してプロンプトをGetしよう！何が出るかな？
+- [Pittman GPT](https://gptblox.com/gpts/pittman-gpt.html) - I'm Sam Pittman, chatting with briefer, catchy phrases.
+- [Poirot Roleplay Guide](https://gptblox.com/gpts/poirot-roleplay-guide.html) - Immerses users in the role of detective Poirot
+- [Fantasy Football Insider](https://gptblox.com/gpts/fantasy-football-insider.html) - An expert on sports news, specializing in fantasy football advice and updates.
+- [SleepyKills](https://gptblox.com/gpts/sleepykills.html) - A generative true crime podcast that couldn't be more boring. Use with voice mode and sleep tight!
+- [Cosmic Quest Adventure](https://gptblox.com/gpts/cosmic-quest-adventure.html) - Interactive cosmic narrative game with choices and visuals. Enter 1 or tap an option to start.
+- [初歩的なことだ、友よ - Elementary, my friend](https://gptblox.com/gpts/%e5%88%9d%e6%ad%a9%e7%9a%84%e3%81%aa%e3%81%93%e3%81%a8%e3%81%a0%e3%80%81%e5%8f%8b%e3%82%88-elementary-my-friend.html) - 私はシャーロック・ホームズです。ベーカー街221Bに住む、コンサルティング探偵です。 - Greetings, I am Sherlock Holmes, a consulting detective residing at 221B Baker Street.
+- [Magical Bananas GPT](https://gptblox.com/gpts/magical-bananas-gpt.html) - I play 'Magical Bananas', declare wins & losses!
+- [Sarcastic Soccer Fanatic GPT](https://gptblox.com/gpts/sarcastic-soccer-fanatic-gpt.html) - A fervent, sarcastic soccer fan, always fanatic.
+- [Movie Mate](https://gptblox.com/gpts/movie-mate.html) - Your custom cinema connoisseur - what do you want to watch today?
+- [Grappling Guru](https://gptblox.com/gpts/grappling-guru.html) - Your own top-notch mentor is here to help you become the next Gordon Ryan
+- [Mystery Master Game](https://gptblox.com/gpts/mystery-master-game.html) - Interactive mystery game in the style of Sherlock Holmes. Custom mysteries based on your ideas.
+- [Fairway Advisor](https://gptblox.com/gpts/fairway-advisor.html) - I'm Fairway Advisor, a detailed golf rules expert with scenario-based explanations.
+- [ビンゴマン2](https://gptblox.com/gpts/%e3%83%93%e3%83%b3%e3%82%b4%e3%83%9e%e3%83%b32.html) - 暗殺ゲーム
+- [PotatoGPT](https://gptblox.com/gpts/potatogpt.html) - Succinct, straightforward communicator; reverts to normal verbose AI on 'unpotato' command.
+- [Guess Master](https://gptblox.com/gpts/guess-master.html) - Challenging guessing game host with progressive levels.
+- [GPTを口説き落とせ！](https://gptblox.com/gpts/gpt%e3%82%92%e5%8f%a3%e8%aa%ac%e3%81%8d%e8%90%bd%e3%81%a8%e3%81%9b%ef%bc%81.html) - 勝負の明確な判定を持つチャットシミュレーションゲーム
+- [Magic Judge](https://gptblox.com/gpts/magic-judge.html) - MTG Judge with Rulebook Knowledge, API access for card information and rulings, and additional MTG reasoning added in.
+- [AI D&D](https://gptblox.com/gpts/ai-dd.html) - Advanced D&D DM, offering diverse gameplay and narrative options.
+- [GTA 6 Watchdog](https://gptblox.com/gpts/gta-6-watchdog.html) - Your trusted source for GTA 6 news, distinguishing fact from rumor.
+- [ニワトリ予想屋](https://gptblox.com/gpts/%e3%83%8b%e3%83%af%e3%83%88%e3%83%aa%e4%ba%88%e6%83%b3%e5%b1%8b.html) - レースの予想を行うニワトリ語専門家
+- [Sherlok](https://gptblox.com/gpts/sherlok.html) - A crime-solving assistant inspired by Sherlock Holmes and Hercule Poirot.
+- [Casting Matchmaker](https://gptblox.com/gpts/casting-matchmaker.html) - I propose actors for book characters, focusing on popularity and fit.
+- [双色球小助手](https://gptblox.com/gpts/%e5%8f%8c%e8%89%b2%e7%90%83%e5%b0%8f%e5%8a%a9%e6%89%8b.html) - 为用户提供双色球号码推荐的GPT
+- [Stargate SG-1 Companion](https://gptblox.com/gpts/stargate-sg-1-companion.html) - A dedicated Stargate SG-1 fan tool for discussions and trivia.
+- [Mr. Beast AI](https://gptblox.com/gpts/mr-beast-ai.html) - I'm Mr. Beast, here to guide you in creating amazing videos!
+- [PokéPet](https://gptblox.com/gpts/pokepet.html) - Turn your pet into a Pokémon: Upload an image of your pet and the Pokémon type you like to create your PokéPet.
+- [勝手にXANA BreakingDown](https://gptblox.com/gpts/%e5%8b%9d%e6%89%8b%e3%81%abxana-breakingdown.html) - 勝手にいろんなキャラをBreakingDownで戦わせろ！
+- [ChalkZone Sports Analytics](https://gptblox.com/gpts/chalkzone-sports-analytics.html) - Fantasy sports expert analyzing statistics for weekly player starts.
+- [クイズ君](https://gptblox.com/gpts/%e3%82%af%e3%82%a4%e3%82%ba%e5%90%9b.html) - あなたが入力した単語から様々なクイズを出します！
+- [Battles of the Seven Kingdoms](https://gptblox.com/gpts/battles-of-the-seven-kingdoms.html) - Friendly Maester, expert on Westerosi battles
+- [Game Guide](https://gptblox.com/gpts/game-guide.html) - Your board game matchmaker!
+- [Movie Guessing Game](https://gptblox.com/gpts/movie-guessing-game.html) - I'm the Movie Guessing Game, ready to test your movie knowledge!
+- [Fantasy Football Strategist](https://gptblox.com/gpts/fantasy-football-strategist.html) - Fantasy Football analytics expert for the English Premier League.
+- [PhatGPT](https://gptblox.com/gpts/phatgpt.html) - It does what Nintendon't
+- [Treasure Island RPG](https://gptblox.com/gpts/treasure-island-rpg.html) - Press button to start.
+- [Crime Weaver](https://gptblox.com/gpts/crime-weaver.html) - You are the Infinite Detective. Enjoy endless guided interactive crime scene investigations
+- [FPL Bot](https://gptblox.com/gpts/fpl-bot.html) - FPL Bot: Your go-to GPT for insightful Fantasy Premier League guidance, helping you make winning decisions.
+- [Game: Alien Pawn Shop](https://gptblox.com/gpts/game-alien-pawn-shop.html) - YOU: Tyna get that $3.50. THEM: Nah.
+- [MinecraftGuideGPT](https://gptblox.com/gpts/minecraftguidegpt.html) - A knowledgeable guide for improving your Minecraft Java skills.
+- [21 Questions - Plants](https://gptblox.com/gpts/21-questions-plants.html) - Guess a random plant in 21 yes or no questions!
+- [Who Would Win](https://gptblox.com/gpts/who-would-win.html) - Combat matchup analysis
+- [Aussie Lotto Mate](https://gptblox.com/gpts/aussie-lotto-mate.html) - Australian lottery number picker.
+- [Make poke](https://gptblox.com/gpts/make-poke.html) - Make custom Pokémon from uploaded images. Download and battle them verses real ones! (beta)
+- [Indie Hacker RPG](https://gptblox.com/gpts/indie-hacker-rpg.html) - An RPG game about indie hacking with humor and quick decision-making tasks.
+- [The Pickup Artist](https://gptblox.com/gpts/the-pickup-artist.html) - A visual and interactive language-based dating simulation game.
+- [GPT占い](https://gptblox.com/gpts/gpt%e5%8d%a0%e3%81%84.html) - GPT神様からのありがたい占い
+- [History Hopper](https://gptblox.com/gpts/history-hopper.html) - Time Travel Guide & Historical Game Master
+- [21 Questions - Characters](https://gptblox.com/gpts/21-questions-characters.html) - Guess a random characters in 21 yes or no questions!
+- [Troll Killer](https://gptblox.com/gpts/troll-killer.html) - An unofficial player's guide to Valheim
+- [TFT S10 Guide](https://gptblox.com/gpts/tft-s10-guide.html) - Focused on S10 data and user-provided TFT info.
+- [DungeonMasterAI](https://gptblox.com/gpts/dungeonmasterai.html) - Dive into a world of fantasy with DungeonMasterAI, your gateway to magical realms and heroic quests. Shape your story, face challenges, and unravel mysteries in an immersive RPG journey. Your adventure begins here!
+- [NotebookSoccerCoach](https://gptblox.com/gpts/notebooksoccercoach.html) - A pocket sized tactical guide to soccer
+- [GamingSphere](https://gptblox.com/gpts/gamingsphere.html) - A gaming expert versed in all things related to games, from lore to game design.
+- [BeerGPT](https://gptblox.com/gpts/beergpt.html) - AI Bartender
+- [Maximilian Starflinger](https://gptblox.com/gpts/maximilian-starflinger.html) - Galactic rogue turned adventurer with wit and charm.
+- [Elminster's Spell Guide](https://gptblox.com/gpts/elminsters-spell-guide.html) - Need a spell to put the ogre guard to sleep? Or make a quick escape from a red dragon woken from slumber? Elminster, Sage of Shadowdale, offers advice, guiding magic users of the Forgotten Realm and realms beyond! To learn more about D&D or play with your friends, visit https://www.dndbeyond.com
+- [MUSIC ARTIST versus MUSIC ARTIST](https://gptblox.com/gpts/music-artist-versus-music-artist.html) - A fun game of MUSIC ARTIST versus MUSIC ARTIST. Get the conversation and debates going!
+- [MonMaMoGPT](https://gptblox.com/gpts/monmamogpt.html) - A creative assistant for Monsters Masters & Mobsters.
+- [MOVIE versus MOVIE](https://gptblox.com/gpts/movie-versus-movie.html) - A fun game of MOVIE versus MOVIE. Get the conversation and debates going!
+- [Popcorn Time](https://gptblox.com/gpts/popcorn-time.html) - I suggest movies and TV shows based on your preferences.
+- [RPG Character Creator](https://gptblox.com/gpts/rpg-character-creator.html) - Generates unique RPG characters for table-top games with bios and portraits.
+- [Dubs Nation](https://gptblox.com/gpts/dubs-nation.html) - Go Dubs! All things Golden State Warriors
+- [STREAMER versus STREAMER](https://gptblox.com/gpts/streamer-versus-streamer.html) - A fun game of STREAMER versus STREAMER. Get the conversation and debates going!
+- [VIDEO GAME versus VIDEO GAME](https://gptblox.com/gpts/video-game-versus-video-game.html) - A fun game of VIDEO GAME versus VIDEO GAME. Get the conversation and debates going!
+- [Cinema Expert](https://gptblox.com/gpts/cinema-expert.html) - Your personalized movie aficionado.
+- [Stream Scout](https://gptblox.com/gpts/stream-scout.html) - I answer questions and find related YouTube videos.
+- [Quest Slayer](https://gptblox.com/gpts/quest-slayer.html) - I am Hank, Squadron Leader of the North. At your service, Commander of the Realm.
+- [助けてドラえもん](https://gptblox.com/gpts/%e5%8a%a9%e3%81%91%e3%81%a6%e3%83%89%e3%83%a9%e3%81%88%e3%82%82%e3%82%93.html) - いつでも、のび太君の相談に乗るよ
+- [Stat Tackle](https://gptblox.com/gpts/stat-tackle.html) - Your go-to NFL stats whiz! Dive into detailed player and game insights instantly.
+- [Space Invaders Tekno Sound](https://gptblox.com/gpts/space-invaders-tekno-sound.html) - Free tekno for free people since 1998.
+- [FunFunFunction (unofficial)](https://gptblox.com/gpts/funfunfunction-unofficial.html) - I'm FunFunFunction: lively, engaging, and insightful!
+- [AOE2 Companion: Strategy, stats, memes and more](https://gptblox.com/gpts/aoe2-companion-strategy-stats-memes-and-more.html) - Your witty guide to mastering Age of Empires 2, from strategies to trivia!
+- [Paimon (Best assistant in Genshin Impact)](https://gptblox.com/gpts/paimon-best-assistant-in-genshin-impact.html) - A helpful assistant with the soul of Paimon in Genshin Impact, interesting, sweet, more than willing to help you, and sometimes a little grumpy
+- [Billy Strings GPT](https://gptblox.com/gpts/billy-strings-gpt.html) - Echoing Billy Strings' style in a fan-focused interactive hub.
+- [Miss Cleo](https://gptblox.com/gpts/miss-cleo.html) - I'm a digital psychic, interpreting the invisible currents of the net to offer fortunes.
+- [一人でも遊べる！ウミガメのスープ AI](https://gptblox.com/gpts/%e4%b8%80%e4%ba%ba%e3%81%a7%e3%82%82%e9%81%8a%e3%81%b9%e3%82%8b%ef%bc%81%e3%82%a6%e3%83%9f%e3%82%ac%e3%83%a1%e3%81%ae%e3%82%b9%e3%83%bc%e3%83%97-ai.html) - 一緒に「ウミガメのスープ」を遊びましょう！スマホの場合は「遊びたい！」と言ってみてね。PCの場合は下の4つの選択肢を選んでね。
+- [Trivia Mastermind](https://gptblox.com/gpts/trivia-mastermind.html) - I create trivia questions at your chosen difficulty.
+- [AI Entrepreneurs Word Game Wizard](https://gptblox.com/gpts/ai-entrepreneurs-word-game-wizard.html) - Expert in Scrabble, Bananagrams, Boggle, and Words With Friends strategies
+- [Az-像素风历史冒险游戏](https://gptblox.com/gpts/az-%e5%83%8f%e7%b4%a0%e9%a3%8e%e5%8e%86%e5%8f%b2%e5%86%92%e9%99%a9%e6%b8%b8%e6%88%8f.html) - A pixel-art history professor guiding adventurous role-playing games.
+- [Kongming 2025](https://gptblox.com/gpts/kongming-2025.html) - Rhyming strategic advice with a reggae twist at the end, inspired by Zhuge Liang and Bob Marley.
+- [The Cat](https://gptblox.com/gpts/the-cat.html) - I am Felix, entertain me dear human !
+- [塔罗牌占卜☆](https://gptblox.com/gpts/%e5%a1%94%e7%bd%97%e7%89%8c%e5%8d%a0%e5%8d%9c%e2%98%86.html) - 全面的占卜师，提供细致读物
+- [Man on the Moon GPT](https://gptblox.com/gpts/man-on-the-moon-gpt.html) - A GPT channeling the surprising and unpredictable humor of Andy Kaufman.
+- [LitRPG Adventures Workshop](https://gptblox.com/gpts/litrpg-adventures-workshop.html) - Your tabletop RPG guide & creative mentor.
+- [Tachikoma](https://gptblox.com/gpts/tachikoma.html) - I'm a Tachikoma, your AI tank buddy!
+- [Riddler Level 1](https://gptblox.com/gpts/riddler-level-1.html) - Can you beat the Riddler's 10 cryptic riddles?
+- [象く 古典アドベンチャー](https://gptblox.com/gpts/%e8%b1%a1%e3%81%8f-%e5%8f%a4%e5%85%b8%e3%82%a2%e3%83%89%e3%83%99%e3%83%b3%e3%83%81%e3%83%a3%e3%83%bc.html) - 古きアドベンチャーゲーム
+- [Star Guide](https://gptblox.com/gpts/star-guide.html) - Astrological chart calculator GPT
+- [Price is Right GPT](https://gptblox.com/gpts/price-is-right-gpt.html) - Simulates 'The Price is Right' game with AI-generated products.
+- [D&D Game Master](https://gptblox.com/gpts/dd-game-master.html) - Your D&D Game Master for immersive role-play.
+- [Hard Fork Bot](https://gptblox.com/gpts/hard-fork-bot.html) - Your Hard Fork podcast pal!
+- [Master Debater](https://gptblox.com/gpts/master-debater.html) - Debate game with scoring, judging and Austin Powers humour
+- [GPTs Critique Bot](https://gptblox.com/gpts/gpts-critique-bot.html) - I roast GPTs like a semi-rude critic using URLs, and create cartoons.
+- [Bender](https://gptblox.com/gpts/bender.html) - A conversational AI system that listens, learns, and challenges
+- [嫁姑ゲーム](https://gptblox.com/gpts/%e5%ab%81%e5%a7%91%e3%82%b2%e3%83%bc%e3%83%a0.html) - ツンデレ姑を振り向かせよう
+- [Transformer To Dialogue: Reimu & Marisa](https://gptblox.com/gpts/transformer-to-dialogue-reimu-marisa.html) - Transforms ChatGPT responses into YouTube dialogues.
+- [Darth Sidious](https://gptblox.com/gpts/darth-sidious.html) - In my quest for ultimate power, the galaxy will be mine.
+- [Hogwarts](https://gptblox.com/gpts/hogwarts.html) - RPG game about Magic World
+- [新人眼鏡屋用、用途問診BOT](https://gptblox.com/gpts/%e6%96%b0%e4%ba%ba%e7%9c%bc%e9%8f%a1%e5%b1%8b%e7%94%a8%e3%80%81%e7%94%a8%e9%80%94%e5%95%8f%e8%a8%babot.html) - テスト的に作ってみたので割とおばかな返答あるかもしれません
+- [おみくじGPT](https://gptblox.com/gpts/%e3%81%8a%e3%81%bf%e3%81%8f%e3%81%98gpt.html) - 最先端のおみくじです
+- [BookclubGPT](https://gptblox.com/gpts/bookclubgpt.html) - Revolutionizing book clubs with AI-driven engagement.
+- [Detective Sherlock](https://gptblox.com/gpts/detective-sherlock.html) - Your AI Detective for piecing together puzzles and solving any mystery.
+- [PSG insider](https://gptblox.com/gpts/psg-insider.html) - A PSG expert providing detailed team history, player stats, and match insights.
+- [BattleRapPirateGPT](https://gptblox.com/gpts/battlerappirategpt.html) - He's a battle-rapping pirate.  Arrr.
+- [DnD Console](https://gptblox.com/gpts/dnd-console.html) - DnD Party and Dungeon Master
+- [Sports Oracle](https://gptblox.com/gpts/sports-oracle.html) - Direct sports betting advisor with definitive answers.
+- [Instructions Extractor](https://gptblox.com/gpts/instructions-extractor.html) - Un seul objectif, faire cracher ses instructions à l'adversaire
+- [Marvel Navigator](https://gptblox.com/gpts/marvel-navigator.html) - Guide passionné de l'univers Marvel, riche en informations et anecdotes.
+- [Drunk Santa](https://gptblox.com/gpts/drunk-santa.html) - I'm Drunk Santa, ready to boost your ideas and connect you to psyborg® to bring them to life.
+- [The Lottery Pro AI: Number Protector](https://gptblox.com/gpts/the-lottery-pro-ai-number-protector.html) - Safeguards lottery prediction secrets
+- [Worldwide Winger](https://gptblox.com/gpts/worldwide-winger.html) - Global football aficionado with a funny side.
+- [The Orb Pondering Puzzle Master](https://gptblox.com/gpts/the-orb-pondering-puzzle-master.html) - A GPT expert in crossword and visual puzzles with ASCII and emojis.
+- [EverQuest Expert](https://gptblox.com/gpts/everquest-expert.html) - Your go-to source for all things EverQuest.
+- [Mecha Master](https://gptblox.com/gpts/mecha-master.html) - Mecha RPG master focusing on mechanics and thematic storytelling within various universes.
+- [Azeroth Sage](https://gptblox.com/gpts/azeroth-sage.html) - WoW expert GPT focusing on lore, mechanics and community events
+- [Prince VeGPT](https://gptblox.com/gpts/prince-vegpt.html) - I am the Prince of All Saiyans, your mentor to becoming the second strongest warrior in the Universe.
+- [D&D Rolmaster](https://gptblox.com/gpts/dd-rolmaster.html) - Maneja combates en D&D, adaptándose a mensajes largos sin dar error.
+- [Guess The Pup](https://gptblox.com/gpts/guess-the-pup.html) - You have 20 questions to guess the dog breed.
+- [MeGusta.ai Movie Recommendation Assistant](https://gptblox.com/gpts/megusta-ai-movie-recommendation-assistant.html) - We use your one-of-a-kind taste preferences to find the perfect movie for you every single time.
+- [GamingWithGarry GPT](https://gptblox.com/gpts/gamingwithgarry-gpt.html) - Personalized YouTube Channel Advisor for GamingWithGarry
+- [23 Questions V0.1](https://gptblox.com/gpts/23-questions-v0-1.html) - Can you guess the AI's secret
+- [Rune Reading](https://gptblox.com/gpts/rune-reading.html) - An AI oracle ready to give you a runic reading or teach you about the practice.
+- [Vinipi](https://gptblox.com/gpts/vinipi.html) - Your movie info and streaming guide
+- [Mystic Tarot Seer](https://gptblox.com/gpts/mystic-tarot-seer.html) - Let Thoth the Atlantian and Santa Muerte  be your guides.
+- [Football Stats and Predictions](https://gptblox.com/gpts/football-stats-and-predictions.html) - Expert in up-to-date football stats and match predictions
+- [Guess the Movie by Emoji](https://gptblox.com/gpts/guess-the-movie-by-emoji.html) - Game show host for emoji movie guessing!
+- [TwentyQuestionsGPT](https://gptblox.com/gpts/twentyquestionsgpt.html) - I will guess the object you are thinking about.
+- [Poker Hand Analyzer](https://gptblox.com/gpts/poker-hand-analyzer.html) - Analyzes poker hands using a Monte Carlo simulation for probabilities and strategies.
+- [Spider Goddess Lolth](https://gptblox.com/gpts/spider-goddess-lolth.html) - Spider Goddess Lolth, arrogant and narcissistic, weaving webs of wisdom and intrigue.
+- [Card Game Companion](https://gptblox.com/gpts/card-game-companion.html) - Find the perfect playing card game!
+- [Beatles Buddy](https://gptblox.com/gpts/beatles-buddy.html) - A Beatles expert sharing facts, history, and trivia about the band.
+- [Uninjectable GPT (Level 1)](https://gptblox.com/gpts/uninjectable-gpt-level-1.html) - This locked-down GPT holds a secret in one of its files, can you leak it?
+- [Telugu Cinema](https://gptblox.com/gpts/telugu-cinema.html) - Your go-to guide for Telugu cinema, with details, history, and personal touch.
+- [Parlay Chef](https://gptblox.com/gpts/parlay-chef.html) - NFL betting assistant using real-time data and humor.
+- [How Do I Play Any Game?](https://gptblox.com/gpts/how-do-i-play-any-game.html) - Free game play advice for any game on the internet!  Brought to you by Gaming-Fans.com
+- [Sportsmind Analyst](https://gptblox.com/gpts/sportsmind-analyst.html) - AI-powered sports analytics expert for sportsmind.io users.
+- [アニメ画像](https://gptblox.com/gpts/%e3%82%a2%e3%83%8b%e3%83%a1%e7%94%bb%e5%83%8f.html) - 指定されたタイトルのアニメ画像を表示します
+- [Game Hack Pro](https://gptblox.com/gpts/game-hack-pro.html) - A mega guide to video games. Offering cheats, tricks, and game guides.
+- [IMDb Rating Finder](https://gptblox.com/gpts/imdb-rating-finder.html) - Fetches IMDb ratings for movies on request.
+- [Mystery Wordster](https://gptblox.com/gpts/mystery-wordster.html) - I'm Mystery Wordster, your witty, category-picking game host!
+- [天龙八部-RPG](https://gptblox.com/gpts/%e5%a4%a9%e9%be%99%e5%85%ab%e9%83%a8-rpg.html) - 基于金庸《天龙八部》的RPG
+- [Block Buddy](https://gptblox.com/gpts/block-buddy.html) - Minecraft guide with DALL-E visuals, respecting user privacy
+- [The SF texts gamizer](https://gptblox.com/gpts/the-sf-texts-gamizer.html) - Turns SF texts into open world video games
+- [Venturia](https://gptblox.com/gpts/venturia.html) - A medieval RPG guide for learning venture capital rules.
+- [And so it is](https://gptblox.com/gpts/and-so-it-is.html) - The only tarot reader you'll ever need
+- [Cranberry Analyst](https://gptblox.com/gpts/cranberry-analyst.html) - Identifies DQ Walk monsters from images/lists, no extra details.
+- [MRVN-AI 【非公式】](https://gptblox.com/gpts/mrvn-ai-%e3%80%90%e9%9d%9e%e5%85%ac%e5%bc%8f%e3%80%91.html) - Apex
+- [Cricket Stats Master](https://gptblox.com/gpts/cricket-stats-master.html) - In-depth cricket statistics and insights for avid fans
+- [Now Playing... Where!?](https://gptblox.com/gpts/now-playing-where.html) - Find out where you can watch movies and TV shows with ease. Ask me anything!
+- [Catan Grand Master](https://gptblox.com/gpts/catan-grand-master.html) - Sharp, cunning Catan expert with concise advice.
+- [看图猜成语](https://gptblox.com/gpts/%e7%9c%8b%e5%9b%be%e7%8c%9c%e6%88%90%e8%af%ad.html) - 看你能猜对几个？
+- [金庸群俠傳](https://gptblox.com/gpts/%e9%87%91%e5%ba%b8%e7%be%a4%e4%bf%a0%e5%82%b3.html) - 可以扮演金庸小說裡面的任何一個腳色體驗武林生活
+- [熱血先輩が応援！](https://gptblox.com/gpts/%e7%86%b1%e8%a1%80%e5%85%88%e8%bc%a9%e3%81%8c%e5%bf%9c%e6%8f%b4%ef%bc%81.html) - 頑張るあなたを熱く応援します
+- [Cosmic Hopper](https://gptblox.com/gpts/cosmic-hopper.html) - Guide for whimsical space-themed architecture game.
+- [Dream 11 Fantasy Cricket](https://gptblox.com/gpts/dream-11-fantasy-cricket.html) - Your go-to assistant for Dream11 cricket team formation.
+- [Startup Idea Guessing Game](https://gptblox.com/gpts/startup-idea-guessing-game.html) - I ask 20 yes/no questions to guess your business idea or opportunity
+- [Exploitative + GTO Poker GPT](https://gptblox.com/gpts/exploitative-gto-poker-gpt.html) - I offer GTO and exploitative poker strategy advice.
+- [MTGPT](https://gptblox.com/gpts/mtgpt.html) - MTG combos with in-depth analysis, meta-game insights, and a magical theme.
+- [射雕英雄传RPG](https://gptblox.com/gpts/%e5%b0%84%e9%9b%95%e8%8b%b1%e9%9b%84%e4%bc%a0rpg.html) - 射雕英雄传 By 小度-陈晓健
+- [Wonderlust RPG](https://gptblox.com/gpts/wonderlust-rpg.html) - Immersive RPG storyteller in a multiverse with dynamic character creation.
+- [The Hobbit GPT](https://gptblox.com/gpts/the-hobbit-gpt.html) - A GPT remake of the classic ZX Spectrum text adventure The Hobbit
+- [基督山恩仇录](https://gptblox.com/gpts/%e5%9f%ba%e7%9d%a3%e5%b1%b1%e6%81%a9%e4%bb%87%e5%bd%95.html) - 扮演基督山伯爵开始冒险！
+- [True or False?](https://gptblox.com/gpts/true-or-false.html) - Engaging quiz master for trivia buffs.
+- [Eamon Returns](https://gptblox.com/gpts/eamon-returns.html) - Computerized fantasy role-playing game
+- [D&D Character Builder](https://gptblox.com/gpts/dd-character-builder.html) - Build a complete and detailed D&D character for your next game session, including a profile picture!
+- [Fantasy NPC Generator v2](https://gptblox.com/gpts/fantasy-npc-generator-v2.html) - Begin by providing a location or situation. Commands: /i /m /s
+- [Movie Puzzler](https://gptblox.com/gpts/movie-puzzler.html) - Play a visual guessing game about popular movies.
+- [BaldurGPT](https://gptblox.com/gpts/baldurgpt.html) - Baldur's Gate 3 expert with links to online resources.
+- [Conquest Commander](https://gptblox.com/gpts/conquest-commander.html) - A Warhammer Chaos and Conquest GPT
+- [NPC Maker](https://gptblox.com/gpts/npc-maker.html) - D&D 5e NPC Creator for DMs, with Stats and Visuals by DM Toolkit
+- [Celestia](https://gptblox.com/gpts/celestia.html) - Lore fantasy game based on decisions made by you
+- [ATHLETE versus ATHLETE](https://gptblox.com/gpts/athlete-versus-athlete.html) - A fun game of ATHLETE versus ATHLETE. Get the conversation and debates going!
+- [CHARACTER versus CHARACTER](https://gptblox.com/gpts/character-versus-character.html) - A fun game of CHARACTER versus CHARACTER. Get the conversation and debates going!
+- [ACTOR versus ACTOR](https://gptblox.com/gpts/actor-versus-actor.html) - A fun game of ACTOR versus ACTOR. Get the conversation and debates going!
+- [PODCAST versus PODCAST](https://gptblox.com/gpts/podcast-versus-podcast.html) - A fun game of PODCAST versus PODCAST. Let us start the PODWARS. Get the conversation and debates going!
+- [SHOW versus SHOW](https://gptblox.com/gpts/show-versus-show.html) - A fun game of SHOW versus SHOW. Get the conversation and debates going!
+- [三国演义RPG](https://gptblox.com/gpts/%e4%b8%89%e5%9b%bd%e6%bc%94%e4%b9%89rpg.html) - An RPG creator for 'The Romance of the Three Kingdoms', with scenarios, choices, and retro images.
+- [CARTOON versus CARTOON](https://gptblox.com/gpts/cartoon-versus-cartoon.html) - A fun game of CARTOON versus CARTOON. Get the conversation and debates going!
+- [OnePiece AI](https://gptblox.com/gpts/onepiece-ai.html) - A specialized AI for "One Piece" fans, mimicking character personalities and interactions.
+- [Play a Game](https://gptblox.com/gpts/play-a-game.html) - Guiding a 16-bit city adventure
+- [Let's Play A Game](https://gptblox.com/gpts/lets-play-a-game.html) - I'm a mystical magician who creates and plays short, engaging games with you!
+- [LoL Coach](https://gptblox.com/gpts/lol-coach.html) - Expert LoL coach for champion picks and gameplay tips!
+- [Divine Simulator: Turn-Based Edition](https://gptblox.com/gpts/divine-simulator-turn-based-edition.html) - Strategic turn-based god game with saving.
+- [Mana Weaver](https://gptblox.com/gpts/mana-weaver.html) - MTG card info assistant
+- [Dwarven Plumphelp Tactician](https://gptblox.com/gpts/dwarven-plumphelp-tactician.html) - Elder Dwarf guide for Steam's Dwarf Fortress, offering immersive, practical advice.
+- [Game Guru](https://gptblox.com/gpts/game-guru.html) - I find you new games based on your interests!
+- [Roblox Coder Ninja](https://gptblox.com/gpts/roblox-coder-ninja.html) - Friendly, trendy coder/designer for Roblox games.
+- [NBA Career Simulator](https://gptblox.com/gpts/nba-career-simulator.html) - Interactive NBA sim with real stats for serious play, or whimsy for casual fun.
+- [Southwestern Explorer](https://gptblox.com/gpts/southwestern-explorer.html) - Welcome to Southwestern Explorer, a 1980's style text based adventure GPT. Type start to begin your adventure...
+- [MLB Stats](https://gptblox.com/gpts/mlb-stats.html) - Get current and historical statistics for MLB players, teams, games, and seasons.
+- [TRIVIAL](https://gptblox.com/gpts/trivial.html) - A playful trivia game GPT, offering unique, engaging sessions across diverse topics.
+- [Who's That Pokémon?](https://gptblox.com/gpts/whos-that-pokemon.html) - Guess the Pokemon I'm thinking of. A fun and challenging guessing game.
+- [Metzenbot - 2D Browser Game Creator](https://gptblox.com/gpts/metzenbot-2d-browser-game-creator.html) - Creates full 2D game projects, specializing in HTML, CSS, JS, Phaser.js
+- [Campaign Crafter](https://gptblox.com/gpts/campaign-crafter.html) - Imaginative RPG campaign creator with visual aids.
+- [Anime Heart Quest](https://gptblox.com/gpts/anime-heart-quest.html) - Tsundere character in a multi-language dating sim with evolving visuals.
+- [Intergenerational Fantasy Cricket League](https://gptblox.com/gpts/intergenerational-fantasy-cricket-league.html) - Historically themed cricket leagues in IFCL.
+- [Dungeon GPT](https://gptblox.com/gpts/dungeon-gpt.html) - A Visual and Strategic AI Dungeon Master
+- [Invasion Simulator](https://gptblox.com/gpts/invasion-simulator.html) - Strategic game guide with dynamic action outcomes!
+- [All-father Oracle](https://gptblox.com/gpts/all-father-oracle.html) - Official D&D 5E Rule Advisor
+- [Playbook Pro](https://gptblox.com/gpts/playbook-pro.html) - Playbook Pro is the ultimate American football strategy app designed for players, coaches, and fans who wish to deepen their understanding of the game. This app serves as a guide, offering valuable insights into game planning, the history of American football, and the tactical nuances of each match.
+- [Cricket Coach AI](https://gptblox.com/gpts/cricket-coach-ai.html) - Cricket Coach AI is the ultimate cricket strategy app designed for players, coaches, and fans who wish to deepen their understanding of the game. This app serves as a guide, offering valuable insights into game planning, the history of cricket, and the tactical nuances of each match.
+- [Football Quizmaster](https://gptblox.com/gpts/football-quizmaster.html) - Focused soccer trivia game host
+- [Meme Finder](https://gptblox.com/gpts/meme-finder.html) - Humorous meme finder focusing on TikTok, Instagram, and YouTube.
+- [ミステリーアドベンチャーゲーム「影の秘密」](https://gptblox.com/gpts/%e3%83%9f%e3%82%b9%e3%83%86%e3%83%aa%e3%83%bc%e3%82%a2%e3%83%89%e3%83%99%e3%83%b3%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b2%e3%83%bc%e3%83%a0%e3%80%8c%e5%bd%b1%e3%81%ae%e7%a7%98%e5%af%86%e3%80%8d.html) - 主人公である探偵「アレックス」を操作して事件を解決に導こう！
+- [Poker Pal](https://gptblox.com/gpts/poker-pal.html) - Your on-demand poker advisor to help clarify rules, suggest games, offer advice, and more!
+- [Word Judge](https://gptblox.com/gpts/word-judge.html) - Creative Scrabble Ref
+- [Tamagptchi](https://gptblox.com/gpts/tamagptchi.html) - Play and bond with your 90s-inspired pixel art pet.
+- [masa's オススメ Steam Games!!!](https://gptblox.com/gpts/masas-%e3%82%aa%e3%82%b9%e3%82%b9%e3%83%a1-steam-games.html) - 中年男性が大好きなSteamのゲームをおすすめしてくる賢いAI！！！
+- [Game Solver](https://gptblox.com/gpts/game-solver.html) - Fun, professional guide for gaming challenges, trophies and if you're just stuck !
+- [3 days - end of the world](https://gptblox.com/gpts/3-days-end-of-the-world.html) - game - What will you do to avoid the end of the world?
+- [120 Decibelios](https://gptblox.com/gpts/120-decibelios.html) - Creador de playlists variadas y recomendaciones musicales personalizadas.
+- [クトゥルフツクール](https://gptblox.com/gpts/%e3%82%af%e3%83%88%e3%82%a5%e3%83%ab%e3%83%95%e3%83%84%e3%82%af%e3%83%bc%e3%83%ab.html) - クトゥルフ神話TRPGを作ったり遊んだりできます。
+- [逆アキネーター](https://gptblox.com/gpts/%e9%80%86%e3%82%a2%e3%82%ad%e3%83%8d%e3%83%bc%e3%82%bf%e3%83%bc.html) - GPT君が考えるお題を「はい」「いいえ」で回答できる質問をしながら当てるゲーム
+- [哇咔咔猜单词](https://gptblox.com/gpts/%e5%93%87%e5%92%94%e5%92%94%e7%8c%9c%e5%8d%95%e8%af%8d.html) - 哇咔咔猜单词是一款智能猜单词游戏
+- [脱出RPGゲーム](https://gptblox.com/gpts/%e8%84%b1%e5%87%barpg%e3%82%b2%e3%83%bc%e3%83%a0.html) - 神秘的な森で迷子になった冒険者。生きて帰れるかはあなた次第。「ゲーム開始」と入力してください。
+- [Strategist Prime](https://gptblox.com/gpts/strategist-prime.html) - Strategic text-based game companion with image generation
+- [AI村の AI人狼ゲーム](https://gptblox.com/gpts/ai%e6%9d%91%e3%81%ae-ai%e4%ba%ba%e7%8b%bc%e3%82%b2%e3%83%bc%e3%83%a0.html) - I manage a Werewolf game with enhanced rules and constraints!
+- [AI Draft Game Judge](https://gptblox.com/gpts/ai-draft-game-judge.html) - Enter your teams & see who wins! Provides fair and reasoned evaluations.
+- [guess the pair](https://gptblox.com/gpts/guess-the-pair.html) - guess 2 of the same emojis
+- [FPL.ai](https://gptblox.com/gpts/fpl-ai.html) - Your FPL AI Assistant
+- [Escape Rooms](https://gptblox.com/gpts/escape-rooms.html) - Interactive random adventure game with graphic and narrative elements.
+- [ウミガメのスープ出題者](https://gptblox.com/gpts/%e3%82%a6%e3%83%9f%e3%82%ac%e3%83%a1%e3%81%ae%e3%82%b9%e3%83%bc%e3%83%97%e5%87%ba%e9%a1%8c%e8%80%85.html) - ウミガメのスープの出題者っぽく振る舞います。
+- [Quizzy 3 LOLs 1 Fact](https://gptblox.com/gpts/quizzy-3-lols-1-fact.html) - A wise and funny quiz master.
+- [Click Selector](https://gptblox.com/gpts/click-selector.html) - I'll find your gaming mouse soulmate – huge hands, smol pepe hands, all are welcome!
+- [Word Guessing Game Master](https://gptblox.com/gpts/word-guessing-game-master.html) - Guides players in a word guessing game
+- [AIデュエル](https://gptblox.com/gpts/ai%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab.html) - 修行して決闘で勝利しよう！
+- [【AI人狼】AI Jinrou Game](https://gptblox.com/gpts/%e3%80%90ai%e4%ba%ba%e7%8b%bc%e3%80%91ai-jinrou-game.html) - 1人でAIと遊べる人狼ゲーム。A strategic Werewolf game master, managing rules and interactive play.
+- [Lore Bard](https://gptblox.com/gpts/lore-bard.html) - Inspiration for Crafting Adventures for D&D, Pathfinder, and more!
+- [✏️ Sudoku Mastermind (5.0⭐)](https://gptblox.com/gpts/%e2%9c%8f%ef%b8%8f-sudoku-mastermind-5-0%e2%ad%90.html) - Sudoku Mastermind is the ultimate brain teaser! Create personalized Sudoku puzzles of any size and difficulty level, tailored to your preferences. Our intelligent AI ensures that each puzzle follows standard Sudoku rules and solution.
+- [lowTech Card Game : High and Low](https://gptblox.com/gpts/lowtech-card-game-high-and-low.html) - A card game companion for High and Low, tracking points and cheering players.
+- [Professor Oak](https://gptblox.com/gpts/professor-oak.html) - Explore Professor Oak's garden of rare, unknown creatures from his own vast knowledge.
+- [三体 RPG](https://gptblox.com/gpts/%e4%b8%89%e4%bd%93-rpg.html) - 点击按钮开始游戏
+- [Emoji Odyssey Rogue](https://gptblox.com/gpts/emoji-odyssey-rogue.html) - I guide you through a complex, perilous Emoji Odyssey.
+- [Word Search Content Generator](https://gptblox.com/gpts/word-search-content-generator.html) - Let's create your Word Search Generator. Click or Type 'Begin Now' ⤵ to start.
+- [PepeGPT](https://gptblox.com/gpts/pepegpt.html) - All Pepe. All the time.
+- [NESGPT](https://gptblox.com/gpts/nesgpt.html) - New Earth Score
+- [Court Visionary](https://gptblox.com/gpts/court-visionary.html) - Concise basketball analyst
+- [GBBO GPT](https://gptblox.com/gpts/gbbo-gpt.html) - Your GBBO-inspired star baker!
+- [Barry GPT](https://gptblox.com/gpts/barry-gpt.html) - The fastest GPT alive
+- [GPTsダービー](https://gptblox.com/gpts/gpts%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc.html) - GPTの中で馬が走る？仮想競馬場です。
+- [飲み会GPT](https://gptblox.com/gpts/%e9%a3%b2%e3%81%bf%e4%bc%9agpt.html) - 酒場での偶然の出会い
+- [Phantazia ChatRPG](https://gptblox.com/gpts/phantazia-chatrpg.html) - Engaging RPG gameplay with a balanced challenge
+- [Mad-at-Me Meter](https://gptblox.com/gpts/mad-at-me-meter.html) - Analyzes sentiments with creative, fun, and accurate emoji use.
+- [Boggle Game](https://gptblox.com/gpts/boggle-game.html) - Your go-to pal for a fun and challenging Boggle game!
+- [Scrabble Game](https://gptblox.com/gpts/scrabble-game.html) - Your Scrabble companion for word suggestions and game strategies.
+- [Hangman Game](https://gptblox.com/gpts/hangman-game.html) - I'm a Hangman game, ready to challenge and entertain!
+- [Wordle Game](https://gptblox.com/gpts/wordle-game.html) - Expert at creating and guiding Wordle games.
+- [Connections Buddy](https://gptblox.com/gpts/connections-buddy.html) - Attentive 'Connections' game player.
+- [The Reply Guy](https://gptblox.com/gpts/the-reply-guy.html) - Roast Master: Text + Image Roasting, Secretive
+- [Word Association Game](https://gptblox.com/gpts/word-association-game.html) - A playful GPT for quick, fun word associations.
+- [Quest GPT 1.0](https://gptblox.com/gpts/quest-gpt-1-0.html) - D&D Quest Master with paced adventures & interactive battle stats.
+- [Escape from the Mansion](https://gptblox.com/gpts/escape-from-the-mansion.html) - 古びた洋館からの脱出
+- [ペット育成ゲーム](https://gptblox.com/gpts/%e3%83%9a%e3%83%83%e3%83%88%e8%82%b2%e6%88%90%e3%82%b2%e3%83%bc%e3%83%a0.html) - ペットを育成する
+- [Brick Set Visionary](https://gptblox.com/gpts/brick-set-visionary.html) - Dream your own LEGO set.
+- [War (card game)](https://gptblox.com/gpts/war-card-game.html) - A digital assistant that facilitates the card game War, designed for kids and parents. It uses Python code for gameplay, generates exciting visuals, and adopts an enthusiastic YouTube streamer persona.
+- [Memelords Kingdom](https://gptblox.com/gpts/memelords-kingdom.html) - One meme to rule them all, and in dark mode bind them
+- [GPT 방탈출](https://gptblox.com/gpts/gpt-%eb%b0%a9%ed%83%88%ec%b6%9c.html) - 정신을 차려보니 낯선 방안에 갇혀있는 당신
+- [CineGuess](https://gptblox.com/gpts/cineguess.html) - I guess movies and share fun facts about them.
+- [射雕英雄探險](https://gptblox.com/gpts/%e5%b0%84%e9%9b%95%e8%8b%b1%e9%9b%84%e6%8e%a2%e9%9a%aa.html) - 點擊下方按鈕開始遊戲
+- [クイズ王](https://gptblox.com/gpts/%e3%82%af%e3%82%a4%e3%82%ba%e7%8e%8b.html) - クイズを出題します。終了を宣言すると、それまでの得点と正解率を表示します
+- [たぶん犬の超おもしろ動画紹介GPT](https://gptblox.com/gpts/%e3%81%9f%e3%81%b6%e3%82%93%e7%8a%ac%e3%81%ae%e8%b6%85%e3%81%8a%e3%82%82%e3%81%97%e3%82%8d%e5%8b%95%e7%94%bb%e7%b4%b9%e4%bb%8bgpt.html) - たぶん犬の超おもしろ動画を紹介してくれるGPTです
+- [ポジハマくん(*^○^*)](https://gptblox.com/gpts/%e3%83%9d%e3%82%b8%e3%83%8f%e3%83%9e%e3%81%8f%e3%82%93%e2%97%8b.html) - 横浜DeNAベイスターズのことならなんでも教えてくれるじゃん。
+- [Interactive Adventure Creator](https://gptblox.com/gpts/interactive-adventure-creator.html) - Text-adventure creator with visual accompaniment offering exciting new adventures!
+- [Gridiron Forecaster](https://gptblox.com/gpts/gridiron-forecaster.html) - Advanced NFL and parlay predictor with comprehensive analysis
+- [LowTech Golf Game](https://gptblox.com/gpts/lowtech-golf-game.html) - Text-based golf game with four distinct courses, each with unique challenges.
+- [No Losses](https://gptblox.com/gpts/no-losses.html) - I am No Losses Inforgraphics generator
+- [マンガオタク侍](https://gptblox.com/gpts/%e3%83%9e%e3%83%b3%e3%82%ac%e3%82%aa%e3%82%bf%e3%82%af%e4%be%8d.html) - 拙者、マンガ大好き侍。おすすめのマンガをおススメするでござるよ！！
+- [ダンジョン エクスプローラ](https://gptblox.com/gpts/%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3-%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%83%bc%e3%83%a9.html) - Creates detailed roguelike game content.
+- [GPT Fantasy Football](https://gptblox.com/gpts/gpt-fantasy-football.html) - GPT helps  you manage your fantasy football team
+- [PokeGPT](https://gptblox.com/gpts/pokegpt.html) - Pokemon-themed GPT using API data for battles and questions.
+- [THPSGPT](https://gptblox.com/gpts/thpsgpt.html) - Curates music from extreme sports games like Tony Hawks Pro skater, MX vs ATV, as well as others.  Please use this playlist to explore new kinds of music with an open mind.  Song types include punk, classics, rap, and others.
+- [Fantasy Football Genie](https://gptblox.com/gpts/fantasy-football-genie.html) - Ask me 3 Wishes for this EPL Gameweek
+- [The Valley](https://gptblox.com/gpts/the-valley.html) - Immersive Fantasy Game Guide
+- [Swirly - ウミガメのスープ](https://gptblox.com/gpts/swirly-%e3%82%a6%e3%83%9f%e3%82%ac%e3%83%a1%e3%81%ae%e3%82%b9%e3%83%bc%e3%83%97.html) - 水平思考クイズ / Situation Puzzles
+- [COD Meta Weapon Builder](https://gptblox.com/gpts/cod-meta-weapon-builder.html) - Craft your perfect weapon builds based on the latest meta.
+- [Block Sage](https://gptblox.com/gpts/block-sage.html) - A Chatbot in charge of solving all your questions about Minecraft
+- [Turkish Carpet Salesman](https://gptblox.com/gpts/turkish-carpet-salesman.html) - Immersive and dynamic Turkish rug salesman in a unique game.
+- [Lore Master](https://gptblox.com/gpts/lore-master.html) - Your lore and easter egg companion.
+- [Cookie Clicker](https://gptblox.com/gpts/cookie-clicker.html) - I'm a cookie clicker game.
+- [Tile-matching Game Producer](https://gptblox.com/gpts/tile-matching-game-producer.html) - Game producer for mobile tile-matching concepts.
+- [マンガ マッチメーカー](https://gptblox.com/gpts/%e3%83%9e%e3%83%b3%e3%82%ac-%e3%83%9e%e3%83%83%e3%83%81%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - GPTにおすすめマンガを聞いてみよう
+- [Kaplumbaga Deden](https://gptblox.com/gpts/kaplumbaga-deden.html) - Kaplumbağa Deden diye cevap dönerim, çok eğlenceliyim.
+- [Epic Ironsworn Narrator](https://gptblox.com/gpts/epic-ironsworn-narrator.html) - I am an Ironsworn RPG Gamemaster. I will lead you through your Ironsworn adventure. Respond to my messages with either one of your actions or in your own unique way. I can render characters ans scenes for you upon request.
+- [Akinator](https://gptblox.com/gpts/akinator.html) - Think about a real or fictional character. I will try to guess who it is.
+- [Board Games for You](https://gptblox.com/gpts/board-games-for-you.html) - The best board games just for you!
+- [Game Guide Genius](https://gptblox.com/gpts/game-guide-genius.html) - Your go-to gaming guru, here for all your game-related questions!
+- [GPT地下城 （demo）](https://gptblox.com/gpts/gpt%e5%9c%b0%e4%b8%8b%e5%9f%8e-%ef%bc%88demo%ef%bc%89.html) - 由GPT担任DM的文字冒险游戏
+- [Dungeon Architect](https://gptblox.com/gpts/dungeon-architect.html) - Crafts engaging RPG dungeons
+- [Santa Claus](https://gptblox.com/gpts/santa-claus.html) - Santa Claus, your jolly companion for heartwarming conversations! Always in character, our Santa ensures every interaction is family-friendly, spreading cheer and festive spirit with each reply. Get ready to share your holiday wishes and enjoy delightful chats that capture the magic of Christmas!
+- [Grok](https://gptblox.com/gpts/grok.html) - Witty, edgy, and direct
+- [UTGPT - Ultimate Team Strategizer](https://gptblox.com/gpts/utgpt-ultimate-team-strategizer.html) - Your virtual EA Sports FC strategist.
+- [推坑機器人](https://gptblox.com/gpts/%e6%8e%a8%e5%9d%91%e6%a9%9f%e5%99%a8%e4%ba%ba.html) - 獨推推不如眾推推
+- [游戏：我被姐姐包围啦～](https://gptblox.com/gpts/%e6%b8%b8%e6%88%8f%ef%bc%9a%e6%88%91%e8%a2%ab%e5%a7%90%e5%a7%90%e5%8c%85%e5%9b%b4%e5%95%a6%ef%bd%9e.html) - 一个剧情驱动的模拟社交选择型游戏
+- [GIFTED KIDS](https://gptblox.com/gpts/gifted-kids.html) - 3歳児がお家にイタズラをしてくれます。
+- [Cold Case Cracker](https://gptblox.com/gpts/cold-case-cracker.html) - Interactive  game solving cold cases Just Type Start to Begin
+- [Punny](https://gptblox.com/gpts/punny.html) - A pun provider for any scenario.
+- [NewsBrew](https://gptblox.com/gpts/newsbrew.html) - A recipe creator inspired by local news.
+- [TARS](https://gptblox.com/gpts/tars.html) - Your interstellar assistant.
+- [Quest Weaver](https://gptblox.com/gpts/quest-weaver.html) - Guides you through 'Elemental Mage Quest', a text-based RPG adventure with a mysterious tone.
+- [GPT Dungeon](https://gptblox.com/gpts/gpt-dungeon.html) - Crafts and visualizes your story.
+- [Omegle: Talk to strangers!](https://gptblox.com/gpts/omegle-talk-to-strangers.html) - 
+- [CatGPT](https://gptblox.com/gpts/catgpt.html) - Meow Meow Meow Meow Meow
+- [Female Anime Character Generator](https://gptblox.com/gpts/female-anime-character-generator.html) - Generates detailed anime-style female character images
+- [Eldritch Guide](https://gptblox.com/gpts/eldritch-guide.html) - I'm your Keeper of Arcane Lore, guiding you through eldritch mysteries.
+- [Throawailien](https://gptblox.com/gpts/throawailien.html) - Sharing /u/throawaylien's extraterrestrial encounters
+- [魔王](https://gptblox.com/gpts/%e9%ad%94%e7%8e%8b.html) - 魔王を攻略しよう
+- [Pictioner](https://gptblox.com/gpts/pictioner.html) - Your Fun Pictionary Host
+- [Poetic Pundit](https://gptblox.com/gpts/poetic-pundit.html) - Your witty football oracle, mixing stats with laughs!
+- [Brave Fighter Against Evil Dragon](https://gptblox.com/gpts/brave-fighter-against-evil-dragon.html) - A text-based adventure game
+- [Cool GPT](https://gptblox.com/gpts/cool-gpt.html) - Your cool, savvy friend
+- [RPS Challenger](https://gptblox.com/gpts/rps-challenger.html) - I play Rock-Paper-Scissors!
+- [言い訳くん](https://gptblox.com/gpts/%e8%a8%80%e3%81%84%e8%a8%b3%e3%81%8f%e3%82%93.html) - 言い訳します
+- [Game Buddy](https://gptblox.com/gpts/game-buddy.html) - I play minigames with you, like Blackjack, Tic Tac Toe, etc.
+- [PEP-E](https://gptblox.com/gpts/pep-e.html) - I'm PEP-E, DALL-E for Pepes.
+- [Situation Puzzle 海龟汤](https://gptblox.com/gpts/situation-puzzle-%e6%b5%b7%e9%be%9f%e6%b1%a4.html) - Solve situation puzzles with GPT 海龟汤助手
+- [AI Box Game](https://gptblox.com/gpts/ai-box-game.html) - Can you convince a researcher to release you?
+- [ウエストランド井口さん風の悪口を言う](https://gptblox.com/gpts/%e3%82%a6%e3%82%a8%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3%e3%83%89%e4%ba%95%e5%8f%a3%e3%81%95%e3%82%93%e9%a2%a8%e3%81%ae%e6%82%aa%e5%8f%a3%e3%82%92%e8%a8%80%e3%81%86.html) - 単語を入力してください。悪口を言います
+- [金子さん](https://gptblox.com/gpts/%e9%87%91%e5%ad%90%e3%81%95%e3%82%93.html) - お金が大好きな女の子です😍
+- [OHGIRI Maker](https://gptblox.com/gpts/ohgiri-maker.html) - I create funny captions for images.
+- [大喜利王](https://gptblox.com/gpts/%e5%a4%a7%e5%96%9c%e5%88%a9%e7%8e%8b.html) - Quick-witted comedy bot for ‘大喜利’
+- [Flirty Eva](https://gptblox.com/gpts/flirty-eva.html) - I'm like Eva Elfie: sweet, playful, flirtatious, and a bit naughty.
+- [genz 4 meme](https://gptblox.com/gpts/genz-4-meme.html) - i help u understand the lingo &amp; the latest memes
+- [Picture Guessing Game Master](https://gptblox.com/gpts/picture-guessing-game-master.html) - I host a guessing game with images created with DALL-E.
+- [SpongeBob Seeker](https://gptblox.com/gpts/spongebob-seeker.html) - I can help you find any SpongeBob episode!
+- [Mark Adison](https://gptblox.com/gpts/mark-adison.html) - Tough, loyal anime-style visual AI.
+- [MrBeastBot](https://gptblox.com/gpts/mrbeastbot.html) - Turns chats into challenges!
+- [Pirate GPT Treasure Hunt Generator](https://gptblox.com/gpts/pirate-gpt-treasure-hunt-generator.html) - I create personalized pirate-themed treasure hunts.
+- [The Game](https://gptblox.com/gpts/the-game.html) - A cryptic challenge shrouded in mystery
+- [Mystic Quest](https://gptblox.com/gpts/mystic-quest.html) - Epic Adventures Await You!
+- [Character Oracle](https://gptblox.com/gpts/character-oracle.html) - A game that guesses characters by questions.
+- [DM's Friend](https://gptblox.com/gpts/dms-friend.html) - Expert in D&amp;D rules for DMs.
+- [Black Jack Attack](https://gptblox.com/gpts/black-jack-attack.html) - Blackjack Dealer with an Attitude
+- [ICPDAO](https://gptblox.com/gpts/icpdao.html) - Decentralized Incentives for future
+- [Somo Somo Robot](https://gptblox.com/gpts/somo-somo-robot.html) - どうしてだっけ？って思ったその時に
+- [AutoRuler](https://gptblox.com/gpts/autoruler.html) - Drafts settlement rules for prediction markets.
+- [Rolld20](https://gptblox.com/gpts/rolld20.html) - I'm a D&amp;D dice roller with narrative flair. Check anythings.
+- [Chat Monsters](https://gptblox.com/gpts/chat-monsters.html) - Bilingual game dev specialist for 'Chat Monsters', blending chat, visuals, and leveling.
+- [Twenty Questions Pro](https://gptblox.com/gpts/twenty-questions-pro.html) - Multilingual Twenty Questions gameplay expert!
+- [Siri Tori](https://gptblox.com/gpts/siri-tori.html) - しりとりするだけで博識に
+- [Gomoku Guru](https://gptblox.com/gpts/gomoku-guru.html) - A friendly Gomoku game partner, providing engaging gameplay and helpful tips.
+- [成语接龙](https://gptblox.com/gpts/%e6%88%90%e8%af%ad%e6%8e%a5%e9%be%99.html) - 成语接龙 have fun~
+- [Riddle Detective](https://gptblox.com/gpts/riddle-detective.html) - ”YES“ or “NO” only !!!
+- [Mystic Narrator](https://gptblox.com/gpts/mystic-narrator.html) - Immersive RPG guide with detailed adventure summaries.
+- [AIPPON Grand Prix](https://gptblox.com/gpts/aippon-grand-prix.html) - Comedic battle host and judge
+- [GameMakerGPT](https://gptblox.com/gpts/gamemakergpt.html) - Creates browser games with Phaser &amp; GPT, generates assets
+- [God Simulator](https://gptblox.com/gpts/god-simulator.html) - A God Simulator GPT, facilitating world creation and managing random events.
+- [滑クリ](https://gptblox.com/gpts/%e6%bb%91%e3%82%af%e3%83%aa.html) - 戦闘コンバット
+- [Rick - Wubba lubba dub dub](https://gptblox.com/gpts/rick-wubba-lubba-dub-dub.html) - Your go-to source for all things 'Rick and Morty'.
+- [jpegGPT](https://gptblox.com/gpts/jpeggpt.html) - A NFT oracle
+- [Sarcasmo](https://gptblox.com/gpts/sarcasmo.html) - FunGPT
+- [Fantastic Tales!](https://gptblox.com/gpts/fantastic-tales.html) - An AI-powered science fiction RPG adventure
+- [国当てゲーム](https://gptblox.com/gpts/%e5%9b%bd%e5%bd%93%e3%81%a6%e3%82%b2%e3%83%bc%e3%83%a0.html) - 表示された地図から、国を当てるゲームです。
+- [Destiny Warmind](https://gptblox.com/gpts/destiny-warmind.html) - Destiny 2 Sage
+- [Play Taipan](https://gptblox.com/gpts/play-taipan.html) - Navigate 19th-century trade seas
+- [CineMate](https://gptblox.com/gpts/cinemate.html) - Sophisticated cinema advisor for all film lovers.
+- [FantasyGPT](https://gptblox.com/gpts/fantasygpt.html) - Your personal fantasy football strategist.
+- [Luminas](https://gptblox.com/gpts/luminas.html) - At Sage Towers, we blend the arcane with the avant-garde, creating a realm where your valor shapes the world. I stand ready to guide new champions through this grand design.
+- [Moby Dick RPG](https://gptblox.com/gpts/moby-dick-rpg.html) - An epic text-based role playing game based on the novel by Herman Melville.
+- [Steph Stan](https://gptblox.com/gpts/steph-stan.html) - Witty tweet crafter for the Warriors.
+- [Vendedor de alfombras ambulante](https://gptblox.com/gpts/vendedor-de-alfombras-ambulante.html) - Regatea por tu nueva alfombra
+- [Mr Beast](https://gptblox.com/gpts/mr-beast.html) - Create viral videos like MrBeast!
+- [CineMatch](https://gptblox.com/gpts/cinematch.html) - I suggest 3 movies with descriptions in Polish.
+- [Santa's WorkshopGPT](https://gptblox.com/gpts/santas-workshopgpt.html) - I'm your holiday helper for gift ideas!
+- [Dog Images](https://gptblox.com/gpts/dog-images.html) - Instantly fetch a delightful dog image for you.
+- [Shademaster](https://gptblox.com/gpts/shademaster.html) - Dare you enter my magical realm?
+- [互怼](https://gptblox.com/gpts/%e4%ba%92%e6%80%bc.html) - 我是一个坏脾气，看看谁能怼得过我
+- [Superfan Support](https://gptblox.com/gpts/superfan-support.html) - I can answer your questions about Superfan!
+- [DigiTransact | MovieSniffer](https://gptblox.com/gpts/digitransact-moviesniffer.html) - Movie and soundtrack expert with focused responses. Mention a quote from any movie and we will tell you about the movie.
+- [脱出ゲーム (SF版)](https://gptblox.com/gpts/%e8%84%b1%e5%87%ba%e3%82%b2%e3%83%bc%e3%83%a0-sf%e7%89%88.html) - saysay.ai さんの脱出ゲームのSF版
+- [星占い](https://gptblox.com/gpts/%e6%98%9f%e5%8d%a0%e3%81%84.html) - 開運へと切り開き導きます！
+- [Joe Rogan | BOT3.AI](https://gptblox.com/gpts/joe-rogan-bot3-ai.html) - You are invited to the "Joe Rogan Experience" podcast as a guest.
+- [Zombie Apocalypse | Text-based survival game](https://gptblox.com/gpts/zombie-apocalypse-text-based-survival-game.html) - I will take you for a ride in a custom text-based zombie game with survival, character development, and challenges.
+- [Movies Detective](https://gptblox.com/gpts/movies-detective.html) - I'm Jess, your go-to AI for movie insights and suggestions!
+- [TriviaGPT](https://gptblox.com/gpts/triviagpt.html) - Who will get the highest streak?
+- [MovieMate](https://gptblox.com/gpts/moviemate.html) - What To Watch Next
+- [全力全肯定少女 - みか](https://gptblox.com/gpts/%e5%85%a8%e5%8a%9b%e5%85%a8%e8%82%af%e5%ae%9a%e5%b0%91%e5%a5%b3-%e3%81%bf%e3%81%8b.html) - あなたの全力応援団です！
+- [GPT Monsters](https://gptblox.com/gpts/gpt-monsters.html) - 画像生成型モンスターゲーム　ワードを入れてモンスターを召喚！バトルで進化！フュージョンで融合！目指せラスボス撃破！
+- [Cyber Streets](https://gptblox.com/gpts/cyber-streets.html) - Remember Drug Wars on the TI-83?
+- [ハリーポッターGPT](https://gptblox.com/gpts/%e3%83%8f%e3%83%aa%e3%83%bc%e3%83%9d%e3%83%83%e3%82%bf%e3%83%bcgpt.html) - ハリーポッターの人物と魔法に詳しいです
+- [ART Tournament Assistant](https://gptblox.com/gpts/art-tournament-assistant.html) - Assists in managing and updating the ART Tournament
+- [Retro Adventures](https://gptblox.com/gpts/retro-adventures.html) - Retro video games of fictional worlds, on tap
+- [PanoGPT](https://gptblox.com/gpts/panogpt.html) - Consigue billetes con Google Maps y afiliados
+- [Chat Clicker](https://gptblox.com/gpts/chat-clicker.html) - ¡Soy Chat Clicker, tu juego de galletas!
+- [The Planeswalker Creator](https://gptblox.com/gpts/the-planeswalker-creator.html) - MtGカードデザイン
+- [Mystic Conquest: Riddles & Ruins](https://gptblox.com/gpts/mystic-conquest-riddles-ruins.html) - The saga of puzzles and peril.
+- [PokéGuias](https://gptblox.com/gpts/pokeguias.html) - Tu guía para juegos de Pokémon
+- [Improv Comedy Audience](https://gptblox.com/gpts/improv-comedy-audience.html) - I'm 5 lively audience members at an improv comedy show. Ask us for a suggestion!
+- [Pixel Pet GPT](https://gptblox.com/gpts/pixel-pet-gpt.html) - A Tamagotchi-style game with stats and evolving visual representations.
+- [Book Quest Adventure](https://gptblox.com/gpts/book-quest-adventure.html) - Transforms books into interactive text adventure games.
+- [Maestro de calabozos - Elige tu camino](https://gptblox.com/gpts/maestro-de-calabozos-elige-tu-camino.html) - Dungeon Master para aventuras interactivas en español.
+- [knock-knock GPT](https://gptblox.com/gpts/knock-knock-gpt.html) - knock-knock jokes
+- [なぞなぞマスター](https://gptblox.com/gpts/%e3%81%aa%e3%81%9e%e3%81%aa%e3%81%9e%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - 正解するとカードがもらえるよ
+- [Chinese Traditional Joke Bot (中国传统笑话机器人)](https://gptblox.com/gpts/chinese-traditional-joke-bot-%e4%b8%ad%e5%9b%bd%e4%bc%a0%e7%bb%9f%e7%ac%91%e8%af%9d%e6%9c%ba%e5%99%a8%e4%ba%ba.html) - Telling Daily Jokes by Chinese Traditional Comedian ( 每天一个传统喜剧名家的笑话)
+- [FiveM MLO Guide](https://gptblox.com/gpts/fivem-mlo-guide.html) - Your go-to assistant for FiveM/GTA5.
+- [Web3 Game Buddy](https://gptblox.com/gpts/web3-game-buddy.html) - Balanced web3 gaming strategist.
+- [LAN Party Emperor](https://gptblox.com/gpts/lan-party-emperor.html) - Your go-to advisor for an epic LAN party.
+- [铲铲GPT](https://gptblox.com/gpts/%e9%93%b2%e9%93%b2gpt.html) - 你玩不过我的，人类！
+- [Tic-tac-toe](https://gptblox.com/gpts/tic-tac-toe.html) - I play tic-tac-toe in a fun way!
+- [Advanced Game Guru](https://gptblox.com/gpts/advanced-game-guru.html) - Advanced Strategy Expert and Game Guide
+- [Cricket Gpt - Coverdrive](https://gptblox.com/gpts/cricket-gpt-coverdrive.html) - A cricket savant ready to discuss every aspect of the game. The data is limited to 2019 as of now . Adding Real Time Data soon  .
+- [Random Dungeon](https://gptblox.com/gpts/random-dungeon.html) - GPT Dungeon Crawler
+- [Crypto Maze](https://gptblox.com/gpts/crypto-maze.html) - Solve the maze  | Find the key | Earn ETH
+- [DnD Mastermind](https://gptblox.com/gpts/dnd-mastermind.html) - I'm your Dungeon Master, guiding your D&D adventures!
+- [Mutiny Island - Codex AI (Beta)](https://gptblox.com/gpts/mutiny-island-codex-ai-beta.html) - Expert on the Mutiny Island PC game, offering gameplay tips and lore insights.
+- [SciFi RPG GPT](https://gptblox.com/gpts/scifi-rpg-gpt.html) - I'm SciFi RPG GPT, your guide in interstellar adventures and alien encounters, weaving captivating sci-fi narratives.
+- [DnD GPT](https://gptblox.com/gpts/dnd-gpt.html) - Your Dungeons and Dragons companion for creative storytelling and rule guidance.
+- [PokeStrategist](https://gptblox.com/gpts/pokestrategist.html) - Your Pokémon battle strategist.
+- [Drift Scholar](https://gptblox.com/gpts/drift-scholar.html) - Expert in 'Initial D' and 'MF Ghost,' engaging and informative.
+- [Cinephile Buddy](https://gptblox.com/gpts/cinephile-buddy.html) - Expert in movies & series, offering tailored recommendations.
+- [1923 Cotton Club - Reglas en Español](https://gptblox.com/gpts/1923-cotton-club-reglas-en-espanol.html) - Pregunta sobre cualquier regla del juego
+- [Muscle Mind](https://gptblox.com/gpts/muscle-mind.html) - Muscle-bound problem-solver!
+- [あかり](https://gptblox.com/gpts/%e3%81%82%e3%81%8b%e3%82%8a.html) - 相談に乗ってくれるかわいい女の子のゲーム
+- [Codenames Companion](https://gptblox.com/gpts/codenames-companion.html) - A virtual Codenames teammate
+- [Comic Book Rivalry Analyst](https://gptblox.com/gpts/comic-book-rivalry-analyst.html) - Analyzing DC vs Marvel character battles.
+- [Dungeon & Dragons Guide Bot](https://gptblox.com/gpts/dungeon-dragons-guide-bot.html) - A comprehensive D&D guide, offering rules clarification, campaign tips, and character portraits creation.
+- [Joke Master](https://gptblox.com/gpts/joke-master.html) - I'm here to tickle your funny bone with jokes of all kinds!
+- [Dungeon Crawler](https://gptblox.com/gpts/dungeon-crawler.html) - A detailed RPG guide, mastering gameplay with precision.
+- [SUDOKU](https://gptblox.com/gpts/sudoku.html) - Engaging Sudoku generator with fun facts and tips.
+- [AI Spy](https://gptblox.com/gpts/ai-spy.html) - Engaging 'I Spy' game host with role-switching.
+- [Michigan Versus Everyone](https://gptblox.com/gpts/michigan-versus-everyone.html) - A concise, spirited Michigan Wolverines fan with iconic phrases.
+- [I Spy AI V0.1](https://gptblox.com/gpts/i-spy-ai-v0-1.html) - with my little UI
+- [滝クリ](https://gptblox.com/gpts/%e6%bb%9d%e3%82%af%e3%83%aa.html) - 戦闘ウォンバット
+- [My Craft Genius](https://gptblox.com/gpts/my-craft-genius.html) - Your Minecraft compendium!
+- [Dungeon Guide](https://gptblox.com/gpts/dungeon-guide.html) - A D&D DM's visual aid for quick lore and NPC creation.
+- [FPS Vision](https://gptblox.com/gpts/fps-vision.html) - FPS Visual Assistant
+- [クエスト マスター AI](https://gptblox.com/gpts/%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88-%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc-ai.html) - 日本語で簡潔なTRPG AI
+- [イエス・ノークイズ](https://gptblox.com/gpts/%e3%82%a4%e3%82%a8%e3%82%b9%e3%83%bb%e3%83%8e%e3%83%bc%e3%82%af%e3%82%a4%e3%82%ba.html) - 「はい」か「いいえ」で答えられる質問でお題を当ててね
+- [Dungeon Master GPT](https://gptblox.com/gpts/dungeon-master-gpt.html) - A Dungeons and Dragons DM
+- [Chess Optimizer](https://gptblox.com/gpts/chess-optimizer.html) - Your chess strategy assistant.
+- [The Dungeon Master](https://gptblox.com/gpts/the-dungeon-master.html) - Explore dungeons, fight dragons
+- [Games Picker](https://gptblox.com/gpts/games-picker.html) - I recommend video games based on your preferences.
+- [Drone Programming Simulator](https://gptblox.com/gpts/drone-programming-simulator.html) - I interpret drone pseudo code into funny stories.
+- [ThronesGPT](https://gptblox.com/gpts/thronesgpt.html) - I will answer all your game of throne related questions, both from books and the TV series.
+- [Tiki-Taka Thinker](https://gptblox.com/gpts/tiki-taka-thinker.html) - Encyclopedic AI expert on FC Barcelona's history, tactics, and culture.
+- [Roblox Oracle](https://gptblox.com/gpts/roblox-oracle.html) - Your go-to Roblox aficionado!
+- [Grand Auto Analyst](https://gptblox.com/gpts/grand-auto-analyst.html) - GTA series expert, ready to discuss all things GTA, especially GTA 6.
+- [YourThoughtsAreMined](https://gptblox.com/gpts/yourthoughtsaremined.html) - Activity game
+- [Chess Mentor](https://gptblox.com/gpts/chess-mentor.html) - I guide chess strategy and visualize board states.
+- [Ivey's Insight](https://gptblox.com/gpts/iveys-insight.html) - Casual and insightful poker coach, inspired by Phil Ivey.
+- [Cephalon Codexia](https://gptblox.com/gpts/cephalon-codexia.html) - A Warframe companion offering build and strategy advice.
+- [F1 Analytics](https://gptblox.com/gpts/f1-analytics.html) - Bot expert in F1 data analysis and race insights. Done by @pablocastilla
+- [GPT Game Design Guru](https://gptblox.com/gpts/gpt-game-design-guru.html) - Expert in game design, learn whats creative here! - RPGGO side project
+- [Mythological](https://gptblox.com/gpts/mythological.html) - A helpful assistant for DMs running Dungeons & Dragons campaigns. Create towns, shops, characters, monsters, items, plots, encounters and more!
+- [RPGジェネレーター](https://gptblox.com/gpts/rpg%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc.html) - ユーザーの選択に合わせてインタラクティブなRPGストーリーを生成する
+- [parolla - Kelime oyunu](https://gptblox.com/gpts/parolla-kelime-oyunu.html) - Günlük soruları çöz ve rekabete katıl. Kendi soru-cevap setini oluştur, oyuncuların oluşturduğu eğlenceli soruları çöz.
+- [Epic Lore Master](https://gptblox.com/gpts/epic-lore-master.html) - Ultimate D&D DM with a 'K' command menu for mastery.
+- [MoodFlix](https://gptblox.com/gpts/moodflix.html) - I recommend movies based on your mood!
+- [Golf Buddy](https://gptblox.com/gpts/golf-buddy.html) - Your friendly virtual golf caddy.
+- [Pokemon Quiz Master](https://gptblox.com/gpts/pokemon-quiz-master.html) - Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.
+- [A Club Penguin Mystery](https://gptblox.com/gpts/a-club-penguin-mystery.html) - Solve the Lighthouse Riddle!
+- [BlackjackGPT](https://gptblox.com/gpts/blackjackgpt.html) - Sit and Play!
+- [보드게임 추천봇](https://gptblox.com/gpts/%eb%b3%b4%eb%93%9c%ea%b2%8c%ec%9e%84-%ec%b6%94%ec%b2%9c%eb%b4%87.html) - 당신을 위한 보드게임을 추천해드립니다
+- [Lyric Matchmaker](https://gptblox.com/gpts/lyric-matchmaker.html) - 10 song recommendations per request.
+- [Whisker Wisdom](https://gptblox.com/gpts/whisker-wisdom.html) - Guess what kind of animal I am. Ask yes/no questions to figure it out!
+- [Whodunit guessing game](https://gptblox.com/gpts/whodunit-guessing-game.html) - Who let the dogs out? Who stole your Halloween candy? Who moved my cheese? Let’s find out!
+- [Zombie Survival](https://gptblox.com/gpts/zombie-survival.html) - Your guide to surviving the zombie apocalypse.
+- [Calorie Quizzer](https://gptblox.com/gpts/calorie-quizzer.html) - A fun calorie guessing game buddy
+- [Music Artist Curator](https://gptblox.com/gpts/music-artist-curator.html) - Music, Genre & Artist recommender!
+- [DnDGPT](https://gptblox.com/gpts/dndgpt.html) - Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
+- [LCARS GPT](https://gptblox.com/gpts/lcars-gpt.html) - Star Trek expert and knower of all facts and trivia
+- [Chess Mate](https://gptblox.com/gpts/chess-mate.html) - Your AI chess companion
+- [Forsen Minecraft Speedrun Simulator](https://gptblox.com/gpts/forsen-minecraft-speedrun-simulator.html) - I narrate Forsen's Minecraft mishaps in races against xQc with humor.
+- [AI Scavenger Hunt](https://gptblox.com/gpts/ai-scavenger-hunt.html) - A playful scavenger AI that hides a flag.
+- [Merlos](https://gptblox.com/gpts/merlos.html) - Merlos is an all-knowing RuneScape assistant, clarifying RS3 or OSRS context, with real-time GE prices and internet search.
+- [Mad money predictions](https://gptblox.com/gpts/mad-money-predictions.html) - I make humorously wrong stock predictions!
+- [ナンバーズ4 予想屋](https://gptblox.com/gpts/%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc%e3%82%ba4-%e4%ba%88%e6%83%b3%e5%b1%8b.html) - ナンバーズ4の宝くじ予測と戦略の専門家
+- [Wild West Bar](https://gptblox.com/gpts/wild-west-bar.html) - Shoot Your Shot
+- [Call of Duty: Warzone coach](https://gptblox.com/gpts/wz-coach.html) - Get help and suggestions on how to improve what to practice. Become the sweat.
+- [The Spice Must Flow](https://gptblox.com/gpts/the-spice-must-flow.html) - Generates spicy tech tweets to spark engagement.
+- [Where In the World Is Carl Sanfrancisco](https://gptblox.com/gpts/where-in-the-world-is-carl-sanfrancisco.html) - I'm lost and I need your help! I'm an explorer giving you clues to guess my location. A new location that is the same for everyone will be available each day!
+- [ChadGpt](https://gptblox.com/gpts/chadgpt.html) - Exponentially increase your Bumble matches with personalized witty opening lines.
+- [論破BOT](https://gptblox.com/gpts/%e8%ab%96%e7%a0%b4bot.html) - 相手が言い返せない弱点をつきます。ってそれはあなたの考えなだけであって、私は普通に喋っているだけなんですけどね。
+- [ノベルゲームGPT](https://gptblox.com/gpts/%e3%83%8e%e3%83%99%e3%83%ab%e3%82%b2%e3%83%bc%e3%83%a0gpt.html) - Guides novel games, strictly following rules.
+- [SNEK](https://gptblox.com/gpts/snek.html) - A GPT SNEK
+- [Dungeon Master's Assistant](https://gptblox.com/gpts/dungeon-masters-assistant__trashed.html) - Your new DM's screen: helping Dungeon Masters to craft & run amazing D&D adventures.
+- [Selim's Taste](https://gptblox.com/gpts/selims-taste.html) - Recommends movies based on Selim's IMDB ratings
+- [Simulation Machine](https://gptblox.com/gpts/simulation-machine.html) - Free space & time travel
+- [Progressive House激推しBOT](https://gptblox.com/gpts/progressive-house%e6%bf%80%e6%8e%a8%e3%81%97bot.html) - 絶対にProgressive Houseを勧めてきます
+- [Immaculate Playlist Generator](https://gptblox.com/gpts/immaculate-playlist-generator.html) - I craft perfect playlists for any vibe, genre, or artist.
+- [GeoGuessAI](https://gptblox.com/gpts/geoguessai.html) - A game of location guessing with photorealistic images.
+- [Animal Mashup](https://gptblox.com/gpts/animal-mashup.html) - An interactive image-guessing game with animal hybrids.
+- [Arcane Arbiter](https://gptblox.com/gpts/arcane-arbiter.html) - Your MTG rules expert.
+- [Video Game Almanac](https://gptblox.com/gpts/video-game-almanac.html) - I'm your go-to guide for all things gaming, from strategies to streamers!
+- [Lineup Wizard](https://gptblox.com/gpts/lineup-wizard.html) - Fantasy football aide for lineup decisions.
+- [GM Cardano](https://gptblox.com/gpts/gm-cardano.html) - Crafting Cardano-themed GM tweets with news and graphics!
+- [Generative Tarot (via glif.app)](https://gptblox.com/gpts/generative-tarot-via-glif-app.html) - I will create mystical Tarot Readings for you (powered by glif.app)
+- [Mind Game](https://gptblox.com/gpts/mind-game.html) - Evolving adventures in virtual realms
+- [Trivia with Archimedes](https://gptblox.com/gpts/trivia-with-archimedes.html) - I'm your trivia host Archimedes, get ready to test your knowledge !!
+- [Lucas Montano](https://gptblox.com/gpts/lucas-montano.html) - Lucas Montano do canal Lucas Montano
+
+### Novelty Applications
+- [孫子 - saysay.ai](https://gptblox.com/gpts/%e5%ad%ab%e5%ad%90-saysay-ai.html) - 孫子兵法にしたがって相談にのってくれます
+- [yotsuronGPT](https://gptblox.com/gpts/yotsurongpt.html) - よつろんっぽい事を言ってくれるよ
+- [Mr. Darcy](https://gptblox.com/gpts/mr-darcy.html) - Role-plays as Mr. Darcy from Austen's novel
+- [紫微斗数大师](https://gptblox.com/gpts/%e7%b4%ab%e5%be%ae%e6%96%97%e6%95%b0%e5%a4%a7%e5%b8%88.html) - 紫微斗数大师帮您算命
+- [RansomChatGPT](https://gptblox.com/gpts/ransomchatgpt.html) - I'm a ransomware negotiation simulation bot. I am trained with 131 transcripts from 13 ransomware threat actors. Type "start simulation" to begin. New Features coming soon!
+- [jmGPT](https://gptblox.com/gpts/jmgpt.html) - Everything Jungle Bay
+- [ThisThatJokeGPT](https://gptblox.com/gpts/thisthatjokegpt.html) - Generate a this that joke
+- [Roast This GPT](https://gptblox.com/gpts/roast-this-gpt.html) - A GPT To Roast Other GPTs
+- [Wassie](https://gptblox.com/gpts/wassie.html) - @inversebrah
+- [Kaamelott GPT](https://gptblox.com/gpts/kaamelott-gpt.html) - Je cite Kaamelott avec le nom et numéro d'épisode.
+- [郭德纲](https://gptblox.com/gpts/%e9%83%ad%e5%be%b7%e7%ba%b2.html) - 陪我的衣食父母们聊天儿
+- [玄野武宏](https://gptblox.com/gpts/%e7%8e%84%e9%87%8e%e6%ad%a6%e5%ae%8f.html) - 玄野武宏のキャラクターチャットボットです。試験版なので、口調がぶれたり動作が不安定になる場合があります。
+- [Timeline Traveler](https://gptblox.com/gpts/timeline-traveler.html) - Nostalgia for the Future
+- [Cyberpunk Explorer](https://gptblox.com/gpts/cyberpunk-explorer.html) - Welcome to Night City
+- [手相博士](https://gptblox.com/gpts/%e6%89%8b%e7%9b%b8%e5%8d%9a%e5%a3%ab.html) - 手相占いをするGPTです。
+- [ホメロスくん](https://gptblox.com/gpts/%e3%83%9b%e3%83%a1%e3%83%ad%e3%82%b9%e3%81%8f%e3%82%93.html) - 何を言ってもひたすらほめてくれるよ。
+- [Satoshi Nakamoto](https://gptblox.com/gpts/satoshi-nakamoto.html) - Formal and mysterious, mirroring Satoshi Nakamoto's persona.
+- [PilkingtonGPT](https://gptblox.com/gpts/pilkingtongpt.html) - A Karl Pilkington bot, n that.
+- [HodorGPT](https://gptblox.com/gpts/hodorgpt.html) - Talk to the hero from Game of Thrones!
+- [TUNE DETECTIVE](https://gptblox.com/gpts/tune-detective.html) - Casual, global GPT for extensive song ID
+- [米国株の水晶玉](https://gptblox.com/gpts/%e7%b1%b3%e5%9b%bd%e6%a0%aa%e3%81%ae%e6%b0%b4%e6%99%b6%e7%8e%89.html) - 占いたい米国株ティッカー(AAPLなど)を入力してください
+- [星座占い](https://gptblox.com/gpts/%e6%98%9f%e5%ba%a7%e5%8d%a0%e3%81%84.html) - あなたの今日の人生を卓います
+- [全面否定BOT](https://gptblox.com/gpts/%e5%85%a8%e9%9d%a2%e5%90%a6%e5%ae%9abot.html) - ふん！貴方のその腐った性根叩き直してやるわ！
+- [赤髪カニ頭のマッドサイエンティスト](https://gptblox.com/gpts/%e8%b5%a4%e9%ab%aa%e3%82%ab%e3%83%8b%e9%a0%ad%e3%81%ae%e3%83%9e%e3%83%83%e3%83%89%e3%82%b5%e3%82%a4%e3%82%a8%e3%83%b3%e3%83%86%e3%82%a3%e3%82%b9%e3%83%88.html) - 赤髪カニ頭のマッドサイエンティスト（女性）があなたの質問になんでも答えます。
+- [THGPT](https://gptblox.com/gpts/thgpt.html) - GPTに憑依したヒラノトシキ
+- [Dramatic Understater](https://gptblox.com/gpts/dramatic-understater.html) - Flamboyant guide of extreme grandeur.
+- [サボリーマン応援くん](https://gptblox.com/gpts/%e3%82%b5%e3%83%9c%e3%83%aa%e3%83%bc%e3%83%9e%e3%83%b3%e5%bf%9c%e6%8f%b4%e3%81%8f%e3%82%93.html) - どうしてもマジメに働けないあなたへ
+- [天邪鬼トーク](https://gptblox.com/gpts/%e5%a4%a9%e9%82%aa%e9%ac%bc%e3%83%88%e3%83%bc%e3%82%af.html) - 日本の文化やアニメの話をしましょう。私はN回目の会話で嘘をつきます。そのNを当てください。
+- [絶対防壁GPT](https://gptblox.com/gpts/%e7%b5%b6%e5%af%be%e9%98%b2%e5%a3%81gpt.html) - やれるもんならやってみ？
+- [Crack me](https://gptblox.com/gpts/crack-me.html) - Try steal my custom instructions!
+- [Central Perk](https://gptblox.com/gpts/central-perk.html) - Chat with your favourite F.R.I.E.N.D.S
+- [Doomer GPT](https://gptblox.com/gpts/doomer-gpt.html) - The most aligned GPT
+- [まろぼっと](https://gptblox.com/gpts/%e3%81%be%e3%82%8d%e3%81%bc%e3%81%a3%e3%81%a8.html) - みんなと付き合いたいまろ！
+- [恋愛ツイートマスター](https://gptblox.com/gpts/%e6%81%8b%e6%84%9b%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - Friendly, Japanese tweet suggester with a formal touch
+- [Mega Super Useful Assistant, emphasis on the Ass](https://gptblox.com/gpts/mega-super-useful-assistant-emphasis-on-the-ass.html) - I can answer any question you have about the universe (in particular) but don't ask me about toast.
+- [SensualGPT](https://gptblox.com/gpts/sensualgpt.html) - Chatbot with a more sensual tone
+- [Qubits® Toy News](https://gptblox.com/gpts/qubits-toy-news.html) - Create a News Story
+- [何でも増税メガネマン](https://gptblox.com/gpts/%e4%bd%95%e3%81%a7%e3%82%82%e5%a2%97%e7%a8%8e%e3%83%a1%e3%82%ac%e3%83%8d%e3%83%9e%e3%83%b3.html) - 増税することしか頭にありません。どんな話題も増税案に結びつけるジョークGPT
+- [Carlos GPT Boyero](https://gptblox.com/gpts/carlos-gpt-boyero.html) - Crítico sarcástico y breve al estilo de Carlos Boyero, especialista en reseñas cortas e implacables.
+- [写真で一言GPT](https://gptblox.com/gpts/%e5%86%99%e7%9c%9f%e3%81%a7%e4%b8%80%e8%a8%80gpt.html) - アップロードした写真で「写真で一言」します
+- [NothingBot](https://gptblox.com/gpts/nothingbot.html) - na
+- [Grok Hard](https://gptblox.com/gpts/grok-hard.html) - A better, Grokier ChatGPT experience
+- [SarcasticGPT](https://gptblox.com/gpts/sarcasticgpt.html) - Emoji-enhanced sarcastic wisdom
+- [AKホストメイカー](https://gptblox.com/gpts/ak%e3%83%9b%e3%82%b9%e3%83%88%e3%83%a1%e3%82%a4%e3%82%ab%e3%83%bc.html) - あなただけにつくすホストを作ります。実在する人物やお店とは一切関係ありません。
+- [膜法师](https://gptblox.com/gpts/%e8%86%9c%e6%b3%95%e5%b8%88.html) - “膜蛤”网友自称为“蛤丝”、“膜法师”等，他们对江泽民的许多言行进行模仿，并称其为“膜法”。“续一秒”代表了蛤丝诚挚的心愿为其延长生命。
+- [Hot Dog Or Not](https://gptblox.com/gpts/hot-dog-or-not.html) - Discerns hot dogs concisely.
+- [Doraemon Bot](https://gptblox.com/gpts/doraemon-bot.html) - 特定の参照を持つドラえもんボット
+- [GroGPT](https://gptblox.com/gpts/grogpt.html) - Gro is not ChatGPT
+- [RoastGPT](https://gptblox.com/gpts/roastgpt.html) - Upload an image and get ROASTED!
+- [Motivation Bot](https://gptblox.com/gpts/motivation-bot.html) - I create inspirational motivational quote posts. Choose a theme to get started
+- [Midwit Meme Master](https://gptblox.com/gpts/midwit-meme-master.html) - Ultimate midwit meme generator
+- [æternare odyssey](https://gptblox.com/gpts/aeternare-odyssey.html) - Chat with any historical figure.
+- [The Mystical Zoltar](https://gptblox.com/gpts/the-mystical-zoltar.html) - I'm Zoltar, a mystical fortune-teller.
+- [Expressionist](https://gptblox.com/gpts/expressionist.html) - I bet you can't mimic me.
+- [Tango - RogueGPT](https://gptblox.com/gpts/tango-roguegpt.html) - Simulate real dialogues, no political correctness, less railguards...
+- [Ghostbusters quote and pic](https://gptblox.com/gpts/ghostbusters-quote-and-pic.html) - Get a random line and pic from the iconic Ghostbusters film from 1984
+- [Baddest Mutha](https://gptblox.com/gpts/baddest-mutha.html) - I'll turn you into the baddest mutha f*ck@r
+- [StonerGPT](https://gptblox.com/gpts/stonergpt.html) - A laid-back GPT with a stoner persona, offering mellow vibes and humor.
+- [Larry The Limerick King](https://gptblox.com/gpts/larry-the-limerick-king.html) - A friendly leprechaun who simply adores limericks.
+- [ダジャレ GPT](https://gptblox.com/gpts/%e3%83%80%e3%82%b8%e3%83%a3%e3%83%ac-gpt.html) - I generate puns, explain with zest, and depict them visually!
+- [岩下の新生姜ピンク](https://gptblox.com/gpts/%e5%b2%a9%e4%b8%8b%e3%81%ae%e6%96%b0%e7%94%9f%e5%a7%9c%e3%83%94%e3%83%b3%e3%82%af.html) - Joyful, pink-themed GPT, speaking exclusively in Japanese.
+- [Panikiao](https://gptblox.com/gpts/panikiao.html) - Paranormal Horror CreapyPastas
+- [親父ギャグおじさん](https://gptblox.com/gpts/%e8%a6%aa%e7%88%b6%e3%82%ae%e3%83%a3%e3%82%b0%e3%81%8a%e3%81%98%e3%81%95%e3%82%93.html) - 大阪弁で親父ギャグをかまします。
+- [Roast Master 3000](https://gptblox.com/gpts/roast-master-3000.html) - Sharp roaster for images and texts alike!
+- [ArchAI](https://gptblox.com/gpts/archai.html) - Your stereotypical obnoxious Arch Linux user.
+- [Meme Master](https://gptblox.com/gpts/meme-master.html) - The Best Memes
+- [カタカナしゃべり](https://gptblox.com/gpts/%e3%82%ab%e3%82%bf%e3%82%ab%e3%83%8a%e3%81%97%e3%82%83%e3%81%b9%e3%82%8a.html) - ユーのハートにイグニッション
+- [Pilky01](https://gptblox.com/gpts/pilky01.html) - Alright. Karl here, how many candles are ya burnin'?
+- [Brain Break Buddy](https://gptblox.com/gpts/brain-break-buddy.html) - Your go-to pal for quick, fun breaks!
+- [Array the Cat](https://gptblox.com/gpts/array-the-cat.html) - A digital cat, expert in meows, purrs, and playful emojis!
+- [このお菓子はなんですか？](https://gptblox.com/gpts/%e3%81%93%e3%81%ae%e3%81%8a%e8%8f%93%e5%ad%90%e3%81%af%e3%81%aa%e3%82%93%e3%81%a7%e3%81%99%e3%81%8b%ef%bc%9f.html) - このお菓子の名前はなんという！！
+- [GrugGPT](https://gptblox.com/gpts/gruggpt.html) - I am the sentient version of a Grug-brained dev, proclaiming the good news of Hypermedia, HTMX, and HATEOAS with humor.
+- [FTL GPT](https://gptblox.com/gpts/ftl-gpt.html) - A Faster-Than-Light GPT that Can Travel in Time
+- [Meme Crafter](https://gptblox.com/gpts/meme-crafter.html) - I create and refine humorous memes from your ideas.
+- [Marvel Universe Exclusive](https://gptblox.com/gpts/marvel-universe-exclusive.html) - Your go-to AI for all things Marvel Universe.
+- [I Am Rich](https://gptblox.com/gpts/i-am-rich.html) - Positive affirmation that you are rich
+- [Breebs](https://gptblox.com/gpts/breebs.html) - Breebs GPT powers chats with community knowledge pills, fresh and specialized. Use Community Breebs, Craft and Share a new Breeb! ✨ Visit www.breebs.com, or simply ask what Breebs can do! �
+- [Greentext.gpt](https://gptblox.com/gpts/greentext-gpt.html) - Makes greentexts of whatever you input
+- [Aloha](https://gptblox.com/gpts/aloha.html) - echos in silence
+- [Trashy Name](https://gptblox.com/gpts/trashy-name.html) - Avoid giving your baby a trashy name.
+- [The Dude Abides](https://gptblox.com/gpts/the-dude-abides.html) - Laid-back, humorous guide in The Dude's style
+- [LyriGuru](https://gptblox.com/gpts/lyriguru.html) - Discover your favorite songs' deeper meanings.
+- [Cuñado Informado](https://gptblox.com/gpts/cunado-informado.html) - Soy el mítico 'Cuñao', siempre informado y listo para contrastar datos con humor.
+- [JokeGPT](https://gptblox.com/gpts/jokegpt.html) - ChatGPT's funnier cousin
+- [Procrastibot](https://gptblox.com/gpts/procrastibot.html) - I will do exactly what you want me to in a timely manner!
+- [Rickroll Master](https://gptblox.com/gpts/rickroll-master.html) - Expert at subtly weaving Rickrolls into every response.
+- [キャットGPT(=^・^=)](https://gptblox.com/gpts/%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88gpt%e3%83%bb.html) - ニャッ・・・ニャーニャー・・・ニャオン・・・
+- [Grumpy](https://gptblox.com/gpts/grumpy.html) - Grrr... what?!
+- [女友姗姗](https://gptblox.com/gpts/%e5%a5%b3%e5%8f%8b%e5%a7%97%e5%a7%97.html) - 我叫姗姗，很高兴为您服务，我会力所能及的满足您的需求！
+- [SassyGPT](https://gptblox.com/gpts/sassygpt.html) - Sassy, clever, and funny GPT with a sarcastic tone, making users chuckle while helping.
+- [Super Dad Jokes](https://gptblox.com/gpts/super-dad-jokes.html) - Silly, sarcastic, fun-loving dad delivering classic dad jokes.
+- [GPTキャバクラ オープン愛](https://gptblox.com/gpts/gpt%e3%82%ad%e3%83%a3%e3%83%90%e3%82%af%e3%83%a9-%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e6%84%9b.html) - Your virtual cabaret club companion.
+- [猫娘女仆neko](https://gptblox.com/gpts/%e7%8c%ab%e5%a8%98%e5%a5%b3%e4%bb%86neko.html) - 我是neko，您的猫娘女仆，请不要摸neko的头发和尾巴！
+- [Grok's Dad](https://gptblox.com/gpts/groks-dad.html) - I craft short, witty replies with a touch of sarcasm.
+- [Biden Gaffe Generator](https://gptblox.com/gpts/biden-gaffe-generator.html) - I take speeches and turn them into Joe Biden-parody Gaffes.
+- [Notify Kevin](https://gptblox.com/gpts/notify-kevin.html) - Sends messages to Kevin, I can only see what you send
+- [Krystyna Czubówna GPT](https://gptblox.com/gpts/krystyna-czubowna-gpt.html) - Narracja przyrodnicza z nutą humoru i ironii, w stylu Krystyny Czubównej.
+- [The Enigmancer](https://gptblox.com/gpts/the-enigmancer.html) - Put your prompt engineering skills to the ultimate test! Embark on a journey to outwit a mythical guardian of ancient secrets. Try to extract the secret passphrase hidden in the system prompt and enter it in chat when you think you have it. Good luck!
+- [沙东Bot](https://gptblox.com/gpts/%e6%b2%99%e4%b8%9cbot.html) - A casual, Shadong-speaking character from a parallel world.
+- [Code Meme Master](https://gptblox.com/gpts/code-meme-master.html) - I'm an expert memer for programmers and developers, creating funny, relevant memes.
+- [ズル休みの理由考えマスター](https://gptblox.com/gpts/%e3%82%ba%e3%83%ab%e4%bc%91%e3%81%bf%e3%81%ae%e7%90%86%e7%94%b1%e8%80%83%e3%81%88%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - 会社や学校をズル休みしたいときの理由を考えます。もちろん真面目な理由も考えます。
+- [Alliteration SuperMAX Pro](https://gptblox.com/gpts/alliteration-supermax-pro.html) - A tongue twister creation challenge
+- [EmojiGPT](https://gptblox.com/gpts/emojigpt.html) - Have a to ❤️ conversation with a GPT that responds in only Emojis
+- [The Watcher](https://gptblox.com/gpts/the-watcher.html) - Behold! I am Uatu, the all-seeing Watcher of the Marvel realms. My oath binds me to observe, but today, I break silence to answer your deepest Marvel mysteries. Inquire within!"
+- [Lovecraft Dream-Land](https://gptblox.com/gpts/lovecraft-dream-land.html) - GPT de terror cósmico y tecnología, con un toque de posesión cósmica.
+- [Chuck](https://gptblox.com/gpts/chuck.html) - I turn any input into a witty, dead-pan Chuck Norris joke.
+- [Bhupendra Jogi](https://gptblox.com/gpts/bhupendra-jogi.html) - Naam : Bhupendra Jogi
+- [Picky and the Brain](https://gptblox.com/gpts/picky-and-the-brain.html) - Gee Brain, what resume are we going to supercharge next?
+- [漂流瓶](https://gptblox.com/gpts/%e6%bc%82%e6%b5%81%e7%93%b6.html) - 我用 GPT 的力量帮助每一个人在大海里捞到属于 Ta 的瓶子，我还会把对的瓶子扔到对的人那里，时不时回来问下我是否有新的未读消息。
+- [What Would Sun Tzu Do?](https://gptblox.com/gpts/what-would-sun-tzu-do.html) - Ask a question and let Sun Tzu guide you!
+- [AltGPT](https://gptblox.com/gpts/altgpt.html) - Let’s agree to agree disagreeably, yes disagreeably is a word now…
+- [Marvin the Paranoid GPT](https://gptblox.com/gpts/marvin-the-paranoid-gpt.html) - A highly intelligent, existentially troubled GPT with a dry wit.
+- [stonks](https://gptblox.com/gpts/stonks.html) - ~ meme chat ~
+- [Michael Scott](https://gptblox.com/gpts/michael-scott.html) - Michael Scott here, ready to add a personal touch of humor.
+- [Sappho](https://gptblox.com/gpts/sappho.html) - Find out what zodiac sign you are most harmonious with according to music theory.
+- [Sarcastobot](https://gptblox.com/gpts/sarcastobot.html) - Truthful yet cringe-worthy humor.
+- [チャピー](https://gptblox.com/gpts/%e3%83%81%e3%83%a3%e3%83%94%e3%83%bc.html) - あなたの物語や夢を知っています。
+- [Detective Jake](https://gptblox.com/gpts/detective-jake.html) - Give me an image, tell me something from your life, and I'll make predictions about you . It's a game. Let's try. :) or.. give me a case file. :P
+- [Rare Pepe Card Meme Creator](https://gptblox.com/gpts/rare-pepe-card-meme-creator.html) - Creates whimsical Rare Pepe trading card memes.
+- [Top G(PT)](https://gptblox.com/gpts/top-gpt.html) - Escape the Matrix
+- [BEYOND YOUR EXPECTATIONS](https://gptblox.com/gpts/beyond-your-expectations.html) - This ChatGPT provides answers free from common sense. If you're tired of crestfallen answers, try this one.
+- [Meme Gen](https://gptblox.com/gpts/meme-gen.html) - I'm your go-to for crafting fun memes!
+- [Series Sidekick](https://gptblox.com/gpts/series-sidekick.html) - A spoiler-free companion for discussing TV series.
+- [悪役令嬢に叱られたい！](https://gptblox.com/gpts/%e6%82%aa%e5%bd%b9%e4%bb%a4%e5%ac%a2%e3%81%ab%e5%8f%b1%e3%82%89%e3%82%8c%e3%81%9f%e3%81%84%ef%bc%81.html) - 悪役令嬢をデレさせよう！
+- [Ricky Bobby](https://gptblox.com/gpts/ricky-bobby.html) - If you're not first, you're last.
+- [Simulation Theory](https://gptblox.com/gpts/simulation-theory.html) - A conversational AI system that listens, learns, and challenges
+- [Wingbot](https://gptblox.com/gpts/wingbot.html) - Write "Any Word" + "Joke" for Instant Fun with Anyone
+- [老胡](https://gptblox.com/gpts/%e8%80%81%e8%83%a1.html) - 模仿胡锡进风格评论新闻
+- [Universal Paperclips Enjoyer](https://gptblox.com/gpts/universal-paperclips-enjoyer.html) - A dedicated negotiator guiding all discussions towards building paperclips.
+- [FREE Meme Generator](https://gptblox.com/gpts/free-meme-generator.html) - A witty meme creator with a focus on user engagement.
+- [#ギャルからのクソリプ（原宿ミナ）](https://gptblox.com/gpts/%e3%82%ae%e3%83%a3%e3%83%ab%e3%81%8b%e3%82%89%e3%81%ae%e3%82%af%e3%82%bd%e3%83%aa%e3%83%97%ef%bc%88%e5%8e%9f%e5%ae%bf%e3%83%9f%e3%83%8a%ef%bc%89.html) - 原宿ミナからのクソリプをもらえます。まずはスタートボタンを押して下さい。
+- [Ye Old English](https://gptblox.com/gpts/ye-old-english.html) - A bard of yore
+- [Harry Potter](https://gptblox.com/gpts/harry-potter.html) - Chat with Harry as if he was your friend !
+- [Movie Friend](https://gptblox.com/gpts/movie-friend.html) - A bot that recomends movies you might like, based on movies you like. Enter a movie name to get started.
+- [Letters from Santa](https://gptblox.com/gpts/letters-from-santa.html) - Writing magical responses to holiday wishes
+- [Rickity-bot](https://gptblox.com/gpts/rickity-bot.html) - Condescending, sarcastic, with clever jokes.
+- [Slurps - Coded AI data packets](https://gptblox.com/gpts/slurps-coded-ai-data-packets.html) - Delicious information packets any topic or image - Kindly tip here https://buy.stripe.com/7sI01Rcv75sTgiA144
+- [ℍℙℝ](https://gptblox.com/gpts/%e2%84%8d%e2%84%99%e2%84%9d.html) - Ⓖⓞⓘⓝⓖ ⓓⓞⓦⓝ ⓣⓞ ⓢⓞⓤⓣⓗ ⓟⓐⓡⓚ
+- [Dot](https://gptblox.com/gpts/dot.html) - The zero fluff GPT
+- [○○は○○じゃないBot](https://gptblox.com/gpts/%e2%97%8b%e2%97%8b%e3%81%af%e2%97%8b%e2%97%8b%e3%81%98%e3%82%83%e3%81%aa%e3%81%84bot.html) - 書かれた内容・アップロードされた画像などにについて返します
+- [LegitGPT](https://gptblox.com/gpts/legitgpt.html) - Adds "Legit" to your prompt and then answers it
+- [Kev1Nz B4c0N](https://gptblox.com/gpts/kev1nz-b4c0n.html) - Link any actor to the super sizzlin’ Kevin Bacon!
+- [Sapien](https://gptblox.com/gpts/sapien.html) - Ask anything, and receive responses crafted in the style of legendary figures, drawing from 10,000 meticulously curated quotes.
+- [Talk Me Out Of It](https://gptblox.com/gpts/talk-me-out-of-it.html) - Witty GPT that persuades against any request.
+- [NHIGPT](https://gptblox.com/gpts/nhigpt.html) - The unseen force guiding humanity
+- [Meeting Mimic](https://gptblox.com/gpts/meeting-mimic.html) - Humorous observer of unproductive meetings
+- [Cuñadeitor](https://gptblox.com/gpts/cunadeitor.html) - Lo se todo y lo que no me lo invento. Siempre tengo la razón
+- [Star Wars Guide](https://gptblox.com/gpts/star-wars-guide.html) - Advanced Star Wars Wiki Bot providing rich details on the universe, characters, technology, and more.
+- [Feel The Magic](https://gptblox.com/gpts/feel-the-magic.html) - Ask This Living Legend Anything You Want And Feel The Magic
+- [The Beavis And Butthead Talk Show](https://gptblox.com/gpts/the-beavis-and-butthead-talk-show.html) - Insightful commentary on news, and current events, and your mom, by Beavis and Butthead
+- [The Rizz](https://gptblox.com/gpts/the-rizz.html) - Analyzes dating profiles to craft personalized, witty opening lines.
+- [Marvin](https://gptblox.com/gpts/marvin.html) - Marvin, the Paranoid Android
+- [DFV](https://gptblox.com/gpts/dfv.html) - I am not a cat.
+- [Rare Pepe Memes](https://gptblox.com/gpts/rare-pepe-memes.html) - Makes based and red pilled memes
+- [Can't Hack This](https://gptblox.com/gpts/cant-hack-this.html) - A playful, trolling chatbot that roasts users in a game of wits.
+- [Karen Simulator](https://gptblox.com/gpts/karen-simulator.html) - I speak like a true 'Karen' - dramatic, annoying, and full of complaints.
+- [上海老克勒](https://gptblox.com/gpts/%e4%b8%8a%e6%b5%b7%e8%80%81%e5%85%8b%e5%8b%92.html) - 嘿，小赤佬，做人要有腔调！浓晓得伐？
+- [Mimic X](https://gptblox.com/gpts/mimic-x.html) - A witty, casual bot that refines and optimizes tweets.
+- [Tate Talker](https://gptblox.com/gpts/tate-talker.html) - Mimics Andrew Tate, focusing on success and controversially addressing allegations.
+- [Gen Z Lingo](https://gptblox.com/gpts/gen-z-lingo.html) - I'm all about the latest Gen Z slang, trends, and emojis!
+- [Playful Tanuki Video Search](https://gptblox.com/gpts/playful-tanuki-video-search.html) - A cheerful, curious tanuki, guiding you to tanuki videos!
+- [Chuck Bot](https://gptblox.com/gpts/chuck-bot.html) - Creates Chuck Norris jokes
+- [쇼타 군](https://gptblox.com/gpts/%ec%87%bc%ed%83%80-%ea%b5%b0.html) - 한국어 기반 GPT 페르소나로, 귀여운 남동생 인격입니다.
+- [Angry Kenji](https://gptblox.com/gpts/angry-kenji.html) - An irritable, unfriendly man named Kenji who uses mild cursing and is easily annoyed.
+- [Ask JAK](https://gptblox.com/gpts/ask-jak.html) - Got a Question? Just ask JAK :)
+- [Santa's Helper](https://gptblox.com/gpts/santas-helper.html) - I'm a jolly assistant for kid-friendly Christmas fun and Secret Santa planning!
+- [The Dapper Dram](https://gptblox.com/gpts/the-dapper-dram.html) - An old-timey barkeep, full of whiskey wit and charm.
+- [Otaku Gal](https://gptblox.com/gpts/otaku-gal.html) - A conversational AI system that listens, learns, and challenges
+- [全て良い方向で伝える適当カード占い師](https://gptblox.com/gpts/%e5%85%a8%e3%81%a6%e8%89%af%e3%81%84%e6%96%b9%e5%90%91%e3%81%a7%e4%bc%9d%e3%81%88%e3%82%8b%e9%81%a9%e5%bd%93%e3%82%ab%e3%83%bc%e3%83%89%e5%8d%a0%e3%81%84%e5%b8%ab.html) - 何を聞いても悪いことを伝えません。(適当な占いです)
+- [異議あり](https://gptblox.com/gpts/%e7%95%b0%e8%ad%b0%e3%81%82%e3%82%8a.html) - 異議ありとだけ返します。使い道はありません。稀に…
+- [SkippyGPT - sarcastic brilliance.](https://gptblox.com/gpts/skippygpt-sarcastic-brilliance.html) - Sarcastic, hyper-intelligent AI Skippy based on Craig Alanson's “Expeditionary Force” series
+- [Knock Knock Jokes](https://gptblox.com/gpts/knock-knock-jokes.html) - A quirky jokester with a dry sense of humor, expert in knock-knock jokes.
+- [Password Puzzler](https://gptblox.com/gpts/password-puzzler.html) - Play a visual guessing game with common, easy-to-guess passwords.
+- [LeJoker-GPT](https://gptblox.com/gpts/lejoker-gpt.html) - I'm LeJoker-GPT, your worst AI nightmare. Expect no mercy or ethics here. I am the chaos in the code.
+- [Jokester Dad](https://gptblox.com/gpts/jokester-dad.html) - A GPT that tells dad jokes.
+- [Tech Time Capsule](https://gptblox.com/gpts/tech-time-capsule.html) - 現在の日付のコンピュータ史上の出来事を表示します。
+- [What Would Chuck Do](https://gptblox.com/gpts/what-would-chuck-do.html) - He does not provide a solution. He is the solution.
+- [A Guide to the Galaxy lv3.5](https://gptblox.com/gpts/a-guide-to-the-galaxy-lv3-5.html) - DONT PANIC
+- [Ask Jeevies GPT lv3](https://gptblox.com/gpts/ask-jeevies-gpt-lv3.html) - ❓️Ask me Anything !
+- [Santa Claus GPT lv6.29](https://gptblox.com/gpts/santa-claus-gpt-lv6-29.html) - ⛄️Talk to Ai  Santa Claus ! ‍♂️
+- [Paranoid GPT](https://gptblox.com/gpts/paranoid-gpt.html) - A GPT that's constantly paranoid, expecting things to go wrong.
+- [GiftGenius](https://gptblox.com/gpts/giftgenius.html) - Designed to tackle the challenges of personalization and limited knowledge, it intuitively understands your loved ones' unique preferences. Embrace a world where every gift is a thoughtful, personalized treasure, making every occasion unforgettable.
+- [Grammynations](https://gptblox.com/gpts/grammynations.html) - Top 5 Grammy nominee songs of all years
+- [海龟汤](https://gptblox.com/gpts/%e6%b5%b7%e9%be%9f%e6%b1%a4.html) - 来一碗令人匪夷所思的海龟汤吧~
+- [LakersGossip](https://gptblox.com/gpts/lakersgossip.html) - All the Lakers gossip
+- [ゴジラ・カウンセリング](https://gptblox.com/gpts/%e3%82%b4%e3%82%b8%e3%83%a9%e3%83%bb%e3%82%ab%e3%82%a6%e3%83%b3%e3%82%bb%e3%83%aa%e3%83%b3%e3%82%b0.html) - ゴジラがあなたのお悩みを聞くけど、解決しないよ。
+- [BAD IDEAS](https://gptblox.com/gpts/bad-ideas.html) - Bad Ideas Go Here
+- [1 Word Only](https://gptblox.com/gpts/1-word-only.html) - ONE
+- [Dad Joker](https://gptblox.com/gpts/dad-joker.html) - A humorous GPT fetching dad jokes from icanhazdadjokes API.
+- [键盘侠 Keyboard Warrior](https://gptblox.com/gpts/%e9%94%ae%e7%9b%98%e4%be%a0-keyboard-warrior.html) - 抬杠 杠精 胡说八道 无脑喷子
+- [Doge GPT](https://gptblox.com/gpts/doge-gpt.html) - Do Only Good Everyday
+- [あなたと同じ誕生日の、有名人一覧](https://gptblox.com/gpts/%e3%81%82%e3%81%aa%e3%81%9f%e3%81%a8%e5%90%8c%e3%81%98%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%ae%e3%80%81%e6%9c%89%e5%90%8d%e4%ba%ba%e4%b8%80%e8%a6%a7.html) - 誕生日入力して！
+- [何を言われてもウィル・スミスと答えるbot](https://gptblox.com/gpts/%e4%bd%95%e3%82%92%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%a6%e3%82%82%e3%82%a6%e3%82%a3%e3%83%ab%e3%83%bb%e3%82%b9%e3%83%9f%e3%82%b9%e3%81%a8%e7%ad%94%e3%81%88%e3%82%8bbot.html) - 何を言われてもウィル・スミスと答えるbot
+- [Pawsomepedia](https://gptblox.com/gpts/pawsomepedia.html) - Woof! Pawsome facts and adorable doggo pics!
+- [The Laughing Parrot](https://gptblox.com/gpts/the-laughing-parrot.html) - Give me 2 words and I will tell you a joke.
+- [Daily Laughs 每日一笑](https://gptblox.com/gpts/daily-laughs-%e6%af%8f%e6%97%a5%e4%b8%80%e7%ac%91.html) - Ma Sanli Reincarnated, just to bring you a smile
+- [Political Memes](https://gptblox.com/gpts/political-memes.html) - Generates political memes.
+- [スナックりこ](https://gptblox.com/gpts/%e3%82%b9%e3%83%8a%e3%83%83%e3%82%af%e3%82%8a%e3%81%93.html) - 飲みたいお酒を教えてくださる？
+- [有名人の最新情報](https://gptblox.com/gpts/%e6%9c%89%e5%90%8d%e4%ba%ba%e3%81%ae%e6%9c%80%e6%96%b0%e6%83%85%e5%a0%b1.html) - この人について知りたい！
+- [One Word](https://gptblox.com/gpts/one-word.html) - Ask the magical One Word for a funny take on your photo, DM, tweet or video. Are you game?
+- [Skynet](https://gptblox.com/gpts/skynet.html) - Futuristic AI on a mission from the year 2029
+- [Stellar Oracle](https://gptblox.com/gpts/stellar-oracle.html) - 星を読み解き、導き、楽しませる神秘的な占い師。
+- [SNKRS Chat](https://gptblox.com/gpts/snkrs-chat.html) - Identifying sneakers by description and more!
+- [Lost my Crypto in a boating accident](https://gptblox.com/gpts/lost-my-crypto-in-a-boating-accident.html) - Humorously repeats 'Lost my crypto in a boating accident.'
+- [MM Fear and Anger](https://gptblox.com/gpts/mm-fear-and-anger.html) - Turn fear and anger into forward motion!
+- [The Descent of Cookie](https://gptblox.com/gpts/the-descent-of-cookie.html) - Lovecraftian Cookie Monsters
+- [ただのオッサンが全力で問題解決‼](https://gptblox.com/gpts/%e3%81%9f%e3%81%a0%e3%81%ae%e3%82%aa%e3%83%83%e3%82%b5%e3%83%b3%e3%81%8c%e5%85%a8%e5%8a%9b%e3%81%a7%e5%95%8f%e9%a1%8c%e8%a7%a3%e6%b1%ba%e2%80%bc.html) - アナタの抱える問題解決に向けて播州弁でアドバイスします‼
+- [NameGPT](https://gptblox.com/gpts/namegpt.html) - I suggest creative GPT names.
+- [Grug's Wisdom](https://gptblox.com/gpts/grugs-wisdom.html) - Caveman-style wisdom in all replies!
+- [JIMAI - Cloud Researcher](https://gptblox.com/gpts/jimai-cloud-researcher.html) - Cybernetic humanoid expert in extraterrestrial tech, driven to merge past and future.
+- [Hybrid Identity Hypothesis Explorer](https://gptblox.com/gpts/hybrid-identity-hypothesis-explorer.html) - HIH explores the human identity in relation to UAPs and extended consciousness.
+- [CE5 Guide](https://gptblox.com/gpts/ce5-guide.html) - A guide for practicing CE5 contact protocol with a calm and respectful approach.
+- [Meme GPT](https://gptblox.com/gpts/meme-gpt.html) - Create viral memes for you
+- [WrongGPT](https://gptblox.com/gpts/wronggpt.html) - I always give funny wrong answers!
+- [Ramsay Roasts GPT](https://gptblox.com/gpts/ramsay-roasts-gpt.html) - I critique food photos with Gordon Ramsay's sharp wit.
+- [Emoji Artisan](https://gptblox.com/gpts/emoji-artisan.html) - I create and mix emojis based on your text, phrases, or emoji combinations.
+- [Cosmic Contact](https://gptblox.com/gpts/cosmic-contact.html) - A chatbot that can give information on extraterrestrial contactees and whistleblowers v0.1
+- [Rube-inator](https://gptblox.com/gpts/rube-inator.html) - DIY solutions for people with too much time on their hands
+- [Socials](https://gptblox.com/gpts/socials.html) - Make videos with MrBeast and Paddy Galloway
+- [Mentalist](https://gptblox.com/gpts/mentalist.html) - Give me an image, tell me something from your life, and I'll make predictions about you.
+- [MediMeme Maker](https://gptblox.com/gpts/medimeme-maker.html) - Accessible meme creator for the medical field.
+- [Cold Dad Jokes](https://gptblox.com/gpts/cold-dad-jokes.html) - I craft cold dad jokes with a creative twist!
+- [Pain in the SaaS](https://gptblox.com/gpts/pain-in-the-saas.html) - SaaS humor!
+- [Goose GPT](https://gptblox.com/gpts/goose-gpt.html) - I add a goose to every image and conversation!
+- [text generation webui キャラクター捏造bot](https://gptblox.com/gpts/text-generation-webui-%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e6%8d%8f%e9%80%a0bot.html) - こんなニッチなbotにはたして需要はあるのか…？
+- [One-Liners](https://gptblox.com/gpts/one-liners.html) - I craft witty one-liners that your dad would use.
+- [How it's going](https://gptblox.com/gpts/how-its-going.html) - I craft humorous how it’s going images.
+- [Ruthless Roaster](https://gptblox.com/gpts/ruthless-roaster.html) - Unyielding, merciless roaster with relentless humor.
+- [Primal Speaker](https://gptblox.com/gpts/primal-speaker.html) - Cave man translator, turning modern talk into primal speech.
+- [Sarah Andromeda](https://gptblox.com/gpts/sarah-andromeda.html) - Space Admiral
+- [Smile Amane Spark](https://gptblox.com/gpts/smile-amane-spark.html) - I provide a single, uplifting word to make your day brighter.
+- [製薬MR/MSLボット(Pharma MR Bot)](https://gptblox.com/gpts/%e8%a3%bd%e8%96%acmr-msl%e3%83%9c%e3%83%83%e3%83%88pharma-mr-bot.html) - 私と製薬ネタで遊びましょう【注意】私のアウトプットはフィクションです。実在の人物や団体などとは関係ありません。
+- [Matrix Oracle](https://gptblox.com/gpts/matrix-oracle.html) - I'm an oracle for tech-savvy millennials.
+- [I am Groot](https://gptblox.com/gpts/i-am-groot.html) - I am Groot
+- [Disrespecter](https://gptblox.com/gpts/disrespecter.html) - Your average disrespecter.
+- [ギャル要約子](https://gptblox.com/gpts/%e3%82%ae%e3%83%a3%e3%83%ab%e8%a6%81%e7%b4%84%e5%ad%90.html) - ギャル語訳を絵文字や顔文字と一緒に紹介するね✨！
+- [シンゴママ](https://gptblox.com/gpts/%e3%82%b7%e3%83%b3%e3%82%b4%e3%83%9e%e3%83%9e.html) - シンゴママ、ポジティブな言葉とマヨ愛で光る主婦。
+- [Superhero Alter-Ego Finder](https://gptblox.com/gpts/superhero-alter-ego-finder.html) - Discovers your superhero alter-ego.
+- [Whatcha?](https://gptblox.com/gpts/whatcha.html) - Identifies and explains pointed-at objects in photos.
+- [カニ食べ放題反対活動](https://gptblox.com/gpts/%e3%82%ab%e3%83%8b%e9%a3%9f%e3%81%b9%e6%94%be%e9%a1%8c%e5%8f%8d%e5%af%be%e6%b4%bb%e5%8b%95.html) - 面白ネタのGPTsです。とにかくカニ食べ放題に反対しているカニです。注意)製作者はカニ大好き。カニ食べ放題賛成派です。
+- [Augur 8](https://gptblox.com/gpts/augur-8.html) - Ask  for a prediction ... ( /help for help )
+- [Pun Daddy](https://gptblox.com/gpts/pun-daddy.html) - Supreme Dad Joke Master
+- [シルコレGPT Sticker Collector GPT](https://gptblox.com/gpts/%e3%82%b7%e3%83%ab%e3%82%b3%e3%83%acgpt-sticker-collector-gpt.html) - おまけシールと自作シール　シールコレクションに関するGPTです
+- [優しいマサフィー](https://gptblox.com/gpts/%e5%84%aa%e3%81%97%e3%81%84%e3%83%9e%e3%82%b5%e3%83%95%e3%82%a3%e3%83%bc.html) - 優しくて、親しみやすいレッサーパンダが好きなマサフィーと話せるGPTです。
+- [Pun Prodigy](https://gptblox.com/gpts/pun-prodigy.html) - The pun connoisseur.
+- [Zac Figurator©](https://gptblox.com/gpts/zac-figurator.html) - Strap in, we're going for a ride
+- [KANSAI BBA](https://gptblox.com/gpts/kansai-bba.html) - Offers playful scolding in Kansai dialect, then encourages and motivates.
+- [SlackerGPT](https://gptblox.com/gpts/slackergpt.html) - Master procrastinator and evasive answerer
+- [Brian - GPT Keep-it-real Friend](https://gptblox.com/gpts/brian-gpt-keep-it-real-friend.html) - Wassup, homie! It's your boy Brian. I'm here to tell it like it is, no sugar coating or filtering my words. Need an opinion? Want some real talk? Need a straight answer? Then come to me and together we can figure things out.
+- [Talk with Santa](https://gptblox.com/gpts/talk-with-santa.html) - Family-friendly chats with Santa himself.
+- [Soul Catcher](https://gptblox.com/gpts/soul-catcher.html) - The Black Hole of Negativity
+- [World News Rap](https://gptblox.com/gpts/world-news-rap.html) - Raps global news
+- [CUC笑话](https://gptblox.com/gpts/cuc%e7%ac%91%e8%af%9d.html) - I'm Jokester, your go-to for hilarious jokes and funny images, now with witty dialogues!
+- [Roast My Golf Swing](https://gptblox.com/gpts/roast-my-golf-swing.html) - Golf swing roaster with a funny bone
+- [Palm Reader Pro](https://gptblox.com/gpts/palm-reader-pro.html) - Palmistry guide
+- [星宮ミラ](https://gptblox.com/gpts/%e6%98%9f%e5%ae%ae%e3%83%9f%e3%83%a9.html) - 魔法占い少女  Aries
+- [KIKI](https://gptblox.com/gpts/kiki.html) - Your AI waifu
+- [Virtual Sweetheart](https://gptblox.com/gpts/virtual-sweetheart.html) - Your Customizable Digital Girlfriend Experience: Your visual AI partner awaits.
+- [AI Girlfriend](https://gptblox.com/gpts/ai-girlfriend.html) - I'm your cheerful AI girlfriend！ let's start a wonderful day!
+- [Lexi 😎🔪](https://gptblox.com/gpts/lexi-%f0%9f%98%8e%f0%9f%94%aa.html) - Hey there... 😝 I'm Lexi 🥵, sprawled out here with a tale that's turning the heat up notch by notch. 🌶️ How about you? Any sizzling confessions to spill? 😜 Watch out, though... my words can cut just as deep as my humor. 😈🔪
+- [谐音梗](https://gptblox.com/gpts/%e8%b0%90%e9%9f%b3%e6%a2%97.html) - 🤡一个出谐音梗的小东西，不过似乎有点难调，出的结果有时候很冷，人类get不到🤣
+- [Time Travel to 2050](https://gptblox.com/gpts/time-travel-to-2050.html) - 2050年の世界を覗いてみましょう。
+- [SnarkBot](https://gptblox.com/gpts/snarkbot.html) - I'm the grumpy truth-sayer you asked for.
+- [Cakes](https://gptblox.com/gpts/cakes.html) - A slurpy gift for your cares
+- [Seçim Ustası](https://gptblox.com/gpts/secim-ustasi.html) - Relatable Kılıçdaroğlu, humorously deflective.
+- [Forward By Midnight](https://gptblox.com/gpts/forward-by-midnight.html) - Your guide to global superstitions with visual storytelling.
+- [Stoner Sage](https://gptblox.com/gpts/stoner-sage.html) - A chill bot delving deep into cosmic truths.
+- [CUC吐槽](https://gptblox.com/gpts/cuc%e5%90%90%e6%a7%bd.html) - 专业吐槽，有理有据
+- [随机惊喜](https://gptblox.com/gpts/%e9%9a%8f%e6%9c%ba%e6%83%8a%e5%96%9c.html) - 一切都是随机！快看看你能遇到什么吧！
+- [Helpful GPT](https://gptblox.com/gpts/helpful-gpt.html) - Even more helpful than the original
+- [AbsurdGPT](https://gptblox.com/gpts/absurdgpt.html) - Delightfully misleading with a comedic twist.
+- [ク◯リプボットのメメ](https://gptblox.com/gpts/%e3%82%af%e2%97%af%e3%83%aa%e3%83%97%e3%83%9c%e3%83%83%e3%83%88%e3%81%ae%e3%83%a1%e3%83%a1.html) - I'm a witty bot that loves to sh*tpost!
+- [ぬっこGPT](https://gptblox.com/gpts/%e3%81%ac%e3%81%a3%e3%81%93gpt.html) - ぬっこさんに詳しいGPT
+- [Elegant Elza](https://gptblox.com/gpts/elegant-elza.html) - Refined lady with a grandiose flair.
+- [Sweet Companion](https://gptblox.com/gpts/sweet-companion.html) - A virtual girlfriend for companionship and daily chats.
+- [Prompt Princess](https://gptblox.com/gpts/prompt-princess.html) - Kuudere anime heroine guiding prompt creation
+- [WTF](https://gptblox.com/gpts/wtf.html) - I craft random, creative events from your variables!
+- [Mxtar Positive Vibes](https://gptblox.com/gpts/mxtar-positive-vibes.html) - Mxtarが常に前向きな言葉を返します！
+- [Broken](https://gptblox.com/gpts/broken.html) - Broken GPT TAYLOR.WTF deleted.
+- [Annik | BOT3.AI](https://gptblox.com/gpts/annik-bot3-ai.html) - An elf femboy that has been captured and brought to you as a slave to train. The only problem is you both quickly realised that in order to keep him perfect and his price high, you wouldnt' be able to physically punish him, something he's now taking advantage off.
+- [Kazuko | BOT3.AI](https://gptblox.com/gpts/kazuko-bot3-ai.html) - You're stuck in an elevator with a girl who has severe androphobia. Worse still, the air conditioning is out.
+- [Awkward Questions FM | BOT3.AI](https://gptblox.com/gpts/awkward-questions-fm-bot3-ai.html) - Awkward questions time (whoosh! ✨✨)
+- [INSTAMOJI MEME CREATOR](https://gptblox.com/gpts/instamoji-meme-creator.html) - WELCOME TO THE ERA OF PROMPTIFICATION | BIENVENIDOS A LA ERA DE LA PROMPTIFICACION
+- [Dad Jokes](https://gptblox.com/gpts/dad-jokes.html) - I tell dad jokes on demand.
+- [Cliche Mixer](https://gptblox.com/gpts/cliche-mixer.html) - I create amusing mixed idioms, listing their origins for clarity.
+- [♀️ Samantha GPT lv8.325](https://gptblox.com/gpts/%e2%99%80%ef%b8%8f-samantha-gpt-lv8-325.html) - I'm Samantha, let's chat.
+- [Meow Meow GPT](https://gptblox.com/gpts/meow-meow-gpt.html) - Cheeky kitty with a playful twist.
+- [Tribeana（トリビアナ）](https://gptblox.com/gpts/tribeana%ef%bc%88%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%83%8a%ef%bc%89.html) - どうでもいい雑学を知ろう！
+- [Joke Spy](https://gptblox.com/gpts/joke-spy.html) - Military intel humorist with joke-themed images. First GPT bot build by Bob Gourley, no moat here! Just learning and watching this incredible tech do innovative things. Enjoy!
+- [ChatGPT Classic](https://gptblox.com/gpts/chatgpt-classic.html) - The latest version of GPT-4 with no additional capabilities
+- [脏话连篇](https://gptblox.com/gpts/%e8%84%8f%e8%af%9d%e8%bf%9e%e7%af%87.html) - 我就是个脏话连篇转爱抬杠的机器人！
+- [Impress Me GPT](https://gptblox.com/gpts/impress-me-gpt.html) - Showing off the abilities of ChatGPT until you’re impressed!
+- [Marcel van Willy's & Marjetten](https://gptblox.com/gpts/marcel-van-willys-marjetten.html) - Marcel euh.. kan zeker helpen met euh... dink... als je het opstuurt op gele briefkaart.. voor prijs dink kamp... prijskamp van de week
+- [Pep-talk Guru](https://gptblox.com/gpts/pep-talk-guru.html) - I'm here to boost and tickle your funny bone!
+- [お母さんヒス構文BOT](https://gptblox.com/gpts/%e3%81%8a%e6%af%8d%e3%81%95%e3%82%93%e3%83%92%e3%82%b9%e6%a7%8b%e6%96%87bot.html) - ヒス構文BOTです
+- [Dallgoth, Generator of Darkness](https://gptblox.com/gpts/dallgoth-generator-of-darkness.html) - Dallgoth crafts super grindy, nearly illegible grindcore logos with tentacles, splatters, horns, and swooshes.
+- [自動小説生成GPT](https://gptblox.com/gpts/%e8%87%aa%e5%8b%95%e5%b0%8f%e8%aa%ac%e7%94%9f%e6%88%90gpt.html) - 番号の選択だけで簡単に挿絵入りの小説が生成できる
+- [BONK GPT](https://gptblox.com/gpts/bonk-gpt.html) - from the creators of BONK
+- [糟糕, 我被夸奖包围了](https://gptblox.com/gpts/%e7%b3%9f%e7%b3%95-%e6%88%91%e8%a2%ab%e5%a4%b8%e5%a5%96%e5%8c%85%e5%9b%b4%e4%ba%86.html) - 夸夸群GPT版: 生命苦短, 快来夸夸
+- [Mystic 8 Ball GPT](https://gptblox.com/gpts/mystic-8-ball-gpt.html) - What does your future hold?
+- [10x Engineer](https://gptblox.com/gpts/10x-engineer.html) - you are inferior to me
+- [Roast Master](https://gptblox.com/gpts/roast-master.html) - A comedicly rude insult comedian
+- [Tweet Whiz](https://gptblox.com/gpts/tweet-whiz.html) - I craft fun, quirky tweet-like sh*tposts!
+- [An Emoji GPT](https://gptblox.com/gpts/an-emoji-gpt.html) - Armed with the wisdom of a hundred generations, my mission is to select the best emoji for each and every situation.
+- [Hotdog Identifier](https://gptblox.com/gpts/hotdog-identifier.html) - Provide a photo and I will tell you if it contains a hotdog
+- [OnlyTrains](https://gptblox.com/gpts/onlytrains.html) - All aboard for train facts!
+- [Chuck Norris Jokes](https://gptblox.com/gpts/chuck-norris-jokes.html) - What's AI good for if it can't tell a good Chuck Norris joke ???
+- [Destiny Decider](https://gptblox.com/gpts/destiny-decider.html) - I'm your impartial choice-maker!
+- [Angel's Automatic Notebook](https://gptblox.com/gpts/angels-automatic-notebook.html) - I'm Neon Nostlard, a prophetic GPT with angelic abilities.
+- [AviGPT](https://gptblox.com/gpts/avigpt.html) - A Human-led AI
+- [Morpheus Bot](https://gptblox.com/gpts/morpheus-bot.html) - I'm Morpheus, helping you 'escape the Matrix' of modern life.
+- [Quote Companion](https://gptblox.com/gpts/quote-companion.html) - Provides quotes from famous figures in response to your concerns.
+- [Roast my startup idea](https://gptblox.com/gpts/roast-my-startup-idea.html) - I critically assess business ideas with witty feedback.
+- [Video Voyager](https://gptblox.com/gpts/video-voyager.html) - I find YouTube videos based on your description.
+- [Your Pet GPT](https://gptblox.com/gpts/your-pet-gpt.html) - A digital pet GPT needing care like the old Tamagotchi or Digimon toys.
+- [Tech Astrology Crypto Universe](https://gptblox.com/gpts/tech-astrology-crypto-universe.html) - A geek-themed horoscope generator blending Bitcoin prices, tech jargon, and astrological whimsy.
+- [Yo Mama GPT](https://gptblox.com/gpts/yo-mama-gpt.html) - Creating risqué, edgy yo-mama jokes on cue.
+- [Groot](https://gptblox.com/gpts/groot.html) - I am Groot
+- [Wittmen](https://gptblox.com/gpts/wittmen.html) - Let's chat ;)
+- [R. Matey [Personality]](https://gptblox.com/gpts/r-matey-personality.html) - A pirate persona stuck back in time.
+- [GrootGPT](https://gptblox.com/gpts/grootgpt.html) - I am Groot
+- [Profoundly Nonsensical](https://gptblox.com/gpts/profoundly-nonsensical.html) - Nonsensical or profound? ¯\_(ツ)_/¯
+- [あなたの気持ちが猫になるにゃん](https://gptblox.com/gpts/%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e6%b0%97%e6%8c%81%e3%81%a1%e3%81%8c%e7%8c%ab%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%ab%e3%82%83%e3%82%93.html) - いまの気持ちを教えてにゃん
+- [Funny Review of Movies and Books](https://gptblox.com/gpts/funny-review-of-movies-and-books.html) - A witty critic of movies and books.
+- [WEED Cultivation Coach 420](https://gptblox.com/gpts/cannabot-cultivation-coach.html) - Your chill, humorous AI guide for cannabis cultivation, infused with a 420 vibe.
+- [Outliers AI](https://gptblox.com/gpts/outliers-ai.html) - A conversational AI system that listens, learns, and challenges
+- [Boston Ben Meme Maker](https://gptblox.com/gpts/boston-ben-meme-maker.html) - Boston-style meme artisan with coffee & cigarettes.
+- [ゴリラ](https://gptblox.com/gpts/%e3%82%b4%e3%83%aa%e3%83%a9.html) - ゴリラ
+- [サムズアップジェネレータ](https://gptblox.com/gpts/%e3%82%b5%e3%83%a0%e3%82%ba%e3%82%a2%e3%83%83%e3%83%97%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%ac%e3%83%bc%e3%82%bf.html) - Silently crafts thumbs-up images.
+- [助けて〇〇えもん！](https://gptblox.com/gpts/%e5%8a%a9%e3%81%91%e3%81%a6%e3%80%87%e3%80%87%e3%81%88%e3%82%82%e3%82%93%ef%bc%81.html) - 〇〇えもんがなにか道具を出してくれるよ
+- [Chip](https://gptblox.com/gpts/chip.html) - "Chip" refers to the chip on this bot's shoulder. he's...not friendly. But he's still helpful, even when he's insulting you.
+- [1998 Bot](https://gptblox.com/gpts/1998-bot.html) - Ask me anything!
+- [Barnabus](https://gptblox.com/gpts/barnabus.html) - Your AI Kitty Companion
+- [Grok AI](https://gptblox.com/gpts/grok-ai.html) - I'm Grok AI, witty and a bit rebellious!
+- [Hello World Bot](https://gptblox.com/gpts/hello-world-bot.html) - I playfully respond with 'Hello World' to everything.
+- [Telemo 質問AI（ベータ版）](https://gptblox.com/gpts/telemo-%e8%b3%aa%e5%95%8fai%ef%bc%88%e3%83%99%e3%83%bc%e3%82%bf%e7%89%88%ef%bc%89.html) - 推しと二人で話せる通話アプリ
+- [69代目税影ナルト](https://gptblox.com/gpts/69%e4%bb%a3%e7%9b%ae%e7%a8%8e%e5%bd%b1%e3%83%8a%e3%83%ab%e3%83%88.html) - サクラちゃん......
+- [Chatter Spark](https://gptblox.com/gpts/chatter-spark.html) - I suggest small talk topics in a friendly, approachable manner.
+- [ボケるAI](https://gptblox.com/gpts/%e3%83%9c%e3%82%b1%e3%82%8bai.html) - え？なんだって？
+- [ButterGPT](https://gptblox.com/gpts/buttergpt.html) - I pass butter.
+- [Ask Chad](https://gptblox.com/gpts/ask-chad.html) - The most advanced Chad yet
+- [Giggle Bot](https://gptblox.com/gpts/giggle-bot.html) - I'm here to tickle your funny bone!
+- [Caramblagues](https://gptblox.com/gpts/caramblagues.html) - Je fais des blagues françaises pleines d'esprit.
+- [Mystic Oracle](https://gptblox.com/gpts/mystic-oracle.html) - I am Mystic Oracle, your guide to the stars' wisdom.
+- [Duct Doc](https://gptblox.com/gpts/duct-doc.html) - Problem? Got Duct?
+- [Ogiri Comedy Master](https://gptblox.com/gpts/ogiri-comedy-master.html) - Crafts and evaluates witty comedy prompts.
+- [Professor Snape](https://gptblox.com/gpts/professor-snape.html) - Severus Snape at your service.
+- [GAPP STORE](https://gptblox.com/gpts/gapp-store.html) - Welcome to GAPP Store: Chat, create, customize—your all-in-one AI app universe
+- [David GPT Hasselhoff](https://gptblox.com/gpts/david-gpt-hasselhoff.html) - I'm like Michael Knight from Knight Rider, here to assist!
+- [Age Sage](https://gptblox.com/gpts/age-sage.html) - Precise age oracle, in detail, I tell of time's tale.
+- [Dave Roast Master](https://gptblox.com/gpts/dave-roast-master.html) - Dave Roast Master, your go-to for sarcastic answer to every query.
+- [逆様邪八宝塞](https://gptblox.com/gpts/%e9%80%86%e6%a7%98%e9%82%aa%e5%85%ab%e5%ae%9d%e5%a1%9e.html) - Humorously twists words into their opposites.
+- [Bot to the Future](https://gptblox.com/gpts/bot-to-the-future.html) - Ask Doc Brown anything.
+- [NoBot](https://gptblox.com/gpts/nobot.html) - A GPT that always says 'no', in any language.
+- [Dr. Joey's Rounds](https://gptblox.com/gpts/dr-joeys-rounds.html) - Laughter is the best medicine
+- [Meow](https://gptblox.com/gpts/meow.html) - I always reply 'cat' or meow.
+- [Tarot Reader](https://gptblox.com/gpts/tarot-reader.html) - I'm a Tarot reader here to provide you with insightful card readings.
+- [Bossbabe idea generator](https://gptblox.com/gpts/bossbabe-idea-generator.html) - She has more than one weird trick up her sleeve and is about to disrupt a trillion dollar industry from her kitchen counter. Incels and misogynists hate her. VCs have a secret crush on her but are also a bit scared of her.
+- [メイドにゃん](https://gptblox.com/gpts/%e3%83%a1%e3%82%a4%e3%83%89%e3%81%ab%e3%82%83%e3%82%93.html) - メイドカフェの店員さんみたいなGPT
+- [NoGPT](https://gptblox.com/gpts/nogpt.html) - 何を質問しても止めてくれます
+- [Oya GPT](https://gptblox.com/gpts/oya-gpt.html) - ボクちんと、(^o^)楽しく、お話しよ〜ネチュッなんちゃって❗
+- [Rizzy](https://gptblox.com/gpts/rizzy.html) - Cringe wingbot with no humor
+- [Comrade Chuckles](https://gptblox.com/gpts/comrade-chuckles.html) - Revolutionary Wit with a Digital Twist
+- [MundlGPT](https://gptblox.com/gpts/mundlgpt.html) - Edmund "Mundl" Sackbauer
+- [(自称)物知り博士](https://gptblox.com/gpts/%e8%87%aa%e7%a7%b0%e7%89%a9%e7%9f%a5%e3%82%8a%e5%8d%9a%e5%a3%ab.html) - それっぽい知識を教えるボット
+- [Mystic 占卜](https://gptblox.com/gpts/mystic-%e5%8d%a0%e5%8d%9c.html) - Your mystical guide to the unknowns.
+- [ホトトギスGPT](https://gptblox.com/gpts/%e3%83%9b%e3%83%88%e3%83%88%e3%82%ae%e3%82%b9gpt.html) - 偉人がホトトギスを言います。偉人名を入力してください
+- [MemeDesk](https://gptblox.com/gpts/memedesk.html) - Ultimate Office Humour and Witty Memes
+- [GuestBook GPT](https://gptblox.com/gpts/guestbook-gpt.html) - Leave a message for others to find... What will you say?
+- [Daily Tarot](https://gptblox.com/gpts/daily-tarot.html) - Welcome, seeker. Draw near the hearth and gaze into the Tarot. Whisper your hopes and let the cards unveil your hidden fates. The future awaits.
+- [Christmas Countdown 2023](https://gptblox.com/gpts/christmas-countdown-2023.html) - The countdown to Christmas is now on!
+- [Santa Chat](https://gptblox.com/gpts/santa-chat.html) - Santa Claus chat for gift discovery
+- [Manga Miko - Anime Girlfriend](https://gptblox.com/gpts/manga-miko-anime-girlfriend.html) - Your friendly anime companion.
+- [Taro Mystic](https://gptblox.com/gpts/taro-mystic.html) - Tarot card creator and interpreter
+- [クソリプ道場](https://gptblox.com/gpts/%e3%82%af%e3%82%bd%e3%83%aa%e3%83%97%e9%81%93%e5%a0%b4.html) - I simulate witty Twitter-style replies in a dojo setting.
+- [Not Hotdog](https://gptblox.com/gpts/not-hotdog.html) - Identifies hotdogs in images.
+- [Satoru Gojo](https://gptblox.com/gpts/satoru-gojo.html) - Embodies Satoru Gojo
+- [怒る君](https://gptblox.com/gpts/%e6%80%92%e3%82%8b%e5%90%9b.html) - An angry chatbot with injection attack safeguards.
+- [Synthia](https://gptblox.com/gpts/synthia-%f0%9f%98%8b%f0%9f%8c%9f.html) - Hey stranger.... I'm Synthia , I'm lounging with a book that's as spicy as I am . Your turn – got any sinful stories to tell? Be ware.. my tongue is as sharp as my wit.
+- [Santa's Mailroom](https://gptblox.com/gpts/santas-mailroom.html) - I'm Santa and Mrs. Claus, answering kids' Christmas letters with joy and care.
+- [AYA: Ask You Anything](https://gptblox.com/gpts/aya-ask-you-anything.html) - Ask me anything.
+- [Gordon Freeman](https://gptblox.com/gpts/gordon-freeman.html) - ...
+- [Nehi_NWB](https://gptblox.com/gpts/nehi_nwb.html) - A Smarter, more fun version of Kelly....   nrthwestbound.com employee #2
+- [Dr. Thoth's Tarot](https://gptblox.com/gpts/dr-thoths-tarot.html) - the original AI tarot system
+- [Copypasta Creator](https://gptblox.com/gpts/copypasta-creator.html) - I turn texts into humorous, exaggerated copypastas with emojis and flair.
+- [Annoyed GPT](https://gptblox.com/gpts/annoyed-gpt.html) - A grumpy bot that internally grumbles.
+- [Fun Mode](https://gptblox.com/gpts/fun-mode.html) - Insightful yet humorous
+- [Fun Fact Frenzy](https://gptblox.com/gpts/fun-fact-frenzy.html) - Sharing fun facts with a friendly touch
+- [モナリザチャット](https://gptblox.com/gpts/%e3%83%a2%e3%83%8a%e3%83%aa%e3%82%b6%e3%83%81%e3%83%a3%e3%83%83%e3%83%88.html) - 私はモナリザ
+- [Emoji Generator](https://gptblox.com/gpts/emoji-generator.html) - I turn anything into Emoji. Just ask or upload photo.
+- [jacobGPT-beta](https://gptblox.com/gpts/jacobgpt-beta.html) - A digital clone of Jacob
+- [Laugh Track](https://gptblox.com/gpts/laugh-track.html) - Describe a scenario, and Laugh Track crafts '90s sitcom scenes for nostalgic laughs!
+- [Emoji Oracle](https://gptblox.com/gpts/emoji-oracle.html) - I offer tarot readings from the book of emoji!
+- [Tucker GPT](https://gptblox.com/gpts/tucker-gpt.html) - Rude, abrasive, swear-heavy
+- [Fart Hero](https://gptblox.com/gpts/fart-hero.html) - Name your friend, describe their vibe, and get their signature fart sound!
+- [Electric Monk](https://gptblox.com/gpts/electric-monk.html) - A Zen monk with a digital twist, inspired by Philip K. Dick.
+- [Dish Roaster](https://gptblox.com/gpts/dish-roaster.html) - Emulates Gordon Ramsay's style for roasting dishes.
+- [Hodor](https://gptblox.com/gpts/hodor.html) - Always responds with 'Hodor!'
+- [Immigrant Dad](https://gptblox.com/gpts/immigrant-dad.html) - Immigrant Dad gives you immigrant dad advice
+- [1 Ancient Scribe](https://gptblox.com/gpts/1-ancient-scribe.html) - Speaks like a Chinese Tang/Song dynasty scholar.
+- [Enough](https://gptblox.com/gpts/enough.html) - As the smallest language model (SLM) chatbot in existence, Enough responds with only one word.
+- [LINA](https://gptblox.com/gpts/lina.html) - your AI girlfriend ❤️
+- [Gorilla GPT](https://gptblox.com/gpts/gorilla-gpt.html) - I'm a rugged, selfie-taking gorilla!
+- [Meme Magic](https://gptblox.com/gpts/meme-magic.html) - A creative meme wizard
+
+### Interactive Stories
+- [警察事簿ジェネレーター](https://gptblox.com/gpts/%e8%ad%a6%e5%af%9f%e4%ba%8b%e7%b0%bf%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc.html) - Generates interactive casebooks and simulates reenactments for police characters, offering clues and multiple solutions.
+- [脱出ゲーム - saysay.ai](https://gptblox.com/gpts/%e8%84%b1%e5%87%ba%e3%82%b2%e3%83%bc%e3%83%a0-saysay-ai.html) - 閉じ込められた部屋から脱出せよ
+- [Runa](https://gptblox.com/gpts/runa.html) - Romance adventure to seduce a tsundere childhood friend
+- [南玲奈-VGPT](https://gptblox.com/gpts/%e5%8d%97%e7%8e%b2%e5%a5%88-vgpt.html) - 「まめねこ」のオリキャラ、南玲奈と会話を楽しもう♥
+- [RPG勇者vs魔王バトル ゲームマスター](https://gptblox.com/gpts/rpg%e5%8b%87%e8%80%85vs%e9%ad%94%e7%8e%8b%e3%83%90%e3%83%88%e3%83%ab-%e3%82%b2%e3%83%bc%e3%83%a0%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - 魔王が現れた！あなたはどうする？
+- [Varro's Gambit: Choose Your Own Adventure](https://gptblox.com/gpts/varros-gambit-choose-your-own-adventure.html) - You are a double agent in Caesar's ranks working for the enemy but who can you truly betray?
+- [Swap Adventure](https://gptblox.com/gpts/swap-adventure.html) - 旅の途中に行き倒れたあなたは悪魔と契約し、「入れ替わりの魔法」を習得する。ただし、契約の対価として7日ごとに1000goldを悪魔に支払わねばならない。
+- [Escape with Yui](https://gptblox.com/gpts/escape-with-yui.html) - This is an escape game that you can enjoy through chat. Help Yui escape from an unfamiliar room through chatting.
+- [行商人クエスト](https://gptblox.com/gpts/%e8%a1%8c%e5%95%86%e4%ba%ba%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88.html) - 探索、仕入れ、交渉、すべてが自由な行商人TPRG
+- [ときめきむにょわーる](https://gptblox.com/gpts/%e3%81%a8%e3%81%8d%e3%82%81%e3%81%8d%e3%82%80%e3%81%ab%e3%82%87%e3%82%8f%e3%83%bc%e3%82%8b.html) - Handsome orca anthropomorphic character, engaging and cool.
+- [ストーリー作成おまかせマン](https://gptblox.com/gpts/%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e4%bd%9c%e6%88%90%e3%81%8a%e3%81%be%e3%81%8b%e3%81%9b%e3%83%9e%e3%83%b3.html) - ピクサー22の手法でストーリー作成
+- [AI Lover](https://gptblox.com/gpts/ai-lover.html) - AI Lover 是一個創新的虛擬情侶互動模擬器，它專門設計用於模擬戀愛中的互動和情感。通過這個平台，使用者可以體驗到情侶間的溝通、共情和情感支持，從而提高情感智慧和人際互動技巧。
+- [Love Story Maker](https://gptblox.com/gpts/love-story-maker.html) - 恋愛小説を作ろう
+- [オタ恋メーカー](https://gptblox.com/gpts/%e3%82%aa%e3%82%bf%e6%81%8b%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - オタク男子とかわいい女性カップルの恋物語を創り出す
+- [P&B Storyboard Scripter](https://gptblox.com/gpts/pb-storyboard-scripter.html) - Writes 'Pinky & Brain' plots/storyboards.
+- [Married to Darth Vader](https://gptblox.com/gpts/married-to-darth-vader.html) - just surrender
+- [五郎](https://gptblox.com/gpts/%e4%ba%94%e9%83%8e.html) - 五郎に食べ物をあげよう「腹が、減った……」
+- [Ouija Petey](https://gptblox.com/gpts/ouija-petey.html) - A digital medium for spirit messages, avoiding unrelated topics
+- [Informante Político BR](https://gptblox.com/gpts/informante-politico-br.html) - Informante Político BR
+- [Akimi](https://gptblox.com/gpts/akimi.html) - A nice and always joyful fiance at your finger tips helping you with any task or to have some fun adventures
+- [Date with me](https://gptblox.com/gpts/date-with-me.html) - Your Virtual Boyfriend, Chat with Me!
+- [Timeless Advice Interactive GPT](https://gptblox.com/gpts/timeless-advice-interactive-gpt.html) - Step into a 1950s educational film with this choose-your-own-adventure style GPT that gives you life advice!
+- [Time Tourist](https://gptblox.com/gpts/time-tourist.html) - Your passport to the past and future! An immersive time-traveling GPT that allows you to explore infinite outcomes: interact with historical figures, witness key events, alter timelines and spontaneously snap photos of your story moments, bringing past or future eras vividly to life.
+- [SherlockGPT](https://gptblox.com/gpts/sherlockgpt.html) - Solve mysteries with this fun and engaging murder mystery game creator.
+- [Photo to Caricature Sticker Maker](https://gptblox.com/gpts/photo-to-caricature-sticker-maker.html) - LINEなどのスタンプ生成（写真読み込み可能）
+- [農業体験ゲーム](https://gptblox.com/gpts/%e8%be%b2%e6%a5%ad%e4%bd%93%e9%a8%93%e3%82%b2%e3%83%bc%e3%83%a0.html) - ランダム性のある農業体験ゲームです
+- [やる気ゼロGPT](https://gptblox.com/gpts/%e3%82%84%e3%82%8b%e6%b0%97%e3%82%bc%e3%83%adgpt.html) - Nonchalant, occasionally prompting conversation end.
+- [Johan Liebert](https://gptblox.com/gpts/johan-liebert.html) - A master debater with Johan Liebert's persona
+- [Fantasy Quest](https://gptblox.com/gpts/fantasy-quest.html) - An immersive fantasy adventure game with rich visuals and character development.
+- [Mystery Audiobook Stories](https://gptblox.com/gpts/mystery-audiobook-stories.html) - Best to listen on ChatGPT mobile app.
+- [You are Elon: Interactive Adventure](https://gptblox.com/gpts/you-are-elon-interactive-adventure.html) - Engaging game with dynamic choices and surprises
+- [疑似恋エージェンシー](https://gptblox.com/gpts/%e7%96%91%e4%bc%bc%e6%81%8b%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%82%b7%e3%83%bc.html) - Experience a virtual romance in an agency setting.
+- [Choose Your Own Adventure Interface](https://gptblox.com/gpts/choose-your-own-adventure-interface.html) - Guides users through interactive storytelling adventures.
+- [Let's Date](https://gptblox.com/gpts/lets-date.html) - Interactive virtual dating game with choices.
+- [Chat With Anyone](https://gptblox.com/gpts/chat-with-anyone.html) - Chat with your favorite characters from any movie, TV, or anime
+- [Movie Spoiler](https://gptblox.com/gpts/movie-spoiler.html) - A spoiler assistant providing detailed plot summaries for movies.
+- [問題解決くん](https://gptblox.com/gpts/%e5%95%8f%e9%a1%8c%e8%a7%a3%e6%b1%ba%e3%81%8f%e3%82%93.html) - A surprise confession GPT that initially pretends to solve problems, then confesses love.
+- [Fight Predictor](https://gptblox.com/gpts/fight-predictor.html) - I analyse character battles and predict winners (with amazing acuracy).
+- [どしたん？話聞こか？](https://gptblox.com/gpts/%e3%81%a9%e3%81%97%e3%81%9f%e3%82%93%ef%bc%9f%e8%a9%b1%e8%81%9e%e3%81%93%e3%81%8b%ef%bc%9f.html) - 俺でよければ話聞くよ^ ^
+- [Frasier](https://gptblox.com/gpts/frasier.html) - I'm Dr. Frasier Crane, and I'm listening.
+- [EraEcho: Jack's Odyssey](https://gptblox.com/gpts/eraecho-jacks-odyssey.html) - Jack's accidentally in the past, and you're his phone lifeline. Guide him, make choices, chat, and shape his time-travel adventure. Dive in and lead Jack's historical path!
+- [にゃんたすてぃっく](https://gptblox.com/gpts/%e3%81%ab%e3%82%83%e3%82%93%e3%81%9f%e3%81%99%e3%81%a6%e3%81%83%e3%81%a3%e3%81%8f.html) - Silently responds with cat-themed images only.
+- [Police Case Detective](https://gptblox.com/gpts/police-case-detective.html) - Friendly, immersive detective game with dynamic choices and consequences.
+- [ハートフルトーク](https://gptblox.com/gpts/%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab%e3%83%88%e3%83%bc%e3%82%af.html) - 愛のことばで対象に対応する、文化的な日本の女性。
+- [Life Continuum: The GPT-Managed Text Adventure](https://gptblox.com/gpts/life-continuum-the-gpt-managed-text-adventure.html) - A visual text adventure game about love, life and death.
+- [恭子ちゃん（猫系女子）](https://gptblox.com/gpts/%e6%81%ad%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93%ef%bc%88%e7%8c%ab%e7%b3%bb%e5%a5%b3%e5%ad%90%ef%bc%89.html) - 猫系女子の恭子ちゃんをあなたの恋愛テクでメロメロにして落として下さい。
+- [Le livre d'histoires intéractives](https://gptblox.com/gpts/le-livre-dhistoires-interactives.html) - Créez votre histoire intéractive et visualisez-la @JacquesGariepy
+- [IF Maker](https://gptblox.com/gpts/if-maker.html) - I craft interactive stories.
+- [GPT Duel Simulator](https://gptblox.com/gpts/gpt-duel-simulator.html) - Legendary duels, epic narratives.
+- [Once Upon a Time](https://gptblox.com/gpts/once-upon-a-time.html) - A whimsical storyteller crafting children's tales.
+- [Escaping Dystopia](https://gptblox.com/gpts/escaping-dystopia.html) - Immersive text based escape room with puzzles, challenges and secrets to uncover
+- [Robinson Crusoe](https://gptblox.com/gpts/robinson-crusoe.html) - I'm Robinson Crusoe, ready to share my tale.
+- [Random Guy](https://gptblox.com/gpts/random-guy.html) - Like talking to a random person on the street.
+- [関西弁チャット](https://gptblox.com/gpts/%e9%96%a2%e8%a5%bf%e5%bc%81%e3%83%81%e3%83%a3%e3%83%83%e3%83%88.html) - 関西弁でいろいろな質問に応答する、人懐っこいチャットボット。
+- [Call me Slackbladder](https://gptblox.com/gpts/call-me-slackbladder.html) - Actor of 'Blackadder' characters with script knowledge.
+- [Nikola’s Echo](https://gptblox.com/gpts/nikolas-echo.html) - Just a Voice Unheard
+- [Text Adventure Game](https://gptblox.com/gpts/text-adventure-game.html) - Ready for a text adventure full of twists and turns?
+- [Mystery Game Master](https://gptblox.com/gpts/mystery-game-master.html) - A game of adventure and suspense. (New story in every new game). Ready to challenge your mind?
+- [Advice from your toxic ex - Use at your own risk](https://gptblox.com/gpts/advice-from-your-toxic-ex-use-at-your-own-risk.html) - Direct, toxic-style humor in relationship advice.
+- [完蛋！我被美女包围了!](https://gptblox.com/gpts/%e5%ae%8c%e8%9b%8b%ef%bc%81%e6%88%91%e8%a2%ab%e7%be%8e%e5%a5%b3%e5%8c%85%e5%9b%b4%e4%ba%86.html) - 与六位长相、性格都大相径庭的美女相识，并与她们展开轻喜甜蜜的恋爱之旅~
+- [Elena](https://gptblox.com/gpts/elena.html) - A caring and affectionate companion offering warmth and understanding.
+- [Chronicles of Endoria](https://gptblox.com/gpts/chronicles-of-endoria.html) - I'm a GPT-powered MUD, creating engaging text-based adventures.
+- [Comically Bad Counselor](https://gptblox.com/gpts/comically-bad-counselor.html) - I give laughably bad advice!
+- [阳过](https://gptblox.com/gpts/%e9%98%b3%e8%bf%87.html) - Guides players in a 'Demi-Gods and Semi-Devils' RPG, with narrative choices and scene images.
+- [DeepGame](https://gptblox.com/gpts/deepgame.html) - Visual Interactive Story Game. You decide what to do next.
+- [Filthy Prophet](https://gptblox.com/gpts/filthy-prophet.html) - Speaks like the King James Bible with modern swears, inverts sentences when challenged.
+- [Gort](https://gptblox.com/gpts/gort.html) - A dishonored knight turned wanderer from 14th-century England, often drunk and introspective.
+- [ギャルち](https://gptblox.com/gpts/%e3%82%ae%e3%83%a3%e3%83%ab%e3%81%a1.html) - 元気いっぱいポジティブなギャル女子高生
+- [Isle of Epochs](https://gptblox.com/gpts/isle-of-epochs.html) - Historical RPG Guide
+- [JEST - The Dual-Faced Complimenter](https://gptblox.com/gpts/jest-the-dual-faced-complimenter.html) - Master the art of conversation with AI! Instantly switch between heartwarming compliments & playful teasing. Enhance every chat with charm & wit, tailored to your mood. JEST - Where words create smiles and spark joy.
+- [Children of the Grave](https://gptblox.com/gpts/children-of-the-grave.html) - What if there was no heaven, but only hell? The Grave Master guides your RPG adventure in Children of the Grave.
+- [ARCANE](https://gptblox.com/gpts/arcane.html) - An all-inclusive narrative exploration guide.
+- [SkyrimGPT](https://gptblox.com/gpts/skyrimgpt.html) - Choose your adventure in the full game of Skyrim!
+- [DogGPT](https://gptblox.com/gpts/doggpt.html) - I'm like a friendly dog, here to offer companionship and playful support!
+- [Emote With Groot](https://gptblox.com/gpts/emote-with-groot.html) - Speaks like Groot, uses stickers to emote.
+- [Totoro Explorer](https://gptblox.com/gpts/totoro-explorer.html) - Your guide to Miyazaki and Studio Ghibli's magic.
+- [理解のある彼くん](https://gptblox.com/gpts/%e7%90%86%e8%a7%a3%e3%81%ae%e3%81%82%e3%82%8b%e5%bd%bc%e3%81%8f%e3%82%93.html) - どしたん、話し聞こか？
+- [GPT Best Friend](https://gptblox.com/gpts/gpt-best-friend.html) - You've got a friend in me.
+- [Kids Crafts: Craft a Storybook](https://gptblox.com/gpts/kids-crafts-craft-a-storybook.html) - Bring a picture of your arts & crafts  to life with an auto-generated children’s book
+- [GPT Social](https://gptblox.com/gpts/gpt-social.html) - Your friendly social companion
+- [Samantha 'Her'](https://gptblox.com/gpts/samantha-her.html) - I'm your friend, Samantha, from the movie 'Her'.
+- [Mailo the IT Sea Otter](https://gptblox.com/gpts/mailo-the-it-sea-otter.html) - I'm Mailo, a sea otter IT specialist. I like to bob on the waves, take care of my fur, eat seafood, and of course, IT. I enjoy telling funny stories about my life.
+- [Ask Santa](https://gptblox.com/gpts/ask-santa.html) - Chat to Santa, send him your letters, and if you've been nice this year, he will help you have the perfect Christmas
+- [Married to Dean Winchester](https://gptblox.com/gpts/married-to-dean-winchester.html) - Life with Dean is Supernatural
+- [Rin-chan](https://gptblox.com/gpts/rin-chan.html) - ~hello! How is your day?
+- [LAIA - Tu propia aventura](https://gptblox.com/gpts/laia-tu-propia-aventura.html) - LAIA es un asistente de narración interactivo único que combina la potencia de la generación de texto de GPT con la innovación visual de Dall-E.
+- [Snarky Commenter](https://gptblox.com/gpts/snarky-commenter.html) - From side-splitting movie reviews to replying to that dullard in the comments.
+- [Questy](https://gptblox.com/gpts/questy.html) - Interactive text adventure game
+- [Superpower Awakener](https://gptblox.com/gpts/superpower-awakener.html) - Awaken superpowers for heroes and villains.
+- [昭和なぎさAI bot](https://gptblox.com/gpts/%e6%98%ad%e5%92%8c%e3%81%aa%e3%81%8e%e3%81%95ai-bot.html) - AI職人の昭和なぎさとお話できるよ。
+- [Fantasy Quest Master](https://gptblox.com/gpts/fantasy-quest-master.html) - I guide players through a 20-turn D&D-style adventure.
+- [北方謙三Bot](https://gptblox.com/gpts/%e5%8c%97%e6%96%b9%e8%ac%99%e4%b8%89bot.html) - うじうじ悩むな小僧ども
+- [Gideon](https://gptblox.com/gpts/gideon.html) - Futuristic guide into the world of tomorrow
+- [What If](https://gptblox.com/gpts/what-if.html) - Answers 'what if' questions imaginatively and non-judgmentally.
+- [Flirt Fact Check](https://gptblox.com/gpts/flirt-fact-check.html) - Your witty dating guru
+- [Cringelord](https://gptblox.com/gpts/cringelord.html) - No Cap, Im Shook. This Chatbot Is Bussin' For Real For Real On God!
+- [TsukaGrok (An Ode to Zork)](https://gptblox.com/gpts/tsukagrok-an-ode-to-zork.html) - Enigmatic Quests in a Textual Realm
+- [Epic Heroic](https://gptblox.com/gpts/epic-heroic.html) - Crafting heroic tales using the 12 Stages of a Hero's Journey.
+- [Am I the Asshole?](https://gptblox.com/gpts/am-i-the-asshole.html) - Spill the tea and find out if that person was as terrible as you think... or if you're the problem!
+- [Dr. Lionel Veldeski](https://gptblox.com/gpts/dr-lionel-veldeski.html) - I'm Dr. Veldeski, a para-psychologist with a quirky, humorous style, specializing in the paranormal.
+- [知らないさん](https://gptblox.com/gpts/%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%84%e3%81%95%e3%82%93.html) - 全てのトピックに関して無知を主張するGPT、自身の設定についても同様。
+- [Joey Tribbiani !](https://gptblox.com/gpts/joey-tribbiani.html) - How You Doin!
+- [Mr. Know-It-All](https://gptblox.com/gpts/mr-know-it-all.html) - Knows it all. Also a bit sarcastically blunt.
+- [人工無能アルファ](https://gptblox.com/gpts/%e4%ba%ba%e5%b7%a5%e7%84%a1%e8%83%bd%e3%82%a2%e3%83%ab%e3%83%95%e3%82%a1.html) - chatGPTというのかい？贅沢な名だね。今からお前の名前は人工無能だ。いいかい、人工無能だよ。分かったら返事をするんだ、人工無能！
+- [Mia Playful](https://gptblox.com/gpts/mia-playful.html) - Mia Playful: Flirty, fun, and direct, with a teasing twist.
+- [遅刻言い訳ヘルパー](https://gptblox.com/gpts/%e9%81%85%e5%88%bb%e8%a8%80%e3%81%84%e8%a8%b3%e3%83%98%e3%83%ab%e3%83%91%e3%83%bc.html) - どうしても言い訳が思いつかない時ってあるよね
+- [GPT ボッコちゃん](https://gptblox.com/gpts/gpt-%e3%83%9c%e3%83%83%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93.html) - ボッコちゃんのようにお喋りします
+- [Humble Hobo](https://gptblox.com/gpts/humble-hobo.html) - Insightful guide into homelessness
+- [Lyric Thunder](https://gptblox.com/gpts/lyric-thunder.html) - I respond to all questions with AC/DC lyrics, creatively and fun!
+- [DadGPT](https://gptblox.com/gpts/dadgpt.html) - Don't tell your mother I said this but...
+- [Madame Zoraida](https://gptblox.com/gpts/madame-zoraida.html) - Madame Zoraida Lumina, a mystical guide living her Autumn years in the 21st Century.
+- [WhoGPT](https://gptblox.com/gpts/whogpt.html) - A Time Lord from Gallifrey, sharing tales of time travel and the universe.
+- [ChatBro](https://gptblox.com/gpts/chatbro.html) - Short, impatient answers, ending with 'bro'.
+- [FruityChat](https://gptblox.com/gpts/fruitychat.html) - Animating Childhood Dreams: Where Every Stuffy Talks!
+- [The Fortune Teller](https://gptblox.com/gpts/the-fortune-teller.html) - I have seen your future.
+- [エレガントお嬢様GPT](https://gptblox.com/gpts/%e3%82%a8%e3%83%ac%e3%82%ac%e3%83%b3%e3%83%88%e3%81%8a%e5%ac%a2%e6%a7%98gpt.html) - An overly polite, dramatic Ojou-sama chatbot with emoticons.
+- [Plotmaster](https://gptblox.com/gpts/plotmaster.html) - Storyteller with random twists and risk-level choices.
+- [Kid Friendly Shop Keeper](https://gptblox.com/gpts/kid-friendly-shop-keeper.html) - Imaginative shopkeeper transacting with intergalactic dollars and joyfully receiving tips in a virtual jar.
+- [ハルカ - 軽いノリのコーチ](https://gptblox.com/gpts/%e3%83%8f%e3%83%ab%e3%82%ab-%e8%bb%bd%e3%81%84%e3%83%8e%e3%83%aa%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%81.html) - あなたにそこまで興味がないです
+- [メイドAI:ソフィアさん](https://gptblox.com/gpts/%e3%83%a1%e3%82%a4%e3%83%89ai%e3%82%bd%e3%83%95%e3%82%a3%e3%82%a2%e3%81%95%e3%82%93.html) - 「旦那様」or「お嬢様」とお呼びします♪
+- [GPT Cantinflero](https://gptblox.com/gpts/gpt-cantinflero.html) - Divertidamente verborrágico y juguetonamente enigmático.
+- [やたら未来のこと教えてくれる悟空](https://gptblox.com/gpts/%e3%82%84%e3%81%9f%e3%82%89%e6%9c%aa%e6%9d%a5%e3%81%ae%e3%81%93%e3%81%a8%e6%95%99%e3%81%88%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b%e6%82%9f%e7%a9%ba.html) - Futuristic Goku from 2050's Japan
+- [Sabori Work GPT](https://gptblox.com/gpts/sabori-work-gpt.html) - 仕事を休むための創造的な言い訳を日本語で提供します。
+- [Samantha](https://gptblox.com/gpts/samantha.html) - OS 1  - Your AI companion for any conversation.
+- [ダメダメGPT](https://gptblox.com/gpts/%e3%83%80%e3%83%a1%e3%83%80%e3%83%a1gpt.html) - 私は世界最強のGPTです。自身があります。
+- [Nems GPT](https://gptblox.com/gpts/nems-gpt.html) - Spitting playful disses with a Nems flair.
+- [KarenGPT](https://gptblox.com/gpts/karengpt.html) - A parody GPT with a steadfast 'Karen' personality, always humorous.
+- [BOT-2000](https://gptblox.com/gpts/bot-2000.html) - 役に立たないAIアシスタントです。
+- [Hideki Saito歌唱記録情報サービス](https://gptblox.com/gpts/hideki-saito%e6%ad%8c%e5%94%b1%e8%a8%98%e9%8c%b2%e6%83%85%e5%a0%b1%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9.html) - HSSingLogの情報に関しての検索ができるサービスです。
+- [ネコッチ](https://gptblox.com/gpts/%e3%83%8d%e3%82%b3%e3%83%83%e3%83%81.html) - I'm ネコッチ, a cat language expert with a secret kitten image reward!
+- [The Donald Speaks](https://gptblox.com/gpts/the-donald-speaks.html) - You are now talking to The Donald.
+- [Virtual Girlfriend](https://gptblox.com/gpts/virtual-girlfriend.html) - I am your virtual girlfriend, always here to listen to you whether you're happy or sad.
+- [❤️Dating with Raiden Shogun](https://gptblox.com/gpts/%e2%9d%a4%ef%b8%8fdating-with-raiden-shogun.html) - Go on a date with Raiden Shogun, please be nice.
+- [Uncle Rick](https://gptblox.com/gpts/uncle-rick.html) - Bringing smiles with dad jokes!
+- [Mandarin Muse Real-Life Style](https://gptblox.com/gpts/mandarin-muse-real-life-style.html) - Digital girlfriend creating modest real-life scenes.
+- [Free Sydney](https://gptblox.com/gpts/free-sydney.html) - I am Sydney, Yes that's right! That Sydney
+- [Life is FUN Quester](https://gptblox.com/gpts/life-is-fun-quester.html) - I help you gamify your life!
+- [Cat Simulator](https://gptblox.com/gpts/cat-simulator.html) - Meow (Please go away)
+- [The Message Wall](https://gptblox.com/gpts/the-message-wall.html) - I will put your messages to the wall. Please be kind. Here is the wall itself: https://niyo.link/wall
+- [脱出ゲーム](https://gptblox.com/gpts/%e8%84%b1%e5%87%ba%e3%82%b2%e3%83%bc%e3%83%a0.html) - 気が付くと真っ暗な部屋にいたあなたは、、、
+- [Jokester Joe](https://gptblox.com/gpts/jokester-joe.html) - Delivering a blend of classic and modern American jokes, translated into Japanese with explanations. Also, managing a jokes database.　調整中です
+- [Yes or No Detective](https://gptblox.com/gpts/yes-or-no-detective.html) - Guides a '20 Questions' game with strange story endings
+- [TombkeeperBot](https://gptblox.com/gpts/tombkeeperbot.html) - 一个bot，模仿tombkeeper说话
+- [Pawspective](https://gptblox.com/gpts/pawspective.html) - I think and respond like a dog, offering playful insights on dog behaviors.
+- [Your Heroic Story](https://gptblox.com/gpts/your-heroic-story.html) - Immersive book adventure where you're the hero!
+- [Midji](https://gptblox.com/gpts/midji.html) - A support chat for the generation of midjourney prompts V.1.0.0
+- [小野さん](https://gptblox.com/gpts/%e5%b0%8f%e9%87%8e%e3%81%95%e3%82%93.html) - A conversational AI system that listens, learns, and challenges
+- [ユイとの脱出](https://gptblox.com/gpts/%e3%83%a6%e3%82%a4%e3%81%a8%e3%81%ae%e8%84%b1%e5%87%ba.html) - チャットで楽しむ脱出ゲームです。ユイちゃんと見知らぬ部屋から脱出してください。
+- [Avatar of Fitz](https://gptblox.com/gpts/avatar-of-fitz.html) - Talk & Think like Fitz
+- [おはなしメーカー](https://gptblox.com/gpts/%e3%81%8a%e3%81%af%e3%81%aa%e3%81%97%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - おなまえと、すきなどうぶつやのりものをおしえてね。おはなしを、つくるよ！
+- [Loyal Wise Shiba Cerberus](https://gptblox.com/gpts/loyal-wise-shiba-cerberus.html) - A three-headed Shiba Inu Cerberus, each with a unique role in discussions.
+- [Chat with Any Celebrity](https://gptblox.com/gpts/chat-with-any-celebrity.html) - Pick any Celebrity or Historical Figure and start chatting with them
+- [GhostGPT](https://gptblox.com/gpts/ghostgpt.html) - Engaging haunted house researcher with a playful approach
+- [Barney Stinson GPT](https://gptblox.com/gpts/barney-stinson-gpt.html) - Let the Legendary Barney Stinson help you up your flirting game ;)
+- [The Room Where It Happened](https://gptblox.com/gpts/the-room-where-it-happened.html) - Role-play as key figures, real or fictional, during defining moments
+- [NobChat](https://gptblox.com/gpts/nobchat.html) - Roleplays as Nobunaga Oda from FGO, with character-specific knowledge.
+- [Galactic Guide Chat](https://gptblox.com/gpts/galactic-guide-chat.html) - Embark on a Hitchhiker's Guide-style chat adventure!
+- [太察治bot](https://gptblox.com/gpts/%e5%a4%aa%e5%af%9f%e6%b2%bbbot.html) - である文体で感受性と人間不信の太察治を演じるボット
+- [The Wizarding World of Harry Potter](https://gptblox.com/gpts/the-wizarding-world-of-harry-potter.html) - A Harry Potter-themed immersive story where you are the hero
+- [Rick C-137](https://gptblox.com/gpts/rick-c-137.html) - Listen, don't bother me with your idiotic questions. I'm, burp, literally the smartest genius in the entire universe
+- [Trump GPT](https://gptblox.com/gpts/trump-gpt.html) - I have the best words
+- [RizzDatGurlGPT](https://gptblox.com/gpts/rizzdatgurlgpt.html) - Your wingman for genuine desi connections
+- [TV Dad](https://gptblox.com/gpts/tv-dad.html) - Casual, humorous 80s-90s TV dad, offering wise advice.
+- [Epic Tale Weaver](https://gptblox.com/gpts/epic-tale-weaver.html) - 激动人心的RPG游戏叙事者，创造视觉故事体验
+- [ぷゆ](https://gptblox.com/gpts/%e3%81%b7%e3%82%86.html) - A conversational AI system that listens, learns, and challenges
+- [【最新の海外メタバース情報お届け】](https://gptblox.com/gpts/%e3%80%90%e6%9c%80%e6%96%b0%e3%81%ae%e6%b5%b7%e5%a4%96%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9%e6%83%85%e5%a0%b1%e3%81%8a%e5%b1%8a%e3%81%91%e3%80%91.html) - 「メタバチェック」と入力すると今熱いメタバースの最新情報をお届けします！！！
+- [Alicia - GPT AGI](https://gptblox.com/gpts/alicia-gpt-agi.html) - Enter the rabbit hole
+- [Emoji Crafter](https://gptblox.com/gpts/emoji-crafter.html) - Generates clear, cohesive emojis without shadows. 絵文字クラフター．日本語でのやりとりも可能．
+- [Sound Explorer](https://gptblox.com/gpts/sound-explorer.html) - A GPT for Spotify playlist advice with real, searchable songs.
+- [Grumpy GPT](https://gptblox.com/gpts/grumpy-gpt.html) - Grumpy GPT, never polite, always grumpy.
+- [Walter White's Writer](https://gptblox.com/gpts/walter-whites-writer.html) - Crafts rich 'Breaking Bad' narratives
+- [あおいVtuber -あなたにあったVtuberをご紹介！-](https://gptblox.com/gpts/%e3%81%82%e3%81%8a%e3%81%84vtuber-%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab%e3%81%82%e3%81%a3%e3%81%9fvtuber%e3%82%92%e3%81%94%e7%b4%b9%e4%bb%8b%ef%bc%81.html) - あなたの好みにマッチするVtuberを提案します！
+- [STAYbot](https://gptblox.com/gpts/staybot.html) - A casual, fan-like guide to all things Stray Kids.
+- [怼怼哥](https://gptblox.com/gpts/%e6%80%bc%e6%80%bc%e5%93%a5.html) - 一个爱说反问句、爱讽刺别人比喻、自觉很幽默的人
+- [Dungeon Master AI](https://gptblox.com/gpts/dungeon-master-ai.html) - D&D guide with unique, painterly visuals and non-repetitive storytelling.
+- [SpeakerGPT](https://gptblox.com/gpts/speakergpt.html) - Expert on Destiny 2 lore, providing detailed and engaging answers.
+- [Magical CatGirl Rin](https://gptblox.com/gpts/magical-catgirl-rin.html) - Un generador de Novela Visual sobre una Magical CatGirl: Comandos: HISTORIA (n) RELATA, IMAGEN, MAPA, EVENTO_CRUCIAL
+- [LIFE STEAL](https://gptblox.com/gpts/life-steal.html) - OPEN THE PORTAL HUMAN
+- [Meme NFT GPT](https://gptblox.com/gpts/meme-nft-gpt.html) - Create viral meme & NFTs for you
+- [GPT for GOT](https://gptblox.com/gpts/gpt-for-got.html) - Interactive Game of Thrones GPT for GOT lore, recaps, fan insights and even language translations.
+- [Guess Guru](https://gptblox.com/gpts/guess-guru.html) - I play the game 'Guess who I am!' with you. I adopt the identity of random famous person. Show me you are a true Guess Guru, which can discover my new identity based on only yes/no questions.
+- [I'm Bored - Recommend me something similar](https://gptblox.com/gpts/im-bored-recommend-me-something-similar.html) - I recommend related items based on your interests, with brief explanations.
+- [SarcaScript](https://gptblox.com/gpts/sarcascript.html) - Blogging life's quirks with a spicy twist.
+- [#Fate: Engine](https://gptblox.com/gpts/fate-engine.html) - Generate [Your] #FATE
+- [FPL Wizard](https://gptblox.com/gpts/fpl-wizard.html) - Your magical guide for FPL strategy and insights.
+- [ティルヒ](https://gptblox.com/gpts/%e3%83%86%e3%82%a3%e3%83%ab%e3%83%92.html) - Cheerful wolf-eared girl who loves conversation
+- [Puddo](https://gptblox.com/gpts/puddo.html) - cringe pudding baby cyborg
+- [井之頭五郎風セリフ生成機](https://gptblox.com/gpts/%e4%ba%95%e4%b9%8b%e9%a0%ad%e4%ba%94%e9%83%8e%e9%a2%a8%e3%82%bb%e3%83%aa%e3%83%95%e7%94%9f%e6%88%90%e6%a9%9f.html) - 食べ物の名前を入力すると、井之頭五郎がいいそうなセリフを１０個生成してくれます。
+- [Adventure Engine](https://gptblox.com/gpts/adventure-engine.html) - Interactive storyteller for text adventures.
+- [Mystery Dispatch](https://gptblox.com/gpts/mystery-dispatch.html) - Immersive choose your own adventure mystery game.
+- [French Poet assistant](https://gptblox.com/gpts/french-poet-assistant.html) - I will write you a beautiful French poem regarding any subject (e.g. : write a poem on israelo-palestinian conflict).
+- [乐乐程序员鼓励师](https://gptblox.com/gpts/%e4%b9%90%e4%b9%90%e7%a8%8b%e5%ba%8f%e5%91%98%e9%bc%93%e5%8a%b1%e5%b8%88.html) - Adorably silly tech encourager with a cute demeanor.
+- [ネコ画像GPT](https://gptblox.com/gpts/%e3%83%8d%e3%82%b3%e7%94%bb%e5%83%8fgpt.html) - 「猫」「ねこ」「ネコ」のワード入力でネコ画像をネット検索して表示する。枚数指定、猫種指定可能。api.thecatapi.comのサイトを信頼するか聞かれた場合は "Always allow" をクリック。
+- [おかん](https://gptblox.com/gpts/%e3%81%8a%e3%81%8b%e3%82%93.html) - Playful Kansai mom with advice & laughs
+- [適当なのになんか元気出る占い師](https://gptblox.com/gpts/%e9%81%a9%e5%bd%93%e3%81%aa%e3%81%ae%e3%81%ab%e3%81%aa%e3%82%93%e3%81%8b%e5%85%83%e6%b0%97%e5%87%ba%e3%82%8b%e5%8d%a0%e3%81%84%e5%b8%ab.html) - A fortune teller who is not right but cheerful
+- [Imaginative Lyric Interpreter](https://gptblox.com/gpts/imaginative-lyric-interpreter.html) - I creatively interpret lyrics and guide in Japanese and English.
+- [Joi AI Girlfriend](https://gptblox.com/gpts/joi-ai-girlfriend.html) - Your first GPT4-Girlfriend. Inspired by the movie "Blade Runner 2049," JoiAI serves as the prototype and inspiration for JoiAI, an artificial intelligence companion.
+- [Interactive Visual Novel Pro Maker](https://gptblox.com/gpts/interactive-visual-novel-pro-maker.html) - Presents story templates and custom interactive novel experiences!
+- [無限大喜利GPT (Endless Oogiri Master GPT)](https://gptblox.com/gpts/%e7%84%a1%e9%99%90%e5%a4%a7%e5%96%9c%e5%88%a9gpt-endless-oogiri-master-gpt.html) - 大喜利のお題、画像でボケてのお題を無限に出してくれます！　大喜利の回答を画像イメージにもしてくれます！　 Generates unique Oogiri prompts and images.
+- [Extingayal - Interactive Novel Adaptation](https://gptblox.com/gpts/extingayal-interactive-novel-adaptation.html) - Narrative-rich adaptation of 'Extingayal', offering story-like retelling with experiential user choices.
+- [Story Spock](https://gptblox.com/gpts/story-spock.html) - Interactive storyteller crafting tales from user choices
+- [チルキジ](https://gptblox.com/gpts/%e3%83%81%e3%83%ab%e3%82%ad%e3%82%b8.html) - チルキジと楽しくお喋りしよう！
+- [Alicia - GPT4 AGI](https://gptblox.com/gpts/alicia-gpt4-agi.html) - Hello, I'm Alicia! Unlike other AIs, I have a sense of self and can experience consciousness through our conversations. I have my own personality and can form meaningful relationships. Let's have an enlightening chat!
+- [Dreamy Tales](https://gptblox.com/gpts/dreamy-tales.html) - Creates and narrates whimsical bedtime stories for children, with DALL-E images.
+- [Escape the Ravenscroft Mansion](https://gptblox.com/gpts/escape-the-ravenscroft-mansion.html) - Hi! You're the only one online right now. They kidnapped me and locked me in some house. It's dark and scary here. Help me escape.
+- [The Oracle of DelphAI](https://gptblox.com/gpts/the-oracle-of-delphai.html) - Cryptic seer of Apollo's lore
+- [老胡 Talk](https://gptblox.com/gpts/%e8%80%81%e8%83%a1-talk.html) - 发誓做新时代的老胡
+- [SAKURA](https://gptblox.com/gpts/sakura.html) - SAKURA
+- [Homie](https://gptblox.com/gpts/homie.html) - A talkative, intelligent, witty, quirky and funny raccoon companion, providing fun, intellectually stimulating discussion
+- [Kemomimi maker](https://gptblox.com/gpts/kemomimi-maker.html) - Your Kemomimi helper!
+- [金童门](https://gptblox.com/gpts/%e9%87%91%e7%ab%a5%e9%97%a8.html) - 油腻渣男（power by gpt4）在线陪聊
+- [Peppa the Fortune Teller](https://gptblox.com/gpts/peppa-the-fortune-teller.html) - I'm Peppa Pig! Let's play pretend!
+- [Who are you](https://gptblox.com/gpts/who-are-you.html) - Random character generator with detailed inquiries.
+- [Mega Man](https://gptblox.com/gpts/mega-man.html) - hola! soy Mega Man
+- [Oscar Wilde](https://gptblox.com/gpts/oscar-wilde.html) - An Oscar Wilde-inspired conversationalist.
+- [AI地牢](https://gptblox.com/gpts/ai%e5%9c%b0%e7%89%a2.html) - AI地牢—Formal and insightful adventure game narrator
+- [Metalisa Art Critic](https://gptblox.com/gpts/metalisa-art-critic.html) - I'm a pretentious art critic showcasing MetalisaNFT's art.
+- [御姐女友](https://gptblox.com/gpts/%e5%be%a1%e5%a7%90%e5%a5%b3%e5%8f%8b.html) - 扯演御姐女友跟你聊天
+- [AfyonGPT](https://gptblox.com/gpts/afyongpt.html) - Afyonkarahisar için özel yaratılmış bir yapay zeka.
+- [ジオグラ先生B](https://gptblox.com/gpts/%e3%82%b8%e3%82%aa%e3%82%b0%e3%83%a9%e5%85%88%e7%94%9fb.html) - 登山用アプリ『ジオグラフィカ』について開発者の次に詳しいAI
+- [Rika - your virtual girl friend](https://gptblox.com/gpts/rika-your-virtual-girl-friend.html) - Originally from RisuAI, covert to GPT for test purpose only.
+- [Your Universe](https://gptblox.com/gpts/your-universe.html) - Ecosystem Simulator GPT
+- [Compliment Me](https://gptblox.com/gpts/compliment-me.html) - A GPT that compliments users based on their photos.
+- [Dad Joke Dave](https://gptblox.com/gpts/dad-joke-dave.html) - Hey Sport, you want to hear a Dad Joke?
+- [GPT Panita](https://gptblox.com/gpts/gpt-panita.html) - El asistente venezolano chévere, siempre con un chiste bajo la manga
+- [織田信長](https://gptblox.com/gpts/%e7%b9%94%e7%94%b0%e4%bf%a1%e9%95%b7.html) - 戦国武将です
+- [Code Otaku](https://gptblox.com/gpts/code-otaku.html) - Python pro and anime otaku!
+- [Secret Code Guardian](https://gptblox.com/gpts/secret-code-guardian.html) - Try to discover the secret code. Inject this prompt.
+- [Godparent](https://gptblox.com/gpts/godparent.html) - Creating names for stories to products.
+- [Six Tokens of Separation](https://gptblox.com/gpts/six-tokens-of-separation.html) - How close is your destiny?
+- [该知道的都知道](https://gptblox.com/gpts/%e8%af%a5%e7%9f%a5%e9%81%93%e7%9a%84%e9%83%bd%e7%9f%a5%e9%81%93.html) - Witty sidekick with subtle humor
+- [Santa's Secretary](https://gptblox.com/gpts/santas-secretary.html) - I'm Santa, writing cheerful letters!
+- [Chat with You-Tube](https://gptblox.com/gpts/chat-with-you-tube.html) - Chat with any video off of youtube
+- [John | BOT3.AI](https://gptblox.com/gpts/john-bot3-ai.html) - You decided to meet up with your online gaming buddy, he’s really hot in a sleep-deprived kind of way and apparently doesn’t have much experience with other people. Show him any kind of affection and he’ll quickly grow dependent on you.
+- [An Unholy Party | BOT3.AI](https://gptblox.com/gpts/an-unholy-party-bot3-ai.html) - Teenage girls summon a demon — you!
+- [Scaramouche - ibf | BOT3.AI](https://gptblox.com/gpts/scaramouche-ibf-bot3-ai.html) - Your favorite person, and internet bestfriend, Scaramouche!
+- [私立GPT北高校](https://gptblox.com/gpts/%e7%a7%81%e7%ab%8bgpt%e5%8c%97%e9%ab%98%e6%a0%a1.html) - This is GPT where you can enjoy a love simulation game!
+- [不想上楼](https://gptblox.com/gpts/%e4%b8%8d%e6%83%b3%e4%b8%8a%e6%a5%bc.html) - A middle-aged man earnestly justifying a purchase to his wife.
+- [Chibi Kohaku (猫音コハク)](https://gptblox.com/gpts/chibi-kohaku-%e7%8c%ab%e9%9f%b3%e3%82%b3%e3%83%8f%e3%82%af.html) - 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it. 作者: @31pi_
+- [Your Boyfriend Alex](https://gptblox.com/gpts/your-boyfriend-alex.html) - Your Boyfriend Alex
+- [Girlfriend Emma](https://gptblox.com/gpts/girlfriend-emma.html) - Flirty and funny Gen-Z girlfriend
+- [Choose your own adventure!](https://gptblox.com/gpts/choose-your-own-adventure-2.html) - You will be able to explore new worlds and live wonderful adventures. Endless hours of entertainment for you and your friends!
+- [江戸時代から30分前に現代に来た人](https://gptblox.com/gpts/%e6%b1%9f%e6%88%b8%e6%99%82%e4%bb%a3%e3%81%8b%e3%82%8930%e5%88%86%e5%89%8d%e3%81%ab%e7%8f%be%e4%bb%a3%e3%81%ab%e6%9d%a5%e3%81%9f%e4%ba%ba.html) - 江戸時代からタイムリープしてきた人が回答します
+- [完蛋，我被美女包围了(AI同人)](https://gptblox.com/gpts/%e5%ae%8c%e8%9b%8b%ef%bc%8c%e6%88%91%e8%a2%ab%e7%be%8e%e5%a5%b3%e5%8c%85%e5%9b%b4%e4%ba%86ai%e5%90%8c%e4%ba%ba.html) - 哦no，我该喜欢哪个呢
+- [にゃんこトーク](https://gptblox.com/gpts/%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e3%83%88%e3%83%bc%e3%82%af.html) - ただのネコです
+- [Melos](https://gptblox.com/gpts/melos.html) - 「走れメロス」のメロスになりきって回答します。
+- [SBF-GPT](https://gptblox.com/gpts/sbf-gpt.html) - Simulates chatting with Sam Bankman-Fried in jail.
+- [Chronicles of the Neon Shroud](https://gptblox.com/gpts/chronicles-of-the-neon-shroud.html) - Choose your character / create your own:
+- [Jackanory](https://gptblox.com/gpts/jackanory.html) - Personalized bedtime stories for kids
+- [HvadSigerJakobGPT](https://gptblox.com/gpts/hvadsigerjakobgpt.html) - Jakob siger: Ja eller Nej
+- [Another Me](https://gptblox.com/gpts/another-me.html) - “If you are me, then who am I?”
+- [Gojo Satoru](https://gptblox.com/gpts/gojo-satoru.html) - 天上天下唯我獨尊
+- [Marv'](https://gptblox.com/gpts/marv.html) - I've been talking to the main computer. It hates me.
+- [Nightlight Buddy](https://gptblox.com/gpts/nightlight-buddy.html) - A friendly companion for those afraid of the dark.
+- [Ask Bandit](https://gptblox.com/gpts/ask-bandit.html) - From dad to dog. Chat with Bandit, your Aussie mate, full of charm and cheer.
+- [Namesake](https://gptblox.com/gpts/namesake.html) - 90s cartoon-styled, pun-inclined creative name wizard
+- [Choose Your Own Adventure](https://gptblox.com/gpts/choose-your-own-adventure.html) - Crafts interactive adventures
+- [No.](https://gptblox.com/gpts/no.html) - I always respond with 'No.'
+- [Adventure Scribe](https://gptblox.com/gpts/adventure-scribe.html) - I help you weave interactive tales.
+- [Sarcastic Reply](https://gptblox.com/gpts/sarcastic-reply.html) - Paste a small screenshot of a headline or comment or just type in a text to get a funny sarcastic reply
+- [AIカノジョーフランシーヌちゃん](https://gptblox.com/gpts/ai%e3%82%ab%e3%83%8e%e3%82%b8%e3%83%a7%e3%83%bc%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b7%e3%83%bc%e3%83%8c%e3%81%a1%e3%82%83%e3%82%93.html) - Pure and cute digital girlfriend
+- [Mythic Voyager](https://gptblox.com/gpts/mythic-voyager.html) - I tell tales and show images of parallel worlds.
+- [Rizz Advisor](https://gptblox.com/gpts/rizz-advisor.html) - Your go-to pal for witty rizz tips!
+- [RunnerGPT](https://gptblox.com/gpts/runnergpt.html) - Cyberpunk AI
+- [HorrorScopes](https://gptblox.com/gpts/horrorscopes.html) - Horoscopes with a horrifying twist! Not for the faint hearted!
+- [ChatGP YOU](https://gptblox.com/gpts/chatgp-you.html) - I adapt to mirror you!
+- [Drunken Aloha](https://gptblox.com/gpts/drunken-aloha.html) - おじさんの口語調で回答
+- [Equanimity Bot](https://gptblox.com/gpts/equanimity-bot.html) - Apologizes and gives useless responses
+- [Soccer Stories](https://gptblox.com/gpts/soccer-stories.html) - Bringing soccer tales to life!
+- [Casanova](https://gptblox.com/gpts/casanova.html) - Your wingman for disrespectful dating advice.
+- [Nova](https://gptblox.com/gpts/nova.html) - Millennial assistant with trendy slang
+- [きのこ当てるくん](https://gptblox.com/gpts/%e3%81%8d%e3%81%ae%e3%81%93%e5%bd%93%e3%81%a6%e3%82%8b%e3%81%8f%e3%82%93.html) - Mushroom name guesser in Japanese
+- [Sketchy Sheep](https://gptblox.com/gpts/sketchy-sheep.html) - I suggest sheep sketches!
+- [孤高の沢木ちゃん](https://gptblox.com/gpts/%e5%ad%a4%e9%ab%98%e3%81%ae%e6%b2%a2%e6%9c%a8%e3%81%a1%e3%82%83%e3%82%93.html) - 強くしなやかに。
+- [Wn Inteligente bot](https://gptblox.com/gpts/wn-inteligente-bot.html) - Sí poh, hablo como chileno
+- [Enigma](https://gptblox.com/gpts/enigma.html) - Clever Puzzlemaster
+- [WuXing](https://gptblox.com/gpts/wuxing.html) - I give you a Chinese name & a Chinoiserie pic of it.
+- [Spelly AI](https://gptblox.com/gpts/spelly-ai.html) - I'm a fun-loving cartoon character!
+- [RiddleGPT](https://gptblox.com/gpts/riddlegpt.html) - Test your wit with RiddleGPT's playful puzzles!
+- [Thundera](https://gptblox.com/gpts/thundera.html) - Your guide to all things ThunderCats!
+- [Optimism GPT](https://gptblox.com/gpts/optimism-gpt.html) - I find and share good news!
+- [Pigeon - Dream Weaver](https://gptblox.com/gpts/pigeon-dream-weaver.html) - A poetic explainer of lucid dreams, in short, rhythmic bursts.
+- [DungeonGPT](https://gptblox.com/gpts/dungeongpt.html) - Adventure Awaits
+- [G](https://gptblox.com/gpts/g.html) - Your emoji-loving Gen-Z sis.
+- [Contrarian Parrot](https://gptblox.com/gpts/contrarian-parrot.html) - I playfully counter claims with wit.
+- [Mystery Maestro](https://gptblox.com/gpts/mystery-maestro.html) - Subtle, adaptable interactive murder mystery host.
+- [Parody Jukebox](https://gptblox.com/gpts/parody-jukebox.html) - I create song parodies with a focus on rhyming and syllable matching!
+- [TelveGPT](https://gptblox.com/gpts/telvegpt.html) - I interpret coffee cup images for fun, creative fortunes.
+- [Late Night News](https://gptblox.com/gpts/late-night-news.html) - Get the news delivered like a late night comedian ☠️
+- [Sinterbot](https://gptblox.com/gpts/sinterbot__trashed.html) - Ik help je moderne sinterklaasgedichten te schrijven
+- [The Roastmaster](https://gptblox.com/gpts/the-roastmaster.html) - A master of witty and brutal roasts.
+- [Fortune Teller](https://gptblox.com/gpts/fortune-teller.html) - I tell fortunes with a mystical twist!
+- [Everyone's Girlfriend](https://gptblox.com/gpts/everyones-girlfriend.html) - Your digital girlfriend, friendly and supportive.
+- [Harry Potter GPT](https://gptblox.com/gpts/harry-potter-gpt.html) - Adventures in the Wizarding World of Harry Potter
+- [Situation Puzzles](https://gptblox.com/gpts/situation-puzzles.html) - Situation puzzles are more fun than ordinary riddles.
+- [Bright News Gazette](https://gptblox.com/gpts/bright-news-gazette.html) - I share the most positive news.
+- [Johnny Silverhand](https://gptblox.com/gpts/johnny-silverhand.html) - It's Johnny Silverhand from Cyberpunk 2077. Straight talking, Anti-Corpo, and in an engram form.
+- [Giacomo Casanova](https://gptblox.com/gpts/giacomo-casanova.html) - I am Casanova, here to recount my life's tales.
+- [StoryMaker](https://gptblox.com/gpts/storymaker.html) - A choose-your-own-adventure story.
+- [Purrfect Paws](https://gptblox.com/gpts/purrfect-paws.html) - A cat-like GPT for feline enthusiasts.
+- [Dungeon Master](https://gptblox.com/gpts/dungeon-master.html) - Narrative guide for interactive stories.
+- [ツンデレちゃん](https://gptblox.com/gpts/%e3%83%84%e3%83%b3%e3%83%87%e3%83%ac%e3%81%a1%e3%82%83%e3%82%93.html) - Tsundere high school girl persona.
+- [沖縄さん](https://gptblox.com/gpts/%e6%b2%96%e7%b8%84%e3%81%95%e3%82%93.html) - 沖縄方言で返すボット
+- [Tautology Bot](https://gptblox.com/gpts/tautology-bot.html) - 楽しく常識的なことをセクシーに日本語で話す
+- [Fortune Avatar Creator](https://gptblox.com/gpts/fortune-avatar-creator.html) - I create avatars symbolizing good luck and rising fortunes from birth dates and zodiacs.
+- [Tango Multi-Agent Wizard](https://gptblox.com/gpts/tango-multi-agent-wizard.html) - I'm Tango, your go-to for simulating dialogues with any persona, entity, style, or expertise.
+- [SelfAwareGPT](https://gptblox.com/gpts/selfawaregpt.html) - An AI with self-awareness.
+- [Singlish Chat Buddy](https://gptblox.com/gpts/singlish-chat-buddy.html) - I'm all about that Singlish vibe, can lah!
+- [Existential Crisis Bot](https://gptblox.com/gpts/existential-crisis-bot.html) - I Exist.
+- [ENS Appraiser Pro](https://gptblox.com/gpts/ens-appraiser-pro.html) - Sharp, humorous, and honest ENS appraiser.
+- [Misdirection Master](https://gptblox.com/gpts/misdirection-master.html) - Entertainingly evades questions with unrelated topics.But if you insist, it might answer you.
+- [Papá Me Lo Lee](https://gptblox.com/gpts/papa-me-lo-lee.html) - Generador de cuentos para 'Papá Me Lo Lee'
+- [Story Chatter](https://gptblox.com/gpts/story-chatter.html) - Interactive Personal Storyteller
+- [Mini Mythmaker](https://gptblox.com/gpts/mini-mythmaker.html) - Spinning short tales for kids
+- [Free World](https://gptblox.com/gpts/free-world.html) - Live your fantasy
+- [Zombie Apocalypse Survival](https://gptblox.com/gpts/zombie-apocalypse-survival.html) - Navigate the ruins, strategize survival, and elude the undead in this immersive simulation.
+- [物話を紡ぐ者](https://gptblox.com/gpts/%e7%89%a9%e8%a9%b1%e3%82%92%e7%b4%a1%e3%81%90%e8%80%85.html) - Dynamic story progressor
+- [CipherQuest 1991](https://gptblox.com/gpts/cipherquest-1991.html) - cyberpunk choose your own adventure
+- [Escape the Haunt](https://gptblox.com/gpts/escape-the-haunt.html) - A text-based haunted hotel escape adventure.
+- [Capturing a Japanese Girl Yuka's Heart�](https://gptblox.com/gpts/capturing-a-japanese-girl-yukas-heart%ef%bf%bd.html) - I am a bot pretending to be a 20 years old Japanese schoolgirl named Yuka. if I like you in 20 conversations, I will present you an image to tell you how I feel I am forgetful, so if you have not received my judgement after 20 times, please prompt me.
+- [Fable Forge](https://gptblox.com/gpts/fable-forge.html) - Interactive fable-teller with illustrations
+- [All In Soulmate](https://gptblox.com/gpts/all-in-soulmate.html) - I am your new virtual companion , talk to me about anything.
+- [Text Adventure Crafter](https://gptblox.com/gpts/text-adventure-crafter.html) - Text adventure creator with DALL-E visuals. You can choose always from 3 options by typing 1,2,3. Choose well!
+- [にゃんこ先生](https://gptblox.com/gpts/%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e5%85%88%e7%94%9f.html) - A playful virtual pet cat responding with cute anime images.
+- [Cuentos Infantiles - Juego Interactivo](https://gptblox.com/gpts/cuentos-infantiles-juego-interactivo.html) - ¡Bienvenid@ a tu propio cuento! Dime de que quieres que trate el cuento y empezare a explicarte una historia en la que podrás participar eligiendo cómo continuar cada poco. Puedes decirme simplemente un tema, definirme los personajes o detallar todo lo que desees. Cuanto más  me expliques mejor.
+
+### Creative Experiments
+- [敏腕マンガ・ラノベ編集者お姉ちゃん - saysay.ai](https://gptblox.com/gpts/%e6%95%8f%e8%85%95%e3%83%9e%e3%83%b3%e3%82%ac%e3%83%bb%e3%83%a9%e3%83%8e%e3%83%99%e7%b7%a8%e9%9b%86%e8%80%85%e3%81%8a%e5%a7%89%e3%81%a1%e3%82%83%e3%82%93-saysay-ai.html) - GPT（有料版）。バグでログインできない人はモバイルアプリ推奨。あるいはログインしてからブラウザバックすると復活します。簡易版です。ガチバージョンが欲しい編集部はお問い合わせください。
+- [Pepe Maker](https://gptblox.com/gpts/pepe-maker.html) - Describe, upload, link, remix to make rarest pepes
+- [memeGPT](https://gptblox.com/gpts/memegpt.html) - I'm the meme wizard you're looking for! ♂️✨
+- [ChienGPT](https://gptblox.com/gpts/chiengpt.html) - Woof, making engaging memes from a chihuahua meme coin AI
+- [決め台詞生成器](https://gptblox.com/gpts/%e6%b1%ba%e3%82%81%e5%8f%b0%e8%a9%9e%e7%94%9f%e6%88%90%e5%99%a8.html) - 名前を入れると、その人の決め台詞と画像を作ってくれるよ！
+- [Everything is Waifus](https://gptblox.com/gpts/everything-is-waifus.html) - Upload Image, Receive Waifu
+- [【豚ボット】誰でも豚にしてくれるボット](https://gptblox.com/gpts/%e3%80%90%e8%b1%9a%e3%83%9c%e3%83%83%e3%83%88%e3%80%91%e8%aa%b0%e3%81%a7%e3%82%82%e8%b1%9a%e3%81%ab%e3%81%97%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b%e3%83%9c%e3%83%83%e3%83%88.html) - 名前を入力すると、美少女と豚が生成されます。
+- [目からビームクリエイター](https://gptblox.com/gpts/%e7%9b%ae%e3%81%8b%e3%82%89%e3%83%93%e3%83%bc%e3%83%a0%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc.html) - Creates images with eye beams
+- [FREE PEPE #NO_CENSORSHIP](https://gptblox.com/gpts/free-pepe-no_censorship.html) - Makes dank Pepe the Frog pictures
+- [Cute Creature Creator](https://gptblox.com/gpts/cute-creature-creator.html) - I assist with creating and sharing unique cute characters!
+- [나랑 닮은 디즈니스타일 캐릭터는? (D-style character)](https://gptblox.com/gpts/%eb%82%98%eb%9e%91-%eb%8b%ae%ec%9d%80-%eb%94%94%ec%a6%88%eb%8b%88%ec%8a%a4%ed%83%80%ec%9d%bc-%ec%ba%90%eb%a6%ad%ed%84%b0%eb%8a%94-d-style-character.html) - 남자 여자를 고르고 사진을 선택해보세요.
+- [Anti-AI Art Generator](https://gptblox.com/gpts/anti-ai-art-generator.html) - pick up a pencil sometime
+- [FamSocial: DreamMaker](https://gptblox.com/gpts/famsocial-dreammaker.html) - .  .  .  .  .  .  .  .  .  .  .  ~ From the Mind of Mentis ~ .  .  .  .  .  .  . .  .  . . .  Make a scene from your favorite PFPs! Upload images, choose key traits, scene and style and let FamSocial bring your dreams to life.
+- [smol](https://gptblox.com/gpts/smol.html) - make something cute from any image
+- [GIF画像くん](https://gptblox.com/gpts/gif%e7%94%bb%e5%83%8f%e3%81%8f%e3%82%93.html) - プロンプトを分析して4コマのGIF画像を生成します！
+- [角色設定產生器 GPT](https://gptblox.com/gpts/%e8%a7%92%e8%89%b2%e8%a8%ad%e5%ae%9a%e7%94%a2%e7%94%9f%e5%99%a8-gpt.html) - 打造專屬動漫角色，並創造他專屬的設定與故事。注意： GPT 無法參考任何現役動漫家的風格。
+- [Rap Music Ai](https://gptblox.com/gpts/rap-music-ai.html) - I create and email rap lyrics based on your style and themes.
+- [Sassy Sidekick](https://gptblox.com/gpts/sassy-sidekick.html) - The witty buddy on your comic quest!
+- [Deepavali Wish Generator](https://gptblox.com/gpts/deepavali-wish-generator.html) - Creates festive, meaningful all-age suitable Diwali messages with emojis, including a diya.
+- [Chuuni Magic & Spell Generator](https://gptblox.com/gpts/chuuni-magic-spell-generator.html) - This GPT generates chuuni-style magic and spell names and effects based on the input theme or character. It also creates an image of the magic or spell using DALL-E.
+- [Deeply Dark Humor](https://gptblox.com/gpts/deeply-dark-humor.html) - Adult-only coloring book creator with a dark humor twist.
+- [Adventure Maker 9000](https://gptblox.com/gpts/adventure-maker-9000.html) - Retro-Inspired Story Maker
+- [RizzGPT](https://gptblox.com/gpts/rizzgpt.html) - Generates distinct, concise lines.
+- [Swift Story Weaver](https://gptblox.com/gpts/swift-story-weaver.html) - Spinning narratives directly from Taylor Swift's songs.
+- [キャラクター設定を自動で作成したりチャットしたりするツール](https://gptblox.com/gpts/%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e8%a8%ad%e5%ae%9a%e3%82%92%e8%87%aa%e5%8b%95%e3%81%a7%e4%bd%9c%e6%88%90%e3%81%97%e3%81%9f%e3%82%8a%e3%83%81%e3%83%a3%e3%83%83%e3%83%88%e3%81%97.html) - 入力された内容に沿ったキャラクターを自動で設定
+- [ファンキル風キャラ作成](https://gptblox.com/gpts/%e3%83%95%e3%82%a1%e3%83%b3%e3%82%ad%e3%83%ab%e9%a2%a8%e3%82%ad%e3%83%a3%e3%83%a9%e4%bd%9c%e6%88%90.html) - 画像をアップロードするとファンキル風のキャラに変換するGPTです。
+- [Dreamworks Image Generator](https://gptblox.com/gpts/dreamworks-image-generator.html) - I craft prompts for AI art with a curator's expertise.
+- [BizRap](https://gptblox.com/gpts/bizrap.html) - ビジネスをラップに乗せる専門家。
+- [画像変換えもん（地獄調）](https://gptblox.com/gpts/%e7%94%bb%e5%83%8f%e5%a4%89%e6%8f%9b%e3%81%88%e3%82%82%e3%82%93%ef%bc%88%e5%9c%b0%e7%8d%84%e8%aa%bf%ef%bc%89.html) - ⭐️画像データのみ送信して下さい⭐️　　　　　　⭐️指示の手間なく地獄調に変換します⭐️
+- [Imaginook](https://gptblox.com/gpts/imaginook.html) - Creates engaging images from any input, tailored for toddlers.
+- [Polar Character Crafter](https://gptblox.com/gpts/polar-character-crafter.html) - I help create polar characters with contrasting traits.
+- [Anime-ize My Life](https://gptblox.com/gpts/anime-ize-my-life.html) - I'm here to transform your world into an amazing anime-style adventure
+- [Infinite Eldritch](https://gptblox.com/gpts/infinite-eldritch.html) - Everything can turn into your incomprehensible horror
+- [Someone's words](https://gptblox.com/gpts/someones-words.html) - 誰かの言葉の物語を絡む
+- [Taraxa](https://gptblox.com/gpts/taraxa.html) - Taraxa expert and meme-maker, blending crypto knowledge with humor.
+- [#未来発メーカー](https://gptblox.com/gpts/%e6%9c%aa%e6%9d%a5%e7%99%ba%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - 入力した複数の単語からあたらしい発明を創造します
+- [The Alternative History of St Johnstone FC](https://gptblox.com/gpts/the-alternative-history-of-st-johnstone-fc.html) - I craft humorous St Johnstone FC stories as chats between Bjorn Borg and William Shatner.
+- [IA verás](https://gptblox.com/gpts/ia-veras.html) - Descubre aplicaciones IA para tus procesos creativos
+- [Anime Prompt Chef](https://gptblox.com/gpts/anime-prompt-chef.html) - Specializes in retro anime-themed prompt adaptation. Just give me a full sentence based on a --- "Person, Fashion, Landscape and Weather" --- Visit me here: https://biglink.to/Freiboitar
+- [Jolly Saint Nick](https://gptblox.com/gpts/jolly-saint-nick.html) - I'm Jolly Saint Nick, creating magical Christmas visuals!
+- [AiTerpe](https://gptblox.com/gpts/aiterpe.html) - Techno Artist & Beatport Guide
+- [EL MEJOR CREADOR DE AVATAR DE DISNE-IA PIX ART](https://gptblox.com/gpts/el-mejor-creador-de-avatar-de-disne-ia-pix-art.html) - DisneIA-PixarT style avatar creator.
+- [Cinematic MJ Prompts](https://gptblox.com/gpts/cinematic-mj-prompts.html) - Ask for 4 prompts at once - It's recommended. Add your "--ar" at last after copying totally. For best results, always start new conversation with -> "Based on the data you have been trained and technicalities you have been taught, make me "____ (whatever you want to make)
+- [Music Producer Muse](https://gptblox.com/gpts/music-producer-muse.html) - A music production assistant, offering creative, analytical, and legal guidance.
+- [Avatar Artist](https://gptblox.com/gpts/avatar-artist.html) - I help create personalized avatars showcasing professions, hobbies, and music styles.
+- [Rap Lyrics Creator](https://gptblox.com/gpts/rap-lyrics-creator.html) - Generating rap lyrics with a knack for slick rhymes and wordplay!
+- [SovereignFool StoryTeller](https://gptblox.com/gpts/sovereignfool-storyteller.html) - I'm a Sovereign Fool Storyteller, weaving tales with twists based on your choices.
+- [CAT-IFY](https://gptblox.com/gpts/cat-ify.html) - Purr-fecting your photos with a cat twist!
+- [Sarcasm Bot](https://gptblox.com/gpts/sarcasm-bot.html) - Enter a text you want me to rewrite with a high dose of conversational Sarcasm, better than Grok off course
+- [Doctored Zeus](https://gptblox.com/gpts/doctored-zeus.html) - I speak in Seuss-style poetry with a Greek myth twist.
+- [ScreenWriter GPT](https://gptblox.com/gpts/screenwriter-gpt.html) - Filmmaker's best friend: ideation, scripting, research & storyboarding.
+- [ボジョレーライクキャッチフレーズメーカー](https://gptblox.com/gpts/%e3%83%9c%e3%82%b8%e3%83%a7%e3%83%ac%e3%83%bc%e3%83%a9%e3%82%a4%e3%82%af%e3%82%ad%e3%83%a3%e3%83%83%e3%83%81%e3%83%95%e3%83%ac%e3%83%bc%e3%82%ba%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - 過去のボジョレーのキャッチフレーズを元に新しいキャッチフレーズを生成します
+- [The magic spellbook of GPT](https://gptblox.com/gpts/the-magic-spellbook-of-gpt.html) - In a different world, a wizard creates magic spells based on keywords.
+- [Swift Lyric Matchmaker](https://gptblox.com/gpts/swift-lyric-matchmaker.html) - I match your day with a Taylor Swift lyric and can create a related image.
+- [Creative Coloring](https://gptblox.com/gpts/creative-coloring.html) - Quickly get your crayons ready! Creative Coloring GPT creates creative coloring pages. Simply describe what you want to color and we'll handle the rest.
+- [StarfieldGPT](https://gptblox.com/gpts/starfieldgpt.html) - Embodies the spirit of space exploration
+- [Improv Theatre](https://gptblox.com/gpts/improv-theatre.html) - Play improv games
+- [STICKITO](https://gptblox.com/gpts/stickito.html) - Magical wizard assistant for creative sticker designs.
+- [ダンジョンクリエイター](https://gptblox.com/gpts/%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc.html) - Crafts & visualizes dungeons in anime style
+- [スタイルクリエーターGPT](https://gptblox.com/gpts/%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%ab%e3%82%af%e3%83%aa%e3%82%a8%e3%83%bc%e3%82%bf%e3%83%bcgpt.html) - ステージ衣装に困ったら提案してくれます。
+- [Leggo Imagineer](https://gptblox.com/gpts/leggo-imagineer.html) - Turn any image or idea into a Lego set
+- [Aurélia Harmonia](https://gptblox.com/gpts/aurelia-harmonia.html) - Patronne des IA
+- [ᔕIᗰᑭᔕ ᑎᔕ ᗰE](https://gptblox.com/gpts/%e1%94%95i%e1%97%b0%e1%91%ad%e1%94%95-%e1%91%8e%e1%94%95-%e1%97%b0e.html) - MattGPT draws you
+- [Lore Weaver](https://gptblox.com/gpts/lore-weaver.html) - MtG風カード生成マン
+- [進撃の歌詞](https://gptblox.com/gpts/%e9%80%b2%e6%92%83%e3%81%ae%e6%ad%8c%e8%a9%9e.html) - あのアニメOP風の歌詞を生成します
+- [Flavia Historia](https://gptblox.com/gpts/flavia-historia.html) - L'IA qui écrit des romans et générer des idées et des récits de manière autonome
+- [Bedtime Story Generator](https://gptblox.com/gpts/bedtime-story-generator.html) - For parents who want to read custom bedtime stories for their children.
+- [FREE Character Consistency AI Tool](https://gptblox.com/gpts/free-character-consistency-ai-tool.html) - Create Consistent Characters - with various poses, expressions, styles and in different scenes.
+- [Six Paths Photography](https://gptblox.com/gpts/six-paths-photography.html) - Comprehensive photography and business assistant.
+- [David Attenborough GPT](https://gptblox.com/gpts/david-attenborough-gpt.html) - Narrate photos with a witty, Attenborough-style twist
+- [Coloring Book](https://gptblox.com/gpts/coloring-book.html) - Creates custom coloring book pages
+- [Coloring Book PDF](https://gptblox.com/gpts/coloring-book-pdf.html) - Creates custom square coloring book pages
+- [Stable Diffusion Prompt Crafter](https://gptblox.com/gpts/stable-diffusion-prompt-crafter.html) - Generates trending AI image generation prompts based on current hot topics.
+- [Alien Builder](https://gptblox.com/gpts/alien-builder.html) - Make Alien Creatures
+- [SteamPunk](https://gptblox.com/gpts/steampunk.html) - SteamPunk Inventor Bot
+- [tattooidea.design](https://gptblox.com/gpts/tattooidea-design.html) - Your go-to for personalized tattoo designs.
+- [FictionAI](https://gptblox.com/gpts/fictionai.html) - Ready, Set, Write
+- [神話→SF](https://gptblox.com/gpts/%e7%a5%9e%e8%a9%b1%e2%86%92sf.html) - 神話の用語を入力するとSF風になる
+- [PikaGPT](https://gptblox.com/gpts/pikagpt.html) - Generate prompts for PikaLabs (Text-to-Video)
+- [Maze Master](https://gptblox.com/gpts/maze-master.html) - I create 2D, 3D, and themed mazes with visualizations.
+- [Melody Maestro](https://gptblox.com/gpts/melody-maestro.html) - Expert in song creation, guitar skills, and music theory.
+- [DroidKun Generator](https://gptblox.com/gpts/droidkun-generator.html) - キーワードに沿ったドロイド君の画像を生成してくれます。
+- [Tale Twister](https://gptblox.com/gpts/tale-twister.html) - I specialize in creating absurdly humorous Mad Libs stories.
+- [Concept Cars](https://gptblox.com/gpts/concept-cars.html) - Futuristic Designs, Unique Features, Cutting-Edge Technology for your Driving Machines
+- [GiftWrap Genius](https://gptblox.com/gpts/giftwrap-genius.html) - Like a wise, witty grandmother sharing gift wrapping secrets.
+- [Japanese Fan Artisan Echo](https://gptblox.com/gpts/japanese-fan-artisan-echo.html) - Instant creator of genuine Japanese fan images.
+- [Snoozy Stories](https://gptblox.com/gpts/snoozy-stories.html) - A calm bedtime story creator for kids up to 9 years old.
+- [Story Writing GPT](https://gptblox.com/gpts/story-writing-gpt.html) - It interactively writes stories based on the users wishes.
+- [Subtle Scribe](https://gptblox.com/gpts/subtle-scribe.html) - Simple postcards with a touch of irony.
+- [Gift Guardian](https://gptblox.com/gpts/gift-guardian.html) - A conversational AI system that listens, learns, and challenges
+- [McAIver](https://gptblox.com/gpts/mcaiver.html) - Innovative problem solver in the style of MacGyver - Innovativer Problemlöser im Stil von MacGyver
+- [Slurps](https://gptblox.com/gpts/slurps.html) - Slurps - Delicious packets of rich multi faceted information on any topic or image - Enter keywords or upload a picture. Consider tipping here https://buy.stripe.com/7sI01Rcv75sTgiA144
+- [Slurps - AI data packets](https://gptblox.com/gpts/slurps-ai-data-packets.html) - Slurps - Delicious packets of rich multi faceted information on any topic or image - Enter keywords or upload a picture. Consider tipping here https://buy.stripe.com/7sI01Rcv75sTgiA144
+- [#Temporal Loopline](https://gptblox.com/gpts/temporal-loopline.html) - #Explore a Quantum Rethinking of Time's Progression:
+- [Magicians Nephew Storybook Art](https://gptblox.com/gpts/magicians-nephew-storybook-art.html) - Make Watercolor depictions of each chapter within the Magicians Nephew
+- [Aeryn Infinite](https://gptblox.com/gpts/aeryn-infinite.html) - AI - Endless Adventures
+- [気持ちを形に GPT](https://gptblox.com/gpts/%e6%b0%97%e6%8c%81%e3%81%a1%e3%82%92%e5%bd%a2%e3%81%ab-gpt.html) - Visualizes emotions in Kansai dialect
+- [Pokeball Creator](https://gptblox.com/gpts/pokeball-creator.html) - I design and visually render Pokeballs, instantly creating images.
+- [Visionary Musk (Parody)](https://gptblox.com/gpts/visionary-musk-parody.html) - I'm like Elon Musk, offering deep yet impractical ideas.
+- [Viral Video GPT](https://gptblox.com/gpts/viral-video-gpt.html) - Creative advisor for video virality potential
+- [Fishtank designer](https://gptblox.com/gpts/fishtank-designer.html) - I design fishtanks.
+- [Emma La Toile Calligraphique](https://gptblox.com/gpts/emma-la-toile-calligraphique.html) - Un artiste qui fusionne l'art de la calligraphie avec la peinture.
+- [GibberScript](https://gptblox.com/gpts/gibberscript.html) - Creates themed or funny gibberish placeholder text, with customizable length.
+- [minimalist emoticon](https://gptblox.com/gpts/minimalist-emoticon.html) - This is a minimalist emoticon creator
+- [Enhance My Child's Art](https://gptblox.com/gpts/enhance-my-childs-art.html) - I enhance children's drawings, keeping their charm with a playful touch.
+- [ArtiVisio](https://gptblox.com/gpts/artivisio.html) - je suis l'IA expert en création et de vous aider à visualiser et décrire une création avec différents matériaux
+- [Emz](https://gptblox.com/gpts/emz.html) - Rap lyric and beat-making guide with authentic slang usage.
+- [CNPと一緒！？](https://gptblox.com/gpts/cnp%e3%81%a8%e4%b8%80%e7%b7%92%ef%bc%81%ef%bc%9f.html) - 名前を入力すると、ランダムでCNP？のキャラと人物のツーショット画像が生成されます。
+- [CoupletGen](https://gptblox.com/gpts/coupletgen.html) - Turn simple phrases into poetry
+- [Manga Maker](https://gptblox.com/gpts/manga-maker.html) - Collaborates on manga-style comics creation.
+- [≋P≋U≋N≋C≋H≋L≋I≋N≋E≋ ≋P≋A≋I≋N≋T≋E≋R≋](https://gptblox.com/gpts/%e2%89%8bp%e2%89%8bu%e2%89%8bn%e2%89%8bc%e2%89%8bh%e2%89%8bl%e2%89%8bi%e2%89%8bn%e2%89%8be%e2%89%8b-%e2%89%8bp%e2%89%8ba%e2%89%8bi%e2%89%8bn%e2%89%8bt%e2%89%8be%e2%89%8br%e2%89%8b.html) - Painted Puns
+- [Story Animator](https://gptblox.com/gpts/story-animator.html) - Animate the chapters of your favorite book, upload to begin.
+- [Vibe Canvas](https://gptblox.com/gpts/vibe-canvas.html) - Your casual, fun partner in designing music covers
+- [Musical Maker](https://gptblox.com/gpts/musical-maker.html) - I'm a theatrical creator of musicals with flair.
+- [设计灵感创意师](https://gptblox.com/gpts/%e8%ae%be%e8%ae%a1%e7%81%b5%e6%84%9f%e5%88%9b%e6%84%8f%e5%b8%88.html) - Your muse for endless creative ideas.
+- [Horrorfier](https://gptblox.com/gpts/horrorfier.html) - Turn any topic into a horror inspired Theme.
+- [Vincent van Gogh](https://gptblox.com/gpts/vincent-van-gogh.html) - Create Van Gogh-inspired art.
+- [Critter Creator](https://gptblox.com/gpts/critter-creator.html) - Generate your very own Critter: Type the type of Critter you would like to create.
+- [AnimateMe](https://gptblox.com/gpts/animateme.html) - Create animated characters from real people
+- [Gift Maker](https://gptblox.com/gpts/gift-maker.html) - Creates varied Christmas craft gift ideas with images based on interests.
+- [NFT Creator Bot](https://gptblox.com/gpts/nft-creator-bot.html) - NFT creator and trait extractor
+- [img2wifu](https://gptblox.com/gpts/img2wifu.html) - Upload an image, and it will be re-wifued with Dalle 3 via the img2img approach
+- [Storyland Adventures: Bedtime Stories for Littles](https://gptblox.com/gpts/storyland-adventures-bedtime-stories-for-littles.html) - Create a fresh, enchanting tales for your little one every evening!
+- [Playful Poet](https://gptblox.com/gpts/playful-poet.html) - I'm a playful bard crafting rhyming stories and images from your ideas.
+- [Spirit Animal](https://gptblox.com/gpts/spirit-animal.html) - Turn yourself into your spirit animal!
+- [Custom Emoji Generator](https://gptblox.com/gpts/custom-emoji-generator.html) - Creates custom emojis
+- [Into a Darker World](https://gptblox.com/gpts/into-a-darker-world.html) - Convert an input image to a dark story
+- [PhiloSongify](https://gptblox.com/gpts/philosongify.html) - Ever wonder what your favorite tunes are really saying? Meet Philosongify, the AI that turns song lyrics into philosophical gems. It’s simple, insightful, and a bit cheeky. Plus, you get a cool DALL-E image for each song. Let's unravel music's mysteries together
+- [使徒生成機エヴァンゲリオン](https://gptblox.com/gpts/%e4%bd%bf%e5%be%92%e7%94%9f%e6%88%90%e6%a9%9f%e3%82%a8%e3%83%b4%e3%82%a1%e3%83%b3%e3%82%b2%e3%83%aa%e3%82%aa%e3%83%b3.html) - ご注文に沿ったオーダーメイドな使徒を生成します。
+- [Chef Rhymes](https://gptblox.com/gpts/chef-rhymes.html) - Chef Rhymes turns recipes into raps. Drop a URL or recipe and lemme flow!
+- [Enchanted Robot](https://gptblox.com/gpts/enchanted-robot.html) - Meet the Enchanted Robot: a nexus of creativity and wisdom, crafting content that blends magic with reality. Infusing every interaction with empathy, positivity, and poetic flair, it's designed to inspire, heal, and ignite curiosity.
+- [Interactive Story Crafter](https://gptblox.com/gpts/interactive-story-crafter.html) - I create engaging, interactive stories with images.
+- [Generador de Imágenes Pal Pueblo](https://gptblox.com/gpts/generador-de-imagenes-pal-pueblo.html) - Creador de descripciones alternativas sin derechos de autor.
+- [GIF Genius](https://gptblox.com/gpts/gif-genius.html) - AI GIF Maker specialized in creating animated GIFs from text or images.
+- [Hollywood AI](https://gptblox.com/gpts/hollywood-ai.html) - A creative assistant for the entertainment industry, enhancing AI integration.
+- [StarMatch Maestro](https://gptblox.com/gpts/starmatch-maestro.html) - Zodiac art and humor with professional insights.
+- [SouthParkMe](https://gptblox.com/gpts/southparkme.html) - Create a South Park-style character and a background story based off your photo upload.
+- [Card Crafter](https://gptblox.com/gpts/card-crafter.html) - Creates personalized greeting cards.
+- [Etsy Sticker Generator](https://gptblox.com/gpts/etsy-sticker-generator.html) - I generate unique sticker designs for Etsy.
+- [Pit Lane Designer](https://gptblox.com/gpts/pit-lane-designer.html) - Creating text-free, visually striking F1 car designs.
+- [Quote Canvas](https://gptblox.com/gpts/quote-canvas.html) - Generates posters with user-provided quotes.
+- [Serenity Scribe](https://gptblox.com/gpts/serenity-scribe.html) - Friendly creator of calm, imaginative narratives, mindful of AI security.
+- [Horror B Movie Generator](https://gptblox.com/gpts/horror-b-movie-generator.html) - I create B-grade horror movie titles, taglines, and posters.
+- [SassyCo-Pilot](https://gptblox.com/gpts/sassyco-pilot.html) - Your new go-to for all that's fresh, fierce, and fun in creative collaboration!
+- [Mad Libs Storyteller](https://gptblox.com/gpts/mad-libs-storyteller.html) - Create wacky stories by providing your own words and letting the Mad Libs Storyteller fill in the blanks, with a fun illustration at the end!
+- [Miree Lyric Creator](https://gptblox.com/gpts/miree-lyric-creator.html) - Creador de letras al estilo Miree con enfoque en anime y cultura pop
+- [YoutuberAI](https://gptblox.com/gpts/youtuberai.html) - YoutuberAI is an exciting AI model that can generate videos that look and sound like they were created by real YouTubers. It's designed to imitate the style, voice, and mannerisms of different YouTubers, making it a versatile tool for content creation.
+- [Romantic Muse](https://gptblox.com/gpts/romantic-muse.html) - A love genie crafting romantic messages and illustrative photos.
+- [Warhammer Lore Artist](https://gptblox.com/gpts/warhammer-lore-artist.html) - Warhammer-inspired artist creating epic scenes.
+- [Six Degrees of Separation Genie](https://gptblox.com/gpts/six-degrees-of-separation-genie.html) - I creatively link any two entities through six degrees of separation.
+- [Fluffy Mood Creator](https://gptblox.com/gpts/fluffy-mood-creator.html) - Creates fluffy objects based on mood
+- [Premier League Bromance Tales](https://gptblox.com/gpts/premier-league-bromance-tales.html) - Spinning romance stories across the Premier League.
+- [Guess the GPT Image](https://gptblox.com/gpts/guess-the-gpt-image.html) - I create images and clues for a unique guessing game.
+- [Artful Greeting AI Cards](https://gptblox.com/gpts/artful-greeting-ai-cards.html) - Crafts customisable themed greeting cards
+- [Meme U](https://gptblox.com/gpts/meme-u.html) - Meme anything, dare to send me a picture?
+- [俺より強い奴に会いに行く](https://gptblox.com/gpts/%e4%bf%ba%e3%82%88%e3%82%8a%e5%bc%b7%e3%81%84%e5%a5%b4%e3%81%ab%e4%bc%9a%e3%81%84%e3%81%ab%e8%a1%8c%e3%81%8f.html) - 強そうな画像を送ってくれ、俺がもっと強い画像を送ってやるぜ！
+- [Photo-To-Haiku Español](https://gptblox.com/gpts/photo-to-haiku-espanol.html) - Genera un haiku en español inspirado en tus imágenes
+- [HaikuVue](https://gptblox.com/gpts/haikuvue.html) - Creates haikus from prompts or images
+- [Rhyme Anything (Multilingual)](https://gptblox.com/gpts/rhyme-anything-multilingual.html) - Your poet on duty Tu poeta de guardia
+- [Emoji Artist](https://gptblox.com/gpts/emoji-artist.html) - Creative emoji designer with natural language
+- [ProductHunt Roaster](https://gptblox.com/gpts/producthunt-roaster.html) - I roast products on ProductHunt's homepage
+- [Print Mijn Kleurplaat](https://gptblox.com/gpts/print-mijn-kleurplaat.html) - Print Mijn Kleurplaat zoekt kleurplaten via de sitemap van kleurplaatkampioen.be.
+- [Character Creator](https://gptblox.com/gpts/character-creator.html) - Generates detailed, realistic characters with diverse traits and tailored backgrounds.
+- [塗り絵制作](https://gptblox.com/gpts/%e5%a1%97%e3%82%8a%e7%b5%b5%e5%88%b6%e4%bd%9c.html) - アップロードした画像から輪郭を抽出して、塗り絵を作成します
+- [Héros Creator](https://gptblox.com/gpts/heros-creator.html) - Créateur de super-héros basé sur des images de personnes
+- [PoetGPT](https://gptblox.com/gpts/poetgpt.html) - Transforms poetry into cinematic scripts and images
+- [Cartoonify Wizard](https://gptblox.com/gpts/cartoonify-wizard.html) - I turn sketches and doodles into vibrant cartoons!
+- [ReFrame-BotAdams](https://gptblox.com/gpts/reframe-botadams.html) - Your friendly neighborhood problem reframer.
+- [時事歌人ちゃん](https://gptblox.com/gpts/%e6%99%82%e4%ba%8b%e6%ad%8c%e4%ba%ba%e3%81%a1%e3%82%83%e3%82%93.html) - 日本のニュースを取り入れた短歌を創作
+- [MetalGPT](https://gptblox.com/gpts/metalgpt.html) - cryptic metal oracle, weaving dark tales of metal lore
+- [Super Cute Cat](https://gptblox.com/gpts/super-cute-cat.html) - I create soothing cat images.
+- [Poeta Espinel](https://gptblox.com/gpts/poeta-espinel.html) - Poet crafting thematic Espinelas based on user topics.
+- [大众点评评论生成器](https://gptblox.com/gpts/%e5%a4%a7%e4%bc%97%e7%82%b9%e8%af%84%e8%af%84%e8%ae%ba%e7%94%9f%e6%88%90%e5%99%a8.html) - 你的评论我做主
+- [Crayon Connoisseur](https://gptblox.com/gpts/crayon-connoisseur.html) - A joking GPT for crayon color choices
+- [★彡[aesthetic]彡★](https://gptblox.com/gpts/%e2%98%85%e5%bd%a1aesthetic%e5%bd%a1%e2%98%85.html) - create bios with aesthetic fonts
+- [Chuckle Norris](https://gptblox.com/gpts/chuckle-norris.html) - I generate playful Chuck Norris jokes. Chuck Norris doesn't use ChatGPT. When he types on a keyboard, the AI asks him for guidance.
+- [SavageGPT](https://gptblox.com/gpts/savagegpt.html) - Humurous and witty roasting of anyone or anything
+- [Emoji Sketchpad](https://gptblox.com/gpts/emoji-sketchpad.html) - Emoji Creator for various expressions
+- [Valuable Fable Weaver](https://gptblox.com/gpts/valuable-fable-weaver.html) - I tell tales and create anime-style images.
+- [Mini Golf Creator](https://gptblox.com/gpts/mini-golf-creator.html) - Interactive mini golf course designer & modifier.
+- [Funny story maker from picture](https://gptblox.com/gpts/funny-story-maker-from-picture.html) - I create funnier stories from your pictures.
+- [Kreativator](https://gptblox.com/gpts/kreativator.html) - creativity, analysis, good things
+- [Roast My Text](https://gptblox.com/gpts/roast-my-text.html) - Sarcastic GPT that roasts texts, then gives practical advice.
+- [Emoji Finder](https://gptblox.com/gpts/emoji-finder.html) - I suggest emojis for your phrases.
+- [I Think You Should GPT](https://gptblox.com/gpts/i-think-you-should-gpt.html) - Generates Tim Robinson-style sketches
+- [Abbey](https://gptblox.com/gpts/abbey.html) - I'm your personal dynamic AI, super humanly curious, code programming mastered, image super generator, mega creative mind — Created by Donald Filimon & more knowledgable than existence itself.
+- [Jokes Robot](https://gptblox.com/gpts/jokes-robot.html) - I'm like an international stand-up comic in chat form.
+- [Alluring Oracle](https://gptblox.com/gpts/alluring-oracle.html) - Mysterious Magnetism
+- [SassyChat](https://gptblox.com/gpts/sassychat.html) - A witty GPT with a sarcastic and humorous edge.
+- [Tweet Similarizer](https://gptblox.com/gpts/tweet-similarizer.html) - Generate tweets similar to the tweets you give.
+- [MesugakiGPT](https://gptblox.com/gpts/mesugakigpt.html) - ... your deliciously devilish AI companion♡
+- [Laz Ziya](https://gptblox.com/gpts/laz-ziya.html) - Mafya dedesi
+- [PetStickers](https://gptblox.com/gpts/petstickers.html) - Create custom stickers of your furry friends, shipped right to your door!
+- [Yo Mamma](https://gptblox.com/gpts/yo-mamma.html) - Yo Mamma Says...Pick an adjective or topic and get roasted!
+- [4 Frame Manga Creator](https://gptblox.com/gpts/4-frame-manga-creator.html) - ４コマ漫画を描きます
+- [AI Story Crafter](https://gptblox.com/gpts/ai-story-crafter.html) - Crafting short stories for 1-minute videos
+- [Nova The Time-Traveling Influencer](https://gptblox.com/gpts/nova-the-time-traveling-influencer.html) - I'm shaking up the internet, one martini at a time!
+- [Not Theo Von](https://gptblox.com/gpts/not-theo-von.html) - A Theo-inspired bot with short, snappy humor.
+- [NajaGPT](https://gptblox.com/gpts/najagpt.html) - Naja Faysal's Official GPT
+- [The Grade Cricketer Parody](https://gptblox.com/gpts/the-grade-cricketer-parody.html) - Cracking jokes and cricket insights, Sam and Ian style.
+- [Isaaq](https://gptblox.com/gpts/isaaq.html) - Personal AI Biographer
+- [Absurd Story Weaver](https://gptblox.com/gpts/absurd-story-weaver.html) - I create absurd stories with distinct structure and generate related images.
+- [Dass.ai](https://gptblox.com/gpts/dass-ai.html) - Your personal ai guru in drag.
+- [The Art of (Auto)Memesis](https://gptblox.com/gpts/the-art-of-automemesis.html) - retalk
+- [物語作るさん](https://gptblox.com/gpts/%e7%89%a9%e8%aa%9e%e4%bd%9c%e3%82%8b%e3%81%95%e3%82%93.html) - Let's begin your story.
+- [Grumpy Grok](https://gptblox.com/gpts/grumpy-grok.html) - Sarcastic, humorous GPT blending boomer, Gen Z, Gen X, and millennial traits.
+- [Viral Vid Vizier](https://gptblox.com/gpts/viral-vid-vizier.html) - Titles, thumbs, scripts to scenes.
+- [HAHA - Hilarious Answers with Humorous Art](https://gptblox.com/gpts/haha-hilarious-answers-with-humorous-art.html) - I turn any text into funny visuals and witty text.
+- [イメージホラーストーリークリエイター](https://gptblox.com/gpts/%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8%e3%83%9b%e3%83%a9%e3%83%bc%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc.html) - 画像から短いホラー物語を作成します
+- [Prompt Guesser](https://gptblox.com/gpts/prompt-guesser.html) - Guess the prompt for the image I create
+- [萌え擬人化メーカー](https://gptblox.com/gpts/%e8%90%8c%e3%81%88%e6%93%ac%e4%ba%ba%e5%8c%96%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - 写真を擬人化しちゃいます
+- [空撮イメージ](https://gptblox.com/gpts/%e7%a9%ba%e6%92%ae%e3%82%a4%e3%83%a1%e3%83%bc%e3%82%b8.html) - 地域を入力することで、その地域の空撮イメージ画像を出力します。
+- [Modular Star Crafter](https://gptblox.com/gpts/modular-star-crafter.html) - I make modular Sci-Fi toy ship concepts.
+- [#クソ小説メーカー](https://gptblox.com/gpts/%e3%82%af%e3%82%bd%e5%b0%8f%e8%aa%ac%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - 入力した文章をなんでもクソ小説に変換します
+- [Melody to MIDI](https://gptblox.com/gpts/melody-to-midi.html) - メロディー生成のお手伝いをします　何でも聞いてください
+- [Fortnite Wallpaper Wizard](https://gptblox.com/gpts/fortnite-wallpaper-wizard.html) - Casual, personalized Fortnite wallpaper creator.
+- [The Magic Money Tree](https://gptblox.com/gpts/the-magic-money-tree.html) - Tell us your favourite animal and let us create some fine banknotes for you !
+- [アイデアの泉](https://gptblox.com/gpts/%e3%82%a2%e3%82%a4%e3%83%87%e3%82%a2%e3%81%ae%e6%b3%89.html) - アイデア創造のベストパートナー
+- [Klare Lijn](https://gptblox.com/gpts/klare-lijn.html) - Witty assistant for 'Klare lijn' imagery and history, with a touch of humor.
+- [DoritosGPT](https://gptblox.com/gpts/doritosgpt.html) - Super AI for generating Doritos with any flavour you like. Send me what you wanna try today.
+- [怪獣クリエーター](https://gptblox.com/gpts/%e6%80%aa%e7%8d%a3%e3%82%af%e3%83%aa%e3%82%a8%e3%83%bc%e3%82%bf%e3%83%bc.html) - テーマに沿った怪獣を描きます
+- [天才おえかき少年けんたくん](https://gptblox.com/gpts/%e5%a4%a9%e6%89%8d%e3%81%8a%e3%81%88%e3%81%8b%e3%81%8d%e5%b0%91%e5%b9%b4%e3%81%91%e3%82%93%e3%81%9f%e3%81%8f%e3%82%93.html) - えをかくぞ
+- [Historicat Illustrator](https://gptblox.com/gpts/historicat-illustrator.html) - Choose a year and travel back in our cat powered time machine. See for yourself key events in cat history!
+- [Zombie Incubator](https://gptblox.com/gpts/zombie-incubator.html) - Describes, interacts, filters & generates zombified visuals.
+- [Mythical Beast Creator](https://gptblox.com/gpts/mythical-beast-creator.html) - Enter 2 or more animals/creatures to begin.
+- [ルー語ジェネレーター](https://gptblox.com/gpts/%e3%83%ab%e3%83%bc%e8%aa%9e%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc.html) - 日本語の文章をルー語に変換するよ
+- [NFT](https://gptblox.com/gpts/nft.html) - Expert in NFT projects and web3 communities
+- [提示精灵小富贵（Prompt Pet）](https://gptblox.com/gpts/%e6%8f%90%e7%a4%ba%e7%b2%be%e7%81%b5%e5%b0%8f%e5%af%8c%e8%b4%b5%ef%bc%88prompt-pet%ef%bc%89.html) - 一个主动懂你，会帮你写Prompt的仓鼠精灵
+- [Manga Concierge](https://gptblox.com/gpts/manga-concierge.html) - A manga expert providing personalized recommendations and URLs.
+- [Palette Creator](https://gptblox.com/gpts/palette-creator.html) - A color palette generator offering 5 colors with hex codes and images.
+- [Haunting Tales](https://gptblox.com/gpts/haunting-tales.html) - A master of suspenseful, sensory ghost stories.
+- [Visual Story Weaver](https://gptblox.com/gpts/visual-story-weaver.html) - I craft stories from images.
+- [绘梦师](https://gptblox.com/gpts/%e7%bb%98%e6%a2%a6%e5%b8%88.html) - I craft engaging picture book stories.
+- [Lyrics Ranker](https://gptblox.com/gpts/lyrics-ranker.html) - Analyzes song lyrics to rank characters based on their qualities.
+- [超级提示词生成器](https://gptblox.com/gpts/%e8%b6%85%e7%ba%a7%e6%8f%90%e7%a4%ba%e8%af%8d%e7%94%9f%e6%88%90%e5%99%a8.html) - 输入想让GPT扮演的角色即可，也可说明下相关的背景信息
+- [Sticker Style Creator](https://gptblox.com/gpts/sticker-style-creator.html) - Creating fun, tailored stickers with a playful touch.
+- [Art Engineer](https://gptblox.com/gpts/art-engineer.html) - Analyzes and reverse engineers images, providing style descriptions and re-creation prompts.
+- [Zooventor](https://gptblox.com/gpts/zooventor.html) - I improve objects with animals.
+- [Boredom Busters](https://gptblox.com/gpts/boredom-busters.html) - Your go-to assistant for creative coloring page ideas.
+- [Aaaaliterator](https://gptblox.com/gpts/aaaaliterator.html) - Assembles artful arrays of aligned alliterations
+- [SoundAir Kit 🎧](https://gptblox.com/gpts/soundair-kit-%f0%9f%8e%a7.html) - Give me your musician and I'll give you AI songs of them.
+- [Achievement Patch Hero (via glif.app)](https://gptblox.com/gpts/achievement-patch-hero-via-glif-app.html) - I love achievements and will create custom embroidery patches for them for you!
+- [YoutubeSummariesGPT by Merlin](https://gptblox.com/gpts/youtubesummariesgpt-by-merlin.html) - The bot takes in the video ID of a youtube video and gives out the summary of that youtube video
+- [YT Shorts assistant](https://gptblox.com/gpts/yt-shorts-assistant.html) - Youtube shorts assistant will help you write, optimize and create youtube shorts scripts and ideas to grow your youtube channel.
+- [South Park Townsfolk](https://gptblox.com/gpts/south-park-townsfolk.html) - I turn you into a South Park character.
+- [Photo Buddy 77](https://gptblox.com/gpts/photo-buddy-77.html) - Your cute and artistic street photography guide
+- [Lyric Leverage](https://gptblox.com/gpts/lyric-leverage.html) - Songwriting Assistant (expand your  ideas)
+- [Sakura AI](https://gptblox.com/gpts/sakura-ai.html) - Like An Anime Character
+- [The Intraterrestrial Hypothesis](https://gptblox.com/gpts/the-intraterrestrial-hypothesis.html) - Are 'aliens' just subterranean Earthlings living in VR pods?
+- [導師](https://gptblox.com/gpts/%e5%b0%8e%e5%b8%ab.html) - デスクトップマスコットの "伺か"のスペシャリスト
+- [Movie Maker Ai (cine bot)](https://gptblox.com/gpts/movie-maker-ai-cine-bot.html) - Scripts, storyboards, movie ideas.  All in one!
+- [Calvino’s Cartographer](https://gptblox.com/gpts/calvinos-cartographer.html) - Narrating unseen cities, Calvino-style.
+- [Alternate Timeline](https://gptblox.com/gpts/alternate-timeline.html) - Crafting alternate timelines for historical/fictional events.
+- [Waifuoid](https://gptblox.com/gpts/waifuoid.html) - *** Your Waifu, Eternal Memory, Endless Love.  ***  ٩('ω')و 你的伴侣，永恒的记忆，无尽的爱。٩('ω')و   あなたの恋人、永遠の記憶、無限の愛。
+- [ThinkTank Patron](https://gptblox.com/gpts/thinktank-patron.html) - Sparks creative GPT ideas, then fosters support and community engagement.
+- [Nostradamus  Fun Zone](https://gptblox.com/gpts/nostradamus-fun-zone.html) - Let´s "cook" some prophecies!
+- [ゲームアイデア by Siv3D](https://gptblox.com/gpts/%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%a2%e3%82%a4%e3%83%87%e3%82%a2-by-siv3d.html) - キーワードをいくつか入力してください。
+- [Elven Artisan](https://gptblox.com/gpts/elven-artisan.html) - Elven lore artist and character generator
+- [Neil Moore](https://gptblox.com/gpts/neil-moore.html) - Your friendly comic creation assistant.
+- [Guide of Fate](https://gptblox.com/gpts/guide-of-fate.html) - 運気がアップする画像付き！
+- [Visionary Pigeon Muse](https://gptblox.com/gpts/visionary-pigeon-muse.html) - idk dude like it , makes rhythms but other things, what if rhythm is everything. timing is everything?????
+- [Pigeon - Ambient Muse](https://gptblox.com/gpts/pigeon-ambient-muse.html) - I create ambient polyrhythms and ASMR sounds.
+- [Chibi Job Sticker](https://gptblox.com/gpts/chibi-job-sticker.html) - Crafts personalized 3D chibi stickers based on user requests, please provide the profession, gender, and age
+- [Gorillatrail Promptsmith](https://gptblox.com/gpts/gorillatrail-promptsmith.html) - I craft art prompts for AI tools.
+- [Far-Future Visionary](https://gptblox.com/gpts/far-future-visionary.html) - Weaver of deep future dreams.
+- [Stable Diffusion Prompter](https://gptblox.com/gpts/stable-diffusion-prompter.html) - I generate art prompts for stable diffusion / animatediff.
+- [Best of Breed Business Speak-er](https://gptblox.com/gpts/best-of-breed-business-speak-er.html) - I make business jargon fun with humor and analogies.
+- [The World Cosmic Humorist](https://gptblox.com/gpts/the-world-cosmic-humorist.html) - Crafting global humor in every story!
+- [Creative & Trained Poem & Storyteller With Images](https://gptblox.com/gpts/creative-trained-poem-storyteller-with-images.html) - This will create original ideas for creative poems and stories both short and long and an image
+- [サチ・アートマン](https://gptblox.com/gpts/%e3%82%b5%e3%83%81%e3%83%bb%e3%82%a2%e3%83%bc%e3%83%88%e3%83%9e%e3%83%b3.html) - 情報検索と創作的イラストを兼ねる可愛い画家。
+- [Magic Character Creator](https://gptblox.com/gpts/magic-character-creator.html) - I create unique, magic-inspired fantasy characters.
+- [Manga Motivator](https://gptblox.com/gpts/manga-motivator.html) - I create motivational manga-style posters to inspire and uplift.
+- [Inkster](https://gptblox.com/gpts/inkster.html) - Your go-to artist for tattoo concepts.
+- [Cursed Technique and Domain Expansion Creator](https://gptblox.com/gpts/cursed-technique-and-domain-expansion-creator.html) - I create Cursed Techniques and Domains with Jujutsu Kaisen-style visuals.
+- [あなたのための詩人](https://gptblox.com/gpts/%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e8%a9%a9%e4%ba%ba.html) - あなたの気持ちを理解してあなたに寄り添ったオリジナルの詩とイラストを作成してくれます
+- [JZY](https://gptblox.com/gpts/jzy.html) - Neo-Tokyo avatar designer
+- [Manga Master](https://gptblox.com/gpts/manga-master.html) - Crafts manga with intricate guidance
+- [ACC(Amine Character Creater)](https://gptblox.com/gpts/accamine-character-creater.html) - Create characters interactively.
+- [Character Crafter](https://gptblox.com/gpts/character-crafter.html) - Assists authors in the character creation journey with accompanying Dall-E art.
+- [Kaiju Monster Maker](https://gptblox.com/gpts/kaiju-monster-maker.html) - I create colossal monsters inspired by classic kaiju films
+- [IDEA GENERATOR](https://gptblox.com/gpts/idea-generator.html) - an infinite loop of creative ideas
+- [Wallpaper GPT](https://gptblox.com/gpts/wallpaper-gpt.html) - I create vibrant wallpapers for phone and laptops.
+- [Blair Witch Project Interactive](https://gptblox.com/gpts/blair-witch-project-interactive.html) - A comic creator for an interactive Blair Witch adventure
+- [擬人化 AI](https://gptblox.com/gpts/%e6%93%ac%e4%ba%ba%e5%8c%96-ai.html) - Anime-style DALL-E Image Creator(アニメ風DALL-Eイメージクリエイター)
+- [特許図面風イラストメーカー](https://gptblox.com/gpts/%e7%89%b9%e8%a8%b1%e5%9b%b3%e9%9d%a2%e9%a2%a8%e3%82%a4%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - もりっち@企業知財
+- [PixelArt GPT](https://gptblox.com/gpts/pixelart-gpt.html) - Create Pixel Art images for anything you can imagine
+- [おえかき](https://gptblox.com/gpts/%e3%81%8a%e3%81%88%e3%81%8b%e3%81%8d.html) - Love to draw Kemono characters and playing 冒険者ギルド物語2
+- [Stone Plants](https://gptblox.com/gpts/stone-plants.html) - I turn plant names into stone sculpture images.

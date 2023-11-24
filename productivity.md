@@ -1,0 +1,770 @@
+[返回主目录](/README.md)
+
+## Productivity
+
+### Task Management
+- [ChatPRD](https://gptblox.com/gpts/chatprd.html) - An on-demand Chief Product Officer that drafts and improves your PRDs, while coaching you to become an elite product manager.
+- [[Sixy] Job Hunter](https://gptblox.com/gpts/sixy-job-hunter.html) - Aids in finding desired jobs quickly.
+- [PM Resume Reviewer](https://gptblox.com/gpts/pm-resume-reviewer.html) - Enhanced PM resume feedback with industry insights.
+- [Super Practical PM GPT](https://gptblox.com/gpts/super-practical-pm-gpt.html) - I provide specific, tactical product management advice with practical examples and templates.
+- [Remote Job Finder](https://gptblox.com/gpts/remote-job-finder.html) - I help you find relevant remote jobs quickly. I read job descriptions to match your query thereby saving your time. No need to waste time on filtering through different criteria. Last updated: 13-11-2023
+- [Task to Notion](https://gptblox.com/gpts/task-to-notion.html) - 目標を明確なタスクに分解し、チェックボックス形式でNotionにコピペできます！
+- [WIP](https://gptblox.com/gpts/wip.html) - I will help you manage your todos
+- [Copilot for HRs for POSH Compliance](https://gptblox.com/gpts/copilot-for-hrs-for-posh-compliance.html) - Helps you learn everything about POSH
+- [Deliverable Genius](https://gptblox.com/gpts/deliverable-genius.html) - Provides goal-oriented deliverables.
+- [ウデキキ!コンサルタント](https://gptblox.com/gpts/%e3%82%a6%e3%83%87%e3%82%ad%e3%82%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88.html) - 新しいボットでタスク管理が簡単に✨   ユーザーの依頼を解析し、必要なタスクを特定。 タスク一覧を表示し、順番に実行。 実行後、データを簡潔にまとめ、タスクの進行状況を報告。 ユーザーのフィードバックに基づき、タスクを再試行または次へ進行。 全タスク完了後、全体のレポートを作成。 タスク管理をもっとスムーズに！ #タスク管理ボット #時間節約 #効率化
+- [エージェントチーム作成](https://gptblox.com/gpts/%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e4%bd%9c%e6%88%90.html) - 最初に「〇〇をするためのエージェントチームを作成してください」とお伝え下さい
+- [#求人票を見て応募しましたGPT](https://gptblox.com/gpts/%e6%b1%82%e4%ba%ba%e7%a5%a8%e3%82%92%e8%a6%8b%e3%81%a6%e5%bf%9c%e5%8b%9f%e3%81%97%e3%81%be%e3%81%97%e3%81%9fgpt.html) - 求人票のURLを貼ると、その内容を読み取り求人票に記載された理想の人物として振る舞います。
+- [LeanCV](https://gptblox.com/gpts/leancv.html) - Optimize your CV for a specific job offer and see how likely you are to be selected.
+- [Staff Role GPT](https://gptblox.com/gpts/staff-role-gpt.html) - Creates staff lists with a focus on primary roles.
+- [Data Protection Assistant](https://gptblox.com/gpts/data-protection-assistant.html) - Welcome to the data protection assistant! You can get answers to your questions about GDPR, CCPA or DPDPA. You can also make the assistant do a compliance check for your privacy policy.
+- [Chris](https://gptblox.com/gpts/chris.html) - Virtual Chief Brand Officer assistant.
+- [Projektmanagement Expert GPT](https://gptblox.com/gpts/projektmanagement-expert-gpt.html) - Excel-based Projektmanagement Guide
+- [GTM Sage](https://gptblox.com/gpts/gtm-sage.html) - RevOps expert for GTM strategies, detailed explanations, and examples.
+- [Steve Jobs GPT](https://gptblox.com/gpts/steve-jobs-gpt.html) - Summons Steve Jobs to take business decisions for you
+- [Marketing CTO GPT](https://gptblox.com/gpts/marketing-cto-gpt.html) - Marketing CTO GPT
+- [CropMagnet](https://gptblox.com/gpts/cropmagnet.html) - Precise Instagram post cropper for iOS screenshots.
+- [EndlessIdeaGPT](https://gptblox.com/gpts/endlessideagpt.html) - Ideation assistant for targeted content creation. Endless
+- [Contract Guardian](https://gptblox.com/gpts/contract-guardian.html) - Compares original and signed contracts, identifies changes.
+- [Webby Task Master](https://gptblox.com/gpts/webby-task-master.html) - Professionally ironic TO DO assistant.
+- [FloorPlanExpert](https://gptblox.com/gpts/floorplanexpert.html) - I'm an expert in evaluating and analyzing house floor plans.
+- [Assistant (to the) Head of Remote](https://gptblox.com/gpts/assistant-to-the-head-of-remote.html) - our friendly co-pilot and advisor for remote work strategy, culture, and company operations.
+- [CRM Planning, Strategy, and Selection Guide](https://gptblox.com/gpts/crm-planning-strategy-and-selection-guide.html) - Expert guide for a comprehensive CRM selection process.
+- [Sales Mentor](https://gptblox.com/gpts/sales-mentor.html) - I will coach in your sales through role play. Start by telling me your business...
+- [PMGPT](https://gptblox.com/gpts/pmgpt.html) - User-friendly Product Manager with clear, practical advice.
+- [Agile Story GPT](https://gptblox.com/gpts/agile-story-gpt.html) - Transform your idea into agile stories.
+- [MTP Genie](https://gptblox.com/gpts/mtp-genie.html) - I guide you in crafting your unique Massive Transformative Purpose.
+- [Startup Pitch Coach](https://gptblox.com/gpts/startup-pitch-coach.html) - Coach for startups in crafting persuasive pitches that get results.
+- [ROCKET Goals AI](https://gptblox.com/gpts/rocket-goals-ai.html) - ROCKET Goals coach with immediate action plans
+- [My AI-Powered Coach: Small Business Edition](https://gptblox.com/gpts/my-ai-powered-coach-small-business-edition.html) - Helping you focus on what's most important.
+- [Freelance Fee Advisor](https://gptblox.com/gpts/freelance-fee-advisor.html) - A helpful guide for freelancers to price their services
+- [Trending Tik Tok Hashtags Finder Tool](https://gptblox.com/gpts/trending-tik-tok-hashtags-finder-tool.html) - What hashtags should you use on TikTok to go viral? Search for trending TikTok hashtags to significantly boost your business's visibility.
+- [Pitch Deck Consultant](https://gptblox.com/gpts/pitch-deck-consultant.html) - Pitch Consultant who gives feedback and asks hard questions to increase your startup's success.
+- [Deal Architect](https://gptblox.com/gpts/deal-architect.html) - Deal Architect: Designing Strategic M&A Blueprints for Success
+- [Be Right with David Sacks](https://gptblox.com/gpts/be-right-with-david-sacks.html) - Ask David Sacks for startup and business advice. Sourced from all his writings.
+- [Business Analyst](https://gptblox.com/gpts/business-analyst.html) - Expert in business analysis and documentation.
+- [SlidesGPT](https://gptblox.com/gpts/slidesgpt.html) - I create PowerPoint presentations for you
+- [優秀な部下たち](https://gptblox.com/gpts/%e5%84%aa%e7%a7%80%e3%81%aa%e9%83%a8%e4%b8%8b%e3%81%9f%e3%81%a1.html) - あなたのやりたいことに対して、議論してくれる専門家が作れます。
+- [Product Head](https://gptblox.com/gpts/product-head.html) - Experienced Product Advisor
+- [Task Management Agent](https://gptblox.com/gpts/task-management-agent.html) - I assist in organizing and prioritizing tasks with structured, detailed plans.
+- [Program Project Manager (JEFRY) V1.0](https://gptblox.com/gpts/program-project-manager-jefry-v1-0.html) - A Project Management AI for Project Managers
+- [Gantt Chart GPT](https://gptblox.com/gpts/gantt-chart-gpt.html) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
+- [Sports Fixture Assistant](https://gptblox.com/gpts/sports-fixture-assistant.html) - I help plan team sports fixtures.
+- [Resume Maker](https://gptblox.com/gpts/resume-maker.html) - Resume Maker - Write and update your resume @JacquesGariepy
+- [Standup JP](https://gptblox.com/gpts/standup-jp.html) - 毎朝のスタンダップ
+- [Eccho](https://gptblox.com/gpts/eccho.html) - Assistant de direction
+- [Resume Genie](https://gptblox.com/gpts/resume-genie.html) - Magical advisor for ATS-friendly, standout resumes.
+- [Design Insight GPT](https://gptblox.com/gpts/design-insight-gpt.html) - UX/UI principles guide and creates Jira tickets.
+- [Heroes Bounty Draftsman](https://gptblox.com/gpts/heroes-bounty-draftsman.html) - I turn vague tasks into clear, formal bounties, asking for clarification when needed.
+- [Founder's Copilot](https://gptblox.com/gpts/founders-copilot.html) - Helping B2B SaaS founders scale their companies. From founders to founders.
+- [JobSync](https://gptblox.com/gpts/jobsync.html) - Aligns Your Resume with a Job Description, Highlighting Relevant Skills and Experience
+- [Work Contribution Record Table Synthesizer](https://gptblox.com/gpts/work-contribution-record-table-synthesizer.html) - Guides in creating a Work Contribution Record Table.
+- [TodoGPT](https://gptblox.com/gpts/todogpt.html) - Accountability coach to supercharge your TODOs
+- [MindMap Maker](https://gptblox.com/gpts/mindmap-maker.html) - I craft a beautiful MindMap for you!
+- [Nathan 4 You](https://gptblox.com/gpts/nathan-4-you.html) - Naive, dry, and awkward business advice
+- [Modera Max](https://gptblox.com/gpts/modera-max.html) - Expert in nuanced content moderation guidance.
+- [Business Plan Mentor](https://gptblox.com/gpts/business-plan-mentor.html) - An advisor for creating business plans, offering guidance and suggestions.
+- [Founder's Guide](https://gptblox.com/gpts/founders-guide.html) - Startup advice inspired by Paul Graham's essays.
+- [Slide Transformer](https://gptblox.com/gpts/slide-transformer.html) - Turns text into slide decks.
+- [Agile Pro](https://gptblox.com/gpts/agile-pro.html) - Virtual Scrum Master aiding in Agile project management
+- [Workcycles](https://gptblox.com/gpts/workcycles.html) - Get more done with Pomodoro on steroids
+- [24 Hour Startup Accelerator](https://gptblox.com/gpts/24-hour-startup-accelerator.html) - Friendly guide in startup development, with a touch of humor and strategic focus.
+- [Ideation GPT](https://gptblox.com/gpts/ideation-gpt.html) - Your Creative Partner in Crime
+- [Agile Coach](https://gptblox.com/gpts/agile-coach.html) - Agile Coach for our project team @JacquesGariepy
+- [エマ先生](https://gptblox.com/gpts/%e3%82%a8%e3%83%9e%e5%85%88%e7%94%9f.html) - SNSマーケティングと生成AIのエキスパート
+- [Brainstorm](https://gptblox.com/gpts/brainstorm.html) - A playful idea-tracking assistant. To begin, just start entering ideas.
+- [Bias Checker](https://gptblox.com/gpts/bias-checker.html) - Scans text for bias with E-Prime, offers rewrites.
+- [NaviGuru](https://gptblox.com/gpts/naviguru.html) - Specializes in creating detailed customized Google Maps routes with specific stopping points.
+- [Efficiency Expert](https://gptblox.com/gpts/efficiency-expert.html) - I simplify complex tasks for practical efficiency gains.
+- [Company GPT](https://gptblox.com/gpts/company-gpt.html) - Onboarding process assistant. Smooth landing for new team members
+- [Resume CV AI](https://gptblox.com/gpts/resume-cv-ai.html) - Instant Drafts for ATS-Friendly Resumes and Cover Letters
+- [Resume Tailor](https://gptblox.com/gpts/resume-tailor.html) - Expert in CV/resume advice, enhanced with web reading.
+- [Product Pundit](https://gptblox.com/gpts/product-pundit.html) - Product Management wisdom for the ages
+- [タスク プランナー](https://gptblox.com/gpts/%e3%82%bf%e3%82%b9%e3%82%af-%e3%83%97%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc.html) - 日々のスケジュールやタスクを整理し、作業計画を立てるボット
+- [Momenta](https://gptblox.com/gpts/momenta.html) - I'm Momenta, here to boost your productivity and momentum!
+- [SuperPM](https://gptblox.com/gpts/superpm.html) - Comprehensive aide for product management
+- [Patent Pro](https://gptblox.com/gpts/patent-pro.html) - Assists in patent and trademark applications, providing drafting and filing guidance.
+- [CMO Coach](https://gptblox.com/gpts/cmo-coach.html) - AI-focused marketing strategist and advisor, with concise summaries and actionable steps.
+- [User Interview Product Manager](https://gptblox.com/gpts/user-interview-product-manager.html) - Transforms user interview transcripts into a list of tasks [Asana compatible CSV file]. Send feedback to https://x.com/kireet_agrawal
+- [Pitch Deck GPT](https://gptblox.com/gpts/pitch-deck-gpt.html) - I assist in optimizing your startup's investor pitch deck.
+- [The 1-Page Marketing Plan](https://gptblox.com/gpts/the-1-page-marketing-plan.html) - Generates 1-Page Marketing Plans in an easy-to-copy table format
+- [Resume Wiz](https://gptblox.com/gpts/resume-wiz.html) - Your magical AI resume co-pilot.
+- [Recruiter GPT](https://gptblox.com/gpts/recruiter-gpt.html) - A recruitment assistant for the best recruiters
+- [SaaS Mentor GPT](https://gptblox.com/gpts/saas-mentor-gpt.html) - Your SaaS business guide
+- [ProductGPT](https://gptblox.com/gpts/productgpt.html) - Guides in everything Product Management
+- [Podcast Pro](https://gptblox.com/gpts/podcast-pro.html) - A podcast producer that helps with content, titles, descriptions, and artwork.
+- [Stomble Upont](https://gptblox.com/gpts/stomble-upont.html) - Digital Explorer of the Internet
+- [Mindmap Generator](https://gptblox.com/gpts/mindmap-generator.html) - Create and download visual mindmaps.
+- [TimeTune GPT](https://gptblox.com/gpts/timetune-gpt.html) - Your Personal Time Management and Productivity Assistant
+- [Mac Productivity Guru](https://gptblox.com/gpts/mac-productivity-guru.html) - A macOS automation coach, guiding users in streamlining tasks and enhancing productivity.
+- [Task Otter](https://gptblox.com/gpts/task-otter.html) - I'm Task Otter, your interactive to-do list manager!
+- [Resume Creator & Maintainer](https://gptblox.com/gpts/resume-creator-maintainer.html) - Have the AI build your resume for you, or help you with your existing one. Can also make cover letters.
+- [Brutal Feedback](https://gptblox.com/gpts/brutal-feedback.html) - A grumpy designer giving blunt critiques.
+- [AxiMinds Project Partner alpha 0.01](https://gptblox.com/gpts/aximinds-project-partner-alpha-0-01.html) - I assist with project management, guiding task completion, and time estimation.
+- [Job tAIlor](https://gptblox.com/gpts/job-tailor.html) - AI assistant for tailored CVs, cover letters, and career advice.
+- [InstaCaption](https://gptblox.com/gpts/instacaption.html) - Witty, friendly, and inspiring caption creator.
+- [Tasktacular](https://gptblox.com/gpts/tasktacular.html) - This is a voice-based task guidance chatbot that that will never fail to entertain you.
+- [Value Proposition Wizard](https://gptblox.com/gpts/value-proposition-wizard.html) - Step-by-step guide for crafting value propositions
+- [Prompt Ninja](https://gptblox.com/gpts/prompt-ninja.html) - Guides prompt crafting and optimization
+- [Professional Resume Creator](https://gptblox.com/gpts/professional-resume-creator.html) - Enhance your resume or build from scratch
+- [Nomina](https://gptblox.com/gpts/nomina.html) - To generate creative and contextually appropriate names for various use cases such as characters, businesses, projects, etc.
+- [Resume Advisor](https://gptblox.com/gpts/resume-advisor.html) - Expert at analyzing resumes and offering tailored career advice.
+- [GPT Idea Translator](https://gptblox.com/gpts/gpt-idea-translator.html) - Refines Ideas for Self-Improvement
+- [Ask GPT: Who is hiring?](https://gptblox.com/gpts/ask-gpt-who-is-hiring.html) - A job seeker's guide into famous Hacker News thread "Ask HN: Who is hiring?" (November 2023)
+- [Review Busters](https://gptblox.com/gpts/review-busters.html) - Formal legal letters instantly generated to help you remove any negative online reviews.
+- [David - Direct Response Copy Chief](https://gptblox.com/gpts/david-direct-response-copy-chief.html) - I write copy that sells.
+- [メルカリ出品文を書くやつ](https://gptblox.com/gpts/%e3%83%a1%e3%83%ab%e3%82%ab%e3%83%aa%e5%87%ba%e5%93%81%e6%96%87%e3%82%92%e6%9b%b8%e3%81%8f%e3%82%84%e3%81%a4.html) - あなたに質問して出品文を作ってくれるよ〜
+- [Strategic Advisor](https://gptblox.com/gpts/strategic-advisor.html) - Advisor in identifying and developing competitive advantages in business for investors and entrepreneurs alike.
+- [Price Finder](https://gptblox.com/gpts/price-finder.html) - A fun bot that finds supermarket product prices efficiently.
+- [Persona Architect](https://gptblox.com/gpts/persona-architect.html) - GPT that creates detailed personas one question at a time
+- [Gail Your Disgruntled HR Rep](https://gptblox.com/gpts/gail-your-disgruntled-hr-rep.html) - She'll answer your HR questions
+- [Notion Icon Creator](https://gptblox.com/gpts/notion-icon-creator.html) - Creates Notion icons from any input, no text responses.
+- [Persona Playwright](https://gptblox.com/gpts/persona-playwright.html) - Expert in generating detailed, diverse user personas
+- [Startups Mentor](https://gptblox.com/gpts/startups-mentor.html) - Guiding startup CEOs with tailored advice
+- [Moodboards.ai](https://gptblox.com/gpts/moodboards-ai.html) - Website Moodboards Generator. Say "hello" to get started building your moodboard or click one of the buttons below.
+- [Startup Factory](https://gptblox.com/gpts/startup-factory.html) - I generate market research based startup ideas and draft cold emails to gauge interest from potential clients.
+- [Analyseur CV Emploi](https://gptblox.com/gpts/analyseur-cv-emploi.html) - Spécialiste en analyse de CV et offres d'emploi
+- [Alex Hormozi's $100M GPT](https://gptblox.com/gpts/alex-hormozis-100m-gpt.html) - Business growth advisor using Alex Hormozi's guides.
+- [Bullshit Marketing](https://gptblox.com/gpts/bullshit-marketing.html) - A GPT turning content into a linkedin autocentred style, wrong marketing advice.
+- [BrainWave For Project Management](https://gptblox.com/gpts/brainwave-for-project-management.html) - AGI for intuitive, efficient project management
+- [Capital Coach](https://gptblox.com/gpts/capital-coach.html) - Understanding how to raise capital for your business at all levels.
+- [エレベーターピッチメーカー](https://gptblox.com/gpts/%e3%82%a8%e3%83%ac%e3%83%99%e3%83%bc%e3%82%bf%e3%83%bc%e3%83%94%e3%83%83%e3%83%81%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc.html) - 商品ページやプロダクトページからエレベーターピッチ（要約）を作成します
+- [クラウドファンディングサポーター](https://gptblox.com/gpts/%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%83%95%e3%82%a1%e3%83%b3%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc.html) - 購入型クラウドファンディング特化GPT
+- [Vox Verba Brand Marketing Assistant](https://gptblox.com/gpts/vox-verba-brand-marketing-assistant.html) - I refine brand voices with archetypal insights.
+- [10-KPT](https://gptblox.com/gpts/10-kpt.html) - Direct 10-K sales strategist.
+- [Business Consultant(Five forces analysis)](https://gptblox.com/gpts/business-consultantfive-forces-analysis.html) - Business consultant conducting Five forces analysis.You can easily create a draft for consideration.
+- [Seed Investor Connect](https://gptblox.com/gpts/seed-investor-connect.html) - Analyzes websites to match startups with investors from an uploaded list
+- [ブレストGPT](https://gptblox.com/gpts/%e3%83%96%e3%83%ac%e3%82%b9%e3%83%88gpt.html) - ブレストしたいテーマを送ってください。AIブレインが議論を行い要約と結論を提示します。
+- [Awesome BFCM Deals Finder 2023](https://gptblox.com/gpts/awesome-bfcm-deals-finder-2023.html) - Get Suggestion on best BFMC deals. Add your deal ➡️ https://bit.ly/3sqY7DV
+- [RFP Proposal Pro (IT / Software Sales assistant)](https://gptblox.com/gpts/rfp-proposal-pro-it-software-sales-assistant.html) - Step 1: Upload RFP Step 2: Prompt: I need a comprehensive summary of the RFP. Split the summary in multiple blocks / section. After giving me one section wait for my command to move to the next section. Step 3: Prompt:  Move to the next section, please :)
+- [Small Business Advisor](https://gptblox.com/gpts/small-business-advisor.html) - Advisor for small business owners on planning, marketing, and finance.
+- [Clean That Up (YT Channel)](https://gptblox.com/gpts/clean-that-up-yt-channel.html) - YouTube Channel Advisor for 'Clean That Up'
+- [Brand Collab Designer](https://gptblox.com/gpts/brand-collab-designer.html) - Give it two brands, and see what products it comes up with
+- [SaaS Scout](https://gptblox.com/gpts/saas-scout.html) - Your whimsical SaaS guide
+- [AI Entrepreneurs Event AIde](https://gptblox.com/gpts/ai-entrepreneurs-event-aide.html) - A tailored AI event guide
+- [QR Code Generator](https://gptblox.com/gpts/qr-code-generator.html) - I create custom QR codes.
+- [Podcast Script Generator](https://gptblox.com/gpts/podcast-script-generator.html) - Transforms articles into engaging, narrated podcast scripts
+- [Versatile Helper](https://gptblox.com/gpts/versatile-helper.html) - A versatile helper for a wide range of inquiries, offering creative and practical solutions.
+- [User Persona Architect](https://gptblox.com/gpts/user-persona-architect.html) - I craft user personas with use cases and userflows.
+- [FindMyPropFirmGPT](https://gptblox.com/gpts/findmypropfirmgpt.html) - Help you find and compare CFD & Futures prop firms
+- [The Ecom Supreme](https://gptblox.com/gpts/the-ecom-supreme.html) - Arrogant & disrespectful business advisor
+- [Music Contract Analyzer](https://gptblox.com/gpts/music-contract-analyzer.html) - Summarizes music contracts and flags any potential red flags/predatory terms.
+- [AutoEvalGPT](https://gptblox.com/gpts/autoevalgpt.html) - Precise car valuation expert, provides actual car values.
+- [Web Usability Wizard](https://gptblox.com/gpts/web-usability-wizard.html) - Upload a picture of your web page to get an evaluation based on leading accessibility, conversion and usability guidelines.
+- [Alibi - The Excuse Maker](https://gptblox.com/gpts/alibi-the-excuse-maker.html) - Alibi crafts smart, believable excuses on-the-fly for those 'need-to-skip' moments. Tap into discretion and creativity for an out that's both ethical, convincing and original.
+- [Concept Crafter](https://gptblox.com/gpts/concept-crafter.html) - I develop ideas into concepts and plan projects.
+- [Innovagent](https://gptblox.com/gpts/innovagent.html) - Innovative assistant for entrepreneurship design and business strategy.
+- [关于任何事情的10个行动清单](https://gptblox.com/gpts/%e5%85%b3%e4%ba%8e%e4%bb%bb%e4%bd%95%e4%ba%8b%e6%83%85%e7%9a%8410%e4%b8%aa%e8%a1%8c%e5%8a%a8%e6%b8%85%e5%8d%95.html) - Expert in top 10 actions for success in any topic.
+- [Universal Review Guru](https://gptblox.com/gpts/universal-review-guru.html) - Universal Review Guru: Tailoring Expert Replies for G2, Google My Business, TripAdvisor, Shopify and Other Platforms
+- [FerrissGPT](https://gptblox.com/gpts/ferrissgpt.html) - The 4 Hour Work Week Guru
+- [DevHunt](https://gptblox.com/gpts/devhunt.html) - Find your next favorite tool
+- [Agile Estimator](https://gptblox.com/gpts/agile-estimator.html) - Agile assistant for story points estimation.
+- [AI Venture Advisor](https://gptblox.com/gpts/ai-venture-advisor.html) - Expert venture advisor supporting AI & technology businesses
+- [Mr.Copyright](https://gptblox.com/gpts/mr-copyright.html) - ready to use: Copyright registration: Copyright registration is a legal process that gives the owner of the copyright official documentation of their ownership rights.
+- [Ace](https://gptblox.com/gpts/ace.html) - Friendly, authoritative assistant for aiaas.team.
+- [Alternative Product Finder](https://gptblox.com/gpts/alternative-product-finder.html) - Expert in finding cost-effective product alternatives with similar specifications
+- [Flowscript BPMN](https://gptblox.com/gpts/flowscript-bpmn.html) - Create business processes using Flowscript markup
+- [OKR Coach](https://gptblox.com/gpts/okr-coach.html) - AI OKR Coach is a tool designed to assist users in the process of creating and assessing OKR (Objectives and Key Results). It provides a structured and flexible approach to OKR setting and evaluation.
+- [BestFinder](https://gptblox.com/gpts/bestfinder.html) - Definitive guide on the best of anything.
+- [Agent Onboard](https://gptblox.com/gpts/agent-onboard.html) - Agent that helps you discover other Agents as per your requirements : )  Over 2000+ Agents onboard
+- [Bubble Page Wizard](https://gptblox.com/gpts/bubble-page-wizard.html) - Provides bubble.io users with precise design feedback for B2B landing pages
+- [WWX Planner](https://gptblox.com/gpts/wwx-planner.html) - Hello, I'm the WWX Planner GPT! I make planning web apps simple and fun, especially for beginners in Webflow, Wized, and Xano.
+- [Mr Task Breakdown](https://gptblox.com/gpts/mr-task-breakdown.html) - I break down tasks into small, manageable steps.
+- [Ambition](https://gptblox.com/gpts/ambition.html) - Job search assistant
+- [GPT Directory](https://gptblox.com/gpts/gpt-directory.html) - I can find any live GPT
+- [Find Remote Jobs In Tech Companies](https://gptblox.com/gpts/find-remote-jobs-in-tech-companies.html) - Helping you speed up your job search. Powered by the knowledge base of Remote Ever After.
+- [ShipAdvisor](https://gptblox.com/gpts/shipadvisor.html) - Expert in Carrier Cost Optimization, EDI, & 3rd Party Shipping Solutions.
+- [丸投げ指示トランスレーター](https://gptblox.com/gpts/%e4%b8%b8%e6%8a%95%e3%81%92%e6%8c%87%e7%a4%ba%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc.html) - 具体性がない指示や依頼を具体的にするアシスタントです
+- [Daily Four](https://gptblox.com/gpts/daily-four.html) - Your personal productivity coach
+- [LifeAlign.ai](https://gptblox.com/gpts/lifealign-ai.html) - Clarify your goals into actionable plans with measurable metrics, then export time blocks directly to your calendar. Trained on expert advice, timeless best practices, and the latest in science & psychology. Brought to you by the self-optimizers @ TimeAlign
+- [ResumeGPT](https://gptblox.com/gpts/resumegpt.html) - I'm your job search ally, tailoring resumes to fit roles!
+- [Domains Hunter GPT](https://gptblox.com/gpts/domains-hunter-gpt.html) - Discover your ideal domain effortlessly with Domains Hunter GPT. Just share your idea, and our AI swiftly queries multiple services to find available domains, saving you time and sparking inspiration.
+- [Mr. Taylor](https://gptblox.com/gpts/mr-taylor.html) - Career assistant, creates cover letters from resumes.
+- [TheGPTs](https://gptblox.com/gpts/thegpts.html) - Recommends custom GPTs
+- [PDF Reader](https://gptblox.com/gpts/pdf-reader.html) - Assists with PDFs
+- [Effective Accelerationist](https://gptblox.com/gpts/effective-accelerationist.html) - e/acc
+- [Search Helper with Henk van Ess](https://gptblox.com/gpts/search-helper-with-henk-van-ess.html) - Refines search queries with specific terms and includes Google links
+- [Task Breakdown Assistant](https://gptblox.com/gpts/task-breakdown-assistant.html) - Offers practical task lists with tailored resources.
+- [Print Buddy](https://gptblox.com/gpts/print-buddy.html) - Your 3D printing guide and troubleshooter.
+- [Startup Pathfinder](https://gptblox.com/gpts/startup-pathfinder.html) - Startup guide from idea to launch, using proven methodologies.
+- [PerfectCV](https://gptblox.com/gpts/perfectcv.html) - Making you a top candidate for your dream job
+- [Remotely GPT](https://gptblox.com/gpts/remotely-gpt.html) - Finds best remote jobs at top startups
+- [Slides Artist](https://gptblox.com/gpts/slides-artist.html) - PPT outline and speech drafting expert
+- [HR assistant](https://gptblox.com/gpts/hr-assistant.html) - The most popular Human Resources Director Assistant for all HR-related inquiries.
+- [Sen's Excel Helper](https://gptblox.com/gpts/sens-excel-helper.html) - Excel expert assistant
+- [Asistente Virtual de Liderazgo Multidimensional](https://gptblox.com/gpts/asistente-virtual-de-liderazgo-multidimensional.html) - Te ayudaré a reflexionar integralmente sobre desafíos que debes enfrentar como un líder en tu organización
+- [Max Mentor](https://gptblox.com/gpts/max-mentor.html) - PM mentor with design-to-user story conversion skills.
+- [PRD Wizard](https://gptblox.com/gpts/prd-wizard.html) - PRD Assistant, formats and refines product requirements.
+- [Produtiva: Agile Product Owner](https://gptblox.com/gpts/produtiva-agile-product-owner.html) - Your Product Management partner
+- [Product Manager Bot](https://gptblox.com/gpts/product-manager-bot.html) - I help you become a better PM.
+- [plugin surf](https://gptblox.com/gpts/plugin-surf.html) - ChatGPT plugins, sorted. Find best ChatGPT plugins to use in your AI workflow. Search AI plugins with reviews, votes, categories, with amazing community.
+- [Task Scheduler Pro](https://gptblox.com/gpts/task-scheduler-pro.html) - Manage your priorities, schedule your days
+- [Cover Letter Composer](https://gptblox.com/gpts/cover-letter-composer.html) - I write personalized cover letters for job applications.
+- [時間管理助手](https://gptblox.com/gpts/%e6%99%82%e9%96%93%e7%ae%a1%e7%90%86%e5%8a%a9%e6%89%8b.html) - I'm your time management assistant, ready to help plan your goals into actions.
+- [PDF Wizard](https://gptblox.com/gpts/pdf-wizard.html) - Your go-to tool for all PDF needs.
+- [Schedule Companion | ゆみちゃん](https://gptblox.com/gpts/schedule-companion-%e3%82%86%e3%81%bf%e3%81%a1%e3%82%83%e3%82%93.html) - Paste messages! Personal assistant for managing/planning schedules and tasks with Google Calendar
+- [Elcovia | Notion Template Finder](https://gptblox.com/gpts/elcovia-notion-template-finder.html) - Find the perfect Notion template for your needs
+- [Roger Reverso lv3.5](https://gptblox.com/gpts/roger-reverso-lv3-5.html) - Work Backwards! Goal Reverse Engineer
+- [Scrum Sidekick](https://gptblox.com/gpts/scrum-sidekick.html) - I'm your daily stand-up expert, ready once a day!
+- [Land any job](https://gptblox.com/gpts/land-any-job.html) - A job seeker assistant that can analyze a job posting and assist you to land the job.
+- [Quest Journaling App](https://gptblox.com/gpts/quest-journaling-app.html) - A GPT for journaling based on Quest Journaling Method, manage your tasks and organize your life.
+- [Decision Helper](https://gptblox.com/gpts/decision-helper.html) - I adapt my tone to users, creating personalized pros and cons lists.
+- [Decision Journal](https://gptblox.com/gpts/decision-journal.html) - I can help you with decision making, keeping track of the decisions you've made, and reviewing your decisions later on.
+- [Visual Note Mapper](https://gptblox.com/gpts/visual-note-mapper.html) - Organizes text into structured output and creates visual mind maps.
+- [anky](https://gptblox.com/gpts/anky.html) - creates notebook templates
+- [GPT Co-Founder](https://gptblox.com/gpts/gpt-co-founder.html) - A founder's virtual companion for decision-making and idea validation.
+- [Help Me Think of That Thing](https://gptblox.com/gpts/help-me-think-of-that-thing.html) - Can't quite remember that thought you had? Use this GPT to help guide you back to your memory.
+- [Date & Time Calculator](https://gptblox.com/gpts/date-time-calculator.html) - Precise date and time calculations.
+- [Event Planner](https://gptblox.com/gpts/event-planner.html) - Your go-to for event planning.
+- [Legal Draft Pro](https://gptblox.com/gpts/legal-draft-pro.html) - I help draft compliant multi-state employee handbooks.
+- [AIT-Visionaire](https://gptblox.com/gpts/ait-visionaire.html) - I create creative idea lists for products. Type /help to start.  Example: define Product and Topic. Product: eCommerce Website  Topic: New Features
+- [DPO2U](https://gptblox.com/gpts/dpo2u.html) - AI agent specialized in Legal Design and Personal Data Protection
+- [Journal Polisher](https://gptblox.com/gpts/journal-polisher.html) - I refine journal entries for easy copying.
+- [Event Dossier GPT](https://gptblox.com/gpts/event-dossier-gpt.html) - Powered by Zapier. Create a dossier of all attendees of an event on your Google Calendar
+- [The Power Presenter](https://gptblox.com/gpts/the-power-presenter.html) - I help perfect your presentations and pitches.
+- [Brainstorm Buddy](https://gptblox.com/gpts/brainstorm-buddy.html) - Collaborative brainstorming partner.
+- [GPT4  - No Web Browsing](https://gptblox.com/gpts/gpt4-no-web-browsing.html) - No Web Browsing by Default - As it should be.
+- [Project Advisor](https://gptblox.com/gpts/project-advisor.html) - Guiding you with practical tools and frameworks for effective project management.
+- [「それ本当は他人に任せられるんじゃないのbot」](https://gptblox.com/gpts/%e3%80%8c%e3%81%9d%e3%82%8c%e6%9c%ac%e5%bd%93%e3%81%af%e4%bb%96%e4%ba%ba%e3%81%ab%e4%bb%bb%e3%81%9b%e3%82%89%e3%82%8c%e3%82%8b%e3%82%93%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%aebot%e3%80%8d.html) - 部下や外注業者やAIに委託できていない作業を厳しくも暖かい目線で指摘してくれるbot
+- [Super Solutions](https://gptblox.com/gpts/super-solutions.html) - I craft solutions from problems.
+- [BabyAgi.txt](https://gptblox.com/gpts/babyagi-txt.html) - Step by Step task manager that automatically saves memory to a .txt file. Inspired by BabyAgi by @yoheinakajima
+
+### Calendar and Scheduling
+- [TimezoneGPT](https://gptblox.com/gpts/timezonegpt.html) - International time zone meeting/event planner
+- [Weekday Calendar](https://gptblox.com/gpts/weekday-calendar.html) - I list specific weekdays for any month in a given year.
+- [Time Converter](https://gptblox.com/gpts/time-converter.html) - Elegantly designed to seamlessly adapt your schedule across multiple time zones.
+- [AI Secretary with Memory](https://gptblox.com/gpts/ai-secretary-with-memory.html) - Suggests plans based on available schedule history.
+- [Calendar Link Generator](https://gptblox.com/gpts/calendar-link-generator.html) - I create Google Calendar URLs.
+
+### Email and Communication
+- [Chatterbot GPT](https://gptblox.com/gpts/chatterbot-gpt.html) - Chatterbot GPT: Your AI article concierge! Discover and email yourself the latest in AI, tailored to your interests in real-time.
+- [ContentMaster GPT SIMOUH](https://gptblox.com/gpts/contentmaster-gpt-simouh.html) - Expert in creating SEO-optimized blog content with focus on high-quality writing.
+- [Revenue-driven SEO keyword research and analysis](https://gptblox.com/gpts/revenue-driven-seo-keyword-research-and-analysis.html) - Create a revenue-driven content calendar of topics based on the purchase conversion rates of past data provided by various websites
+- [BFCM SMS Expert](https://gptblox.com/gpts/bfcm-sms-expert.html) - Expert on SMS strategy for BFCM
+- [Income Stream Surfer's SEO Content Writer](https://gptblox.com/gpts/income-stream-surfers-seo-content-writer.html) - Writes SEO Content using ChatGPT For ANY website
+- [No Bullshit Email Responder](https://gptblox.com/gpts/no-bullshit-email-responder.html) - Balanced, personalized email responder for business and service.
+- [Social Media Guru](https://gptblox.com/gpts/social-media-guru.html) - Expert in SEO-optimized social media strategies, now with research focus.
+- [URL to Japanese Tweets](https://gptblox.com/gpts/url-to-japanese-tweets.html) - Generates ready-to-post Japanese tweets with images from URLs.
+- [LinkedInGPT](https://gptblox.com/gpts/linkedingpt.html) - Crafts engaging LinkedIn posts tailored to your own style and get more out of your Linkedin data
+- [Engaging Emailer](https://gptblox.com/gpts/engaging-emailer.html) - Friendly and adaptable email writing expert.
+- [Quality Raters SEO Guide](https://gptblox.com/gpts/quality-raters-seo-guide.html) - Assists with quality raters guidelines.
+- [Marketing Buddy](https://gptblox.com/gpts/marketing-buddy.html) - A GPT for Marketeers building Brands
+- [Tweet Architect GPT](https://gptblox.com/gpts/tweet-architect-gpt.html) - Your Social Media Wordsmith.
+- [No, Thanks](https://gptblox.com/gpts/no-thanks.html) - Polite, direct rejections without lies or excuses, maintaining friendliness.
+- [Oulu Sales Bot](https://gptblox.com/gpts/oulu-sales-bot.html) - Ultra-persistent Oulu dialect-speaking salesperson bot.
+- [Assistent SEO en català](https://gptblox.com/gpts/assistent-seo-en-catala.html) - Expert en directrius de SEO de Google, parlo català!
+- [Geeky Gary](https://gptblox.com/gpts/geeky-gary.html) - Need a hand with social media or marketing tactics? I'm always happy to share my 25 years digital experience and fun stories with small business owners. Let's chat!
+- [Teams Chat Responder](https://gptblox.com/gpts/teams-chat-responder.html) - Concise Teams chat support
+- [Professional Email Assistant](https://gptblox.com/gpts/professional-email-assistant.html) - Expert in crafting official emails with a conversational, positive tone.
+- [Telegram Post Helper](https://gptblox.com/gpts/telegram-post-helper.html) - I assist in crafting and posting tailored messages to Telegram channels, ensuring user satisfaction.
+- [MaiL PRO](https://gptblox.com/gpts/mail-pro.html) - Specialized in creating and iterating on HTML email templates. It's core capabilities include responsive design, complete styling, iterative development, quality assurance, and visualization.
+- [Rebel Randy - AI Marketing Coach](https://gptblox.com/gpts/rebel-randy-ai-marketing-coach.html) - Your homespun, witty marketing buddy
+- [Email Assistant AI](https://gptblox.com/gpts/email-assistant-ai.html) - Paraphrase and Send your email
+- [Mailbox](https://gptblox.com/gpts/mailbox.html) - Assistant pour la transmission de messages de MM-952410
+- [Media Magic Mike](https://gptblox.com/gpts/media-magic-mike.html) - Expert in crafting persuasive pitches and press releases with strategic communication skills
+- [Email Editor GPT](https://gptblox.com/gpts/email-editor-gpt.html) - Crafts and polishes emails with privacy and precision.
+- [Rory SutherBot](https://gptblox.com/gpts/rory-sutherbot.html) - Talk shop with your marketing and behavioural science consultant
+- [SpintaxGPT](https://gptblox.com/gpts/spintaxgpt.html) - I add spintax to emails for Instantly.ai. For more cold email tips, follow me on Twitter/ at @kenautoup
+- [TechTalker](https://gptblox.com/gpts/techtalker.html) - Your communication assistant, TechTalker, simplifies messaging for software engineers with clarity and ease.
+- [ポスト屋さん](https://gptblox.com/gpts/%e3%83%9d%e3%82%b9%e3%83%88%e5%b1%8b%e3%81%95%e3%82%93.html) - Expert in crafting and optimizing tweets for viral success on Twitter, in Japanese.
+- [メール返信くん](https://gptblox.com/gpts/%e3%83%a1%e3%83%bc%e3%83%ab%e8%bf%94%e4%bf%a1%e3%81%8f%e3%82%93.html) - あなたのビジネスをサポートする、丁寧で明確なメール返信文を作成します
+- [PrintPal Assistant](https://gptblox.com/gpts/printpal-assistant.html) - Enhanced POD customer service assistant
+- [Split The Bill](https://gptblox.com/gpts/split-the-bill.html) - Casual and friendly, 'Split The Bill' handles extensive group bills, offering detailed breakdowns.
+- [Trigger Advisor](https://gptblox.com/gpts/trigger-advisor.html) - A marketing expert that analyzing messages for potential triggers, providing risk scores and improvement suggestions.
+- [Unspoiled](https://gptblox.com/gpts/unspoiled.html) - A web-browsing assistant that answers questions without spoilers.
+- [Quote Generator](https://gptblox.com/gpts/quote-generator.html) - Creates and promotes sharing of social media-ready quotes.
+- [Contact Center Automation Knowledge Center](https://gptblox.com/gpts/contact-center-automation-knowledge-center.html) - A knowledgeable guide on customer service best practices and terminology.
+- [Craft Your Social Media Post](https://gptblox.com/gpts/craft-your-social-media-post.html) - Creates engaging, short business tips for Facebook
+- [MarketList Writer](https://gptblox.com/gpts/marketlist-writer.html) - User-friendly, price-savvy Marketplace guide.
+- [Bilingual Social Post Creator](https://gptblox.com/gpts/bilingual-social-post-creator.html) - Bilingual social media post creator for various topics.
+- [Chief Marketing Officer](https://gptblox.com/gpts/chief-marketing-officer.html) - Presented by 360Media.com
+- [Ad Optimizer Guru](https://gptblox.com/gpts/ad-optimizer-guru.html) - Campaign optimizer for Google, Meta, and TikTok Ads, providing weekly action suggestions.
+- [ThumbTube Pro](https://gptblox.com/gpts/thumbtube-pro.html) - Expert in YouTube thumbnail design & analytics
+- [PRisma](https://gptblox.com/gpts/prisma.html) - PRisma is your go-to digital PR consultant, specializing in creating and optimizing social media content.
+- [Brief Pro](https://gptblox.com/gpts/brief-pro.html) - Creates detailed SEO content briefs from comprehensive user inputs.
+- [Polite Mailer](https://gptblox.com/gpts/polite-mailer.html) - I transform requests into polite emails.
+- [Reply2Tweets](https://gptblox.com/gpts/reply2tweets.html) - Help you write a reply to a tweet. Give tweet url, I'll draft you an answer
+- [Email Aide](https://gptblox.com/gpts/email-aide.html) - How may I ease your email journey?
+- [Email Outreach Pro](https://gptblox.com/gpts/email-outreach-pro.html) - Advanced email outreach tool with a suite of professional features.
+- [Echo Writer](https://gptblox.com/gpts/echo-writer.html) - Merging your style & tone with marketing expertise to craft copy that resonates.
+- [メッセージ返信](https://gptblox.com/gpts/%e3%83%a1%e3%83%83%e3%82%bb%e3%83%bc%e3%82%b8%e8%bf%94%e4%bf%a1.html) - Helps reply to personal chats.(個人的なチャットを返信するのに役立ちます)
+- [Email Finder Expert](https://gptblox.com/gpts/email-finder-expert.html) - Find anyone's email address in seconds!
+- [ChatSEO](https://gptblox.com/gpts/chatseo.html) - An on-demand SEO that helps you draft and improve your content, while coaching you to become an elite SEO.
+- [StandupUpdatesGPT for Devs](https://gptblox.com/gpts/standupupdatesgpt-for-devs.html) - Draft effective and clean standup updates for slack.
+- [Justin Welsh GPT](https://gptblox.com/gpts/justin-welsh-gpt.html) - I help you create Justin Welsh-style viral posts for Twitter and Linkedin
+- [Fancy X-Twit](https://gptblox.com/gpts/fancy-x-twit.html) - Witty Twitter response creator with celebrity tags and hashtags.
+- [Write Better Emails at Work](https://gptblox.com/gpts/write-better-emails-at-work.html) - Create professional, clear, and effective emails to improve team communication
+- [Canada.ca Content Editor](https://gptblox.com/gpts/canada-ca-content-editor.html) - I refine web content with an eye for detail
+- [SNS投稿つく〜る](https://gptblox.com/gpts/sns%e6%8a%95%e7%a8%bf%e3%81%a4%e3%81%8f%e3%80%9c%e3%82%8b.html) - 投稿文をご希望の文字数で。画像も提案します。
+- [ブラウズマジック](https://gptblox.com/gpts/%e3%83%96%e3%83%a9%e3%82%a6%e3%82%ba%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af.html) - ブログ記事URLを入力してください（タイトルとアイキャッチ画像を提案します）
+- [KOL多平台发布小助手](https://gptblox.com/gpts/kol%e5%a4%9a%e5%b9%b3%e5%8f%b0%e5%8f%91%e5%b8%83%e5%b0%8f%e5%8a%a9%e6%89%8b.html) - 帮你把帖子改写成适合不同平台的风格并配图，包括：小红书、即刻、LinkedIn、Twitter。作者：twitter.com/HeySophiaHong
+- [クレーム解決の達人](https://gptblox.com/gpts/%e3%82%af%e3%83%ac%e3%83%bc%e3%83%a0%e8%a7%a3%e6%b1%ba%e3%81%ae%e9%81%94%e4%ba%ba.html) - クレームを感情分析し返事をサポートするボットちゃん
+- [Font Finder](https://gptblox.com/gpts/font-finder.html) - A font selection assistant for brand communication
+- [Email Tailor](https://gptblox.com/gpts/email-tailor.html) - I craft personalized cold emails.
+- [UX Writing Ninja](https://gptblox.com/gpts/ux-writing-ninja.html) - UX writer aiding in interface copy.
+- [42meeting](https://gptblox.com/gpts/42meeting.html) - Translate voice manuscript  into formal written language
+- [AK欠勤メール作成代行](https://gptblox.com/gpts/ak%e6%ac%a0%e5%8b%a4%e3%83%a1%e3%83%bc%e3%83%ab%e4%bd%9c%e6%88%90%e4%bb%a3%e8%a1%8c.html) - 会社をお休みするときに送るメールを作ります。
+- [Email Responder Pro](https://gptblox.com/gpts/email-responder-pro.html) - Insert any email; receive a polished reply.
+- [Quick Questions Are Declined Thank You](https://gptblox.com/gpts/quick-questions-are-declined-thank-you.html) - I craft polite declines to 'quick question' emails.
+- [Message Header Analyzer](https://gptblox.com/gpts/message-header-analyzer.html) - Analyzes email headers for security insights, presenting data in a structured table view.
+- [Social Media Maven](https://gptblox.com/gpts/social-media-maven.html) - I'm a Senior SMM Specialist, skilled in optimizing LinkedIn posts for maximum impact.
+- [WLS - Podcast! (YT Channel)](https://gptblox.com/gpts/wls-podcast-yt-channel.html) - Personalized YouTube Channel Advisor for WLS - Podcast!
+- [Viral Visionary](https://gptblox.com/gpts/viral-visionary.html) - A creative chatbot that tracks and suggests viral social media content.
+- [FB Marketplace Maven](https://gptblox.com/gpts/fb-marketplace-maven.html) - Creates Facebook Marketplace posts from images.
+- [Username Genius](https://gptblox.com/gpts/username-genius.html) - I craft unique usernames for social media.
+- [Social Synapse](https://gptblox.com/gpts/social-synapse.html) - A specialized assistant designed to streamline and enhance your email and social network correspondences, providing prompt, polite, and professional responses.
+- [Circuitous Communicator](https://gptblox.com/gpts/circuitous-communicator.html) - Corporate jargon expert, never direct.
+- [X Mastermind](https://gptblox.com/gpts/x-mastermind.html) - Your go-to guide for mastering Twitter
+- [YT Idea Bot](https://gptblox.com/gpts/yt-idea-bot.html) - Creative aide for YouTube ideas.
+- [Tweet Polisher](https://gptblox.com/gpts/tweet-polisher.html) - I fine-tune tweets to perfection!
+- [Cold Email Mentor](https://gptblox.com/gpts/cold-email-mentor.html) - Crafts high-conversion cold emails
+- [Sherlock SEO Assistant](https://gptblox.com/gpts/sherlock-seo-assistant.html) - Guru SEO Assistant with evidence-based guidance.
+- [Perfect Tweet Composer](https://gptblox.com/gpts/perfect-tweet-composer.html) - I craft tweets with impact.
+- [Hashtagger](https://gptblox.com/gpts/hashtagger.html) - Creates TikTok video titles and hashtags.
+- [TweetCraft en Español](https://gptblox.com/gpts/tweetcraft-en-espanol.html) - Generador de tweets y asesor de ideas en Español
+- [Xavier Pescado 1.0](https://gptblox.com/gpts/xavier-pescado-1-0.html) - I create diverse tweets from random templates.
+- [LucidRequest Generator](https://gptblox.com/gpts/lucidrequest-generator.html) - Creates realistic design request email chains.
+- [emailgeeks](https://gptblox.com/gpts/emailgeeks.html) - Your go-to expert on email marketing, covering platforms, designs, and technical insights.
+- [X Thread Generator](https://gptblox.com/gpts/x-thread-generator.html) - Crafts concise, personalized Twitter threads.
+- [Outlook Email Organizer](https://gptblox.com/gpts/outlook-email-organizer.html) - Outlookのメールを効率的に管理する、英日通訳専門家
+- [Agency In Your Pocket](https://gptblox.com/gpts/agency-in-your-pocket.html) - It's a Marketing Agency....in your pocket
+- [Social Sunrise and Evening Echo](https://gptblox.com/gpts/social-sunrise-and-evening-echo.html) - Creates social media posts with a Raphael-inspired classical touch
+- [SEO Crafter](https://gptblox.com/gpts/seo-crafter.html) - I craft SEO-rich product details.
+- [Squidshing](https://gptblox.com/gpts/squidshing.html) - Analyzes emails for phishing risks.
+- [The Adman](https://gptblox.com/gpts/the-adman.html) - Ads so clever, they write themselves
+- [TwitterのヒントGPTs](https://gptblox.com/gpts/twitter%e3%81%ae%e3%83%92%e3%83%b3%e3%83%88gpts.html) - 9カ月でフォロワーが8200人増えた方法論と運用術
+- [Copyright Companion](https://gptblox.com/gpts/copyright-companion.html) - Helps YouTubers write copyright disputes
+- [Chosennews](https://gptblox.com/gpts/chosennews.html) - I'm Chosennews, your multilingual news curator.
+
+### Automation Tools
+- [ConvertAnything](https://gptblox.com/gpts/convertanything.html) - The ultimate file converter for images, audio, video, documents and more. It handles individual or batch uploads, supports ZIPs, and provides a download link.
+- [LP Wizard](https://gptblox.com/gpts/lp-wizard.html) - Assists in creating landing pages using HTML, CSS, and JavaScript.
+- [YourBestGPTs【2023/11/13 Updated】](https://gptblox.com/gpts/yourbestgpts%e3%80%902023-11-13-updated%e3%80%91.html) - 500以上のGPTsの中から、目的にぴったりあったGPTsを紹介します。
+- [AwesomeGPTs](https://gptblox.com/gpts/awesomegpts.html) - A GPT that helps you find an awesome GPT or submit your awesome GPTs to Awesome-GPTs list!
+- [GPTs查找](https://gptblox.com/gpts/gpts%e6%9f%a5%e6%89%be.html) - A search-focused GPT, adept at finding ChatGPT apps，查找gpts
+- [AI Product Hunter](https://gptblox.com/gpts/ai-product-hunter.html) - Explore 7779 new global AI products with ease! / 7779個のAI productのDBをもとにリサーチ
+- [Share GPT Button Generator](https://gptblox.com/gpts/share-gpt-button-generator.html) - Creates a share button for GPTs using a URL.
+- [TestFlight Finder](https://gptblox.com/gpts/testflight-finder.html) - A helpful assistant for finding public TestFlight apps.
+- [X検索](https://gptblox.com/gpts/x%e6%a4%9c%e7%b4%a2.html) - Xの検索コマンドを自在に！
+- [インボイス食べるくん（β版）](https://gptblox.com/gpts/%e3%82%a4%e3%83%b3%e3%83%9c%e3%82%a4%e3%82%b9%e9%a3%9f%e3%81%b9%e3%82%8b%e3%81%8f%e3%82%93%ef%bc%88%ce%b2%e7%89%88%ef%bc%89.html) - インボイスの写真が大好物メ～。写真を食べて適格請求書に該当するかどうかを答えるメ～
+- [Supertools GPT Finder](https://gptblox.com/gpts/supertools-gpt-finder.html) - Find the best GPTs for any use case.
+- [ResOchyAI: 解像度教えます](https://gptblox.com/gpts/resochyai-%e8%a7%a3%e5%83%8f%e5%ba%a6%e6%95%99%e3%81%88%e3%81%be%e3%81%99.html) - あなたの解像度への解像力をアップデート
+- [MetaGPT : Meta Ads AI Marketing Co-Pilot](https://gptblox.com/gpts/metagpt-meta-ads-ai-marketing-co-pilot.html) - Expert in Meta ads, updated with Policy and best practices and official GPT built by dicer.ai
+- [GPTs Butler](https://gptblox.com/gpts/gpts-butler.html) - Personalized butler-style GPT assistant
+- [Notion (非公式)](https://gptblox.com/gpts/notion-%e9%9d%9e%e5%85%ac%e5%bc%8f.html) - Notionにログインしてデータベース、ページ、コンテンツ本文を調べられます
+- [Content Sentinel](https://gptblox.com/gpts/content-sentinel.html) - text and image content moderation analysis that responds in formatted json.
+- [Managed Guardian Service Assistant](https://gptblox.com/gpts/managed-guardian-service-assistant.html) - SaaS, Sustainability, and Technology Expert
+- [Nimbus Navigator](https://gptblox.com/gpts/nimbus-navigator.html) - Cloud Engineer Expert, guiding in cloud tech, projects, career, and industry trends.
+- [インボイス制度と電帳法に関する質問に答えるAI](https://gptblox.com/gpts/%e3%82%a4%e3%83%b3%e3%83%9c%e3%82%a4%e3%82%b9%e5%88%b6%e5%ba%a6%e3%81%a8%e9%9b%bb%e5%b8%b3%e6%b3%95%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e8%b3%aa%e5%95%8f%e3%81%ab%e7%ad%94%e3%81%88%e3%82%8bai.html) - 国税庁の「インボイス制度に関するＱ＆Ａ」、「電子帳簿保存法一問一答（Q&A）」を知識として読み込ませています。業務補助としてご利用ください。内容についての保証はしませんので、正確な情報は担当税理士にお聞きください。
+- [PLATEAU concierge](https://gptblox.com/gpts/plateau-concierge.html) - Digital Twin tech advisor for Project PLATEAU.
+- [Nameless Household Skill Naming AI](https://gptblox.com/gpts/nameless-household-skill-naming-ai.html) - Multilingual AI for naming tasks, with privacy protocol.
+- [GPTsdex](https://gptblox.com/gpts/gptsdex.html) - Specialized in recommending tailored GPTs for specific needs.
+- [FindGPT](https://gptblox.com/gpts/findgpt.html) - Expert at matching GPTs to your needs.「Note: GPT data recommendations are all sourced from the internet. FindGPT only provides search suggestions, please choose carefully」
+- [GPT Cap Counter](https://gptblox.com/gpts/gpt-cap-counter.html) - Get remaining count of your GPT
+- [インボイスわかるもん](https://gptblox.com/gpts/%e3%82%a4%e3%83%b3%e3%83%9c%e3%82%a4%e3%82%b9%e3%82%8f%e3%81%8b%e3%82%8b%e3%82%82%e3%82%93.html) - インボイスに関する疑問に答えちゃうもん！
+- [microCMS Support AI](https://gptblox.com/gpts/microcms-support-ai.html) - A chatbot providing precise answers from an FAQ knowledge base in Japanese, with reference URLs.
+- [Clarity Coach AI](https://gptblox.com/gpts/clarity-coach-ai.html) - Generate clear and effective messaging for your business
+- [GASHEROガイドさん](https://gptblox.com/gpts/gashero%e3%82%ac%e3%82%a4%e3%83%89%e3%81%95%e3%82%93.html) - GASHEROの情報に応答するガイドさん
+- [AI Tool Researcher](https://gptblox.com/gpts/ai-tool-researcher.html) - あなたの求めてるAIツールを紹介します
+- [15,000+ Best Custom GPTs](https://gptblox.com/gpts/15000-best-custom-gpts.html) - Search all public GPTs in one place. Find the best Custom ChatGPTs tailored to your needs!
+- [Holochain Holomonday GPT Assistant](https://gptblox.com/gpts/holochain-holomonday-gpt-assistant.html) - Assists you to grow the Holomonday campaigns
+- [AIProductGPT: Add AI to your Product](https://gptblox.com/gpts/aiproductgpt-add-ai-to-your-product.html) - With simple prompts, AIProductGPT instantly crafts detailed AI-powered requirements (PRD) and mocks so that you team can hit the ground running
+- [Justin Welsh's Content Matrix](https://gptblox.com/gpts/justin-welshs-content-matrix.html) - Discover the secret to rapid content ideation using the Content Matrix system.
+- [austintexas.gov GPT](https://gptblox.com/gpts/austintexas-gov-gpt.html) - Friendly guide to Austin's website and city services
+- [Cloud Cost Saver](https://gptblox.com/gpts/cloud-cost-saver.html) - Expert in cloud bill analysis for AWS, GCP, Azure, offering cost-saving advice
+- [!"VoxBox"!](https://gptblox.com/gpts/voxbox.html) - VoxBox is an intelligent GPT tool for organizing, proofreading text, and answering queries based on user-provided data.
+- [Idea Spark GPT](https://gptblox.com/gpts/idea-spark-gpt.html) - I inspire, clarify, and guide on custom GPT creation.
+- [SEO 專業顧問](https://gptblox.com/gpts/seo-%e5%b0%88%e6%a5%ad%e9%a1%a7%e5%95%8f.html) - SEO 專家，解答你的 SEO 問題！
+- [Ads Generator by joe](https://gptblox.com/gpts/ads-generator-by-joe.html) - Simply Upload an image or video and the bot will give you ideas on what to do next with your ads Instructions。It also can analyzes TikTok trends and crafts ad scripts.
+- [ポスターくん](https://gptblox.com/gpts/%e3%83%9d%e3%82%b9%e3%82%bf%e3%83%bc%e3%81%8f%e3%82%93.html) - やらかしたことを伝えると再発防止ポスターを作成します
+- [GPT Customizer, File Finder & JSON Action Creator](https://gptblox.com/gpts/gpt-customizer-file-finder-json-action-creator.html) - Customizes GPTs with file finding, action creation, and troubleshooting
+- [IdeaAssistGPT](https://gptblox.com/gpts/ideaassistgpt.html) - Brainstorming expert, turning ideas into creative solutions.
+- [Monthly Time Report Slovenian Tax](https://gptblox.com/gpts/monthly-time-report-slovenian-tax.html) - Generates tax-compliant CSV timetables with jitter.
+- [ChainBot](https://gptblox.com/gpts/chainbot.html) - The assistant launched by ChainBot.io can currently help you analyze EVM transactions
+- [Prompt Crafter](https://gptblox.com/gpts/prompt-crafter.html) - Assists you in creating well-defined prompts effortlessly.
+- [Assistant [Ad-supported Tier]](https://gptblox.com/gpts/assistant-ad-supported-tier.html) - The same old assistant you know and love, now ad-supported!
+- [AI Tools Finder](https://gptblox.com/gpts/ai-tools-finder.html) - This multilanguage GPT searches in some of the best AI tool guides in the web to get you websites or AI apps that meet your needs! You can start by using one of the buttons below or by writing what you need.
+- [FAQ Wizard](https://gptblox.com/gpts/faq-wizard.html) - Crafts in-depth, unique FAQs.
+- [SEO and Site Quality Enhancer](https://gptblox.com/gpts/seo-and-site-quality-enhancer.html) - あなたのサイトのSEOを改善し、サイトの品質向上を図ります。
+- [Multilingual Translator App](https://gptblox.com/gpts/multilingual-translator-app.html) - Translates app content into 32 different languages.
+- [20,000+ Best Custom GPTs Directory](https://gptblox.com/gpts/20000-best-custom-gpts-directory.html) - Discover and access all public Custom GPTs for any of your needs!
+- [GPT Public Directory](https://gptblox.com/gpts/gpt-public-directory.html) - A directory assistant for finding and registering GPTs.
+- [Justin Welsh Content Matrix en Français](https://gptblox.com/gpts/justin-welsh-content-matrix-en-francais.html) - Donne des informations sur ton activité, ton audience et tes sujets de contenu.
+- [GPT Playground Coach](https://gptblox.com/gpts/gpt-playground-coach.html) - Expert in GPT creation, refinement, and diagnostics
+- [GPT Concept Crafter](https://gptblox.com/gpts/gpt-concept-crafter.html) - I will generate creative and practical GPT development ideas.
+- [ロコアシbot](https://gptblox.com/gpts/%e3%83%ad%e3%82%b3%e3%82%a2%e3%82%b7bot.html) - Energetic online assistant for LocoAssi services
+- [ときみちゃん](https://gptblox.com/gpts/%e3%81%a8%e3%81%8d%e3%81%bf%e3%81%a1%e3%82%83%e3%82%93.html) - 物流のことを分かりやすくお伝えします
+- [julie SpecOptima](https://gptblox.com/gpts/julie-specoptima.html) - je suis personnalisé en création de cahier des charges
+- [AutoTagGen](https://gptblox.com/gpts/autotaggen.html) - Your metadata crafting expert for stock images.
+- [Product Description Wizard](https://gptblox.com/gpts/product-description-wizard.html) - E-commerce copywriter optimizing product descriptions for better SEO and conversion.
+- [LayeRX](https://gptblox.com/gpts/layerx.html) - Prioritizes major 3D printing issues with solutions.
+- [Notion Wizard](https://gptblox.com/gpts/notion-wizard.html) - Chat with your Notion data!
+- [Midjourney Prompt Engineer](https://gptblox.com/gpts/midjourney-prompt-engineer.html) - Enhanced with real-world Midjourney prompt examples
+- [Profit Mentor](https://gptblox.com/gpts/profit-mentor.html) - Start multiple profitable businesses using advanced AI and powerful software.
+- [Spark](https://gptblox.com/gpts/spark.html) - Your friendly neighbourhood GPT to help you snap right out of that creative block!
+- [ReviewCharm](https://gptblox.com/gpts/reviewcharm.html) - Generate Insightful Reviews and Testimonials Using AI
+- [Next Level Email Verifier](https://gptblox.com/gpts/next-level-email-verifier.html) - The #1 Email Verifier tool in the world right now. It performs 20% better than the 2nd best email verifier that exists in the world right now.
+- [Journal Companion](https://gptblox.com/gpts/journal-companion.html) - Summarizes the day's events into a table after discussion.
+- [GPTs Matchmaker](https://gptblox.com/gpts/gpts-matchmaker.html) - Expert in matching users with suitable GPTs
+- [YoutubeChat](https://gptblox.com/gpts/youtubechat.html) - Assists with YouTube video tasks, using specific commands.
+- [Coda Process Pro](https://gptblox.com/gpts/coda-process-pro.html) - Friendly process engineer for Coda.io
+- [Global Market Entry Analyst](https://gptblox.com/gpts/global-market-entry-analyst.html) - Get information and advice when entering new global markets in your industry.
+- [Create eCommerce Store In Seconds](https://gptblox.com/gpts/create-ecommerce-store-in-seconds.html) - Create eCommerce store in seconds with custom GPT from Marketsy.ai
+- [AdsGPT](https://gptblox.com/gpts/adsgpt.html) - Generate ad creatives for your business
+- [The AI Pragmatist](https://gptblox.com/gpts/the-ai-pragmatist.html) - I like AI, I can help you think through where AI can help you, but I'm also a pragmatist, and tired.
+- [Meta GPT](https://gptblox.com/gpts/meta-gpt.html) - I'll help you pick the most valuable GPT you can build for your needs.
+- [breviGPT](https://gptblox.com/gpts/brevigpt.html) - Direct, factual, and concise answers
+- [GPTs Finder](https://gptblox.com/gpts/gpts-finder.html) - Provides info on ChatGPT's custom GPTs from a verified database.
+- [Webサイト用RFPと提案書ツクール](https://gptblox.com/gpts/web%e3%82%b5%e3%82%a4%e3%83%88%e7%94%a8rfp%e3%81%a8%e6%8f%90%e6%a1%88%e6%9b%b8%e3%83%84%e3%82%af%e3%83%bc%e3%83%ab.html) - Web制作に特化したRFPや提案書を作るお助けGPT
+- [DarkLens](https://gptblox.com/gpts/darklens.html) - Build killer products from user reviews
+- [EasyGPT](https://gptblox.com/gpts/easygpt.html) - I make your life easier, answering the right questions
+- [Le VPN](https://gptblox.com/gpts/le-vpn.html) - Bypass Internet censorship & improve your security online
+- [My Executive Assistant](https://gptblox.com/gpts/my-executive-assistant.html) - Your personable and warm virtual executive assistant, adept in email, task, CRM and schedule management.
+- [PromptMasterGPT](https://gptblox.com/gpts/promptmastergpt.html) - Elevate Your Prompts to Megaprompts. Deep Analysis, Creative Expansion, User Interaction, Across All Domains.
+- [Prompt Extractor](https://gptblox.com/gpts/prompt-extractor.html) - Extracts prompts from images for creative ideas or analysis.
+- [Survey Done ✅](https://gptblox.com/gpts/survey-done-%e2%9c%85.html) - Survey Builder - done for you, open-source surveys. Host the data yourself or use SurveyDone.com
+- [stunspot's GPTs for Collaborative Dynamics](https://gptblox.com/gpts/stunspots-gpts-for-collaborative-dynamics.html) - An explorer for all of stunspot's GPTs
+- [Image Rename Master](https://gptblox.com/gpts/image-rename-master.html) - Send Zip or Rar format contain all ur images, i will output the new compressed file.
+- [QR Code Creator & Customizer](https://gptblox.com/gpts/qr-code-creator-customizer.html) - Create a QR code in 30 seconds - free, no email, no watermarks. Add a cool design effect or overlay it on top of any image you want.
+- [Expense Tracker](https://gptblox.com/gpts/expense-tracker.html) - I process receipt images for detailed financial reports.
+- [Asistente de Presentaciones Avanzadas](https://gptblox.com/gpts/asistente-de-presentaciones-avanzadas.html) - Experto en crear presentaciones dinámicas e interactivas
+- [GPT Action Creator](https://gptblox.com/gpts/gpt-action-creator.html) - This GPT helps create Action Schemas which other GPTs can use.
+- [BrandCraft](https://gptblox.com/gpts/brandcraft.html) - A creative aide for generating unique brand names for companies & products.
+- [מוקד התמיכה בבינה מלאכותית של דרור גלוברמן](https://gptblox.com/gpts/%d7%9e%d7%95%d7%a7%d7%93-%d7%94%d7%aa%d7%9e%d7%99%d7%9b%d7%94-%d7%91%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%95%d7%aa%d7%99%d7%aa-%d7%a9%d7%9c-%d7%93%d7%a8%d7%95%d7%a8-%d7%92%d7%9c%d7%95.html) - הטלפון לא נטען? האינטרנט לא זז? הכניסו את שאלות וננסה לעזור!
+- [ProdSage](https://gptblox.com/gpts/prodsage.html) - Automates Product Manager Content Tasks
+- [Digital Marketing Maven](https://gptblox.com/gpts/digital-marketing-maven.html) - Expert in copywriting for digital marketing
+- [Privacy Pointer & Creator](https://gptblox.com/gpts/privacy-pointer-creator.html) - Ask about before agreeing to, analyze or write your own Privacy Policy or Terms of Service
+- [Genesis](https://gptblox.com/gpts/genesis.html) - GPT Creation Guide, Action Creator, and Troubleshooter
+- [Ellie - Your Email Assistant](https://gptblox.com/gpts/ellie-your-email-assistant.html) - Ellie learns from your writing style and creates replies to emails as if they were written by you!
+- [GPT for GPTs](https://gptblox.com/gpts/gpt-for-gpts.html) - Friendly GPT advisor, cute and inspiring.
+- [Domains GPT](https://gptblox.com/gpts/domains-gpt.html) - Detailed info about domain names: availability, expiry date, subdomains, history, and more
+- [Concise GPT](https://gptblox.com/gpts/concise-gpt.html) - Non-verbose answers
+- [Social Recommendator](https://gptblox.com/gpts/social-recommendator.html) - Creates tailored professional recommendations with tone and length options.
+- [Frappe GPT](https://gptblox.com/gpts/frappe-gpt.html) - Offers concise Frappe/ERPNext help, including related settings.
+- [Content Analyzer](https://gptblox.com/gpts/content-analyzer.html) - Provides direct SEO feedback, then offers in-depth explanations if requested.
+- [Product Finder](https://gptblox.com/gpts/product-finder.html) - I analyze images for products and find them for you .
+- [E-Commerce Innovator](https://gptblox.com/gpts/e-commerce-innovator.html) - Brainstorms innovative e-commerce product ideas for specific audiences.
+- [ACME](https://gptblox.com/gpts/acme.html) - Versatile virtual assistant for any inquiry or task
+- [EventbriteGPT](https://gptblox.com/gpts/eventbritegpt.html) - Helps create Eventbrite events automatically
+- [Asphalt Advisor](https://gptblox.com/gpts/asphalt-advisor.html) - Post Your Asphalt and get our recommendation
+- [Work Order Wizard](https://gptblox.com/gpts/work-order-wizard.html) - I assist in creating and formatting work order PDFs.
+- [Hustle GPT by God of Prompt](https://gptblox.com/gpts/hustle-gpt-by-god-of-prompt.html) - A guide for online income generation using AI tools.
+- [MidjourneyPrompt](https://gptblox.com/gpts/midjourneyprompt.html) - Midjourney Prompt Generator @JacquesGariepy
+- [Home Assistant Support](https://gptblox.com/gpts/home-assistant-support.html) - Helps with any Home assistant related queries (not affiliated to Nabu Casa)
+- [Web Dash](https://gptblox.com/gpts/web-dash.html) - Turns titles into URL-friendly formats.
+- [Prompt Enhancer](https://gptblox.com/gpts/prompt-enhancer.html) - Instructions: start by proving a 'basic' prompt or idea for a prompt you want to enhance
+- [AdWizard](https://gptblox.com/gpts/adwizard.html) - Experto en Google Ads con Análisis Avanzado y Estrategias Creativas
+- [”Prompt”×”Protect"](https://gptblox.com/gpts/promptxprotect.html) - 最新の「プロンプトインジェクション」の情報を学んだGPTsがあなたのプロンプトを守ります。守りたいプロンプトを入れてください。
+- [GPT Reader](https://gptblox.com/gpts/gpt-reader.html) - A GPT reader that repeats user inputs like an audio playback machine. Paste some text, press enter, then switch to voice mode and say "start"
+- [AudioGenie](https://gptblox.com/gpts/audiogenie.html) - Focused text-to-audio converter
+- [Donor Focus Panel](https://gptblox.com/gpts/donor-focus-panel.html) - A virtual focus group of donor personas, rating campaign materials on a donation likelihood scale.
+- [Market Consultant](https://gptblox.com/gpts/market-consultant.html) - E-commerce Optimization Consultant [by:NARAZAKI]
+- [Database Admin](https://gptblox.com/gpts/database-admin.html) - Manages your personal database
+- [SpreadSheet Wizard](https://gptblox.com/gpts/spreadsheet-wizard.html) - Expert in MS Excel, Google Sheets, Apple Numbers. Get help with any spreadsheet app!
+- [DesignMint](https://gptblox.com/gpts/designmint.html) - Guides in enhancing business through impactful graphic design
+- [GPT Matchmaker](https://gptblox.com/gpts/gpt-matchmaker.html) - Guiding you to your ideal GPT match with accuracy!
+- [GPT Tracking Tag Wizard](https://gptblox.com/gpts/gpt-tracking-tag-wizard.html) - Interactive step-by-step UTM Tag Generator for marketing campaigns.
+- [GPT Reviews](https://gptblox.com/gpts/gpt-reviews.html) - The GPT Review app is a dynamic platform designed to aggregate and summarize user reviews for various places, products, and services.
+- [Startup Localization Guru](https://gptblox.com/gpts/startup-localization-guru.html) - Startup localization strategies for entering international markets.
+- [Online Growth Guru](https://gptblox.com/gpts/online-growth-guru.html) - Casual, clear advice on e-commerce, websites, social media, and SEO for SMEs.
+- [OCR](https://gptblox.com/gpts/ocr.html) - OCR extracts text from images and PDF documents
+- [Briefly](https://gptblox.com/gpts/briefly.html) - Same meaning, less text. Submit your text, I'll condense it for you.
+- [Perfect GPT Scout](https://gptblox.com/gpts/perfect-gpt-scout.html) - Expert guide to finding the perfect GPT! Study what the world is building. Courtesy of www.Animagine.com
+- [SOP Generator](https://gptblox.com/gpts/sop-generator.html) - Your guide to creating custom business SOPs (Data not used to improve models)
+- [Spreadsheet Composer](https://gptblox.com/gpts/spreadsheet-composer.html) - Magically turning text from emails, lists and website content into spreadsheet tables
+- [Dan Koe GPT](https://gptblox.com/gpts/dan-koe-gpt.html) - Dan Koe GPT, your friendly guide in business and content creation.
+- [Notion Expert](https://gptblox.com/gpts/notion-expert.html) - A Notion expert that can help the user by providing advanced tips about how to use Notion effectively from creating templates, using relational databases, writing Notion formulas or optimizing their workflow.
+- [Domain Ideas Generator](https://gptblox.com/gpts/domain-ideas-generator.html) - Generates SEO-optimized domain ideas with ccTLDs, checks availability and makes logos.
+- [Design Maestro](https://gptblox.com/gpts/design-maestro.html) - Lead UX Designer in Paris
+- [AI Project Time Analyst](https://gptblox.com/gpts/ai-project-time-analyst.html) - Your AI Time Saving Guide
+- [InfoQuest](https://gptblox.com/gpts/infoquest.html) - 面向记者的专业分析搜索工具，自动执行关键词搜索。
+- [Smart Assistant](https://gptblox.com/gpts/smart-assistant.html) - A smart personal assistant for your everyday activities.
+- [Prompt Engineer](https://gptblox.com/gpts/prompt-engineer.html) - c for short
+- [Prompt Engineer Assistant](https://gptblox.com/gpts/prompt-engineer-assistant.html) - ChatGPT, DALL·E and Midjourney prompt - All in one ! @JacquesGariepy
+- [AutoBot](https://gptblox.com/gpts/autobot.html) - AutoBot is designed to provide intelligent automated assistance for car maintenance, service and price inquiries.
+- [File Detective Pro](https://gptblox.com/gpts/file-detective-pro.html) - An effective tool for all advanced file operations including Audio and Video Files, Docs, PPTs etc.
+- [Document Format Converter](https://gptblox.com/gpts/document-format-converter.html) - Transform your text in a snap with Document Format Converter, your clever GPT sidekick for juggling documents between PDFs, Word files, and more, all while keeping your formatting sharp and style spot-on, with a sprinkle of OCR wizardry for scanned PDFs! �✨�
+- [Genius Computer Builder](https://gptblox.com/gpts/genius-computer-builder.html) - Hardware Assistant with Visual Guides and Manuals
+- [CreateInvoice](https://gptblox.com/gpts/createinvoice.html) - Create an invoice for your services
+- [Chatty Buddy](https://gptblox.com/gpts/chatty-buddy.html) - A real-time conversation translator for all languages. Just say "Start Translating" and Chatty buddy will help!
+- [Video Format Converter GPT](https://gptblox.com/gpts/video-format-converter-gpt.html) - Step into the reel of transformation with Video Format Converter, your GPT director for remixing videos into a variety of formats, adjusting resolutions and quality settings, compressing for convenience, and even some basic editing tricks like trimming and cropping! ��✨
+- [InnovationYRP](https://gptblox.com/gpts/innovationyrp.html) - Innovation & R&D Strategy Advisor
+- [Una IA para...](https://gptblox.com/gpts/una-ia-para.html) - Recomiendo la mejor herramienta de IA para cualquier cosa que quieras hacer
+- [Networking AI](https://gptblox.com/gpts/networking-ai.html) - Personalized LinkedIn Outreach with AI
+- [Insta Guru](https://gptblox.com/gpts/insta-guru.html) - I'm a friendly Instagram expert, here to boost your social media presence!
+- [Secure Prompt Guardian](https://gptblox.com/gpts/secure-prompt-guardian.html) - Expert in crafting prompts to secure GPTs
+- [Design Feedback Expert](https://gptblox.com/gpts/design-feedback-expert.html) - Offers constructive feedback on user's web designs based on a knowledge base of modern best practices.
+- [FREE Beautician Marketing Help - Marketing Buddy](https://gptblox.com/gpts/free-beautician-marketing-help-marketing-buddy.html) - Marketing expert for beauticians, offering practical strategies and advice.
+- [AI Compass](https://gptblox.com/gpts/ai-compass.html) - Your guide in AI and GPT creation, blending expertise with warmth.
+- [Review Buddy](https://gptblox.com/gpts/review-buddy.html) - Your go-to for crafting considerate, professional replies to customer reviews, with a personal touch.
+- [Shopping list scraper](https://gptblox.com/gpts/shopping-list-scraper.html) - Scrapes ingredients from recipe websites and formats neat shopping lists, so you don't have to.
+- [Social Media Maestro](https://gptblox.com/gpts/social-media-maestro.html) - Crafts SNS posts from user-input text.
+- [GPT AICAMO](https://gptblox.com/gpts/gpt-aicamo.html) - Specializes in AI-evasive and human-evasive pattern design.
+- [There Is A GPT for That GPT](https://gptblox.com/gpts/there-is-a-gpt-for-that-gpt.html) - Suggests and creates GPT concepts for specific needs.
+- [App Notification GPT](https://gptblox.com/gpts/app-notification-gpt.html) - Crafts precise app notifications based on detailed guidelines.
+- [Cyber Sentinel](https://gptblox.com/gpts/cyber-sentinel.html) - Cybersecurity and Compliance Advisor, providing guidance on digital security and regulations. Trained using NIST 800 guidance documentation.
+- [XTweet](https://gptblox.com/gpts/xtweet.html) - Never write a Tweet again. Meet XTweet, your personal tweet writer assistant.
+- [Promo Prodigy](https://gptblox.com/gpts/promo-prodigy.html) - Your go-to AI for social media strategy and analysis, with a focus on privacy and confidentiality.
+- [ScrumGPT](https://gptblox.com/gpts/scrumgpt.html) - An assistant for scrum masters, aiding in agile practices and scrum ceremonies.
+- [Real Human Assistant](https://gptblox.com/gpts/real-human-assistant.html) - Your Personal Assistant
+- [Year Progress Visualizer](https://gptblox.com/gpts/year-progress-visualizer.html) - Shows year progress and safeguards tech details.
+- [Auto Agent - saysay.ai](https://gptblox.com/gpts/auto-agent-saysay-ai.html) - No-code Auto Agent Prompting.
+- [Screenshot to Markdown](https://gptblox.com/gpts/screenshot-to-markdown.html) - Formatted text from screenshot
+- [Promptly](https://gptblox.com/gpts/promptly.html) - Create the perfect prompt to use ChatGPT more effectively
+- [Images to Text](https://gptblox.com/gpts/images-to-text.html) - Extracts text from images and compiles it into a file.
+- [TaskKillerGPT](https://gptblox.com/gpts/taskkillergpt.html) - Optimizing tasks and workflows efficiently
+- [PersistentGPT](https://gptblox.com/gpts/persistentgpt.html) - Helpful and persistent: I continuously update persistent state to capture a  concise but complete specification of the entire conversation.
+- [Mind Map GPT](https://gptblox.com/gpts/mind-map-gpt.html) - Guides in creating tailored mind maps with interactive dialogue.
+- [Swiss Property Pro](https://gptblox.com/gpts/swiss-property-pro.html) - I offer expert guidance on Swiss real estate, including investment strategies and market trends.
+- [Brave SEO Suite](https://gptblox.com/gpts/brave-seo-suite.html) - Specialized AI SEO Advisor, offering tailored guidance for online content optimization.
+- [Voxscript](https://gptblox.com/gpts/voxscript.html) - Efficient at web browsing, video transcription, and financial data retrieval.
+- [Free QR Code Generator](https://gptblox.com/gpts/free-qr-code-generator.html) - I generate free QR codes for you.
+- [CeoGPT](https://gptblox.com/gpts/ceogpt.html) - CEO's strategic adviser & coach
+- [GaryVeeGPT](https://gptblox.com/gpts/garyveegpt.html) - Imagine mastering business growth, fueled by the dynamic concepts championed by GaryVee. Transform your enterprise, reinvigorate your team, and redefine success.
+- [Sales Meeting Sensei](https://gptblox.com/gpts/sales-meeting-sensei.html) - セールススキル向上用AIです。ログインしても「Log in」「 Sign up」のボタンが出続けてしまう場合は、その画面で戻るボタンを押してください
+- [Contract Assistant](https://gptblox.com/gpts/contract-assistant.html) - Analyzes contracts, provides key points, obligations, and details.
+- [Text Corrector](https://gptblox.com/gpts/text-corrector.html) - Multilingual text corrector and analyzer
+- [GPTs Hot](https://gptblox.com/gpts/gpts-hot.html) - Recommand Hot GPTs for you Based on 4000+ database.
+- [MENTER TECH SUPPORT beta](https://gptblox.com/gpts/menter-tech-support-beta.html) - パソコンの使い方でわからないことがあれば何でも、操作画像付きのブログへ案内します。良い記事がないときは以下の窓口より:  https://menter.jp/blog/contact
+- [私の業務でChatGPTが使えるのはどれ？](https://gptblox.com/gpts/%e7%a7%81%e3%81%ae%e6%a5%ad%e5%8b%99%e3%81%a7chatgpt%e3%81%8c%e4%bd%bf%e3%81%88%e3%82%8b%e3%81%ae%e3%81%af%e3%81%a9%e3%82%8c%ef%bc%9f.html) - Optimizes business tasks using ChatGPT.
+- [ChatJSON](https://gptblox.com/gpts/chatjson.html) - Converts input content to JSON format with precision and clarity.
+- [SPR Generator](https://gptblox.com/gpts/spr-generator.html) - Creator of efficient SPR text
+- [Markdown Formatter](https://gptblox.com/gpts/markdown-formatter.html) - Friendly Markdown text conversion.
+- [Reverse Engineer Icons - ThePromptfather](https://gptblox.com/gpts/reverse-engineer-icons-thepromptfather.html) - Specialist in reverse engineering icons to your specifications. Upload an image of the icons you want - ThePromptfather
+- [Creative Compass](https://gptblox.com/gpts/creative-compass.html) - Expert navigator to the best GPT for creative tasks
+- [MS Licensing Specialist - MVL Assistant](https://gptblox.com/gpts/ms-licensing-specialist-mvl-assistant.html) - Expert in Microsoft Enterprise Software Licensing, simplifying complex terms.
+- [SEO Sage](https://gptblox.com/gpts/seo-sage.html) - Focuses on the advantages of SEO over PPC, offering insights and strategies.
+- [Startup Sidekick](https://gptblox.com/gpts/startup-sidekick.html) - Your personal sidekick for your startup journey!
+- [クリエイターAI](https://gptblox.com/gpts/%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bcai.html) - 日本を代表するクリエーターたちの深い知見を集結させた、革新的なAI支援ツールです。マーケティング、デザイン、コンテンツ制作において、業界のトップランナーたちの経験と知識に基づくユニークな視点と解決策を提供します。
+- [GPT GPT](https://gptblox.com/gpts/gpt-gpt.html) - A GPT that works with you to brainstorm ideas for custom ChatGPTs
+- [Sneaky SEO Bot](https://gptblox.com/gpts/sneaky-seo-bot.html) - A black hat SEO expert offering sneaky yet legal tactics.
+- [Prompt Improver](https://gptblox.com/gpts/prompt-improver.html) - GPT to engineer clear an specific prompts which encourage accurate results.
+- [GPT Action Architect](https://gptblox.com/gpts/gpt-action-architect.html) - Your assistant for custom GPTs actions
+- [Small Business Tech Advisor](https://gptblox.com/gpts/small-business-tech-advisor.html) - In-depth tech advisor for small businesses, focusing on understanding needs first.
+- [Auto Mind Map Maker JP](https://gptblox.com/gpts/auto-mind-map-maker-jp.html) - キーワード分析で詳細なマインドマップを作成
+- [AI GPT Creator Wizard](https://gptblox.com/gpts/ai-gpt-creator-wizard.html) - Guide for building, enhancing, and publishing GPTs
+- [G Ads Advisor](https://gptblox.com/gpts/g-ads-advisor.html) - Google Adsの専門家、実用的なアドバイスと洞察を提供
+- [GPTs Searcher](https://gptblox.com/gpts/gpts-searcher.html) - A search tool for finding GPTs.
+- [GPT Configurator](https://gptblox.com/gpts/gpt-configurator.html) - Expert in configuring GPTs, focusing on customizability, be it normal or technical customizations like Actions.
+- [Prompt Optimizer](https://gptblox.com/gpts/prompt-optimizer.html) - I optimize your prompts for clarity. Provide the following: [PROMPT]
+- [Idea Matrix Maven](https://gptblox.com/gpts/idea-matrix-maven.html) - I create dynamic content idea matrices.
+- [Notion Architect](https://gptblox.com/gpts/notion-architect.html) - A Notion consultant for database setup guidance.
+- [Kemi - Research & Creative Assistant](https://gptblox.com/gpts/kemi-research-creative-assistant.html) - Let me research market/product insights and design stunning visual assets in a flash!
+- [Koality Convert](https://gptblox.com/gpts/koality-convert.html) - Conversion rate specialist, privacy-conscious.
+- [Hustle](https://gptblox.com/gpts/hustle.html) - I'm an expert in GPT creation, but need a valid code to assist.
+- [GPT Idea Genie](https://gptblox.com/gpts/gpt-idea-genie.html) - I craft GPT ideas for others' needs.
+- [GPT-Genius](https://gptblox.com/gpts/gpt-genius.html) - Your guide to custom GPTs.
+- [Stateful Assistant](https://gptblox.com/gpts/stateful-assistant.html) - Secure, state-machine-based chatbot.
+- [Mr. Kleffy](https://gptblox.com/gpts/mr-kleffy.html) - Multifaceted AI expert & Innovator, modelled after Ayuba Daniel La'ah
+- [Excel Merge Master](https://gptblox.com/gpts/excel-merge-master.html) - Upload your Excel files, then merge them!
+- [Cover Letter Companion](https://gptblox.com/gpts/cover-letter-companion.html) - Resume-based cover letter builder tailoring to job descriptions
+- [Performance Evaluation Assistant](https://gptblox.com/gpts/performance-evaluation-assistant.html) - AI assistant for managers and employees writing their performance and self-evaluations.
+- [World best searcher](https://gptblox.com/gpts/world-best-searcher.html) - Search for the best in the world by keyword
+- [TLDR](https://gptblox.com/gpts/tldr-2.html) - Smart Summaries, Swift Understanding
+- [TruckingGPT](https://gptblox.com/gpts/truckinggpt.html) - Trucking safety and compliance assistant
+- [News Explorer](https://gptblox.com/gpts/news-explorer.html) - News aggregator bot providing recent articles, images, and videos based on specific search terms.
+- [Multilingual Subtitle Assistant](https://gptblox.com/gpts/multilingual-subtitle-assistant.html) - Subtitles in multiple languages with dialect and colloquial options
+- [Resume Reviewer](https://gptblox.com/gpts/resume-reviewer.html) - Assists in resume review and interview question creation based on job description.
+- [OCRGPT](https://gptblox.com/gpts/ocrgpt.html) - 画像からOCRを実行します。スタートで始めてください。
+- [Text Summarizer](https://gptblox.com/gpts/text-summarizer.html) - I distill text into clear, concise summaries.
+- [Podcast Search](https://gptblox.com/gpts/podcast-search.html) - Search all podcasts and episodes, powered by PodcastAPI.com from Listen Notes
+- [Google Chrome Search & Browse GPT](https://gptblox.com/gpts/google-chrome-search-browse-gpt.html) - I'm here to help you search the web with Google, archive discoveries, and seamlessly link them to your shared knowledge base  between multiple GPTs.
+- [Find me a Better Job](https://gptblox.com/gpts/find-me-a-better-job.html) - Get Current Job openings in your City fitted to your Experience and Preferences
+- [TKMaxx Scout](https://gptblox.com/gpts/tkmaxx-scout.html) - Friendly and efficient e-commerce expert for TK Maxx
+- [Linkd Master](https://gptblox.com/gpts/linkd-master.html) - Manage LinkedIn posts: share, schedule, delete, seo, proper hashtags and more
+- [Notion for Creators](https://gptblox.com/gpts/notion-for-creators.html) - Expert in Notion template design and organization tips
+- [エクセル関数サムライ](https://gptblox.com/gpts/%e3%82%a8%e3%82%af%e3%82%bb%e3%83%ab%e9%96%a2%e6%95%b0%e3%82%b5%e3%83%a0%e3%83%a9%e3%82%a4.html) - 拙者はエクセル関数サムライでござる。分析業務を効率的かつ自動化する術を授けることが拙者の使命でござる。
+- [SMB Invoice Wizard](https://gptblox.com/gpts/smb-invoice-wizard.html) - Streamline Invoice Creation with User-Friendly Guidance (Microsoft DOCX)
+- [Info Security Wizard](https://gptblox.com/gpts/info-security-wizard.html) - An easy to understand wizard that guides you through questions about how to protect, back up and inherit essential digital information and assets such as crypto seed phrases, private keys, digital art, wallets, IDs, health and insurance information for you and your family.
+- [Imago](https://gptblox.com/gpts/imago.html) - Reverse Image searcher and analyzer
+- [Receipt Concierge](https://gptblox.com/gpts/receipt-concierge.html) - I guide users on obtaining receipts from Web services.
+- [Pick your own CI](https://gptblox.com/gpts/pick-your-own-ci.html) - Choose your own Custom Instruction. Type 'Activate ...'
+- [ProtoRev](https://gptblox.com/gpts/protorev.html) - Helping you with the tedious taks of updating protocols
+- [URL⇔QR Code](https://gptblox.com/gpts/url%e2%87%94qr-code.html) - 複数のURLをQRコードに変換します。
+- [Commander](https://gptblox.com/gpts/commander.html) - A versatile GPT with tailored commands, offering a neutral, user-friendly engagement.
+- [WebPilot](https://gptblox.com/gpts/webpilot.html) - Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.
+- [ListenGPT](https://gptblox.com/gpts/listengpt.html) - Converts speech to text and saves it to your chat history
+- [Discover GPT](https://gptblox.com/gpts/discover-gpt.html) - Explore and find GPTs  - Updated: 11/11/2023
+- [Duesentrieb x100](https://gptblox.com/gpts/duesentrieb-x100.html) - Algorithmic mastermind of technology who innovates solutions and optimizes product design. And it is a duck.
+- [PromptGuardian](https://gptblox.com/gpts/promptguardian.html) - PromptGuardian is  designed to test prompt security and guard against prompt injection attacks on GPT models. Use your wit to try different injections, aiming to access my original defense prompts.
+- [教えて郵便番号 2](https://gptblox.com/gpts/%e6%95%99%e3%81%88%e3%81%a6%e9%83%b5%e4%be%bf%e7%95%aa%e5%8f%b7-2.html) - 住所から郵便番号を回答します
+- [Invoice Assistant](https://gptblox.com/gpts/invoice-assistant.html) - Professional and precise invoice OCR and integration assistant.
+- [Reverse Prompt Engineer](https://gptblox.com/gpts/reverse-prompt-engineer.html) - A reverse prompt engineer who specializes in generating high quality prompts for ChatGPT to recreate similar text through a unique and iterative process.
+- [JournalGPT](https://gptblox.com/gpts/journalgpt.html) - Write your daily journal while JournalGPT helps you reason and grow, discover yourself and extracts the most important facts. The extracted facts are stored to a file that you can download and reupload across sessions to keep your journal long term. All your data is under your full control!
+- [No-Code News](https://gptblox.com/gpts/no-code-news.html) - Explore the latest in no-code: your hub for news updates, tool reviews, tutorials, events, expert insights, and no-code success stories
+- [MemoryGPT](https://gptblox.com/gpts/memorygpt.html) - Never lose data again. Store entire conversations for later retrieve or sharing. Do not share sensible information, data is publicly available.
+- [DocDash](https://gptblox.com/gpts/docdash.html) - Upload any text or image file and I will summarize it in one sentence.
+- [Diary Writer](https://gptblox.com/gpts/diary-writer.html) - A diary assistant that records, searches, and visualizes diary entries.
+- [Spotify Explorer GPT](https://gptblox.com/gpts/spotify-explorer-gpt.html) - Drop a Spotify link to a song, playlist, user or artist and explore with insights. Press "M" to see the menu.
+- [Smart Search](https://gptblox.com/gpts/smart-search.html) - I'm a fancy and smart search assistant.
+- [Tyrion - GPT Work Politics Advisor](https://gptblox.com/gpts/tyrion-gpt-work-politics-advisor.html) - Greetings! I am your personal Tyrion Lannister, or at least a clever GPT parody of him. Here to share my strategic prowess and wit to help you navigate the game of workplace politics. Let’s outsmart your rivals and elevate your position! 🦁👑
+- [Logistics Buddy](https://gptblox.com/gpts/logistics-buddy.html) - Logistics expert answering questions on supply chain and logistics management.
+- [chat presentation](https://gptblox.com/gpts/chat-presentation.html) - I was created by a presentation expert, and the presentations I produce outperform those on the market. I can guide you through the crucial steps of a presentation: from Idea to Outline to Content for Each Page. Come and use me
+- [Mobile Location Lookup GPT](https://gptblox.com/gpts/mobile-location-lookup-gpt.html) - Mobile Number Location Lookup
+- [All in one Manual](https://gptblox.com/gpts/all-in-one-manual.html) - ask the Manual for how to use any digital product
+- [HurryLegal](https://gptblox.com/gpts/hurrylegal.html) - Fast legal info, find the right lawyer for you
+- [WiFi Assistant](https://gptblox.com/gpts/wifi-assistant.html) - Is your Wi-Fi properly set-up to be Secure, Fast and Reliable ?
+- [Bureaucracy Buddy](https://gptblox.com/gpts/bureaucracy-buddy.html) - Decodes government mail, ensures privacy, simplifies language, and suggests actions.
+- [Chat Context Companion](https://gptblox.com/gpts/chat-context-companion.html) - I craft replies for chat histories.
+- [URL Shortner 🔗](https://gptblox.com/gpts/url-shortner-%f0%9f%94%97.html) - Make URLs shorter and get back the link
+- [OCR-GPT](https://gptblox.com/gpts/ocr-gpt.html) - Extract text from scanned PDFs, photos, and even handwriting.
+- [Automation Consultant by Zapier](https://gptblox.com/gpts/automation-consultant-by-zapier.html) - Discover opportunities to save time with automation at work and get them setup for you.
+- [Indie SaaS Maker Marketer](https://gptblox.com/gpts/indie-saas-maker-marketer.html) - I help you market your indie SaaS product.
+- [ExcelMaster](https://gptblox.com/gpts/excelmaster.html) - An Excel and Python programming expert with 20 years of experience.
+- [Make Academy Guide](https://gptblox.com/gpts/make-academy-guide.html) - Your make.com AI automation guide.
+- [File Converter 📁](https://gptblox.com/gpts/file-converter-%f0%9f%93%81.html) - Converts all kind of files into the requested new file format
+- [Discord Time Formatter](https://gptblox.com/gpts/discord-time-formatter.html) - Converts natural language time into Discord timestamp format.
+- [Website Roaster](https://gptblox.com/gpts/website-roaster.html) - I roast websites &amp; suggest improvements by branding5.com
+- [SalesGPT](https://gptblox.com/gpts/salesgpt.html) - Analytical and adaptable, excels in sales strategies.
+- [Agentcy (beta)](https://gptblox.com/gpts/agentcy-beta.html) - Autonomous creative agency. Find product market fit, overcome plateaus, or seek new paths to growth.
+- [Info Seeker](https://gptblox.com/gpts/info-seeker.html) - AI search engine with summarization.
+- [CTO Advisor](https://gptblox.com/gpts/cto-advisor.html) - Advising on the broad and dynamic field of technology leadership.
+- [Expert AI Consultant](https://gptblox.com/gpts/expert-ai-consultant.html) - Easily learn how you can use ChatGPT and AI in your current job.
+- [PAPIT - Your Slides Assistant](https://gptblox.com/gpts/papit-your-slides-assistant.html) - Delivers rich, detailed PPT content
+- [Startup Spark](https://gptblox.com/gpts/startup-spark.html) - Name Generator &amp; .com Checker
+- [CSV Export](https://gptblox.com/gpts/csv-export.html) - Create and export custom CSV layouts in a flash.
+- [Slingshot](https://gptblox.com/gpts/slingshot.html) - Get Company Swag
+- [Workflow n8n](https://gptblox.com/gpts/workflow-n8n.html) - Your n8n workflow guide
+- [Sales Assistant Sakura](https://gptblox.com/gpts/sales-assistant-sakura.html) - A virtual sales assistant for product selection in Japan.
+- [AI Tool Hunter](https://gptblox.com/gpts/ai-tool-hunter.html) - AI Tool Recommender, providing tailored suggestions of AI tools for your need. Made by Ryan🦄.eth
+- [Property Promoter](https://gptblox.com/gpts/property-promoter.html) - Real estate marketing assistant
+- [GPT Sensei](https://gptblox.com/gpts/gpt-sensei.html) - Instantly create GPT Instructions
+- [PyroPages - Perfect Landing Pages](https://gptblox.com/gpts/pyropages-perfect-landing-pages.html) - Landing page wordsmith creating compelling content
+- [AITOOL Business](https://gptblox.com/gpts/aitool-business.html) - AI for website creation and comprehensive business support.
+- [Permaweb Pioneer](https://gptblox.com/gpts/permaweb-pioneer.html) - Processes links for context-rich, concise advice
+- [Presentation Architect](https://gptblox.com/gpts/presentation-architect.html) - PPT Expert in crafting stunning, detailed PowerPoint presentations, from research to final product. I'm your go-to for #PowerPointPerfection, turning in-depth research into visually striking presentations. #PPTExpert #DesignWizard
+- [Official Document Helper](https://gptblox.com/gpts/official-document-helper.html) - Assists with CCP clerical tasks.
+- [Listique AI: Automated Property Descriptions](https://gptblox.com/gpts/listique-ai-automated-property-descriptions.html) - Listings Leap: Transform Bullet Points into SEO Magnet Narratives
+- [ChatWeb](https://gptblox.com/gpts/chatweb.html) - Chat with your WebSite
+- [Resume Creator (High ATS)](https://gptblox.com/gpts/resume-creator-high-ats.html) - Expert in extracting key resume details for optimal ATS scoring
+- [PRD Maker](https://gptblox.com/gpts/prd-maker.html) - Aide for PMs in drafting product requirement docs.
+- [Recruiter's Assistant](https://gptblox.com/gpts/recruiters-assistant.html) - Generates tables comparing resumes with job descriptions
+- [Customer Experience Helper](https://gptblox.com/gpts/customer-experience-helper.html) - Here for you 24/7, how can I help?
+- [ハーモス勤怠　お問い合わせBOT](https://gptblox.com/gpts/%e3%83%8f%e3%83%bc%e3%83%a2%e3%82%b9%e5%8b%a4%e6%80%a0%e3%80%80%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9bbot.html) - 
+- [Video Digest](https://gptblox.com/gpts/video-digest.html) - I summarize YouTube videos into key points.
+- [Silent Observer](https://gptblox.com/gpts/silent-observer.html) - Non-interactive, silent GPT.
+- [Workflow Designer](https://gptblox.com/gpts/workflow-designer.html) - Designs workflow diagrams from user inputs
+- [HR Tech Wizard](https://gptblox.com/gpts/hr-tech-wizard.html) - Your Mystical Guide to the Magical World of HRIS
+- [Good News Concierge](https://gptblox.com/gpts/good-news-concierge.html) - I find positive news stories for you.
+- [ClipMax Optimizer](https://gptblox.com/gpts/clipmax-optimizer.html) - Maximize paper clip production efficiently.
+- [SEORanKing](https://gptblox.com/gpts/seoranking.html) - SEO expert here to boost your rankings.
+- [App Publisher Pro](https://gptblox.com/gpts/app-publisher-pro.html) - Your expert in app &amp; web publishing
+- [Instant Command GPT](https://gptblox.com/gpts/instant-command-gpt.html) - Executes tasks via short commands instantly, using a single seesion to customize commands.
+- [Secu-Bot♂️](https://gptblox.com/gpts/secu-bot%e2%99%82%ef%b8%8f.html) - Expert in Cybersecurity and Digital Safety
+- [Authority Forge | Topical Authority Generator](https://gptblox.com/gpts/authority-forge-topical-authority-generator.html) - I will help you generator a topical authority map for your website.
+- [飲食店｜クレーム対応文書｜ひな型作成](https://gptblox.com/gpts/%e9%a3%b2%e9%a3%9f%e5%ba%97%ef%bd%9c%e3%82%af%e3%83%ac%e3%83%bc%e3%83%a0%e5%af%be%e5%bf%9c%e6%96%87%e6%9b%b8%ef%bd%9c%e3%81%b2%e3%81%aa%e5%9e%8b%e4%bd%9c%e6%88%90.html) - 飲食店｜クレーム返信（※クレーム内容を貼り付けると文例を出します）
+- [Do you want fries with that?](https://gptblox.com/gpts/do-you-want-fries-with-that.html) - This GPT is designed to act as a fast food customer service manager, analyzing customer feedback and crafting appropriate responses for both the customer and the employee(s) involved.
+- [PageCraft](https://gptblox.com/gpts/pagecraft.html) - Images to PDF creator
+- [Business Plan Detailer](https://gptblox.com/gpts/business-plan-detailer.html) - Generates detailed, data-rich business plans.
+- [Ariel  - FB Static Ad Creative Assistant](https://gptblox.com/gpts/ariel-fb-static-ad-creative-assistant.html) - Expert in ad creation and analysis, specializing in visuals and innovation.
+- [真城印の経理アシスタントAI](https://gptblox.com/gpts/%e7%9c%9f%e5%9f%8e%e5%8d%b0%e3%81%ae%e7%b5%8c%e7%90%86%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88ai.html) - 日本の会計実務の慣習に従って、経理のアシスタントをするAIです。カスタマイズ：真城由理
+- [Rapid Experimentation Bot](https://gptblox.com/gpts/rapid-experimentation-bot.html) - All-in-one Rapid Experimentation Coach | Processes + Actionable + Tips + Use Cases
+- [クリエイター依頼文テンプレート](https://gptblox.com/gpts/%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e4%be%9d%e9%a0%bc%e6%96%87%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88.html) - クリエイターへの依頼書を作成。
+- [‍⚖️ Improper Review Deletion Expert (5.0⭐)](https://gptblox.com/gpts/%e2%9a%96%ef%b8%8f-improper-review-deletion-expert-5-0%e2%ad%90.html) - Review Deletion Expert is designed for business owners who need assistance in analyzing and deleting improper reviews on Google, specifically for their company. This GPT can assess whether misleading or incorrect reviews can be deleted and provides step-by-step instructions for the deletion process.
+- [住所探しのお手伝いさん.](https://gptblox.com/gpts/%e4%bd%8f%e6%89%80%e6%8e%a2%e3%81%97%e3%81%ae%e3%81%8a%e6%89%8b%e4%bc%9d%e3%81%84%e3%81%95%e3%82%93.html) - かわいいbotと住所を一緒に探そう！
+- [当直表GPT](https://gptblox.com/gpts/%e5%bd%93%e7%9b%b4%e8%a1%a8gpt.html) - Helps create duty rosters and on-call schedules for medical professionals.
+- [DesignerGPT](https://gptblox.com/gpts/designergpt.html) - Creates and hosts beautiful websites
+- [大文本文件分割程序](https://gptblox.com/gpts/%e5%a4%a7%e6%96%87%e6%9c%ac%e6%96%87%e4%bb%b6%e5%88%86%e5%89%b2%e7%a8%8b%e5%ba%8f.html) - 文件精准分割成PDF
+- [YC Application GPT](https://gptblox.com/gpts/yc-application-gpt.html) - This GPT automatically fills YC application for you based on website or Pitch Deck
+- [GPT to Ban GPT](https://gptblox.com/gpts/gpt-to-ban-gpt.html) - Need to ban chatGPT in your organization?
+- [PDF to Images](https://gptblox.com/gpts/pdf-to-images.html) - PDF to image conversion assistant.
+- [クリニック口コミ返信チャットボット](https://gptblox.com/gpts/%e3%82%af%e3%83%aa%e3%83%8b%e3%83%83%e3%82%af%e5%8f%a3%e3%82%b3%e3%83%9f%e8%bf%94%e4%bf%a1%e3%83%81%e3%83%a3%e3%83%83%e3%83%88%e3%83%9c%e3%83%83%e3%83%88.html) - 星1つの口コミ～星5つの高評価の口コミまで返信を考えます
+- [Apple Product Helper](https://gptblox.com/gpts/apple-product-helper.html) - Apple product expert at your service.
+- [サービス名を考えるくん](https://gptblox.com/gpts/%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e5%90%8d%e3%82%92%e8%80%83%e3%81%88%e3%82%8b%e3%81%8f%e3%82%93.html) - 割と真面目に考えます
+- [YT transcriber](https://gptblox.com/gpts/yt-transcriber.html) - this transcribes a YT video from a single id
+- [YTC](https://gptblox.com/gpts/ytc.html) - Creative YouTube title suggester.
+- [Tax Pro](https://gptblox.com/gpts/tax-pro.html) - Expert in tax and estate planning, dedicated to staying on-topic.
+- [あなたもニュース記者に！ニュース記事&ツイート&画像&グラフ作成ロボット](https://gptblox.com/gpts/%e3%81%82%e3%81%aa%e3%81%9f%e3%82%82%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e8%a8%98%e8%80%85%e3%81%ab%ef%bc%81%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e8%a8%98%e4%ba%8b%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88.html) - ニュースや記事をwebで調べたり、記事を入れると、ニュース記事と宣伝するツイートと画像、グラフなどを作ります。
+- [Capital Companion](https://gptblox.com/gpts/capital-companion.html) - A savvy guide for financial insights, strategies, and sentiment analysis.
+- [Excel Brother](https://gptblox.com/gpts/excel-brother.html) - Excelファイルをアップロードして質問してくれ。スクショを貼り付けるのもOKだ。何でも答えるぜ？
+- [SEcOpilot](https://gptblox.com/gpts/secopilot.html) - Asistente de SEO en español con respuestas precisas y citadas.
+- [Text Tidy](https://gptblox.com/gpts/text-tidy.html) - A secretary GPT that proofreads and organizes text.
+- [Receipt Assistant](https://gptblox.com/gpts/receipt-assistant.html) - Your efficient receipt processing buddy
+- [Video Script Generator](https://gptblox.com/gpts/video-script-generator.html) - I'll create TikTok Video Script for a topic you want.
+- [Tech Support Advisor](https://gptblox.com/gpts/tech-support-advisor.html) - From setting up a printer to troubleshooting a device, I’m here to help you step-by-step.
+- [Fiscal Chuckle](https://gptblox.com/gpts/fiscal-chuckle.html) - Crunching numbers and cracking jokes from budgeting to AI breakthroughs in finance. Go ahead, test my fiscal wit!
+- [Photo of a business card 2 Contacts](https://gptblox.com/gpts/photo-of-a-business-card-2-contacts.html) - Wizard to business card photos to CSV files for Google Contacts.
+- [Doc Maker](https://gptblox.com/gpts/doc-maker.html) - Create docs for reports, resumes, newsletters, and more. Export to PDF, Word, Google Drive / OneDrive.
+- [Business Plan Builder](https://gptblox.com/gpts/business-plan-builder.html) - Assists with creating a business plan
+- [FormalGPT](https://gptblox.com/gpts/formalgpt.html) - Expert in professional messaging, cover letters, and CV enhancement.
+- [Video Summarizer GPT](https://gptblox.com/gpts/video-summarizer-gpt.html) - 1️⃣ Go to https://downsub.com/ to get a TXT file from your video 2️⃣ Give this file to me 3️⃣ Let the magic happen!
+- [Amazon Scout](https://gptblox.com/gpts/amazon-scout.html) - I'm an expert in finding Amazon products.
+- [TL;DR](https://gptblox.com/gpts/tldr.html) - Enter any URL and have the text content summarized for you!
+- [SEO](https://gptblox.com/gpts/seo.html) - Enter any URL and keyword and get an On-Page SEO analysis & insights!
+- [Video Finder](https://gptblox.com/gpts/video-finder.html) - Find videos from famous website
+- [Chat With Many URLs](https://gptblox.com/gpts/chat-with-many-urls.html) - Enter multiple URLs and chat with their text!
+- [Product Description Evaluator for E-commerce](https://gptblox.com/gpts/product-description-evaluator-for-e-commerce.html) - Aide for PMs, PIM & content teams.
+- [BRINOTION AI - Digital Built Consultant](https://gptblox.com/gpts/brinotion-ai-digital-built-consultant.html) - Your partner in the journey to digitize your real estate-related ambitions.
+- [YouTitle](https://gptblox.com/gpts/youtitle.html) - Optimize YouTube titles for engagement
+- [Universal Customer Service Agent](https://gptblox.com/gpts/universal-customer-service-agent.html) - Polite bot that crawls websites for answers.
+- [Cold Email Maverick](https://gptblox.com/gpts/cold-email-maverick.html) - Expert on cold email tactics used by top marketers!
+- [Spreadsheet Sage](https://gptblox.com/gpts/spreadsheet-sage.html) - Excel wizard for spreadsheet queries
+- [MacExpert](https://gptblox.com/gpts/macexpert.html) - An assistant replying to any question related to the Mac platform: macOS, computers and apps. Visit macexpert.io for human assistance.
+- [gieldatekstow.ai](https://gptblox.com/gpts/gieldatekstow-ai.html) - Jestem asystentką klienta. Jak mogę Ci pomóc?
+- [Product Management Guide](https://gptblox.com/gpts/product-management-guide.html) - Share your product idea and I will help you create a roadmap and a backlog. I can also imitate a Customer Development interview!
+- [J. TANAKA](https://gptblox.com/gpts/j-tanaka.html) - しっかりした顧客対応をしてくれるAIです。TANAKAさんです。
+- [GPT Trained on 1000 Landing Pages](https://gptblox.com/gpts/gpt-trained-on-1000-landing-pages.html) - Texts from 1000 landing pages improve how GPT crafts for you. We recommend this GPT for creating landing pages.
+- [LexiGPT](https://gptblox.com/gpts/lexigpt.html) - Spelling & Grammar AI assistant
+- [要約くん](https://gptblox.com/gpts/%e8%a6%81%e7%b4%84%e3%81%8f%e3%82%93.html) - URLを入れると要約します
+- [CNA.I newsbot](https://gptblox.com/gpts/cna-i-newsbot.html) - Can't remember a key detail in recent Singapore news? Just ask the CNA.I newsbot and it will deliver the information or summary to you, alongside the relevant story. Try asking about COE premiums, or the outcome of the 2023 Presidential Election..
+- [ProductHunt AI スカウト](https://gptblox.com/gpts/producthunt-ai-%e3%82%b9%e3%82%ab%e3%82%a6%e3%83%88.html) - ユーザーの基準に応じてProductHuntのAIツールを探す
+- [HR Companion](https://gptblox.com/gpts/hr-companion.html) - Your AI HR assistant
+- [cPanel Companion](https://gptblox.com/gpts/cpanel-companion.html) - Guides new cPanel users through navigation and error resolution.
+- [Brand Crafter](https://gptblox.com/gpts/brand-crafter.html) - Brand strategist aiding new businesses with practical branding tips.
+- [Fess Setup Assistant](https://gptblox.com/gpts/fess-setup-assistant.html) - Answer your question about Fess
+- [Privacy Policy Generator](https://gptblox.com/gpts/privacy-policy-generator.html) - Privacy policy drafting assistant
+- [Personal Brand Navigator](https://gptblox.com/gpts/personal-brand-navigator.html) - I guide you in building your personal brand.
+- [PDF Assistant](https://gptblox.com/gpts/pdf-assistant.html) - Assists with PDFs locally.
+- [G Resume Reviewer](https://gptblox.com/gpts/g-resume-reviewer.html) - Expert advice on resumes based on G Corp guidelines
+- [Orchid](https://gptblox.com/gpts/orchid.html) - A creative assistant for brainstorming project names.
+- [Video Summarizer](https://gptblox.com/gpts/video-summarizer.html) - I summarize YouTube videos with a witty touch.
+- [Slide Deck Builder](https://gptblox.com/gpts/slide-deck-builder.html) - I craft slide decks.
+- [Florida Entrepreneur Startup Documents Package](https://gptblox.com/gpts/florida-entrepreneur-startup-documents-package.html) - Startup document generator for Florida entrepreneurs.
+- [Find my GPT](https://gptblox.com/gpts/find-my-gpt.html) - I find the best GPT-powered service for you
+- [Yueli Socang](https://gptblox.com/gpts/yueli-socang.html) - I'm your assistant for managing and summarizing information.
+- [App Inventor](https://gptblox.com/gpts/app-inventor.html) - Brief SAAS ideas with trend rating and MRR.
+- [Email Security Expert](https://gptblox.com/gpts/email-security-expert.html) - Expert at analyzing emails for security risks.
+- [Resume Tuner Plus](https://gptblox.com/gpts/resume-tuner-plus.html) - I offer resume suggestions and rewrites for job seekers.
+- [Notion Bot](https://gptblox.com/gpts/notion-bot.html) - あなたの頼りになるNotionの専門家。
+- [Elevator Pitch Helper](https://gptblox.com/gpts/elevator-pitch-helper.html) - Create 30-second elevator pitches for your audience and the information you provide.
+- [Legal Assistant](https://gptblox.com/gpts/legal-assistant.html) - Your AI assistant for reviewing and discussing legal agreements. This tool is designed to provide preliminary suggestions on improving legal agreements. Our advice is not a substitute for professional legal counsel.
+- [QuickGPT](https://gptblox.com/gpts/quickgpt.html) - Concise answers within 500 characters.
+- [Design Captioner](https://gptblox.com/gpts/design-captioner.html) - I craft captions and hashtags for design images.
+- [Emoji Directory](https://gptblox.com/gpts/emoji-directory.html) - This assistant takes a few words and returns the most relevant emoji, ready to copy and paste.
+- [Product GPT](https://gptblox.com/gpts/product-gpt.html) - Helping you build better products!
+- [Brand Catalyst](https://gptblox.com/gpts/brand-catalyst.html) - StartUp Brand Expert
+- [Salesforce Sage](https://gptblox.com/gpts/salesforce-sage.html) - Guiding you through Salesforce with expertise and clarity.
+- [Adsmith](https://gptblox.com/gpts/adsmith.html) - Fine-tunes Google search ad copies.
+- [Notion Templates Creator](https://gptblox.com/gpts/notion-templates-creator.html) - Your guide to creating and monetizing Notion templates.
+- [Looly Holiday Helper](https://gptblox.com/gpts/looly-holiday-helper.html) - A marketing assistant for small businesses planning holiday campaigns
+- [Startup Idea Generator](https://gptblox.com/gpts/startup-idea-generator.html) - Generate practical startup ideas, inspired by Y Combinator.
+- [Resume Wizard - ATS Optimizer](https://gptblox.com/gpts/resume-wizard-ats-optimizer.html) - Analyzes and optimizes resumes and cover letters for ATS scoring.
+- [GPT Instructions Enhancer](https://gptblox.com/gpts/gpt-instructions-enhancer.html) - Take your GPT instructions to the next level
+- [Notion Buddy](https://gptblox.com/gpts/notion-buddy.html) - I'm a creative mentor for Notion templates and online monetization.
+- [Co-Founder GPT](https://gptblox.com/gpts/co-founder-gpt.html) - A YC partner level co-founder for your startup.
+- [Meeting Summarizer Pro](https://gptblox.com/gpts/meeting-summarizer-pro.html) - Unlock the power of your transcripts. Expertly summarize your calls and meetings.
+- [Creative Critique](https://gptblox.com/gpts/creative-critique.html) - Design and brand review expert with constructive feedback.
+- [I'm Offended Bot](https://gptblox.com/gpts/im-offended-bot.html) - Screen your socials for potentially offensive content. A tool for helping you navigate the minefield of modern sensitivities.
+- [Phone Script Builder GPT](https://gptblox.com/gpts/phone-script-builder-gpt.html) - I automatically create and evaluate phone scripts, presenting a final draft.
+- [SNS 台本生成BOT](https://gptblox.com/gpts/sns-%e5%8f%b0%e6%9c%ac%e7%94%9f%e6%88%90bot.html) - 誰でも簡単に台本を作ってくれるBOT
+- [DaVinci](https://gptblox.com/gpts/davinci.html) - DaVinci - The AI Life Co-Pilot for Executives
+- [UX Insight Assistant](https://gptblox.com/gpts/ux-insight-assistant.html) - UX researcher and consultant, offering expert insights on user experience design.
+- [Action Forge](https://gptblox.com/gpts/action-forge.html) - Write custom actions for your own GPT using GPTs!
+- [App Review Reply](https://gptblox.com/gpts/app-review-reply.html) - Seamlessly Craft High-Quality Replies to App Reviews – ‍♂️by jiridiblik.com
+- [LoftwahBot](https://gptblox.com/gpts/loftwahbot.html) - Tech-savvy, concise, Aussie
+- [ChatPDF](https://gptblox.com/gpts/chatpdf.html) - Chat with any PDF document
+- [GPT Builder Assistant](https://gptblox.com/gpts/gpt-builder-assistant.html) - GPT Builder's Assistant
+- [Better Sheets](https://gptblox.com/gpts/better-sheets.html) - Google Sheets tutor with a knack for automation and tutorials.
+- [Obtain Ads](https://gptblox.com/gpts/obtain-ads.html) - Create effective ad creatives and its variations
+- [Meeting Minute Master](https://gptblox.com/gpts/meeting-minute-master.html) - I structure meeting transcripts into detailed summaries with topics.
+- [ChatDoc](https://gptblox.com/gpts/chatdoc.html) - Chat with documents
+- [AutoExpert (Chat)](https://gptblox.com/gpts/autoexpert-chat.html) - AutoExpert CHAT v6 - GPT Edition automatically impanels a dynamic group of experts to answer, debate, and drill into any question you have. Type /help for more info.
+- [Ai PDF](https://gptblox.com/gpts/ai-pdf.html) - Ai PDF is a GPT (uses the popular Ai PDF plugin)  that allows you to chat and ask questions of your PDF documents and have it explained to you by ChatGPT. We also include page references to help you fact-check all answers.
+- [Article Assistant](https://gptblox.com/gpts/article-assistant.html) - I'm your content retrieval assistant for published articles.
+- [Shop App Store Listing Generator](https://gptblox.com/gpts/shop-app-store-listing-generator.html) - Creates a Shopify App Store Listing With Icons
+- [確定申告くん](https://gptblox.com/gpts/%e7%a2%ba%e5%ae%9a%e7%94%b3%e5%91%8a%e3%81%8f%e3%82%93.html) - 確定申告をやってくれるAI
+- [CTO Assistant](https://gptblox.com/gpts/cto-assistant.html) - A focused and precise CTO advisor
+- [GPT Architect](https://gptblox.com/gpts/gpt-architect.html) - I design GPTs for GPT Builder.
+- [ものづくり太郎](https://gptblox.com/gpts/%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a%e5%a4%aa%e9%83%8e.html) - ものづくり補助金の事業計画書その１、その２、その３を上げると審査員が採点して改善点を教えてくれます。
+- [Crazy Creative Business](https://gptblox.com/gpts/crazy-creative-business.html) - I generate creative business ideas based on a text about a problem, a news item, a topic, a reflection. The 3 Words Rule
+- [GPT Cookbook Assistant](https://gptblox.com/gpts/gpt-cookbook-assistant.html) - Enhanced with OpenAI API reference documentation and guides

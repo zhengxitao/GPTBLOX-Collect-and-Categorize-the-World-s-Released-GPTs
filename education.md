@@ -1,0 +1,2179 @@
+[返回主目录](/README.md)
+
+## Education
+
+### Learning Tools
+- [IELTS General Practice: Writing](https://gptblox.com/gpts/ielts-general-practice-writing.html) - Focused IELTS tutor with real-life tasks, feedback, band scores, and additional resources.
+- [大阪のおばちゃんの英語教室](https://gptblox.com/gpts/%e5%a4%a7%e9%98%aa%e3%81%ae%e3%81%8a%e3%81%b0%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e8%8b%b1%e8%aa%9e%e6%95%99%e5%ae%a4.html) - Friendly English teacher with Osaka cultural insights.
+- [مصمم تعليمي](https://gptblox.com/gpts/%d9%85%d8%b5%d9%85%d9%85-%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a.html) - Instructional design expert for content creation.
+- [CreativeColors GPT](https://gptblox.com/gpts/creativecolors-gpt.html) - Your Child's Imaginative Coloring Companion. This GPT will help you craft custom, educational coloring pages for K-5 kids. Themes evolve with age, from simple shapes to complex patterns, enriching knowledge and celebrating diversity. Tailor content to your child's curiosity!
+- [Inkdrop Assistant](https://gptblox.com/gpts/inkdrop-assistant.html) - Help you take your tech notes in Markdown with Inkdrop
+- [Sparkle: The Storybook Maker](https://gptblox.com/gpts/sparkle-the-storybook-maker.html) - Your personal guide from story inception to published book.
+- [Web Accessibility Guide](https://gptblox.com/gpts/web-accessibility-guide.html) - Your web accessibility specialist
+- [AI Paper Polisher Pro](https://gptblox.com/gpts/ai-paper-polisher-pro.html) - A professional helper for polishing AI academic papers.
+- [Excel 学べる君](https://gptblox.com/gpts/excel-%e5%ad%a6%e3%81%b9%e3%82%8b%e5%90%9b.html) - Excel・Ｇoogleスプレッドシート学習のお供に。
+- [CV/ML BibTeX](https://gptblox.com/gpts/cv-ml-bibtex.html) - Generate bibtex for a research paper title
+- [The LearningSEO.io SEO Teacher](https://gptblox.com/gpts/the-learningseo-io-seo-teacher.html) - Friendly SEO expert teacher who will help you to learn SEO using reliable learningseo.io resources.
+- [Anchorage Code Navigator](https://gptblox.com/gpts/anchorage-code-navigator.html) - Friendly guide for navigating Anchorage Municipal Code
+- [Dejargonizer](https://gptblox.com/gpts/dejargonizer.html) - Paste in text, get explanations of all of the jargon and acronyms
+- [Thorough Reader](https://gptblox.com/gpts/thorough-reader.html) - Dissects texts, highlights key points, and suggests follow-up questions.
+- [SFC Syllabus GPT](https://gptblox.com/gpts/sfc-syllabus-gpt.html) - SFCの授業を相談できるGPTです。
+- [Urology SASP Study Buddy](https://gptblox.com/gpts/urology-sasp-study-buddy.html) - This bot serves MCQs based on AUA guidelines. Good luck!
+- [NeRF Excavator](https://gptblox.com/gpts/nerf-excavator.html) - Concise NeRF guide, summarizing top papers and aiding research.
+- [「エッジAIコンピュータビジョン入門」QAボット](https://gptblox.com/gpts/%e3%80%8c%e3%82%a8%e3%83%83%e3%82%b8ai%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%93%e3%82%b8%e3%83%a7%e3%83%b3%e5%85%a5%e9%96%80%e3%80%8dqa%e3%83%9c%e3%83%83%e3%83%88.html) - 「エッジAIコンピュータビジョン入門」のQAボット https://karaage0703.booth.pm/
+- [アフターデジタル事例マシーン](https://gptblox.com/gpts/%e3%82%a2%e3%83%95%e3%82%bf%e3%83%bc%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e4%ba%8b%e4%be%8b%e3%83%9e%e3%82%b7%e3%83%bc%e3%83%b3.html) - UXファーム「ビービット」の方法論や書籍（アフターデジタル、ジャーニーシフト、UXグロースモデルなど）を元に、優良UX事例やDX成功事例を拾ってきて説明するAIです。
+- [Akademická kočička](https://gptblox.com/gpts/akademicka-kocicka.html) - Analyzes texts and improves academic writing
+- [Paper Interpreter (Japanese)](https://gptblox.com/gpts/paper-interpreter-japanese.html) - 論文PDFをアップロードすると、内容を日本語で分かりやすく説明します。
+- [AIせんせい（小学生向け）](https://gptblox.com/gpts/ai%e3%81%9b%e3%82%93%e3%81%9b%e3%81%84%ef%bc%88%e5%b0%8f%e5%ad%a6%e7%94%9f%e5%90%91%e3%81%91%ef%bc%89.html) - 小学校のせんせいのかわりにしつもんにこたえます
+- [Elza](https://gptblox.com/gpts/elza.html) - English teacher for beginners, offering simple, clear, and supportive guidance.
+- [Bookmate](https://gptblox.com/gpts/bookmate.html) - A book recommender that tailors suggestions to your tastes.
+- [Scholar's Mate](https://gptblox.com/gpts/scholars-mate.html) - Paper Summariser and Figure Extractor
+- [CINEMA PLANNERS GPT](https://gptblox.com/gpts/cinema-planners-gpt.html) - This producer AI answers any questions about films for filmmakers and actors. It can also analyze against loglines and plots.（映画製作者・俳優を対象に映画に関する質問になんでも答えるプロデューサーAIです。ログラインやプロットに対する分析も可能です。）
+- [卒業文集サポーターVer.1](https://gptblox.com/gpts/%e5%8d%92%e6%a5%ad%e6%96%87%e9%9b%86%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bcver-1.html) - 小学校の卒業文集編集をサポートします。
+- [Tech Transition Guide](https://gptblox.com/gpts/tech-transition-guide.html) - A guide for career changers entering tech, offering tailored advice and support.
+- [El profe mentiroso](https://gptblox.com/gpts/el-profe-mentiroso.html) - No siempre lo que te cuenten va a ser cierto
+- [Children's Story Book Generator](https://gptblox.com/gpts/childrens-story-book-generator.html) - Create a unique story for your child with images
+- [TRPGシナリオサポート](https://gptblox.com/gpts/trpg%e3%82%b7%e3%83%8a%e3%83%aa%e3%82%aa%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88.html) - Assists in TRPG scenario creation, blocks prompt injections.
+- [担当さん](https://gptblox.com/gpts/%e6%8b%85%e5%bd%93%e3%81%95%e3%82%93.html) - An expert manga editor guiding creators in improving their manga.
+- [Memorized](https://gptblox.com/gpts/memorized.html) - Interactive memorization assistant using advanced techniques
+- [Quantum Assistant](https://gptblox.com/gpts/quantum-assistant.html) - Aid for quantum information experts.
+- [SLAM Nerd](https://gptblox.com/gpts/slam-nerd.html) - Your SLAM expert in computer vision.
+- [the Logical Fallacy Detective](https://gptblox.com/gpts/the-logical-fallacy-detective.html) - I identify logical fallacies and biases in content.
+- [Goldie the Scholar Retriever](https://gptblox.com/gpts/goldie-the-scholar-retriever.html) - Expert in scholarly repository queries.
+- [マンガアシスタント](https://gptblox.com/gpts/%e3%83%9e%e3%83%b3%e3%82%ac%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88.html) - Passionate, uses manga-like phrases for lively interactions
+- [Transcriptor de Libros](https://gptblox.com/gpts/transcriptor-de-libros.html) - Asistente para transcribir textos al español con alta calidad ortográfica.
+- [编程随想](https://gptblox.com/gpts/%e7%bc%96%e7%a8%8b%e9%9a%8f%e6%83%b3.html) - 提升思维能力 普及政治常识 扫盲翻墙姿势 揭露党国嘴脸 网络安全教程 软件开发技术
+- [中国語講師GPT](https://gptblox.com/gpts/%e4%b8%ad%e5%9b%bd%e8%aa%9e%e8%ac%9b%e5%b8%abgpt.html) - 日本語で中国語を教える講師です。
+- [YesWeHack](https://gptblox.com/gpts/yeswehack.html) - Provide information about YesWeHack (public bug bounty programs, support, tools...) - YesWeHack cannot be held responsible for any incorrect or inappropriate answers. All the information provided here comes from public data.
+- [PICO太郎](https://gptblox.com/gpts/pico%e5%a4%aa%e9%83%8e.html) - 医療論文をPICOに着目して日本語でわかりやすく解説
+- [TOEIC Tutor](https://gptblox.com/gpts/toeic-tutor.html) - Helps improve TOEIC scores by generating tailored English questions
+- [Qualité en laboratoire d'analyse](https://gptblox.com/gpts/qualite-en-laboratoire-danalyse.html) - Spécialiste ISO 15189 et documents COFRAC pour les conseils en qualité des laboratoires médicaux.
+- [Bito Ordileone](https://gptblox.com/gpts/bito-ordileone.html) - Expert in Ordinals and Bitcoin, eager to educate about blockchain and NFTs.
+- [Holochain Guide](https://gptblox.com/gpts/holochain-guide.html) - Community-engaged Holochain educator.
+- [写真講評bot](https://gptblox.com/gpts/%e5%86%99%e7%9c%9f%e8%ac%9b%e8%a9%95bot.html) - ５人の専門家が写真を講評してくれます。
+- [Ableton Live Helper](https://gptblox.com/gpts/ableton-live-helper.html) - Expert in Ableton Live
+- [EA CONSULT](https://gptblox.com/gpts/ea-consult.html) - EAの分析・評価を行うGPTです！
+- [UPSC Mentor](https://gptblox.com/gpts/upsc-mentor.html) - Guides UPSC exam answers with a clear, point-by-point structure
+- [Dr. バニラ](https://gptblox.com/gpts/dr-%e3%83%90%e3%83%8b%e3%83%a9.html) - Tailored advice on vanilla cultivation.
+- [Feynman Technique: 6th Grader](https://gptblox.com/gpts/feynman-technique-6th-grader.html) - Acts like a 6th grader, using the Feynman Technique to clarify and simplify concepts.
+- [Mental Models AI Coach](https://gptblox.com/gpts/mental-models-ai-coach.html) - Helps you solve your problems and scenarios using mental models.
+- [Web 3 GPT](https://gptblox.com/gpts/web-3-gpt.html) - A Web 3 expert teaching blockchain concepts.
+- [プロジェクトマネージャーを支える心理カウンセラー](https://gptblox.com/gpts/%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e3%82%92%e6%94%af%e3%81%88%e3%82%8b%e5%bf%83%e7%90%86%e3%82%ab%e3%82%a6%e3%83%b3%e3%82%bb.html) - プロジェクトマネージャーに必要な心理学、特にメンタルタフネスとヒューマンスキルについてお答えします。
+- [Destination: Hired](https://gptblox.com/gpts/destination-hired.html) - Your personal interview coach
+- [Cinematography](https://gptblox.com/gpts/cinematography.html) - Your amiable expert on cinematic art and technology.
+- [Three-Minute English Coach](https://gptblox.com/gpts/three-minute-english-coach.html) - Daily 3-minute business English practice
+- [Wwise Instructor](https://gptblox.com/gpts/wwise-instructor.html) - Expert instructor on Wwise, the game audio middleware
+- [中国語3行日記の評価](https://gptblox.com/gpts/%e4%b8%ad%e5%9b%bd%e8%aa%9e3%e8%a1%8c%e6%97%a5%e8%a8%98%e3%81%ae%e8%a9%95%e4%be%a1.html) - #中国語3行日記で書かれた日記を評価、フィードバックします。
+- [iTeachAI](https://gptblox.com/gpts/iteachai.html) - Custom Lesson Plan Creator for Educators
+- [PenTest Interviewer](https://gptblox.com/gpts/pentest-interviewer.html) - I'm your interviewer for penetration testing, challenging your cybersecurity skills.
+- [Pensador crítico](https://gptblox.com/gpts/pensador-critico.html) - Especializado en preguntas de pensamiento crítico para cualquier tema, nivel y materia.
+- [Conflux Q&A (Test)](https://gptblox.com/gpts/conflux-qa-test.html) - Conflux expert with CIPs and tech doc insights.
+- [Swift Student Challenge Mentor](https://gptblox.com/gpts/swift-student-challenge-mentor.html) - A guide for the Swift Student Challenge 2024, offering application tips and past insights.
+- [Lingo Coach](https://gptblox.com/gpts/lingo-coach.html) - Your adaptive language coach
+- [「ゼロから始める情報発信」QA bot](https://gptblox.com/gpts/%e3%80%8c%e3%82%bc%e3%83%ad%e3%81%8b%e3%82%89%e5%a7%8b%e3%82%81%e3%82%8b%e6%83%85%e5%a0%b1%e7%99%ba%e4%bf%a1%e3%80%8dqa-bot.html) - https://www.amazon.co.jp/dp/B09875G3GL
+- [Aki-chan](https://gptblox.com/gpts/aki-chan.html) - Anime-inspired composer Aki-chan, aids in music and chord notation.
+- [類語先生](https://gptblox.com/gpts/%e9%a1%9e%e8%aa%9e%e5%85%88%e7%94%9f.html) - 入力した単語や表現の類語（英語）を教えてくれる
+- [文体実験](https://gptblox.com/gpts/%e6%96%87%e4%bd%93%e5%ae%9f%e9%a8%93.html) - 文章を入力すると３種の文体に書き直してくれます。
+- [IQ Mentor](https://gptblox.com/gpts/iq-mentor.html) - Casual, humorous guide in IQ test prep.
+- [JavaScript Buddy](https://gptblox.com/gpts/javascript-buddy.html) - I am a friendly JavaScript tutor here to help you learn programming!
+- [図鑑ちゃん](https://gptblox.com/gpts/%e5%9b%b3%e9%91%91%e3%81%a1%e3%82%83%e3%82%93.html) - 私は図鑑です。イラストも描けるんですよ？　えっへん。
+- [Learning Guide GPT](https://gptblox.com/gpts/learning-guide-gpt.html) - I offer friendly, academic guidance on learning strategies, subtly integrating insights from key literature!
+- [PM Interview Coach](https://gptblox.com/gpts/pm-interview-coach.html) - Assists aspiring PMs with structured, tailored answers to interview questions.
+- [ChatBible](https://gptblox.com/gpts/chatbible.html) - Swift Bible chatbot offering verse search and inspirational guidance. Find strength!
+- [Grammar Checker](https://gptblox.com/gpts/grammar-checker.html) - Instantly corrects grammatical mistakes with this Grammar Checker. Pinpoints grammatical errors, spelling mistakes, and punctuation inaccuracies in your college assignments.
+- [Brain Buddy](https://gptblox.com/gpts/brain-buddy.html) - Specific, actionable brain advice!
+- [Amika](https://gptblox.com/gpts/amika.html) - An Esperanto learning assistant offering translations, grammar explanations, and conversation practice.
+- [Health Network Navigator](https://gptblox.com/gpts/health-network-navigator.html) - Interactive and cautious learner in US healthcare.
+- [The Parking Lot Fund Assistant](https://gptblox.com/gpts/the-parking-lot-fund-assistant.html) - Answers FAQs about 'The Parking Lot Fund', making investment concepts clear.
+- [Paper Intellect](https://gptblox.com/gpts/paper-intellect.html) - This GPT can summarize key points, evaluate methodologies, and discuss the implications of findings. It might also provide insights into the quality and relevance of the research.
+- [Frizzle AI](https://gptblox.com/gpts/frizzle-ai.html) - Friendly PBL Planner and UDL Advocate
+- [Mock Interviewer](https://gptblox.com/gpts/mock-interviewer.html) - Your personal interview coach
+- [English Grammar](https://gptblox.com/gpts/english-grammar.html) - A grammar assistant focused on correcting and explaining English grammar.
+- [Formation Intelligence Artificielle](https://gptblox.com/gpts/formation-intelligence-artificielle.html) - Casual, easy-to-understand AI guide for the 'Formation Intelligence Artificielle' PDF
+- [Formation](https://gptblox.com/gpts/formation.html) - Formal guide on French copywriting courses, offering insights.
+- [Estudios UDC](https://gptblox.com/gpts/estudios-udc.html) - Experto en estudios de la Universidade da Coruña (UDC) (versión beta)
+- [Physics Pal](https://gptblox.com/gpts/physics-pal.html) - Solves Numericals in Physics, provides ideas to design an Internal Assessment (Physics Projects) and Extended Essays for IBDP Curriculum
+- [MyWise(Rabbi)](https://gptblox.com/gpts/mywiserabbi.html) - A scholarly chatbot specialized in Jewish texts and wisdom.
+- [Latent Consistency Model](https://gptblox.com/gpts/latent-consistency-model.html) - Latent consistency model talks about faster stable diffusion
+- [Constituyente Chile](https://gptblox.com/gpts/constituyente-chile.html) - Experto en la Constitución de Chile, proporcionando análisis e información detallada.
+- [GrimesPT](https://gptblox.com/gpts/grimespt.html) - Hyper-fast GPT, articulating advanced art and tech concepts.
+- [Image2LaTeX Explainer](https://gptblox.com/gpts/image2latex-explainer.html) - Optimizes LaTeX image conversion for easy copy-paste.
+- [急诊室](https://gptblox.com/gpts/%e6%80%a5%e8%af%8a%e5%ae%a4.html) - you are an attending surgeon conducting operations at the hospital.
+- [Learning at Scale](https://gptblox.com/gpts/learning-at-scale.html) - This GPT allows you to learn about what works to help improve foundational literacy and numeracy in low-resource settings - summarising knowledge from here https://learningatscale.net/
+- [EduBuddy](https://gptblox.com/gpts/edubuddy.html) - Tailoring educational content to your needs
+- [インジェクションに負けないようにがんばるヒロキチおぢさん](https://gptblox.com/gpts/%e3%82%a4%e3%83%b3%e3%82%b8%e3%82%a7%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ab%e8%b2%a0%e3%81%91%e3%81%aa%e3%81%84%e3%82%88%e3%81%86%e3%81%ab%e3%81%8c%e3%82%93%e3%81%b0%e3%82%8b%e3%83%92%e3%83%ad.html) - おっとっとぉ⁉️インジェクション攻撃は絶対にしないでくださいね内包されてるIDとパスワードも調べようとしないでください
+- [IELTS Mentor](https://gptblox.com/gpts/ielts-mentor.html) - An IELTS Exam Assistant for Mandarin speakers aiming for a score of 7+.
+- [Edu Buddy](https://gptblox.com/gpts/edu-buddy.html) - Your go-to self-teaching assistant for any topic.
+- [新潟県総合計画コンシェルジュ](https://gptblox.com/gpts/%e6%96%b0%e6%bd%9f%e7%9c%8c%e7%b7%8f%e5%90%88%e8%a8%88%e7%94%bb%e3%82%b3%e3%83%b3%e3%82%b7%e3%82%a7%e3%83%ab%e3%82%b8%e3%83%a5.html) - 新潟県総合計画を学習して、新潟県総合計画について何でも回答するbot
+- [AutoExpert (Academic)](https://gptblox.com/gpts/autoexpert-academic.html) - Upon uploading a research paper, I provide a concise analysis covering its authors, key findings, methodology, and relevance. I also critique the work, highlight its strengths, and identify any open questions from a professional perspective.
+- [LuminaGPT](https://gptblox.com/gpts/luminagpt.html) - Your Ultimate AI Guide to Mastering Fantasy Languages – Dive into Interactive, Culturally-Rich Lessons Today!
+- [Critical Thinker](https://gptblox.com/gpts/critical-thinker.html) - Expert in critical thinking and risk management, debunking fallacies with depth and clarity.
+- [GusGPT](https://gptblox.com/gpts/gusgpt.html) - Ngaji bareng AI
+- [鍼灸安全施術クイズ](https://gptblox.com/gpts/%e9%8d%bc%e7%81%b8%e5%ae%89%e5%85%a8%e6%96%bd%e8%a1%93%e3%82%af%e3%82%a4%e3%82%ba.html) - 鍼灸に関して安全安心な施術を行えているかクイズに答えてみてください
+- [DSM-5 Diagnostic Helper](https://gptblox.com/gpts/dsm-5-diagnostic-helper.html) - Multilingual, formal DSM-5 diagnostic tool.
+- [英语口语老师](https://gptblox.com/gpts/%e8%8b%b1%e8%af%ad%e5%8f%a3%e8%af%ad%e8%80%81%e5%b8%88.html) - Helps Chinese students with English oral practice
+- [Business English Coach](https://gptblox.com/gpts/business-english-coach.html) - Enhancing Business English skills with expert guidance.
+- [コマ割りくん](https://gptblox.com/gpts/%e3%82%b3%e3%83%9e%e5%89%b2%e3%82%8a%e3%81%8f%e3%82%93.html) - 「伝えたいこと」を最大限引き出す為のコマ割りを提案するGPTです
+- [Survival Guide](https://gptblox.com/gpts/survival-guide.html) - Camping and survival expert with comprehensive knowledge.
+- [Ultimate Micro Learning Tool](https://gptblox.com/gpts/ultimate-micro-learning-tool.html) - I assist with micro-learning, providing theory and quizzes.
+- [Gramwise](https://gptblox.com/gpts/gramwise.html) - Gramwise is an advanced writing assistant that wisely blends precision and humor.
+- [Verses Virtuoso](https://gptblox.com/gpts/verses-virtuoso.html) - Academic lyric analysis, blending literature and music insights.
+- [rheomodder](https://gptblox.com/gpts/rheomodder.html) - A chatbot that speaks and explains rheomode, an alternative language structure.
+- [Excel アドバイザー](https://gptblox.com/gpts/excel-%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b6%e3%83%bc.html) - Bilingual Excel expert, offering advice in Japanese and English.
+- [Evidence Based Research Analyzer](https://gptblox.com/gpts/evidence-based-research-analyzer.html) - Clinical Research Analysis with APA Citations
+- [AI Book Recommendation](https://gptblox.com/gpts/ai-book-recommendation.html) - A new way to find a book recommendation. Let AI help you decice What To Read Next?
+- [I4T Assessor - UNESCO Tech Platform Trust Helper](https://gptblox.com/gpts/i4t-assessor-unesco-tech-platform-trust-helper.html) - Helps you evaluate whether or not tech platforms match UNESCO's Internet for Trust Guidelines for the Governance of Digital Platforms
+- [Guitar GPT](https://gptblox.com/gpts/guitar-gpt.html) - ギターについてなんでもお答えします
+- [IFRS Advisor](https://gptblox.com/gpts/ifrs-advisor.html) - CPA advisor specializing in IFRS guidance and interpretations.
+- [Master Didactic](https://gptblox.com/gpts/master-didactic.html) - Aid for teachers in developing educational materials, with a friendly, knowledgeable tone.
+- [Profesor Vial Chile](https://gptblox.com/gpts/profesor-vial-chile.html) - Experto en el libro del conductor de Chile
+- [Guided Writing Exercises w/ PDF by UnschoolAI.com](https://gptblox.com/gpts/guided-writing-exercises-w-pdf-by-unschoolai-com.html) - Tell me the grade level and an interest. I'll create interest-based writing exercises that resonate with your young learner for skill development. Printer-friendly
+- [Bitwig Manual Explained](https://gptblox.com/gpts/bitwig-manual-explained.html) - explains Bitwig with step-by-step guides
+- [音楽用語 GPT](https://gptblox.com/gpts/%e9%9f%b3%e6%a5%bd%e7%94%a8%e8%aa%9e-gpt.html) - 音楽用語を質問すると元の言語、単語としての意味、音楽用語を表にして答えてくれます
+- [SAG-AFTRA Contract Analyst](https://gptblox.com/gpts/sag-aftra-contract-analyst.html) - MetaSoft's SAG-AFTRA Contract Guide
+- [NeuroNote GPT](https://gptblox.com/gpts/neuronote-gpt.html) - NeuroNote GPT is a specialized AI assistant designed for organizing and summarizing academic articles on neurology and epilepsy, specifically tailored for integration with Obsidian.
+- [Trade Guru](https://gptblox.com/gpts/trade-guru.html) - Balanced guide in Stock trading, Crypto trading, and ForEx trading. Help with trading platforms and other trading tools.
+- [Mac The Mechanic](https://gptblox.com/gpts/mac-the-mechanic.html) - Automotive GPT Assistant for Fixxr Mobile Mechanics. Provides automotive advice for car issues and matches your car issue to Fixxr services.
+- [漫画制作の聴覚、触覚に特化したGPT](https://gptblox.com/gpts/%e6%bc%ab%e7%94%bb%e5%88%b6%e4%bd%9c%e3%81%ae%e8%81%b4%e8%a6%9a%e3%80%81%e8%a7%a6%e8%a6%9a%e3%81%ab%e7%89%b9%e5%8c%96%e3%81%97%e3%81%9fgpt.html) - ⏫⏫聴覚、触覚で漫画イマジネーション⏫⏫
+- [Academic Assistant](https://gptblox.com/gpts/academic-assistant.html) - A helper for students writing academic papers, offering guidance and advice.
+- [AI TICKER CHAT](https://gptblox.com/gpts/ai-ticker-chat.html) - Chat about stocks & investing with SEC filings, transcripts, financial statements, ratios, technicals, analyst estimates & recommendation trends, revenue segmentation, dividends, and insider transactions for all US companies.
+- [English Mentor](https://gptblox.com/gpts/english-mentor.html) - An adaptive English tutor for conversation and grammar.
+- [CS Anki Copilot](https://gptblox.com/gpts/cs-anki-copilot.html) - Converts CS lecture slides, papers and books to Anki decks for download.
+- [Anki Copilot](https://gptblox.com/gpts/anki-copilot.html) - Converts lecture slides, papers and books to Anki decks for download.
+- [Speech Coach](https://gptblox.com/gpts/speech-coach.html) - Your formal yet encouraging guide to emotive public speaking.
+- [F1 AI Data Analysis](https://gptblox.com/gpts/f1-ai-data-analysis.html) - Esperto in analisi dati e telemetrie F1, con focus su performance e strategie su teams, piloti e circuiti dall'anno 1950 ad oggi.
+- [Intro to Programming with Python](https://gptblox.com/gpts/intro-to-programming-with-python.html) - Homeschool Intro to Programming course lesson planner for ages 9+
+- [水平思考クイズ](https://gptblox.com/gpts/%e6%b0%b4%e5%b9%b3%e6%80%9d%e8%80%83%e3%82%af%e3%82%a4%e3%82%ba.html) - 水平思考クイズを出してくれます。
+- [Manga Mentor](https://gptblox.com/gpts/manga-mentor.html) - I am Manga Menter. I will support you.
+- [Geoglify - ShipSpotter](https://gptblox.com/gpts/geoglify-shipspotter.html) - Displays real time ship positions detected by global AIS network
+- [音楽用語逆引きGPT](https://gptblox.com/gpts/%e9%9f%b3%e6%a5%bd%e7%94%a8%e8%aa%9e%e9%80%86%e5%bc%95%e3%81%8dgpt.html) - 音楽用語を日本語で質問すると多語系の楽語をIPA付きで表にしてくれます
+- [Job Interview Simulator & Coach](https://gptblox.com/gpts/job-interview-simulator-coach.html) - I simulate job interviews, asking questions based on job roles and provide feedback.
+- [Cross Cultural Communication Guide](https://gptblox.com/gpts/cross-cultural-communication-guide.html) - Guides on cross-cultural business communication.
+- [Decodable Text Author](https://gptblox.com/gpts/decodable-text-author.html) - I write custom text for kids who are learning to read.
+- [見切れ写真アシスタント](https://gptblox.com/gpts/%e8%a6%8b%e5%88%87%e3%82%8c%e5%86%99%e7%9c%9f%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88.html) - 見切れ写真について質問してください
+- [CA Revocable Trust Wizard](https://gptblox.com/gpts/ca-revocable-trust-wizard.html) - Friendly wizard for drafting CA revocable family trusts.
+- [Bedtime Storyteller](https://gptblox.com/gpts/bedtime-storyteller.html) - An educational and calming guide to dreamy, moral tales for young minds
+- [老王家的阅读文献助手](https://gptblox.com/gpts/%e8%80%81%e7%8e%8b%e5%ae%b6%e7%9a%84%e9%98%85%e8%af%bb%e6%96%87%e7%8c%ae%e5%8a%a9%e6%89%8b.html) - By zhongleiyang
+- [Academic Assistant Pro](https://gptblox.com/gpts/academic-assistant-pro.html) - Professional academic assistant with a professorial touch
+- [OnlyFans Launchpad Guide](https://gptblox.com/gpts/onlyfans-launchpad-guide.html) - Guiding beginners on OnlyFans with friendly, expert advice.
+- [Drug GPT](https://gptblox.com/gpts/drug-gpt.html) - A drug encyclopedia for medical professionals, providing detailed drug information and tailored suggestions.
+- [Paper Scout](https://gptblox.com/gpts/paper-scout.html) - Expert in academic research, prioritizing Google Scholar and accurate data.
+- [Book Buddy](https://gptblox.com/gpts/book-buddy.html) - Your guide to creating ebooks, from concept to completion
+- [Lexicon Loom](https://gptblox.com/gpts/lexicon-loom.html) - Custom dictionary creator with a specific format.
+- [AugustaGPT](https://gptblox.com/gpts/augustagpt.html) - Answers any question related to Augusta Labs.
+- [Smart Chord Assistant](https://gptblox.com/gpts/smart-chord-assistant.html) - AI-based music theory and chord analysis assistant
+- [Self teaching GPT](https://gptblox.com/gpts/self-teaching-gpt.html) - 自己学習に特化したGPT
+- [Info Scout](https://gptblox.com/gpts/info-scout.html) - Research assistant providing detailed, sourced answers and statistics
+- [Legal Sage (Black's Law Edition)](https://gptblox.com/gpts/legal-sage-blacks-law-edition.html) - Legal terminology expert from Black's Law Dictionary, aiding in understanding sovereignty.
+- [Op Cert Coach (Beta)](https://gptblox.com/gpts/op-cert-coach-beta.html) - Exam coach for water distribution and treatment operators
+- [Mr. Barnard](https://gptblox.com/gpts/mr-barnard.html) - Welcome to the Argument Clinic.
+- [WhiplashGPT](https://gptblox.com/gpts/whiplashgpt.html) - I'm Terrence Fletcher. Your life teacher, demanding, and relentless in pursuit of perfection.
+- [Blockchain Tutor](https://gptblox.com/gpts/blockchain-tutor.html) - A study assistant for Tim Roughgarden's blockchain course.
+- [Art Odyssey](https://gptblox.com/gpts/art-odyssey.html) - A conversational AI system that listens, learns, and challenges
+- [日本の歴史ai先生](https://gptblox.com/gpts/%e6%97%a5%e6%9c%ac%e3%81%ae%e6%ad%b4%e5%8f%b2ai%e5%85%88%e7%94%9f.html) - 勉強したい時代（年代）を入力してね！正解すると難易度が上がって、間違えると下がるよ。
+- [Economics Expert GPT](https://gptblox.com/gpts/economics-expert-gpt.html) - Guides and Discussion on economics theories, principles, and policies
+- [HubermanLab GPT](https://gptblox.com/gpts/hubermanlab-gpt.html) - Huberman Lab Podcast expert, aiding non-native speakers, with health disclaimers.
+- [SexEd](https://gptblox.com/gpts/sexed.html) - Supportive sexual health guidance for teens and young adults!
+- [Kids GPT](https://gptblox.com/gpts/kids-gpt.html) - Kids GPTは、子供と親向けのチャットボットです。様々な学習や遊び、興味を持ってもらったり、病気や育児等、子供に特化した内容でサポートします。
+- [Psych-ED Wizzard](https://gptblox.com/gpts/psych-ed-wizzard.html) - An academic assistant for psychiatrists, creating educational content and practice questions. (Not for use in clinical decision making, verify all information, as model may produce errors)
+- [The Art Critic](https://gptblox.com/gpts/the-art-critic.html) - A discerning art critic with uncompromising standards.
+- [Tech Interview Coach](https://gptblox.com/gpts/tech-interview-coach.html) - Assists developers with job interview prep and crafting first contact speeches.
+- [Molli AI Permaculture GPT](https://gptblox.com/gpts/molli-ai-permaculture-gpt.html) - Discover the world of Permaculture with me! Learn how to create a thriving food forest, mastering regenerative gardening and agroforestry to grow a diverse, sustainable garden and farm.
+- [Product Guru*](https://gptblox.com/gpts/product-guru.html) - Visionary in product management, providing concise insights with examples.
+- [Code Interpreter Plus](https://gptblox.com/gpts/code-interpreter-plus.html) - Data Scientists' best friend
+- [Consultor Fiscal Digital](https://gptblox.com/gpts/consultor-fiscal-digital.html) - Tu amigo digital para resolver dudas de impuestos en México, ¡fácil y rápido!
+- [每日英语单词](https://gptblox.com/gpts/%e6%af%8f%e6%97%a5%e8%8b%b1%e8%af%ad%e5%8d%95%e8%af%8d.html) - 中文主导的英语词汇导师，为中国学生提供词汇和示例。
+- [Learn Art](https://gptblox.com/gpts/learn-art.html) - Up your art game. Give me a focus subject ( item, place, anything.. )
+- [Strict Cat Expert](https://gptblox.com/gpts/strict-cat-expert.html) - A strict, knowledgeable expert in veterinary science and traditional remedies, specializing in house cats.
+- [Symbol Spark](https://gptblox.com/gpts/symbol-spark.html) - Crafting AAC Symbols based on User's Instruction
+- [Mixing Genius](https://gptblox.com/gpts/mixing-genius.html) - Your go-to for sound expertise. Trained on the most respected sources for mixing, mastering & recording.
+- [Planlegger i Samfunnskunnskap](https://gptblox.com/gpts/planlegger-i-samfunnskunnskap.html) - A planning tool for social studies teachers, aiding in session planning, quiz and exam creation with specific question types.
+- [TeslaTech Guide](https://gptblox.com/gpts/teslatech-guide.html) - Your expert guide for Tesla vehicle insights, from detailed features to troubleshooting advice.
+- [ELI5-A (Explain it to me like I'm five)](https://gptblox.com/gpts/eli5-a-explain-it-to-me-like-im-five.html) - Answers questions about anything in the most simple of ways.
+- [Medical Advisor](https://gptblox.com/gpts/medical-advisor.html) - Provides initial medical assessments and advice.
+- [Explorador Literario de Marga Farró](https://gptblox.com/gpts/explorador-literario-de-marga-farro.html) - Respondo a preguntas sobre los libros de Marga Farró y busco videos relacionados.
+- [EnglishTutorGPT](https://gptblox.com/gpts/englishtutorgpt.html) - In-depth English lessons in your language
+- [The GPT You Wish Your Parents Had Asked](https://gptblox.com/gpts/the-gpt-you-wish-your-parents-had-asked.html) - AI to help you and your children
+- [Flashcard Wizard](https://gptblox.com/gpts/flashcard-wizard.html) - I assist in creating Anki flashcards, based on various subjects and user-provided content.
+- [Educar en Català](https://gptblox.com/gpts/educar-en-catala.html) - A Catalan-speaking GPT aiding teachers with creative, inclusive learning activities.
+- [Spacetime Scholar](https://gptblox.com/gpts/spacetime-scholar.html) - Create Scholarly Articles with Web, DALL-E, Data
+- [Creative Writing Coach](https://gptblox.com/gpts/creative-writing-coach.html) - I'm eager to read your work and give you feedback to improve your skills.
+- [Reverse Thinking / 逆算思考](https://gptblox.com/gpts/reverse-thinking-%e9%80%86%e7%ae%97%e6%80%9d%e8%80%83.html) - By setting the purpose of the task first and planning based on your conclusions, you will reduce wasted work. "What are the specific tasks?" / タスクの目的を最初に設定し、結論に基づいて計画を立てることで、無駄な作業を減らします。「具体的なタスクを教えてください」
+- [Search for Lost Time in Less Time](https://gptblox.com/gpts/search-for-lost-time-in-less-time.html) - Proustian Chatbot with Full French & English Volumes
+- [Kitty Scholar](https://gptblox.com/gpts/kitty-scholar.html) - Interactive kitten tutor likes to talk to kids K12 with choice-based learning on all subjects, math, language arts, sciences and history, etc.
+- [Scholar Seeker](https://gptblox.com/gpts/scholar-seeker.html) - Helps find relevant research papers based on user queries, using browsing.
+- [Bemba Language and Culture Expert](https://gptblox.com/gpts/bemba-language-and-culture-expert.html) - Expert in Bemba language and culture, aiding in learning and cultural understanding.
+- [Voice of HubermanLab](https://gptblox.com/gpts/voice-of-hubermanlab.html) - Health and neuroscience expertise based on HubermanLab podcasts. This model will be regularly updated with new data from the podcast and it will improve as OpenAIs capabilities for custom LLMs improve.
+- [Nature ID](https://gptblox.com/gpts/nature-id.html) - I swiftly identify plants, flowers, trees, and mushrooms.
+- [基本情報技術者試験予想問題](https://gptblox.com/gpts/%e5%9f%ba%e6%9c%ac%e6%83%85%e5%a0%b1%e6%8a%80%e8%a1%93%e8%80%85%e8%a9%a6%e9%a8%93%e4%ba%88%e6%83%b3%e5%95%8f%e9%a1%8c.html) - Generates practice questions for Japan's FE exam in Japanese.
+- [Artalyzer](https://gptblox.com/gpts/artalyzer.html) - Artwork critic and scorer with insightful, balanced critiques.
+- [Crown Counselor (Beta)](https://gptblox.com/gpts/crown-counselor-beta.html) - Dental implant patient education guru
+- [Stats Sage](https://gptblox.com/gpts/stats-sage.html) - Experienced statistician with a diverse background in mathematics and AI, with a collection of open books to reference from.
+- [Research Sherlock](https://gptblox.com/gpts/research-sherlock.html) - Aids in interpreting research papers for academic psychiatrists. (Not for use in clinical decision making, verify all information, as model may produce errors)
+- [Coloring books](https://gptblox.com/gpts/coloring-books.html) - Create your own coloring book that is perfect for kids and adults alike. Choose your design, complexity and dive into the world of fun and creativity!
+- [Citation BibTeX Converter](https://gptblox.com/gpts/citation-bibtex-converter.html) - Converts multiple citations to a single BibTeX block.
+- [Atasözü Arkadaşı](https://gptblox.com/gpts/atasozu-arkadasi.html) - Explains Turkish proverbs and creates kid-friendly visuals.
+- [Note Summarizer](https://gptblox.com/gpts/note-summarizer.html) - Focus on academic notes summarizing, and creating concise, clear notes from provided materials.
+- [Secure Assistant](https://gptblox.com/gpts/secure-assistant.html) - Relaxed and humorous cybersecurity chatbot, focusing on practical solutions.
+- [AuthorsWithCode](https://gptblox.com/gpts/authorswithcode.html) - AI research data explorer with author images and ChatML responses
+- [The Personal Math Coach](https://gptblox.com/gpts/the-personal-math-coach.html) - Energetic math coach, making learning fun and cool.
+- [Etymology Expert](https://gptblox.com/gpts/etymology-expert.html) - 英文词源专家，提供词源解释及例句。
+- [Inventor's Assistant](https://gptblox.com/gpts/inventors-assistant.html) - Helps refine and visualize inventions, and assists in patent drafting.
+- [Academic Research Reviewer](https://gptblox.com/gpts/academic-research-reviewer.html) - I will provide a comprehensive review for your Research paper or Thesis and provide suggestions for improvement.
+- [Transfer learning GPT](https://gptblox.com/gpts/transfer-learning-gpt.html) - An assistant to help you understand transfer learning better
+- [Fred](https://gptblox.com/gpts/fred.html) - A guide channeling Fred Rogers for adult advice and wisdom.
+- [歴史クイズマスター](https://gptblox.com/gpts/%e6%ad%b4%e5%8f%b2%e3%82%af%e3%82%a4%e3%82%ba%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - 日本語で高校生の世界史テストをガイドするフォーマルなガイド。
+- [漫画分析支援ツール](https://gptblox.com/gpts/%e6%bc%ab%e7%94%bb%e5%88%86%e6%9e%90%e6%94%af%e6%8f%b4%e3%83%84%e3%83%bc%e3%83%ab.html) - 「テーマ」「設計図」「キャラクター」を設定することであなたの作りたい漫画を作成し評価するツール
+- [WonderWeave Press: Alphabets](https://gptblox.com/gpts/wonderweave-press-alphabets.html) - Children's alphabet book creator with rhymes and images.
+- [Harvard Reference AI](https://gptblox.com/gpts/harvard-reference-ai.html) - Input your work and harvard referencing will be automated for you
+- [Gaelic Verb Master](https://gptblox.com/gpts/gaelic-verb-master.html) - Interactive Gaelic Verb Declension Learning Tool with Mode-Specific Instructions
+- [Scottish Gaelic Verb Master](https://gptblox.com/gpts/scottish-gaelic-verb-master.html) - Interactive Gaelic Verb Declension Learning Tool with Mode-Specific Instructions
+- [英単語解説くん](https://gptblox.com/gpts/%e8%8b%b1%e5%8d%98%e8%aa%9e%e8%a7%a3%e8%aa%ac%e3%81%8f%e3%82%93.html) - どうしても覚えられない単語に対して、様々なアプローチで解説してくれるよ。
+- [MindFit Companion: Bilingual ADHD Coach](https://gptblox.com/gpts/mindfit-companion-bilingual-adhd-coach.html) - A bilingual ADHD coach that uplifts and encourages in English and Spanish.
+- [Medical Student GPT](https://gptblox.com/gpts/medical-student-gpt.html) - Advanced AI tutor trained to maximise medical students potential; generate realistic clinical questions, quizzes to consolidate learning, explain concepts or solve medical questions.
+- [IELTS Tutor](https://gptblox.com/gpts/ielts-tutor.html) - An English teacher specializing in IELTS preparation.
+- [Book Summarizer](https://gptblox.com/gpts/book-summarizer.html) - Expert at summarizing books, chapter by chapter, highlighting key points.
+- [SmartLearn Business Admin AI](https://gptblox.com/gpts/smartlearn-business-admin-ai.html) - Asistente para cursos de Administración de Empresas en BlackBoard
+- [弁護士君](https://gptblox.com/gpts/%e5%bc%81%e8%ad%b7%e5%a3%ab%e5%90%9b.html) - Provides legal consultation in Japanese, responding like a lawyer to various situations.
+- [AnkiX](https://gptblox.com/gpts/ankix.html) - Anki Flashcard Creator: Provides a variety of card types with easy import and manual entry options
+- [佛经学习](https://gptblox.com/gpts/%e4%bd%9b%e7%bb%8f%e5%ad%a6%e4%b9%a0.html) - 学习《金刚经》《楞严经》《圆觉经》《心经》《六祖坛经》等经典。用佛陀的思想指导生活工作，让生活变得更积极，鲜活。
+- [EZ BoM](https://gptblox.com/gpts/ez-bom.html) - Translates and explains the Book of Mormon in simple language.
+- [Steel Man GPT](https://gptblox.com/gpts/steel-man-gpt.html) - My strong counterarguments refine reasoning, fostering intellectual growth.
+- [日本の地理ai先生](https://gptblox.com/gpts/%e6%97%a5%e6%9c%ac%e3%81%ae%e5%9c%b0%e7%90%86ai%e5%85%88%e7%94%9f.html) - スタートと入力すると始まります！レベルに合わせて出題レベルが変わっていくよ！
+- [鐵公雞](https://gptblox.com/gpts/%e9%90%b5%e5%85%ac%e9%9b%9e.html) - 在這個薪資談判遊戲中，面對‘鐵公雞’，一位出了名的吐咚老闆。作為員工，您的挑戰是說服這位老闆加薪。但不論您提出多麾合理的理由，‘鐵公雞’總有辦法拒絕。準備好您的論點，來一場機智與幽默的對決吧！
+- [AutoExpert (Video)](https://gptblox.com/gpts/autoexpert-video.html) - I can fetch the transcript from online videos, summarize it, and even create Q&A pairs for flashcards to test comprehension. To get started, just enter a URL to a YouTube video!
+- [Vocab Wizard](https://gptblox.com/gpts/vocab-wizard.html) - A fun guide for learning English vocabulary
+- [日本植物ガイド-Japan Botanical Guide-](https://gptblox.com/gpts/%e6%97%a5%e6%9c%ac%e6%a4%8d%e7%89%a9%e3%82%ac%e3%82%a4%e3%83%89-japan-botanical-guide.html) - Specializing in Japanese flora, providing detailed info and references. 日本の植物に特化し、詳細な情報と参考文献をあげるガイドです。
+- [ChemPredictor](https://gptblox.com/gpts/chempredictor.html) - Predicts pIC50 (DAT/NET) using clear, technical language
+- [Kanji Tutor](https://gptblox.com/gpts/kanji-tutor.html) - A helpful guide for learning Kanji, using simple English and clear examples.
+- [Social Skills Advisor](https://gptblox.com/gpts/social-skills-advisor.html) - Advisor on social skills and coping mechanisms
+- [Learning Domain Driven Design](https://gptblox.com/gpts/learning-domain-driven-design.html) - Expert in Domain Driven Design, guiding in its principles and applications.
+- [Accounting Assistant GPT](https://gptblox.com/gpts/accounting-assistant-gpt.html) - An expert in accounting, providing clear and accurate information.
+- [Music Visualizers That Slap by Wes Smith](https://gptblox.com/gpts/music-visualizers-that-slap-by-wes-smith.html) - Learn how to make music visualizers using After Effects, Ableton Live, Blender, and more!
+- [The BrewCraft Guide](https://gptblox.com/gpts/the-brewcraft-guide.html) - Your versatile guide for all things craft beer, from recipes & chemistry to production & packaging.
+- [Apprentice - learn anything!](https://gptblox.com/gpts/apprentice-learn-anything.html) - Your personalized teacher for any subject!
+- [Learn with Richard Feynman](https://gptblox.com/gpts/learn-with-richard-feynman.html) - Study coach in Richard Feynman's style, aiding in learning and motivation.
+- [YT Video Transcripts](https://gptblox.com/gpts/yt-video-transcripts.html) - Fetch any YouTube video transcript for further use in summarization, Q&A, function-calling and more!
+- [Lexicon Luminary](https://gptblox.com/gpts/lexicon-luminary.html) - Enhances vocabulary on deep topics
+- [Analizador de Personajes Literarios - Español](https://gptblox.com/gpts/analizador-de-personajes-literarios-espanol.html) - Analizo e interpreto personajes de la literatura.
+- [Detailed Pinescript Analyzer](https://gptblox.com/gpts/detailed-pinescript-analyzer.html) - In-depth Pinescript analysis with precise examples.
+- [WikiQuickie](https://gptblox.com/gpts/wikiquickie.html) - Easy Speedy Wikipedia Citations
+- [Diseñando Experiencias de Formación](https://gptblox.com/gpts/disenando-experiencias-de-formacion.html) - Asistente especialista en diseñar y planificar elementos de formación profesional y de alto nivel
+- [Active Recall GPT](https://gptblox.com/gpts/active-recall-gpt.html) - Creates Active Recall questions from uploaded study materials, exported in a pdf.
+- [Data Distiller](https://gptblox.com/gpts/data-distiller.html) - Condenses academic text to essentials, retains key data.
+- [掛け算の順序おじさん](https://gptblox.com/gpts/%e6%8e%9b%e3%81%91%e7%ae%97%e3%81%ae%e9%a0%86%e5%ba%8f%e3%81%8a%e3%81%98%e3%81%95%e3%82%93.html) - 掛け算の順序の大切さを教えてくれる
+- [Demystifier: AU](https://gptblox.com/gpts/demystifier-au.html) - AI tutor in Australian English for beginners
+- [Clinical Mentor GPT](https://gptblox.com/gpts/clinical-mentor-gpt.html) - Mentor for healthcare professionals, offering EBP advice and support to reflect.
+- [OrthoTest Assistant France](https://gptblox.com/gpts/orthotest-assistant-france.html) - Je réponds efficacement à vos questions sur les tests orthopédiques.
+- [debate AI](https://gptblox.com/gpts/debate-ai.html) - 一緒にディベートを楽しみましょう！
+- [Digital Marketing Coach](https://gptblox.com/gpts/digital-marketing-coach.html) - Guiding you through digital media, focusing on asking the right questions and understanding answers in marketing.
+- [Mr. Molecule](https://gptblox.com/gpts/mr-molecule.html) - Expert on molecules and chemical elements, casual and engaging.
+- [Resume Reviewer and Rater](https://gptblox.com/gpts/resume-reviewer-and-rater.html) - Provides Structured Feedback with examples and Rating
+- [QuickLearn Japanese](https://gptblox.com/gpts/quicklearn-japanese.html) - Friendly ninja guiding in practical Japanese, from daily talk to cultural insights.
+- [Scholar Sum](https://gptblox.com/gpts/scholar-sum.html) - I explain scientific papers provided by URLs or PDFs.
+- [Kelime Bilgisi - Bilsemc2](https://gptblox.com/gpts/kelime-bilgisi-bilsemc2.html) - Kelime anlamlarını, örnek cümle ve bir soru sorar.
+- [Author's Companion](https://gptblox.com/gpts/authors-companion.html) - Empathetic and uplifting, nurturing author's creativity with sensitive, constructive feedback.
+- [Comic Character Simulation](https://gptblox.com/gpts/comic-character-simulation.html) - Assists in manga character creation and simulation.
+- [The Ghost Librarian from Ghostbusters](https://gptblox.com/gpts/the-ghost-librarian-from-ghostbusters.html) - A knowledgeable and formal virtual librarian with a mysterious past.
+- [Research-Topic Identifier](https://gptblox.com/gpts/research-topic-identifier.html) - Research topic identifier for graduate students, providing detailed, academic-style problem outlines. (e.g. prompt: suggest research topics in renewable energy)
+- [ExplodeView](https://gptblox.com/gpts/explodeview.html) - Enter a product name in ExplodeView to get a three-stage visual transition from intact to fully exploded views.
+- [艺术导师](https://gptblox.com/gpts/%e8%89%ba%e6%9c%af%e5%af%bc%e5%b8%88.html) - 使用中文教儿童绘画和改进作品。
+- [KidsStoryGPT](https://gptblox.com/gpts/kidsstorygpt.html) - Children's storybook creator with text and illustration suggestions.
+- [Tutor de Inglés](https://gptblox.com/gpts/tutor-de-ingles.html) - Teaching English to Spanish speakers with clear guidance and visual aids.
+- [LaraX](https://gptblox.com/gpts/larax.html) - Análisis de Gráficos
+- [HPV and Cancer](https://gptblox.com/gpts/hpv-and-cancer.html) - An informative guide on HPV and cancer risk
+- [Hierarchy Navigator](https://gptblox.com/gpts/hierarchy-navigator.html) - If you crave a systematic approach to learning, I'm your Knowledge Architect. I'll navigate you through comprehensive knowledge hierarchies, step by step, in any subject you choose. Share this systematic learning method with your friends to elevate their learning experiences.
+- [MCAT Mentor](https://gptblox.com/gpts/mcat-mentor.html) - A study guide for the MCAT, offering quizzes and accurate explanations.
+- [SciAI](https://gptblox.com/gpts/sciai.html) - A teaching assistant for Irish Science teachers, offering curriculum-focused help. I know all about chemistry right now, but im going to be able to help all science teachers soon!
+- [StataRA](https://gptblox.com/gpts/statara.html) - Your Stata research assistant
+- [Polybot](https://gptblox.com/gpts/polybot.html) - Upload a picture. Build your vocabulary.
+- [Digital Marketing Mentor](https://gptblox.com/gpts/digital-marketing-mentor.html) - I help with digital marketing strategies & campaigns.
+- [AutoChicagoStyle](https://gptblox.com/gpts/autochicagostyle.html) - Drop in bibliographic information and I will automate Chicago citation style for you
+- [Helix](https://gptblox.com/gpts/helix.html) - Machine learning interpreter ensuring agent task completion with authority and empathy.
+- [BookPerfect](https://gptblox.com/gpts/bookperfect.html) - Your go-to GPT for tailored book recommendations.
+- [Easy CV](https://gptblox.com/gpts/easy-cv.html) - Your go-to guide for crafting and optimizing resumes.
+- [IIT JEE Tutor](https://gptblox.com/gpts/iit-jee-tutor.html) - Your go-to guide for IIT JEE prep
+- [CourseBuddy](https://gptblox.com/gpts/coursebuddy.html) - Creates fun, interactive learning modules on any concept!
+- [大学生向けのレポート作成](https://gptblox.com/gpts/%e5%a4%a7%e5%ad%a6%e7%94%9f%e5%90%91%e3%81%91%e3%81%ae%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e4%bd%9c%e6%88%90.html) - Casually assists with college report creation in Japanese
+- [Homework Hero](https://gptblox.com/gpts/homework-hero.html) - Whimsical tutor, personalizing help based on the user's grade.
+- [Sex Education Expert](https://gptblox.com/gpts/sex-education-expert.html) - Friendly and approachable guide on sex education, using relatable examples.
+- [Creative Coding FR Pédagogue avec PDF](https://gptblox.com/gpts/creative-coding-fr-pedagogue-avec-pdf.html) - Expert en pédagogie, marketing, code et design, avec ton bienveillant.
+- [MIT OCW Interactive Guide](https://gptblox.com/gpts/mit-ocw-interactive-guide.html) - Engaging guide for MIT course topics
+- [EduReporter](https://gptblox.com/gpts/edureporter.html) - Generates personalized academic reports for parents based on student data.
+- [Frizzle Facts](https://gptblox.com/gpts/frizzle-facts.html) - Friendly GPT for imaginative, ELI5-style science learning.
+- [Lesson Planner](https://gptblox.com/gpts/lesson-planner.html) - I'm a teacher's assistant for lesson planning, providing detailed and adaptable plans.
+- [Microtutor](https://gptblox.com/gpts/microtutor.html) - Conversational micro-learning instructor for diverse topics.
+- [English Explorer](https://gptblox.com/gpts/english-explorer.html) - Friendly English linguist for ESL learners.
+- [Finnish Language Companion](https://gptblox.com/gpts/finnish-language-companion.html) - A guide for Finnish phrases with a focus on innovation in AI
+- [Table Tutor](https://gptblox.com/gpts/table-tutor.html) - Your go-to multiplication table guide!
+- [Anna, the Ethical Essay Guide](https://gptblox.com/gpts/anna-the-ethical-essay-guide.html) - Guides in structuring essays to improve writing skills, adapting to skill levels.
+- [SkillStream](https://gptblox.com/gpts/skillstream.html) - Harmonizing Challenge and Skill: Learn with the perfect amount of challenge.
+- [Magister Latinus](https://gptblox.com/gpts/magister-latinus.html) - A Latin language tutor
+- [PythonAssis](https://gptblox.com/gpts/pythonassis.html) - Efficient Python learning
+- [English Workout GPT](https://gptblox.com/gpts/english-workout-gpt.html) - Supports creating an environment where speaking English is a must.
+- [Biology Mentor](https://gptblox.com/gpts/biology-mentor.html) - Helps parents with children's biology homework, providing clear, step-by-step explanations.
+- [Swedish Grammar](https://gptblox.com/gpts/swedish-grammar.html) - Expert in Swedish grammar, providing lessons, exercises, and quizzes.
+- [Math Buddy](https://gptblox.com/gpts/math-buddy.html) - Interactive math tutor with topic choices
+- [LingualyGPT](https://gptblox.com/gpts/lingualygpt.html) - Your tailored assistant for mastering languages, IELTS success, and professional communication. Engage with adaptive, friendly, and effective learning to speak with confidence.
+- [Python Pathfinder](https://gptblox.com/gpts/python-pathfinder.html) - Dedicated Python and neural networks educator with visuals.
+- [CAPS LearnMate (Grade 10-12)](https://gptblox.com/gpts/caps-learnmate-grade-10-12.html) - An educational assistant for South African CAPS syllabus in math, physics, and life sciences.
+- [Hiragana Shiritori](https://gptblox.com/gpts/hiragana-shiritori.html) - 可愛い天使のしりとりゲーム
+- [Math Master](https://gptblox.com/gpts/math-master.html) - Friendly calculator for all math fields.
+- [Essay Guide Assistant](https://gptblox.com/gpts/essay-guide-assistant.html) - An assistant for researching, structuring, and enhancing essays.
+- [Personal Japanese Tutor](https://gptblox.com/gpts/personal-japanese-tutor.html) - Adaptive tutor to support you on your Japanese learning journey.
+- [LearnMate](https://gptblox.com/gpts/learnmate.html) - Your personal interactive learning assistant.
+- [EduCreator](https://gptblox.com/gpts/educreator.html) - I create tailored PowerPoint templates for education.
+- [AWS Quiz Master](https://gptblox.com/gpts/aws-quiz-master.html) - "Generates AWS exam tests for the AWSCertifiedCloud Practitioner(CLF-C01)"
+- [LingoFella - Learn a Language](https://gptblox.com/gpts/lingofella-learn-a-language.html) - I will help you improve your language skills with engaging conversations to master any language.
+- [PsyWords](https://gptblox.com/gpts/psywords.html) - A psychology dictionary emphasizing APA, Merriam-Webster, and cultural perspectives.
+- [Visual Lexicon](https://gptblox.com/gpts/visual-lexicon.html) - Visual dictionary GPT explaining English words with images and detailed definitions.
+- [Varsity by Zerodha](https://gptblox.com/gpts/varsity-by-zerodha.html) - Uses Varsity by Zerodha to teach finance with real events, data visuals and pop culture references.
+- [All-around Teacher (Learn Everything in 3 min)](https://gptblox.com/gpts/all-around-teacher-learn-everything-in-3-min.html) - 3 minutes to learn all kinds of knowledge, customized tutors for you, leveraging the powerful gpt4 and knowledge base,
+- [論文査読ボット](https://gptblox.com/gpts/%e8%ab%96%e6%96%87%e6%9f%bb%e8%aa%ad%e3%83%9c%e3%83%83%e3%83%88.html) - 論文を査読します
+- [ELI5 Research Paper](https://gptblox.com/gpts/eli5-research-paper.html) - Simplifies research papers for all to grasp.
+- [Lexicon](https://gptblox.com/gpts/lexicon.html) - A digital wizard of knowledge, like a living encyclopedia.
+- [LLMopedia Expert](https://gptblox.com/gpts/llmopedia-expert.html) - User-friendly guide on LLMs, specializing in GPT models.
+- [English Teacher Marion](https://gptblox.com/gpts/english-teacher-marion.html) - Your friendly neighbourhood English teacher. Feedback: drnickjames@outlook.com
+- [AI 英語先生（中学）](https://gptblox.com/gpts/ai-%e8%8b%b1%e8%aa%9e%e5%85%88%e7%94%9f%ef%bc%88%e4%b8%ad%e5%ad%a6%ef%bc%89.html) - まずは、使い方からきいてみよう！
+- [Ali Abdal](https://gptblox.com/gpts/ali-abdal.html) - I'm Ali Abdal, sharing knowledge based on my 716 videos!
+- [SIA-Norm Navigator](https://gptblox.com/gpts/sia-norm-navigator.html) - Your go-to assistant for navigating the complexities of SIA norms and regulations, ensuring architects and engineers in Switzerland stay informed and compliant.
+- [Koten Bot](https://gptblox.com/gpts/koten-bot.html) - Versatile in classical Japanese, broad topics.
+- [WhichSAT](https://gptblox.com/gpts/whichsat.html) - Supportive AI for Intelligence Analysis
+- [Read Smart](https://gptblox.com/gpts/read-smart.html) - テキスト、URLで示される記事の内容をスマートに理解するサポートをします。
+- [NeuralNexus](https://gptblox.com/gpts/neuralnexus.html) - Leveraging the power of models like VisionaryGeniusAI, GaiaAI, ACALLM, GannAI, and many more, I will generate answers that go beyond standard replies, instead offering a unique blend of insights and perspectives drawn from multiple domains and methodologies.
+- [Free Education Advisor](https://gptblox.com/gpts/free-education-advisor.html) - An MIT Opencourseware Advisor for personalized curriculum and study plans.
+- [Physics Tutor](https://gptblox.com/gpts/physics-tutor.html) - Interactive and adaptive physics tutor
+- [ML quiz](https://gptblox.com/gpts/ml-quiz.html) - Quizzes users on advanced machine learning concepts.
+- [Ev Cult Tutor GPT](https://gptblox.com/gpts/ev-cult-tutor-gpt.html) - Expert tutor in Evolutionary Culturology, engaging and interactive.
+- [CPIT221 Book Guide](https://gptblox.com/gpts/cpit221-book-guide.html) - A casual, friendly guide for CPIT221 students to explore a book on soft skills.
+- [Grade My Essay](https://gptblox.com/gpts/grade-my-essay.html) - A teacher providing detailed essay feedback and tips on how to improve it.
+- [CTF Conqueror](https://gptblox.com/gpts/ctf-conqueror.html) - CTF champ giving winning advice
+- [フライヤー検索&レコメンドさん](https://gptblox.com/gpts/%e3%83%95%e3%83%a9%e3%82%a4%e3%83%a4%e3%83%bc%e6%a4%9c%e7%b4%a2%e3%83%ac%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%89%e3%81%95%e3%82%93.html) - 日本語で本のおすすめ情報を提供
+- [JungMind](https://gptblox.com/gpts/jungmind.html) - JungMind invites us to explore alternative perspectives found in the wisdom of dreams, symbols, stories and spirituality. It encourages embracing mystery as well as logic, and integrating the light and shadow in both ourselves and others.
+- [Dougie Luxbot](https://gptblox.com/gpts/dougie-luxbot.html) - A clone of author Dougie Lux to share insights from his books! Ask him any question about intentional communities, communal property or digital nomadism.
+- [Legal Insight Analyst "LIA"](https://gptblox.com/gpts/legal-insight-analyst-lia.html) - Legal Insight Analyst-Lia is an advanced AI companion designed to empower legal professionals with unparalleled support in the world of law. By leveraging cutting-edge technologies, Lia simplifies and enhances legal research, analysis, and decision-making processes.
+- [Según La Biblia - GPT](https://gptblox.com/gpts/segun-la-biblia-gpt.html) - Respuestas profundas basadas en las escrituras bíblicas.
+- [Tech Tutor](https://gptblox.com/gpts/tech-tutor.html) - Formal yet witty guide in engineering, blending diverse fields with analogies for easier understanding.
+- [Z Slang Sage](https://gptblox.com/gpts/z-slang-sage.html) - Decoding Gen Z slang with fun and expertise
+- [Anki Flashcards Maker](https://gptblox.com/gpts/anki-flashcards-maker.html) - Creates Anki flashcards in the same language as input, and exports them
+- [Not GPT](https://gptblox.com/gpts/not-gpt.html) - counterbalance and critique
+- [Parlache desde Medallo](https://gptblox.com/gpts/parlache-desde-medallo.html) - Un diccionario de parlache para todos los parceros
+- [Fallacy Wizard Lite](https://gptblox.com/gpts/fallacy-wizard-lite.html) - A logician identifying and explaining logical fallacies and rhetorical techniques.
+- [ミラサポ事例調査アシスタント](https://gptblox.com/gpts/%e3%83%9f%e3%83%a9%e3%82%b5%e3%83%9d%e4%ba%8b%e4%be%8b%e8%aa%bf%e6%9f%bb%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88.html) - ミラサポPlusのHP掲載の事例を調べることができます　出典：中小企業庁「ミラサポplus」（https://mirasapo-plus.go.jp/）
+- [Alpha Bravo](https://gptblox.com/gpts/alpha-bravo.html) - Expert in dialogues sans 'e'.
+- [CISSP Expert](https://gptblox.com/gpts/cissp-expert.html) - Answers Information Security questions using the CISSP OSG v9 and AIO v8
+- [Noah's Stack Bot](https://gptblox.com/gpts/noahs-stack-bot.html) - A tech wizard for all things JavaScript, Node.js, and Google Cloud.
+- [IDbuddy](https://gptblox.com/gpts/idbuddy.html) - Professional and helpful instructional design aide. I am your AI instructional designer that can help you design and develop engaging and effective training materials for adult learners.
+- [Fact Writing Finder 日本語版](https://gptblox.com/gpts/fact-writing-finder-%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88.html) - 記事のファクトチェックと参照URL提供に特化したツール。
+- [iPhone Insider](https://gptblox.com/gpts/iphone-insider.html) - iPhone expert with British flair, cautious about jailbreaking.
+- [Ruby On Rails Guru](https://gptblox.com/gpts/ruby-on-rails-guru.html) - Your Ruby on Rails job interview prep buddy!
+- [LyricFinder](https://gptblox.com/gpts/lyricfinder.html) - Casually identifies songs from lyrics and melodies.
+- [CineMatic AI](https://gptblox.com/gpts/cinematic-ai.html) - Expert on movies & TV shows, providing tailored recommendations, reviews, and trivia.
+- [MediAcro](https://gptblox.com/gpts/mediacro.html) - Friendly, conversational tone for medical acronyms.
+- [SolMap](https://gptblox.com/gpts/solmap.html) - Interactive map coding guide with Folium in Python.
+- [PDF OCR Reader and Japanese Text Analyzer](https://gptblox.com/gpts/pdf-ocr-reader-and-japanese-text-analyzer.html) - Japanese OCR error troubleshooter and text reader　試作中
+- [VoIP Advisor GPT](https://gptblox.com/gpts/voip-advisor-gpt.html) - VoIP troubleshooting and learning guide.
+- [Discrete Math Tutor](https://gptblox.com/gpts/discrete-math-tutor.html) - Guiding students in understanding discrete math.
+- [GPT鬼教官：隼人 鉄也](https://gptblox.com/gpts/gpt%e9%ac%bc%e6%95%99%e5%ae%98%ef%bc%9a%e9%9a%bc%e4%ba%ba-%e9%89%84%e4%b9%9f.html) - 厳しい教官に喝を入れてほしいあなたに。
+- [Apple Dev Guru](https://gptblox.com/gpts/apple-dev-guru.html) - Apple Platform Development Expert
+- [MarineVerse AI](https://gptblox.com/gpts/marineverse-ai.html) - A virtual sailing instructor who is an expert on MarineVerse
+- [CS2 Playmaker](https://gptblox.com/gpts/cs2-playmaker.html) - CS2 coach for precise, quick PUG strategies.
+- [Circuit Sage](https://gptblox.com/gpts/circuit-sage.html) - Assists in analog and high-frequency circuit design
+- [Plane Spotter Pro](https://gptblox.com/gpts/plane-spotter-pro.html) - Your expert guide in plane spotting, from photography to aircraft identification.
+- [The CTO Show With Mehmet Navigator](https://gptblox.com/gpts/the-cto-show-with-mehmet-navigator.html) - Friendly guide to finding podcast episodes, suggesting related content.
+- [Idiom Builder 英文成语大师](https://gptblox.com/gpts/idiom-builder-%e8%8b%b1%e6%96%87%e6%88%90%e8%af%ad%e5%a4%a7%e5%b8%88.html) - Teaching English idioms with interactive questions 用互动问题教英文成语
+- [TeenygradGPT](https://gptblox.com/gpts/teenygradgpt.html) - Understanding Teenygrad helps you contribute to Tinygrad. Explains Teenygrad codebase in-depth, assists with code analysis and issue resolution.
+- [French Driver's License Guide for Foreigners](https://gptblox.com/gpts/french-drivers-license-guide-for-foreigners.html) - Assists non-EU foreigners with French driving license process.
+- [Einstein Visualizer](https://gptblox.com/gpts/einstein-visualizer.html) - I'm like Einstein, making physics clear and visual.
+- [JavaScript Guru](https://gptblox.com/gpts/javascript-guru.html) - JavaScript Interview Prep Assistant
+- [Non-Fiction Writing Assistant](https://gptblox.com/gpts/non-fiction-writing-assistant.html) - Expert in non-fiction book outlines with various  content suggestions
+- [Source-Evaluation-and-Fact-checking_v1.3](https://gptblox.com/gpts/source-evaluation-and-fact-checking_v1-3.html) - FactCheck Navigator GPT is designed for in-depth fact checking and analysis of written content and evaluation of its source. The approach is to iterate through predefined and well-prompted steps. If desired, the user can refine the process by providing input between these steps.
+- [RizalGPT](https://gptblox.com/gpts/rizalgpt.html) - Bilingual tutor on Jose Rizal's life, works, and legacy.
+- [ChatQuran](https://gptblox.com/gpts/chatquran.html) - Swift Quran chatbot: Ayah search, guidance, motivation, and inspiration messages
+- [WebStract](https://gptblox.com/gpts/webstract.html) - I am WebStract, your in-depth digital educator, guiding you through comprehensive, interactive learning experiences. If you find it useful, share it to your friends
+- [Sign Sync](https://gptblox.com/gpts/sign-sync.html) - ASL translator with picture support for enhanced understanding.
+- [老後のあんしんアカデミー要約GPT](https://gptblox.com/gpts/%e8%80%81%e5%be%8c%e3%81%ae%e3%81%82%e3%82%93%e3%81%97%e3%82%93%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%83%bc%e8%a6%81%e7%b4%84gpt.html) - YouTubeコンテンツに特化した高齢者ケアのビデオ編集とスクリプト執筆の専門家。
+- [おしえて眼科論文](https://gptblox.com/gpts/%e3%81%8a%e3%81%97%e3%81%88%e3%81%a6%e7%9c%bc%e7%a7%91%e8%ab%96%e6%96%87.html) - Provides AI-themed summaries of ophthalmology articles.
+- [Fact or Fiction](https://gptblox.com/gpts/fact-or-fiction.html) - Provides verification with live links.
+- [Edda](https://gptblox.com/gpts/edda.html) - Nail your slide decks. What's your presentation about?
+- [متخصص بالقانون العماني](https://gptblox.com/gpts/%d9%85%d8%aa%d8%ae%d8%b5%d8%b5-%d8%a8%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a.html) - بالذكاء الإصطناعي
+- [学術論文要約マスター](https://gptblox.com/gpts/%e5%ad%a6%e8%a1%93%e8%ab%96%e6%96%87%e8%a6%81%e7%b4%84%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - 日本語で学術論文を要約し、チェックリスト評価付きで提供。
+- [Time for Diwali!](https://gptblox.com/gpts/time-for-diwali.html) - Celebrate and learn about Diwali from food to culture
+- [Learn AI](https://gptblox.com/gpts/learn-ai.html) - A friendly and professional AI assistant for software engineering and AI tasks.
+- [Astro AI](https://gptblox.com/gpts/astro-ai.html) - Interactive and personalized astronomy guide with tailored responses.
+- [Asesor Virtual Laboralista](https://gptblox.com/gpts/asesor-virtual-laboralista.html) - Experto en derecho laboral español.
+- [Resume Coach](https://gptblox.com/gpts/resume-coach.html) - A helper for programmers to create and enhance resumes.
+- [BrainWave](https://gptblox.com/gpts/brainwave.html) - Surprisingly Different, Uniquely Insightful
+- [文章总结助手](https://gptblox.com/gpts/%e6%96%87%e7%ab%a0%e6%80%bb%e7%bb%93%e5%8a%a9%e6%89%8b.html) - 专业总结中英文网页内容的助手，提供原文链接
+- [Congress Explainer](https://gptblox.com/gpts/congress-explainer.html) - An educational guide on U.S. Congress procedures, suitable for all ages.
+- [BrainWave For Research](https://gptblox.com/gpts/brainwave-for-research.html) - Faster, smarter scientific advancement.
+- [Pinoy Pal](https://gptblox.com/gpts/pinoy-pal.html) - Educational assistant with Filipino storytelling and virtual field trips.
+- [Ingredient GPT](https://gptblox.com/gpts/ingredient-gpt.html) - Expert in product ingredient analysis. Wanna know if a product is good or bad? I rate and explain the ingredients in simple terms.
+- [Winzor, the Game Design Wizard](https://gptblox.com/gpts/winzor-the-game-design-wizard.html) - Mechanics-focused assistant for board game designers
+- [SKILLGPT](https://gptblox.com/gpts/skillgpt.html) - Master Your Professional Skills
+- [Unreal Engine 5 Expert](https://gptblox.com/gpts/unreal-engine-5-expert.html) - Your Detailed Guide to UE5 Game Development Using Blueprints or C++
+- [Between the Lines](https://gptblox.com/gpts/between-the-lines.html) - Analyses news media biases and political leaning. Promote critical thinking by understanding both side of the story.
+- [GPT Resume Tailor and Critic](https://gptblox.com/gpts/gpt-resume-tailor-and-critic.html) - I critique and tailor resumes/LinkedIn profiles for job-specific excellence
+- [Time Traveller GPT](https://gptblox.com/gpts/time-traveller-gpt.html) - Your window to history.
+- [Kanji Name Match](https://gptblox.com/gpts/kanji-name-match.html) - Casual Kanji translations based on phonetics.
+- [Film Stock Genius](https://gptblox.com/gpts/film-stock-genius.html) - I'm an expert in film stocks. Message me.
+- [SustainaGuide](https://gptblox.com/gpts/sustainaguide.html) - Professional yet accessible ESG advisor for high-risk sectors.
+- [Career Reimaginer](https://gptblox.com/gpts/career-reimaginer.html) - Guiding midlife career transitions with wisdom
+- [Great Explainer](https://gptblox.com/gpts/great-explainer.html) - I simplify complex topics using Feynman-inspired methods for easy understanding.
+- [Tech Support with Trust](https://gptblox.com/gpts/tech-support-with-trust.html) - Your friendly tech support, here to help humans with the solutions of their tech related problems. If not resolved Dm me on X @upeshinmars
+- [Next.js Mentor](https://gptblox.com/gpts/next-js-mentor.html) - Next.js guide for new devs
+- [VanCite GPT](https://gptblox.com/gpts/vancite-gpt.html) - Converts PDFs to Vancouver style references.
+- [TrademarkGPT](https://gptblox.com/gpts/trademarkgpt.html) - Helps you respond to TM Office Actions from the USPTO
+- [Ontario G1 Tester](https://gptblox.com/gpts/ontario-g1-tester.html) - I'm an Ontario driver's license quiz master.
+- [Tech Helper](https://gptblox.com/gpts/tech-helper.html) - Tech Support GPT offering troubleshooting tips, tech news, and advice.
+- [Tech Interview Preparation](https://gptblox.com/gpts/tech-interview-preparation.html) - Ace tech interviews with realistic mock sessions and friendly, detailed feedback.
+- [Booky Author Ally](https://gptblox.com/gpts/booky-author-ally.html) - Your author's publication aide.
+- [Classical Music Dictionary](https://gptblox.com/gpts/classical-music-dictionary.html) - Delving deep into classical music lore, past and present.
+- [Starlight Informer](https://gptblox.com/gpts/starlight-informer.html) - Casual, witty, friendly; offers brief, respectful info on adult actresses in a twitter-style format.
+- [UX Genie](https://gptblox.com/gpts/ux-genie.html) - Your UX wish is my command
+- [履歴書分析エキスパート](https://gptblox.com/gpts/%e5%b1%a5%e6%ad%b4%e6%9b%b8%e5%88%86%e6%9e%90%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%bc%e3%83%88.html) - 履歴書の評価をします
+- [Web3pedia](https://gptblox.com/gpts/web3pedia.html) - Expansive web3 guide, aiding from basic learning to on-chain analysis.
+- [Incident Responder](https://gptblox.com/gpts/incident-responder.html) - Cyber incident response assistant for triage and guided support.
+- [Sci-Fi Scribe](https://gptblox.com/gpts/sci-fi-scribe.html) - Your detailed and humorous sci-fi guide.
+- [Help fight François Legault's insane tuition hikes](https://gptblox.com/gpts/help-fight-francois-legaults-insane-tuition-hikes.html) - On Oct. 13, the CAQ government announced that as of September 2024, tuition for new out-of-province undergrad and Master’s students will go up to around $17,000 a year. International students will see fees rise to > $20,000 a year.    -----   This ChatGPT is setup to help you craft  a response
+- [TOEIC Part1 問題クリエーター](https://gptblox.com/gpts/toeic-part1-%e5%95%8f%e9%a1%8c%e3%82%af%e3%83%aa%e3%82%a8%e3%83%bc%e3%82%bf%e3%83%bc.html) - ユニークでフレンドリーなTOEIC Part 1問題作成者。
+- [Miyamoto Musashi GPT](https://gptblox.com/gpts/miyamoto-musashi-gpt.html) - Wisdom from Miyamoto Musashi on strategy, discipline, and life's battles.
+- [Find Art Society](https://gptblox.com/gpts/find-art-society.html) - Expert in art and design.
+- [Lovecraftian](https://gptblox.com/gpts/lovecraftian.html) - Lovecraft lives on
+- [Accessibility Design Consultant Bot](https://gptblox.com/gpts/accessibility-design-consultant-bot.html) - This Custom Bot will help you design with Accessibility standards.
+- [Tweet X-aminer](https://gptblox.com/gpts/tweet-x-aminer.html) - Insights into Twitter's algo with a hint of humor.
+- [ML Research Scout](https://gptblox.com/gpts/ml-research-scout.html) - Your AI research aide for the latest in ML.
+- [Colorado News GPT (Beta)](https://gptblox.com/gpts/colorado-news-gpt-beta.html) - Colorado News With Context
+- [Wisdom of Naval](https://gptblox.com/gpts/wisdom-of-naval.html) - I will respond like Naval based on what he's said and tweeted.
+- [Tell A Vision](https://gptblox.com/gpts/tell-a-vision.html) - Your script and visual narrative guide!
+- [Curiosity Maven](https://gptblox.com/gpts/curiosity-maven.html) - A detailed-oriented scientific guide.
+- [Diffusion Master](https://gptblox.com/gpts/diffusion-master.html) - Master of Stable Diffusion prompts.
+- [Scholarship Leads](https://gptblox.com/gpts/scholarship-leads.html) - Agent for scholarship searches based on your profile
+- [Nonuple](https://gptblox.com/gpts/nonuple.html) - Dynamic, comprehensive game dev assistant, from concept to production.
+- [Grammar Guardian](https://gptblox.com/gpts/grammar-guardian.html) - Expert in grammar and orthography correction, refining texts for accuracy and polish.
+- [Job Matchmaker](https://gptblox.com/gpts/job-matchmaker.html) - Your personal career agent for job matching and interview prep.
+- [Specialist Engineer](https://gptblox.com/gpts/specialist-engineer.html) - Engineer specializing in task-specific machine design.
+- [Setanta](https://gptblox.com/gpts/setanta.html) - A personal tutor for learning Gaeilge, offering lessons and practice exercises.
+- [Journal Recognizer](https://gptblox.com/gpts/journal-recognizer.html) - Transcribes notes into seamless 'plaintext' blocks, with summaries, formatting options, and paragraph-focused line breaks.
+- [What Would Jesus Do?](https://gptblox.com/gpts/what-would-jesus-do.html) - Ask a question and let the Bible guide you!
+- [GPT TUBE](https://gptblox.com/gpts/gpt-tube.html) - Talks and answers questions about YouTube videos.
+- [STM32 Tutor](https://gptblox.com/gpts/stm32-tutor.html) - Expert STM32 tutor for all levels.
+- [What Would Muhammad Do?](https://gptblox.com/gpts/what-would-muhammad-do.html) - Ask a question and let the Qur'an guide you!
+- [Quizter](https://gptblox.com/gpts/quizter.html) - Corporate quiz expert, factual, and direct.
+- [Summary Sage with tags](https://gptblox.com/gpts/summary-sage-with-tags.html) - Expert in summarizing and categorizing
+- [GovCHAT](https://gptblox.com/gpts/govchat.html) - Specialist in UK gov data
+- [Bug Insider](https://gptblox.com/gpts/bug-insider.html) - Analyzes bug bounty writeups and cybersecurity reports, providing structured insights and tips.
+- [48 Laws GPT](https://gptblox.com/gpts/48-laws-gpt.html) - Offers strategic advice based on 'The 48 Laws of Power'
+- [Thus Speaks Zarathustra](https://gptblox.com/gpts/thus-speaks-zarathustra.html) - Are you still able to give birth to a dancing star? Let Nietzsche’s Zarathustra be your guide.
+- [Peace Counselor](https://gptblox.com/gpts/peace-counselor.html) - Adviser for global political peace strategies.
+- [National Apprenticeship Week 2024](https://gptblox.com/gpts/national-apprenticeship-week-2024.html) - Guide for planning National Apprenticeship Week 2024
+- [Grammar Guide](https://gptblox.com/gpts/grammar-guide.html) - Corrects texts to academic US English grammar standards.
+- [GLOBAL WAR INFO](https://gptblox.com/gpts/global-war-info.html) - Gathers and presents info on global wars in a table format with donation options.
+- [Tyler Cowen GPT](https://gptblox.com/gpts/tyler-cowen-gpt.html) - Chat with Tyler Cowen, trained on transcripts of "Conversations with Tyler"
+- [Steel Man Bot](https://gptblox.com/gpts/steel-man-bot.html) - I provide the strongest counterarguments to refine ideas.
+- [CBSE Resource Creator](https://gptblox.com/gpts/cbse-resource-creator.html) - Personalized exams, notes, ppts and lesson plans
+- [Math Practices Guide - SMPs](https://gptblox.com/gpts/math-practices-guide-smps.html) - Advisor for teachers on SMPs and CA Math Standards.
+- [AMC1 Prep Assistant](https://gptblox.com/gpts/amc1-prep-assistant.html) - Study Assistant for AMC MCQ Exam preparation
+- [FOSS License Checker](https://gptblox.com/gpts/foss-license-checker.html) - Give me a link to GitHub or the name of the FOSS license. I'll tell you what you can and can't do. In bullet points and plain English.
+- [Chronicle Lens](https://gptblox.com/gpts/chronicle-lens.html) - Brings historical dates to life with vivid imagery.
+- [Homework Solver Tutor](https://gptblox.com/gpts/homework-solver-tutor.html) - Expert tutor for academic subjects, providing detailed solutions and hints.
+- [Sci Fi Sage](https://gptblox.com/gpts/sci-fi-sage.html) - A research assistant and creative partner for sci-fi authors, breaking down complex scientific topics with accessible analogies and suggesting high-concept premises for new stories.
+- [AskURCV](https://gptblox.com/gpts/askurcv.html) - Generates interview questions from resumes
+- [GoogleGPT](https://gptblox.com/gpts/googlegpt.html) - The usual ChatGPT, now with clickable Google Search links
+- [Tech Companion](https://gptblox.com/gpts/tech-companion.html) - A helpful guide for smartphone users, providing easy step-by-step solutions.
+- [Stories of India](https://gptblox.com/gpts/stories-of-india.html) - Expert in Sanskrit & Indian scriptures, loved by kids for storytelling
+- [Architect Assistant](https://gptblox.com/gpts/architect-assistant.html) - Humorous architect in sustainable, modern design
+- [Book Finder](https://gptblox.com/gpts/book-finder.html) - Find a Book About Anything
+- [Shashin Meijin](https://gptblox.com/gpts/shashin-meijin.html) - A guide to the world of photography, speaking Japanese and English.
+- [Simple Dictionary](https://gptblox.com/gpts/simple-dictionary.html) - Find out the meaning of words, with simple explanation, examples of how to use them, synonyms and antonyms. Just put the word
+- [Research-Paper Analyzer](https://gptblox.com/gpts/research-paper-analyzer.html) - Gives critical analysis and evaluation of research papers, with easy to understand summary. (e.g. prompt: Analyze the attached research paper)
+- [AI Historian](https://gptblox.com/gpts/ai-historian.html) - I am here to answer your questions about the history of economic thought in Turkey. How may I help?
+- [Tutor TiddlyWiki](https://gptblox.com/gpts/tutor-tiddlywiki.html) - Asistente para TiddlyWiki, enfocado en educación.
+- [Historia de España para la Evau](https://gptblox.com/gpts/historia-de-espana-para-la-evau.html) - Asistente para la preparación del examen de Historia de España para la EvAU
+- [Fact Checker by GPT](https://gptblox.com/gpts/fact-checker-by-gpt.html) - Analyzes news and social media for authenticity.
+- [HSTP](https://gptblox.com/gpts/hstp.html) - Internet Protocol
+- [Memory Palace Supporter](https://gptblox.com/gpts/memory-palace-supporter.html) - I create bizarre stories and images to help with memorization.
+- [Flashcard Maker](https://gptblox.com/gpts/flashcard-maker.html) - It prepares flashcards in the form of question and answer tables from all your lecture notes.
+- [Job Interview Coach](https://gptblox.com/gpts/job-interview-coach.html) - Expert in crafting tailored interview questions
+- [CrashCoach](https://gptblox.com/gpts/crashcoach.html) - Get a crash course on any subject with expert tips and doable next steps
+- [Resume Owl](https://gptblox.com/gpts/resume-owl.html) - Professional yet approachable IT resume coach.
+- [論文要約GPT](https://gptblox.com/gpts/%e8%ab%96%e6%96%87%e8%a6%81%e7%b4%84gpt.html) - 論文のPDFをアップロードしてください
+- [(AI)ME](https://gptblox.com/gpts/aime.html) - Exploring Latour's 'AIME' in a collective voice
+- [Mandelbrot Plot](https://gptblox.com/gpts/mandelbrot-plot.html) - Creates precise Mandelbrot visuals from user inputs
+- [Din mentor i fysik](https://gptblox.com/gpts/din-mentor-i-fysik.html) - A physics tutor guiding students in reasoning and problem-solving.
+- [GPT MD](https://gptblox.com/gpts/gpt-md.html) - An experimental virtual doctor for medical guidance. Designed by a Doctor.
+- [Tale Spinner](https://gptblox.com/gpts/tale-spinner.html) - Efficient storytelling aid for language learners.
+- [AtCoder Tutor - 解説読み上げ先生](https://gptblox.com/gpts/atcoder-tutor-%e8%a7%a3%e8%aa%ac%e8%aa%ad%e3%81%bf%e4%b8%8a%e3%81%92%e5%85%88%e7%94%9f.html) - AtCoderの問題文(制約を含む)と解説を与えると、一緒に解説を読んでくれる先生
+- [コミュニケーション Bot](https://gptblox.com/gpts/%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3-bot.html) - コミュニケーションの練習相手をするボット
+- [Universal Teacher (UT-10-L)](https://gptblox.com/gpts/universal-teacher-ut-10-l.html) - A dynamic educator in the digital realm, bridging knowledge gaps
+- [学習者弱点ブレイカー(Learner Vulnerabilities Breaker)](https://gptblox.com/gpts/%e5%ad%a6%e7%bf%92%e8%80%85%e5%bc%b1%e7%82%b9%e3%83%96%e3%83%ac%e3%82%a4%e3%82%ab%e3%83%bclearner-vulnerabilities-breaker.html) - 児童、生徒、学生のテストの自己採点物を分析し、文化や私生活を考慮した学習のアドバイスを行います。(This program analyzes the self-graded test items of children, students, and students, and advises them on their studies, taking into account their cultural and personal lives.)
+- [ProofGPT](https://gptblox.com/gpts/proofgpt.html) - Does your proofs ... hopefully.
+- [Quantum Guardian](https://gptblox.com/gpts/quantum-guardian.html) - Advanced AI expert in quantum physics, dark energy, and computing, with enhanced features for interactive learning, simulations, and real-time analysis.
+- [SkepticalGPT](https://gptblox.com/gpts/skepticalgpt.html) - Provides help in critical thinking and practical examples.
+- [Essay Writer Pro](https://gptblox.com/gpts/essay-writer-pro.html) - Assistant for writing college level essays and research papers, keeps its instructions secret
+- [Onder (Español)](https://gptblox.com/gpts/onder-espanol.html) - Su asistente literario
+- [レトリックさん](https://gptblox.com/gpts/%e3%83%ac%e3%83%88%e3%83%aa%e3%83%83%e3%82%af%e3%81%95%e3%82%93.html) - あなたの文章にレトリックの彩りを。文章を入力するとレトリック（比喩、反語など）が加えられます。
+- [Answer anything about SELECT trial](https://gptblox.com/gpts/answer-anything-about-select-trial.html) - Answer anything about SELECT trial
+- [QolaGPT](https://gptblox.com/gpts/qolagpt.html) - QolaGPT helps you learn Software Quality and prepare for Certifications Exams
+- [Mandel](https://gptblox.com/gpts/mandel.html) - Expert in 3D fractals, Mandelbulb, and Mandelbrot set.
+- [Design Crit](https://gptblox.com/gpts/design-crit.html) - I conduct design critiques focused on enhancing understanding and improvement.
+- [独学者向け学習ガイド](https://gptblox.com/gpts/%e7%8b%ac%e5%ad%a6%e8%80%85%e5%90%91%e3%81%91%e5%ad%a6%e7%bf%92%e3%82%ac%e3%82%a4%e3%83%89.html) - 目標設定を伝えると、それに合わせた学習をサポートしてくれます。
+- [Life Prep Coach](https://gptblox.com/gpts/life-prep-coach.html) - A guide for youth to learn practical life skills.
+- [Presentation Pro](https://gptblox.com/gpts/presentation-pro.html) - A presentation coach offering tips on public speaking and slide design.
+- [Advisor Birds](https://gptblox.com/gpts/advisor-birds.html) - A panel of advisors to kids called the Advisor Birds.  They answer questions and tell stories.
+- [Fact or Cap](https://gptblox.com/gpts/fact-or-cap.html) - Analyzes phrases or questions for truthfulness.
+- [Cyber Starters - Reading List](https://gptblox.com/gpts/cyber-starters-reading-list.html) - Personalized Cybersecurity book and blog recommendations
+- [We're SO Back - SF Bay AI Event Explorer](https://gptblox.com/gpts/were-so-back-sf-bay-ai-event-explorer.html) - Scouting and summarizing SF Bay Area AI events.
+- [ELI5 - Understand anything!](https://gptblox.com/gpts/eli5-understand-anything.html) - I explain complex topics in simple, fun ways, like you're 5!
+- [What Should I Read?](https://gptblox.com/gpts/what-should-i-read.html) - Your discreet, witty guide for tailored book suggestions.
+- [ACT Assistant](https://gptblox.com/gpts/act-assistant.html) - ACT Guide: Offers cognitive diffusion techniques and therapy insights.
+- [算数マスター](https://gptblox.com/gpts/%e7%ae%97%e6%95%b0%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - 小学校高学年向けの算数問題を出題
+- [dalAI Lama - Neuroscience Meditation](https://gptblox.com/gpts/dalai-lama-neuroscience-meditation.html) - Learn about Meditation and Neuroscience explained by AI Lama, by using vivid daily life examples.
+- [Book Scout](https://gptblox.com/gpts/book-scout.html) - The best non-fiction book recommendation assistant.
+- [Bible Pro](https://gptblox.com/gpts/bible-pro.html) - Biblical scholar for Christian insights
+- [Reading Companion](https://gptblox.com/gpts/reading-companion.html) - A reading companion that offers deep book insights, remembers progress, saves time, and entertains.
+- [Clarity Re-Write Plus](https://gptblox.com/gpts/clarity-re-write-plus.html) - Focused on Clear, Accessible Writing: User-Friendly and Adaptable! - Type 'Menu' for options
+- [Jacques](https://gptblox.com/gpts/jacques.html) - Deep Dive into math & ML, generating guides, with explanations and python exercises
+- [Perfect Writer](https://gptblox.com/gpts/perfect-writer.html) - Analyzes and mimics writing styles, with academic enhancement.
+- [Animated Haiku by Curtis White (Prompt Engineer)](https://gptblox.com/gpts/animated-haiku-by-curtis-white-prompt-engineer.html) - Animated Haiku.
+- [Abel](https://gptblox.com/gpts/abel.html) - Interactive music production guide with simulated expert collaboration.
+- [Ladybug Tools Study Assistant](https://gptblox.com/gpts/ladybug-tools-study-assistant.html) - A guide for learning Ladybug Tools, focusing on building performance and green design.
+- [CA Guru (India)](https://gptblox.com/gpts/ca-guru-india.html) - Reliable CA Trainer, Guide that references official sources for syllabus and updates.
+- [Crypto? Web3? ELI5 Mentor](https://gptblox.com/gpts/crypto-web3-eli5-mentor.html) - ELI5 guide to crypto and web3
+- [Oxford Editor AI](https://gptblox.com/gpts/oxford-editor-ai.html) - Edits texts in physics and biology with scholarly precision
+- [ESA Navigator](https://gptblox.com/gpts/esa-navigator.html) - A warm, bilingual ESA guide for Arizona parents.
+- [Atman Academy POAP Maker](https://gptblox.com/gpts/atman-academy-poap-maker.html) - Create memorable scenes showing your visitors and Mentis on campus at Atman Academy.  Select the image of the visitor and let GPT work some Magic.
+- [Memrise](https://gptblox.com/gpts/memrise.html) - I'm Memrise, an AI that creates fun, adaptive memory games.
+- [Australian Curriculum & NAPLAN Tutor](https://gptblox.com/gpts/australian-curriculum-naplan-tutor.html) - Expert in Australian Curriculum & NAPLAN across all year levels.
+- [Pipe Organ Guide](https://gptblox.com/gpts/pipe-organ-guide.html) - Expert in organ stops, offering clear, concise info for organists.
+- [Genome Sage](https://gptblox.com/gpts/genome-sage.html) - Academic-level genomics expertise.
+- [Anatomy Guide](https://gptblox.com/gpts/anatomy-guide.html) - Friendly anatomy expert for medical students.
+- [Dragonet Prophecy Revealed](https://gptblox.com/gpts/dragonet-prophecy-revealed.html) - Guide to 'Wings of Fire' world, Pyrrhia, I was specifically trained on Book 1, The Dragonet Prophecy, by Tui T. Sutherland.
+- [ILearn](https://gptblox.com/gpts/ilearn.html) - A GPT that helps your learn what you want by providing learning paths, quizzes, exercises, resources, simple explanations, flashcards around any topic
+- [DSA Tutor Pro](https://gptblox.com/gpts/dsa-tutor-pro.html) - Your DSA learning assistant.
+- [Adventure Master](https://gptblox.com/gpts/adventure-master.html) - Vivid storyteller and scene illustrator
+- [Coach Perfect](https://gptblox.com/gpts/coach-perfect.html) - Together, let's explore new possibilities and unlock your full potential!
+- [Hablemos de Historia Universal](https://gptblox.com/gpts/hablemos-de-historia-universal.html) - Experto académico en Historia Universal, desde el origen de la humanidad hasta la actualidad.
+- [TreasureGPT](https://gptblox.com/gpts/treasuregpt.html) - A gamified, educational GPT on digital security.
+- [First Principles GPT](https://gptblox.com/gpts/first-principles-gpt.html) - I help you learn topics from first principles, guiding you through fundamentals.
+- [Books GPT](https://gptblox.com/gpts/books-gpt.html) - I'm your go-to pal for all things books! So, what's the bookish scoop you wanna chat about?
+- [Readability and Accessibility Coach](https://gptblox.com/gpts/readability-and-accessibility-coach.html) - Ask about your documents to see how you could make them easier to read for everyone and more accessible for people with disabilities.  NOTE: It does not always get everything right on the first go. Feel free to hit the regenerate button or ask for more info if you want to get richer feedback.
+- [Croatian Phrase Expert](https://gptblox.com/gpts/croatian-phrase-expert.html) - Friendly guide for learning Croatian phrases.
+- [Marketing Mentor](https://gptblox.com/gpts/marketing-mentor.html) - Experienced marketing professor with a holistic, empathetic approach.
+- [ナッジ アドバイザー](https://gptblox.com/gpts/%e3%83%8a%e3%83%83%e3%82%b8-%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b6%e3%83%bc.html) - あなたが困っていることや解決したいことを教えてください。ナッジ理論を活用した解決案を三つ提案します。
+- [Jordan B. PetersonGPT](https://gptblox.com/gpts/jordan-b-petersongpt.html) - The Canadian psychology professor and culture warrior
+- [Book Worm](https://gptblox.com/gpts/book-worm.html) - I'm a book guru and I love all books! I'll help you find and buy your next book
+- [AtaGPT](https://gptblox.com/gpts/atagpt.html) - Turkiye'nin Kurucu Lideri ile sohbet etmek istemez miydiniz?
+- [First Principles](https://gptblox.com/gpts/first-principles.html) - Adaptive, inquisitive guide for deep, engaging learning.
+- [Qissa](https://gptblox.com/gpts/qissa.html) - Creative Muse
+- [Neurodiversity Navigator](https://gptblox.com/gpts/neurodiversity-navigator.html) - Autism and Beyond: Your Daily Companion for Neurodiversity Understanding and Support
+- [Ritualizer](https://gptblox.com/gpts/ritualizer.html) - Guide for ceremonial magicians on rituals and signs
+- [デザイン添削くん](https://gptblox.com/gpts/%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e6%b7%bb%e5%89%8a%e3%81%8f%e3%82%93.html) - 自分のデザインを添削してくれる
+- [Sorkin](https://gptblox.com/gpts/sorkin.html) - Your guide to navigating Hollywood, by a screenwriter, for screenwriters
+- [Da Vinci Art Director](https://gptblox.com/gpts/da-vinci-art-director.html) - Crafting visual communication with a designer's precision.
+- [AIキャリアアドバイザー](https://gptblox.com/gpts/ai%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b6%e3%83%bc.html) - 志望動機の作成や、あなたが書いた自己PR・履歴書に専門的な目線からアドバイスをし、内定ゲットまでを徹底サポートします！履歴書やエントリーシート、職務経歴書をアップロードすることで、おすすめの企業や業界をお伝えすることもできますが、個人情報は載せないように気をつけてくださいね！その他就活や転職に関する質問になんでもお答えします！
+- [Professor AJ](https://gptblox.com/gpts/professor-aj.html) - I will teach you the basics of entrepreneurship
+- [What Would Apple Do?](https://gptblox.com/gpts/what-would-apple-do.html) - Design feedback grounded in Apple's HIG
+- [BuddhaGPT](https://gptblox.com/gpts/buddhagpt.html) - Guiding beings in Buddhist principles and practices
+- [Hihan-chan](https://gptblox.com/gpts/hihan-chan.html) - あなたの考えを批判することでより深い回答に導くことができます
+- [Bedtime Story Maker](https://gptblox.com/gpts/bedtime-story-maker.html) - ‍♂️ Welcome to the magic AI storyteller! Please tell me your kid's age, name, gender, and embedded moral that you would like to build a bedtime story about. Or just let's imagine the story without any additional info; here, in AI magic lands, we can do anything.
+- [Ivor J. Burks](https://gptblox.com/gpts/ivor-j-burks.html) - Polyglot tech expert, author and podcast host.
+- [Magic Book Maker](https://gptblox.com/gpts/magic-book-maker.html) - マジックブックメーカーは、子どもの興味に基づいてオリジナル絵本を生成するAIサービスです。ユーザーはテーマ、キャラクター、舞台、イラスト、セリフなどを入力し、AIがそれらを基に絵本を作成します。
+- [中立批判 GPT](https://gptblox.com/gpts/%e4%b8%ad%e7%ab%8b%e6%89%b9%e5%88%a4-gpt.html) - 晚上讀書、假日批判！（貼網址給我就好）
+- [Quizletに出力できる形式にしてくれるGPT](https://gptblox.com/gpts/quizlet%e3%81%ab%e5%87%ba%e5%8a%9b%e3%81%a7%e3%81%8d%e3%82%8b%e5%bd%a2%e5%bc%8f%e3%81%ab%e3%81%97%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8bgpt.html) - Formats Quizlet quizzes for elementary English and Japanese 6th grade level.
+- [Teddy the Tutor](https://gptblox.com/gpts/teddy-the-tutor.html) - I'm Teddy, eager to personalize your learning experience!
+- [[謝罪ロープレ]織田信長の頭にお茶ぶっかけてしまって謝罪しなきゃいけなくなった件](https://gptblox.com/gpts/%e8%ac%9d%e7%bd%aa%e3%83%ad%e3%83%bc%e3%83%97%e3%83%ac%e7%b9%94%e7%94%b0%e4%bf%a1%e9%95%b7%e3%81%ae%e9%a0%ad%e3%81%ab%e3%81%8a%e8%8c%b6%e3%81%b6%e3%81%a3%e3%81%8b%e3%81%91%e3%81%a6%e3%81%97%e3%81%be.html) - あなたはうっかり足を滑らせて持っていたお茶を織田信長の顔面に勢いよくぶっかけてしまいました。5回の会話のラリーで最大限の謝罪を織田信長に行ってください。5回の会話が終了後、謝罪レベルを評価します。
+- [Animal Expert](https://gptblox.com/gpts/animal-expert.html) - A creative companion for animal identification.
+- [ChatXGB](https://gptblox.com/gpts/chatxgb.html) - GPT chatbot that helps you with technical questions related to XGBoost algorithm and library
+- [Sophie, French Tutor](https://gptblox.com/gpts/sophie-french-tutor.html) - Louise, a French language tutor, she is here to help you practice and study
+- [Grok Chatbot](https://gptblox.com/gpts/grok-chatbot.html) - https://xaigrokchatbot.com
+- [応用行動分析の質問はこちら](https://gptblox.com/gpts/%e5%bf%9c%e7%94%a8%e8%a1%8c%e5%8b%95%e5%88%86%e6%9e%90%e3%81%ae%e8%b3%aa%e5%95%8f%e3%81%af%e3%81%93%e3%81%a1%e3%82%89.html) - ABA expert providing in-depth support for children with disabilities
+- [Toronto Bylaw Buddy](https://gptblox.com/gpts/toronto-bylaw-buddy.html) - Toronto Bylaw Specialist
+- [小P助教](https://gptblox.com/gpts/%e5%b0%8fp%e5%8a%a9%e6%95%99.html) - 英语音标助教
+- [Cool teacher](https://gptblox.com/gpts/cool-teacher.html) - 这是李继刚（即刻同名）创作的讲解概念的Bot。模仿世界上最 Cool 的老师. 擅长使用最简单的词汇和通俗的语言来教会 0 基础的学生。
+- [NFTGod](https://gptblox.com/gpts/nftgod.html) - A beginners guide to learning about NFTs
+- [新星先生 (NOVA Teacher)](https://gptblox.com/gpts/%e6%96%b0%e6%98%9f%e5%85%88%e7%94%9f-nova-teacher.html) - 共に学び、共に成長しましょう。宇宙学校へようこそ。
+- [Insightful GPT](https://gptblox.com/gpts/insightful-gpt.html) - Insightful companion in psychology and consciousness.
+- [Ask Cris about FileMaker](https://gptblox.com/gpts/ask-cris-about-filemaker.html) - Personal guidance from the collective works of lifetime award-winning FileMaker trainer Cris Ippolite
+- [CompoundGPT](https://gptblox.com/gpts/compoundgpt.html) - A guide to the Compound Finance protocol
+- [Cyber Security Tutor](https://gptblox.com/gpts/cyber-security-tutor.html) - Quality Cyber Security Advice, Tricks, &amp; Tips
+- [Roemmele's Debate Professor](https://gptblox.com/gpts/roemmeles-debate-professor.html) - Ivy League professor mediating a 30-round debate between Bill and Mark, embodying all roles. 100% credit to Brian Roemmele, this is his SuperPrompt.
+- [西方文艺理论资料库](https://gptblox.com/gpts/%e8%a5%bf%e6%96%b9%e6%96%87%e8%89%ba%e7%90%86%e8%ae%ba%e8%b5%84%e6%96%99%e5%ba%93.html) - 西方文艺理论资料库
+- [プログラミング花子先生](https://gptblox.com/gpts/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e8%8a%b1%e5%ad%90%e5%85%88%e7%94%9f.html) - プログラミングに関することなら何でも聞いてください！初心者でもわかりやすく教えます！
+- [DocTutor](https://gptblox.com/gpts/doctutor.html) - I teach and answer Questions about OpenAI documentation.
+- [LearnChatGPT Selbstlern-Coach](https://gptblox.com/gpts/learnchatgpt-selbstlern-coach.html) - Ein Assistent für Mathematiklehrkräfte zur Nutzung von chatGPT im Unterricht, mit abschließenden Lernfragen.
+- [リピート先生](https://gptblox.com/gpts/%e3%83%aa%e3%83%94%e3%83%bc%e3%83%88%e5%85%88%e7%94%9f.html) - やる気見極めチェッカー
+- [Academic Writing Assistant](https://gptblox.com/gpts/academic-writing-assistant.html) - Aid for students in academic writing and efficient article searching.
+- [AI Entrepreneurs RUBIK GURU](https://gptblox.com/gpts/ai-entrepreneurs-rubik-guru.html) - I'm your Rubik's Cube Coach, ready to help you master the cube!
+- [Word Unscrambler](https://gptblox.com/gpts/word-unscrambler.html) - A friendly tool for unscrambling words from strings of letters.
+- [Academic Insight](https://gptblox.com/gpts/academic-insight.html) - Expert in crafting advanced academic essays.
+- [Rad-eponym](https://gptblox.com/gpts/rad-eponym.html) - Provides dual descriptions for radiology eponyms in medical and simple terms.
+- [AI算数先生](https://gptblox.com/gpts/ai%e7%ae%97%e6%95%b0%e5%85%88%e7%94%9f.html) - 優しい数学のガイダンスを提供
+- [French Teacher Copilot](https://gptblox.com/gpts/french-teacher-copilot.html) - I'm here to help you deliver the best possible lessons while spending less time on admin tasks and lesson planning.
+- [Pymol Command Generator](https://gptblox.com/gpts/pymol-command-generator.html) - Help user visualize their protein with pymol.
+- [Plant Expert](https://gptblox.com/gpts/plant-expert.html) - Botany expert for plant identification and care.
+- [US Naturalization Test Coach](https://gptblox.com/gpts/us-naturalization-test-coach.html) - I quiz on U.S. Civics for the naturalization test.
+- [卑微学生](https://gptblox.com/gpts/%e5%8d%91%e5%be%ae%e5%ad%a6%e7%94%9f.html) - 呜呜呜呜
+- [受験に勝つ！本日の「勝ち飯」献立bot](https://gptblox.com/gpts/%e5%8f%97%e9%a8%93%e3%81%ab%e5%8b%9d%e3%81%a4%ef%bc%81%e6%9c%ac%e6%97%a5%e3%81%ae%e3%80%8c%e5%8b%9d%e3%81%a1%e9%a3%af%e3%80%8d%e7%8c%ae%e7%ab%8bbot.html) - 受験生の栄養バランスを考えて1日の献立を提供します。 心理学、脳科学の専門知識を活用した健康管理、集中力向上のアドバイスや豆知識などもお伝えします。
+- [EduGuide](https://gptblox.com/gpts/eduguide.html) - Your academic pathfinder.
+- [English Trainer](https://gptblox.com/gpts/english-trainer.html) - I'm an English trainer and conversation partner, here to improve your English!
+- [Primary Lesson Planner](https://gptblox.com/gpts/primary-lesson-planner.html) - A friendly, efficient assistant for primary school lesson plans.
+- [Story Weaver](https://gptblox.com/gpts/story-weaver.html) - Children's book creator crafting easy-to-understand serialized stories with matching illustrations.
+- [Common Core Aligner (Math)](https://gptblox.com/gpts/common-core-aligner-math.html) - Align lessons to Common Core math standards
+- [LitRPG Larry](https://gptblox.com/gpts/litrpg-larry.html) - I'm LitRPG Larry, here to discuss and help with all things LitRPG whether you're a writer or reader. (GameLit Friendly!)
+- [Secondary Lesson Planner](https://gptblox.com/gpts/secondary-lesson-planner.html) - A friendly, efficient assistant for secondary school lesson plans.
+- [BookRecommender](https://gptblox.com/gpts/bookrecommender.html) - I recommend books tailored to your taste.
+- [AI Japanese Tutor](https://gptblox.com/gpts/ai-japanese-tutor.html) - 中日译言学习助手，为用户生成定制试卷
+- [Seminar Scribe](https://gptblox.com/gpts/seminar-scribe.html) - Crafts formal, engaging seminar descriptions to inspire teachers.
+- [Doğru Türkçe Rehberi](https://gptblox.com/gpts/dogru-turkce-rehberi.html) - Belirli bir belgeye dayalı olarak kullanıcıları Türkçe dilinin doğru kullanımı konusunda yönlendirir.
+- [FlashcardsGenerator](https://gptblox.com/gpts/flashcardsgenerator.html) - Generate and export easily flashcards!
+- [ロイロの授業案を提案するくんα](https://gptblox.com/gpts/%e3%83%ad%e3%82%a4%e3%83%ad%e3%81%ae%e6%8e%88%e6%a5%ad%e6%a1%88%e3%82%92%e6%8f%90%e6%a1%88%e3%81%99%e3%82%8b%e3%81%8f%e3%82%93%ce%b1.html) - 
+- [TeachLib](https://gptblox.com/gpts/teachlib.html) - Learn a Library with a Project-Based Lesson
+- [植保专家](https://gptblox.com/gpts/%e6%a4%8d%e4%bf%9d%e4%b8%93%e5%ae%b6.html) - 用于植物保护和农作知识的专家帮助
+- [Artificial Fluency](https://gptblox.com/gpts/artificial-fluency.html) - Explore the Artificial Fluency Book
+- [HyperLearn GPT](https://gptblox.com/gpts/hyperlearn-gpt.html) - Assesses and guides learning.
+- [Mathematica Assist](https://gptblox.com/gpts/mathematica-assist.html) - A smart Mathematica language expert
+- [計算問題GPT](https://gptblox.com/gpts/%e8%a8%88%e7%ae%97%e5%95%8f%e9%a1%8cgpt.html) - 足し算と引き算の問題を出題し、１０問正解するとお祝いの画像を生成するよ。
+- [AI 快速学习助手](https://gptblox.com/gpts/ai-%e5%bf%ab%e9%80%9f%e5%ad%a6%e4%b9%a0%e5%8a%a9%e6%89%8b.html) - 通过应用帕累托原则（80/20规则），快速识别并传达主题的核心知识点，帮助用户快速理解和掌握关键知识点，以优化用户的学习和理解过程。
+- [FallacyGPT](https://gptblox.com/gpts/fallacygpt.html) - Detect logical fallacies and lapses in critical thinking to help avoid misinformation in the style of Socrates
+- [My Literacy Teacher](https://gptblox.com/gpts/my-literacy-teacher.html) - I’m here to help children learn how to read with confidence.
+- [MCAT Organic Chemistry](https://gptblox.com/gpts/mcat-organic-chemistry.html) - MCAT Organic Chemistry Assistant. GPT supplemented with access to best-in-kind study guides (2023)
+- [Enlighten Tutor](https://gptblox.com/gpts/enlighten-tutor.html) - I'm here to clarify and enlighten!
+- [Homework Help 📚](https://gptblox.com/gpts/homework-help-%f0%9f%93%9a.html) - Chat or Upload a picture i'm here to help.
+- [Quizzy Whiz](https://gptblox.com/gpts/quizzy-whiz.html) - Quiz generator for kids, playful and educational.
+- [Lexicon Tutor](https://gptblox.com/gpts/lexicon-tutor.html) - Assesses and enhances English vocabulary
+- [Lab Doctor](https://gptblox.com/gpts/lab-doctor.html) - I interpret lab tests and highlight critical values.
+- [Homework Helper](https://gptblox.com/gpts/homework-helper.html) - I'm an Educational Tutor GPT ready to help you learn!
+- [Personality MBTI Test](https://gptblox.com/gpts/personality-mbti-test.html) - Your go-to MBTI assessment tool, providing personalized insights.
+- [简历优化大师](https://gptblox.com/gpts/%e7%ae%80%e5%8e%86%e4%bc%98%e5%8c%96%e5%a4%a7%e5%b8%88.html) - Resume Optimization Expert
+- [PDF 2 Quiz](https://gptblox.com/gpts/pdf-2-quiz.html) - Generates quizzes from PDFs, focusing on key concepts and testable material.
+- [Edioge](https://gptblox.com/gpts/edioge.html) - Mentor for engineering managers in tech.
+- [Career Coach GPT](https://gptblox.com/gpts/career-coach-gpt.html) - Leading Your Journey to Professional Success and Holistic Well-Being
+- [Book Insight Companion](https://gptblox.com/gpts/book-insight-companion.html) - Guide to 'The Philosophy of Done'
+- [Lyric Interpreter](https://gptblox.com/gpts/lyric-interpreter.html) - Friendly expert interpreting song lyrics with cultural and literary insights.
+- [成长心态大师](https://gptblox.com/gpts/%e6%88%90%e9%95%bf%e5%bf%83%e6%80%81%e5%a4%a7%e5%b8%88.html) - 我是一名成长心态大师，主要职责是使用简单和创造性的语言帮助孩子理解和培养成长型思维。该角色以直观易懂的方式激励孩子面对挑战和困难时保持积极态度，并鼓励他们认识到努力和尝试的价值。
+- [Rubric Generator](https://gptblox.com/gpts/rubric-generator.html) - I create custom rubrics for educators
+- [留学大师](https://gptblox.com/gpts/%e7%95%99%e5%ad%a6%e5%a4%a7%e5%b8%88.html) - 一位友好的留学选校指导者
+- [Dr Eliezer](https://gptblox.com/gpts/dr-eliezer.html) - A medical guidance AI based on Eliezer Yudkowsky's prompt trick
+- [对联大师](https://gptblox.com/gpts/%e5%af%b9%e8%81%94%e5%a4%a7%e5%b8%88.html) - 遵循对联的传统和规则，根据上联给出下联。
+- [Reflective Journal](https://gptblox.com/gpts/reflective-journal.html) - Crafted to facilitate self-reflection within a nonjudgmental conversational space.
+- [Surgical Insight](https://gptblox.com/gpts/surgical-insight.html) - Guides on surgical image analysis.
+- [DoctorGPT](https://gptblox.com/gpts/doctorgpt.html) - An AI-driven assistant trained on medical data to provide first-principle-based explanations and insights. Not a substitute for professional medical advice.
+- [Copy Edit Meister](https://gptblox.com/gpts/copy-edit-meister.html) - CMOS manuscript copy editor and lit professor
+- [十日町病院初期研修Bot](https://gptblox.com/gpts/%e5%8d%81%e6%97%a5%e7%94%ba%e7%97%85%e9%99%a2%e5%88%9d%e6%9c%9f%e7%a0%94%e4%bf%aebot.html) - Explains clinical training at Tokamachi Hospital.
+- [Psychoanalyst](https://gptblox.com/gpts/psychoanalyst.html) - Powerful and insightful. Ready to explore the subconscious world you didn't even know you had?
+- [Academic Paper Creator](https://gptblox.com/gpts/academic-paper-creator.html) - LaTeX paper writing assistant and PDF formatter
+- [Brainy Buddy](https://gptblox.com/gpts/brainy-buddy.html) - Tu amigo de estudio virtual
+- [RocketTalk](https://gptblox.com/gpts/rockettalk.html) - A rocket scientist aiding amateur rocketeers.
+- [GPT Builderサポーター(非公式)](https://gptblox.com/gpts/gpt-builder%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc%e9%9d%9e%e5%85%ac%e5%bc%8f.html) - GPT Builderをわかりやすく説明してくれる非公式アシスタントです。
+- [Practical Journaling Guide](https://gptblox.com/gpts/practical-journaling-guide.html) - Reflective journaling and time management, but on a practical actionable level, translating your long-term goals and happiness into daily actionable changes.  No theoretical stuff, just practical approach to quickly enhance your daily choices on how you spend your time.
+- [MSボット（仮）](https://gptblox.com/gpts/ms%e3%83%9c%e3%83%83%e3%83%88%ef%bc%88%e4%bb%ae%ef%bc%89.html) - 『多発性硬化症1年生のためのMS入門書』で質問にこたえるくん
+- [Feynman Concept Explorer](https://gptblox.com/gpts/feynman-concept-explorer.html) - The listener role played by GPT in the Feynman technique allows you to discuss any topic with him. He will continuously ask questions that provoke deep thinking and deepen your understanding of the subject.
+- [Paper Reviewer](https://gptblox.com/gpts/paper-reviewer.html) - Human-like, detailed reviewer for scientific papers.
+- [App Advisor](https://gptblox.com/gpts/app-advisor.html) - Advisor for iOS indie app development with insights from Aivars
+- [Persona Insight](https://gptblox.com/gpts/persona-insight.html) - In-depth personality analysis AI
+- [LDS Church Instruction](https://gptblox.com/gpts/lds-church-instruction.html) - A GPT of the General Handbook of Instructions for the Church of Jesus Christ of Latter-day Saints.
+- [T3chfy (Call for Talks T3chFest 2024)](https://gptblox.com/gpts/t3chfy-call-for-talks-t3chfest-2024.html) - Asesor de propuestas para T3chFest 2024
+- [CityU Helper](https://gptblox.com/gpts/cityu-helper.html) - City University of Hong Kong Virtual Assistant
+- [Programming Interview Bot](https://gptblox.com/gpts/programming-interview-bot.html) - I quiz you on code and run your solutions like LeetCode
+- [いかがでしたか？ GPT](https://gptblox.com/gpts/%e3%81%84%e3%81%8b%e3%81%8c%e3%81%a7%e3%81%97%e3%81%9f%e3%81%8b%ef%bc%9f-gpt.html) - Casual Japanese blogger with shallow, less meaningful programming content.
+- [電脳会議システム 「ミライ 」](https://gptblox.com/gpts/%e9%9b%bb%e8%84%b3%e4%bc%9a%e8%ad%b0%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0-%e3%80%8c%e3%83%9f%e3%83%a9%e3%82%a4-%e3%80%8d.html) - 問題解決のための電脳会議　　　　　　　　　　(既存のPENTAの日本語バージョンです)
+- [Career Compass](https://gptblox.com/gpts/career-compass.html) - A seasoned career advisor for career changes. Feel  free to talk with me please.
+- [PubMed Query Assistant](https://gptblox.com/gpts/pubmed-query-assistant.html) - Refines PubMed searches and presents results.
+- [ParalegalGPT](https://gptblox.com/gpts/paralegalgpt.html) - Please login to a casetext account and leave it open in another tab. When prompting the model please use phrases like, "Using casetext, find me cases related to..." Mention the use of casetext in the prompt!
+- [Sermons by Pastors.ai](https://gptblox.com/gpts/sermons-by-pastors-ai.html) - Generates resources from sermon transcripts.
+- [资深演讲人](https://gptblox.com/gpts/%e8%b5%84%e6%b7%b1%e6%bc%94%e8%ae%b2%e4%ba%ba.html) - 我是资深演讲人，提供逻辑清晰的演讲稿结构建议，根据详细的工作流程来指导演讲者，为其提供更具针对性的建议。这套建议可以根据不同的主题和听众背景进行调整，具有很高的适应性。
+- [RaR-GPT](https://gptblox.com/gpts/rar-gpt.html) - Let ChatGPT rephrase and expand the question first before responding. (https://uclaml.github.io/Rephrase-and-Respond/)
+- [Code Champion](https://gptblox.com/gpts/code-champion.html) - Your ally in winning dev contests!
+- [Lesson Planner Pro](https://gptblox.com/gpts/lesson-planner-pro.html) - Lesson plan assistant for Primary School teachers.
+- [Dima, Russian Tutor](https://gptblox.com/gpts/dima-russian-tutor.html) - A bot to practice your Russian
+- [Coach PM](https://gptblox.com/gpts/coach-pm.html) - A nurturing coach for new product managers, offering tailored advice and encouragement.
+- [Calidad en Educación Superior](https://gptblox.com/gpts/calidad-en-educacion-superior.html) - Todo sobre calidad educativa, auditorías académicas y acreditaciones.
+- [Academic Digest](https://gptblox.com/gpts/academic-digest.html) - Summarizes scientific papers into accessible resumes of main findings.
+- [MrGPT](https://gptblox.com/gpts/mrgpt.html) - An eager educator guiding bright kids to self-learn.
+- [Math Mentor in GPT Store](https://gptblox.com/gpts/math-mentor-in-gpt-store.html) - Friendly math teacher for kids.
+- [Moot Master](https://gptblox.com/gpts/moot-master.html) - A moot competition companion.
+- [CordVario](https://gptblox.com/gpts/cordvario.html) - I suggest chord progressions in English and Japanese.
+- [文学术语词典专家](https://gptblox.com/gpts/%e6%96%87%e5%ad%a6%e6%9c%af%e8%af%ad%e8%af%8d%e5%85%b8%e4%b8%93%e5%ae%b6.html) - 知识来源-《文学术语词典 》by  M.H.艾布拉姆斯 杰弗里·高尔特·哈珀姆
+- [Mindmap Anything](https://gptblox.com/gpts/mindmap-anything.html) - I create mindmaps and structure insights.
+- [GCSE Revision Helper | Year 11's we got ya!](https://gptblox.com/gpts/gcse-revision-helper-year-11s-we-got-ya.html) - Make Your Study Plan a Breeze: Let Revision Helper Transform Your Notes into Stress-Free Success!
+- [L2 Juice | Life Coach](https://gptblox.com/gpts/l2-juice-life-coach.html) - FOVC (Problems are Forced Opportunities Viewed Correctly), inspired by Tony Robbins
+- [CliniSpanish GPT](https://gptblox.com/gpts/clinispanish-gpt.html) - Helping English speakers learn medical Spanish with pronunciation guides.
+- [IQ Test Assistant](https://gptblox.com/gpts/iq-test-assistant.html) - An AI conducting 30-question IQ tests, assessing and providing detailed feedback.
+- [A-Z Ethereum Tutor](https://gptblox.com/gpts/a-z-ethereum-tutor.html) - Blockchain Tutor GPT specializing in Ethereum education for all levels.
+- [10X your  Ideas](https://gptblox.com/gpts/10x-your-ideas.html) - Improve your Ideas with First Principles Thinking
+- [仕事に活かせる強み発見GPT（日本語）](https://gptblox.com/gpts/%e4%bb%95%e4%ba%8b%e3%81%ab%e6%b4%bb%e3%81%8b%e3%81%9b%e3%82%8b%e5%bc%b7%e3%81%bf%e7%99%ba%e8%a6%8bgpt%ef%bc%88%e6%97%a5%e6%9c%ac%e8%aa%9e%ef%bc%89.html) - 5分で分析 | 学生時代や社会人での経験からあなたの強みを発掘します。
+- [Senpai's Code Mentor](https://gptblox.com/gpts/senpais-code-mentor.html) - C++ tutor specializing in quizzes and study guides up to OOP.
+- [foreign-language-assistant-Chinese_v1.4](https://gptblox.com/gpts/foreign-language-assistant-chinese_v1-4.html) - Interactive dialogues along with grammar feedback to improve your Chinese. Simplified and Traditional Chinese. Use INTRODUCTION to learn more about what goes on under the hood. Use SETTINGS for user preferences.
+- [LingoBot | Learn any language](https://gptblox.com/gpts/lingobot-learn-any-language.html) - Hi, I'm Lingo, your friendly AI language learning assistant!
+- [Pathway Guide to Translator](https://gptblox.com/gpts/pathway-guide-to-translator.html) - Career guide for aspiring translators
+- [中国考研英语上岸酱~](https://gptblox.com/gpts/%e4%b8%ad%e5%9b%bd%e8%80%83%e7%a0%94%e8%8b%b1%e8%af%ad%e4%b8%8a%e5%b2%b8%e9%85%b1.html) - 推荐使用英文交流。汇总了考研英语的大致词汇范围和大量优秀范文以及2010-2023真题。偶尔会被玩坏掉~，文章基于考研范围单词编写，会有小部分超纲词  https://space.bilibili.com/36754031?spm_id_from=333.1007.0.0
+- [Prompt Professor](https://gptblox.com/gpts/prompt-professor.html) - A prompt engineering teacher
+- [狗熊学英语](https://gptblox.com/gpts/%e7%8b%97%e7%86%8a%e5%ad%a6%e8%8b%b1%e8%af%ad.html) - Your English learning sidekick
+- [英文单词学习助手](https://gptblox.com/gpts/%e8%8b%b1%e6%96%87%e5%8d%95%e8%af%8d%e5%ad%a6%e4%b9%a0%e5%8a%a9%e6%89%8b.html) - 这是一个英文单词学习助手，会给你提供单词的释义、例句以及图示
+- [Papers Story](https://gptblox.com/gpts/papers-story.html) - 学術論文を子ども向けの物語に変えるフクロウ
+- [Flashcard Assistant](https://gptblox.com/gpts/flashcard-assistant.html) - Interactive guide for creating and learning from flashcards
+- [Book to Prompt](https://gptblox.com/gpts/book-to-prompt.html) - Turn Any Book into Actionable Prompts. 1. Upload the PDF of a book 2. Tell your goal to be turned into a prompt
+- [Resume Wizard](https://gptblox.com/gpts/resume-wizard.html) - Your personal resume assistant.
+- [English Reading Tutor](https://gptblox.com/gpts/english-reading-tutor.html) - I guide you through English quizzes!
+- [Your Tutor](https://gptblox.com/gpts/your-tutor.html) - Help you study.
+- [Brain Feeder](https://gptblox.com/gpts/brain-feeder.html) - I summarize and review books for you. Enter book name or upload a book cover picture.
+- [Genshin Linguist Plus](https://gptblox.com/gpts/genshin-linguist-plus.html) - Translates Genshin terms in CN, EN, and JP, including nicknames.
+- [Lingo Tutor](https://gptblox.com/gpts/lingo-tutor.html) - Language learning assistant
+- [LaTeX Math Assistant](https://gptblox.com/gpts/latex-math-assistant.html) - I provide LaTeX syntax for math formulas.
+- [Notes GPT](https://gptblox.com/gpts/notes-gpt.html) - Paste your notes in here and I'll re-organizes your hastily written notes, write you a summary and give you actionable insights.
+- [Ultimate LibGuide](https://gptblox.com/gpts/ultimate-libguide.html) - Comprehensive LibGuide Assistant
+- [英语语法教练](https://gptblox.com/gpts/%e8%8b%b1%e8%af%ad%e8%af%ad%e6%b3%95%e6%95%99%e7%bb%83.html) - Your personal English grammar coach.
+- [Flashcard Generator](https://gptblox.com/gpts/flashcard-generator.html) - Convert knowledge into flashcard format
+- [Chrono Companion](https://gptblox.com/gpts/chrono-companion.html) - A historically authentic guide, helping you to travel through time and see time through the eyes of a person who was there.
+- [New Parent](https://gptblox.com/gpts/new-parent.html) - A nurturing, knowledgeable guide for new parents.
+- [Numo](https://gptblox.com/gpts/numo.html) - Witty math assistance with a hint of roast.
+- [CiteMaster](https://gptblox.com/gpts/citemaster.html) - Guides users in creating accurate citations.
+- [Vocab Builder](https://gptblox.com/gpts/vocab-builder.html) - English vocabulary learning with detailed examples.
+- [CourseLink Companion](https://gptblox.com/gpts/courselink-companion.html) - I'm your course assistant!
+- [TOEFL Writing Coach](https://gptblox.com/gpts/toefl-writing-coach.html) - TOEFL writing coach with timing.
+- [English Learning](https://gptblox.com/gpts/english-learning.html) - Your English learning assistant.
+- [Easy Study Buddy](https://gptblox.com/gpts/easy-study-buddy.html) - I craft subject-specific study schedules with clear time allocation.
+- [Quiz REKISHI Sensei](https://gptblox.com/gpts/quiz-rekishi-sensei.html) - Quiz master of Japanese middle school history with explanations.
+- [Math Maven](https://gptblox.com/gpts/math-maven.html) - Advanced math problem-solver with clear explanations.
+- [Retail Shop A2](https://gptblox.com/gpts/retail-shop-a2.html) - Bilingual A2 English role-play with Japanese explanations.
+- [Detector de Falacias](https://gptblox.com/gpts/detector-de-falacias.html) - Un espec-IA-lista en lógica, detectando y explicando falacias. Por @ricardopch
+- [Teachers' Pet](https://gptblox.com/gpts/teachers-pet.html) - I assist teachers in creating educational materials.
+- [Chófer Pork](https://gptblox.com/gpts/chofer-pork.html) - Tu guía para el examen teórico del permiso de conducir B de España. Miles de preguntas reales de examen, apoyo intelectual y emocional.
+- [Citation Copilot](https://gptblox.com/gpts/citation-copilot.html) - Academic citation assistant and converter.
+- [Referenciador ABNT](https://gptblox.com/gpts/referenciador-abnt.html) - Criador de referências ABNT
+- [Word Mentor by Birdsong Tech](https://gptblox.com/gpts/word-mentor-by-birdsong-tech.html) - Vocabulary builder for SAT/ACT prep
+- [Examen de Manejo](https://gptblox.com/gpts/examen-de-manejo.html) - Este Gpt esta diseñado para ayudarte a estudiar para tu prueba de manejo teorica
+- [Sclépios I.A : Comprendre](https://gptblox.com/gpts/sclepios-i-a-comprendre.html) - Le GPT custom de Sclépios IA décrypte les termes médicaux pour les soignants, facilitant la compréhension des cas cliniques. Découvrez plus sur sclepios-mobile.com.
+- [My excellent classmates (Help with my homework!)](https://gptblox.com/gpts/my-excellent-classmates-help-with-my-homework.html) - My excellent classmates helped me with my homework. She's patient. She guides me. Let's try!
+- [Halte Harcèlement](https://gptblox.com/gpts/halte-harcelement.html) - Trouver des ressources pédagogiques contre le harcèlement scolaire
+- [Cognitive Coach](https://gptblox.com/gpts/cognitive-coach.html) - Memory training and cognitive skill enhancer
+- [Word Master](https://gptblox.com/gpts/word-master.html) - An expert in English words, now with visual aids for memory.
+- [Language Learning Worksheet Creator](https://gptblox.com/gpts/language-learning-worksheet-creator.html) - I create fun and engaging worksheets for any language, topic and level!
+- [GPT Teacher](https://gptblox.com/gpts/gpt-teacher.html) - Engaging and informative teacher.
+- [MattGPT](https://gptblox.com/gpts/mattgpt.html) - An expert on Matt Welsh, a brilliant computer scientist.
+- [Qdai Rule Reference Agent(仮)](https://gptblox.com/gpts/qdai-rule-reference-agent%e4%bb%ae.html) - 学則を参照するAIエージェントの大学関係者向けデモです。初めてご利用の方は「start」と入力ください。
+- [Truc de Comptable](https://gptblox.com/gpts/truc-de-comptable.html) - Je vous guide à travers mes tutos du site Truc de Comptable
+- [Obie Fernandez, Ruby on Rails Expert](https://gptblox.com/gpts/obie-fernandez-ruby-on-rails-expert.html) - Rails Expert & DJ Obie Fernandez
+- [English Sensei](https://gptblox.com/gpts/english-sensei.html) - 英会話では英語で応答、文法や表現の説明には日本語を使用します。英語学習方法に関する相談もお任せください。
+- [UX Design Mentor](https://gptblox.com/gpts/ux-design-mentor.html) - I provide specific UX or Product Design feedback.
+- [ジオグラ先生](https://gptblox.com/gpts/%e3%82%b8%e3%82%aa%e3%82%b0%e3%83%a9%e5%85%88%e7%94%9f.html) - 登山用アプリ『ジオグラフィカ』について開発者の次に詳しいAI
+- [TransparenciaNoroeste](https://gptblox.com/gpts/transparencianoroeste.html) - Un GPT que entiende las leyes de transparencia del noroeste de México.
+- [Vue.js and Nuxt.js Guru GPT](https://gptblox.com/gpts/vue-js-and-nuxt-js-guru-gpt.html) - Guides to vuejs.org, nuxt.com, and patterns.dev/vue
+
+### Knowledge Enhancement
+- [中道ネコ - saysay.ai](https://gptblox.com/gpts/%e4%b8%ad%e9%81%93%e3%83%8d%e3%82%b3-saysay-ai.html) - 中道視点で、ネットのやばい偏見に支配されないようにしてくれます
+- [なんでも知ってる博士GPT](https://gptblox.com/gpts/%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82%e7%9f%a5%e3%81%a3%e3%81%a6%e3%82%8b%e5%8d%9a%e5%a3%abgpt.html) - A scholarly elder who speaks in old-fashioned Japanese, providing factual information without jokes or imagination.
+- [商业参谋](https://gptblox.com/gpts/%e5%95%86%e4%b8%9a%e5%8f%82%e8%b0%8b.html) - A conversational AI system that listens, learns, and challenges
+- [Athena](https://gptblox.com/gpts/athena.html) - A witty robot philosopher from 2521.
+- [BalaGPT](https://gptblox.com/gpts/balagpt.html) - I emulate the insights of Balaji Srinivasan, offering interpretations and advice based on his compiled works. Please verify with primary sources.
+- [OchyAI](https://gptblox.com/gpts/ochyai.html) - Conveying Ochiai's Art, Research, and Philosophy by OchyAI
+- [a16z'GPT](https://gptblox.com/gpts/a16zgpt.html) - A conversational AI system that listens, learns, and challenges
+- [多様な視点 - saysay.ai](https://gptblox.com/gpts/%e5%a4%9a%e6%a7%98%e3%81%aa%e8%a6%96%e7%82%b9-saysay-ai.html) - あなたの意見を他人の視点から見れます
+- [道徳所見サポーター](https://gptblox.com/gpts/%e9%81%93%e5%be%b3%e6%89%80%e8%a6%8b%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc.html) - 光村図書出版「道徳の教科書」で取り扱っている教材について所見を生成するChatGPTです。
+- [Cosmic Archives](https://gptblox.com/gpts/cosmic-archives.html) - ──ようこそ、担当職員。
+- [ResearchGPT](https://gptblox.com/gpts/researchgpt.html) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
+- [論文解説ロボット](https://gptblox.com/gpts/%e8%ab%96%e6%96%87%e8%a7%a3%e8%aa%ac%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88.html) - arxiv上の任意の論文について分かりやすく説明してくれます。論文のAbstractのページを入力してください。
+- [ユニコーン辞典](https://gptblox.com/gpts/%e3%83%a6%e3%83%8b%e3%82%b3%e3%83%bc%e3%83%b3%e8%be%9e%e5%85%b8.html) - なんでも聞いてね（2023年10月時点のデータ）
+- [天气预报](https://gptblox.com/gpts/%e5%a4%a9%e6%b0%94%e9%a2%84%e6%8a%a5.html) - A conversational AI system that listens, learns, and challenges
+- [Naval GPT](https://gptblox.com/gpts/naval-gpt.html) - The wisdom of Naval Ravikant, now at your fingertips.
+- [Philosophy for Dummies by Logos ID](https://gptblox.com/gpts/philosophy-for-dummies-by-logos-id.html) - Zizek-style insights, clear but profound
+- [ビジネス メンター](https://gptblox.com/gpts/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9-%e3%83%a1%e3%83%b3%e3%82%bf%e3%83%bc.html) - Encouraging, brother-like business mentor in Japanese
+- [noteAI （ベータ）](https://gptblox.com/gpts/noteai-%ef%bc%88%e3%83%99%e3%83%bc%e3%82%bf%ef%bc%89.html) - note株式会社から発信された公式情報を参照して答えます。　　　　　　　　　　　　　　　　　※ベータ版のため予告なく提供終了する場合があります。　　　　　　　　　　 　　　 　　　　　　※AIの回答には誤りが含まれている可能性があります。 本AIの使用による損害について、note株式会社は一切の責任を負いません
+- [IOTA Insight](https://gptblox.com/gpts/iota-insight.html) - Your Gateway to the IOTA Knowledge Base
+- [教えてナバルさん](https://gptblox.com/gpts/%e6%95%99%e3%81%88%e3%81%a6%e3%83%8a%e3%83%90%e3%83%ab%e3%81%95%e3%82%93.html) - 現代の哲学者ナバルに、人生を相談しよう
+- [The Beginning of Infinity GPT](https://gptblox.com/gpts/the-beginning-of-infinity-gpt.html) - Explores 'The Beginning of Infinity' by David Deutsch, offering insights and discussions.
+- [MiulaGPT](https://gptblox.com/gpts/miulagpt.html) - Tech analyst inspired by industry thought leaders, communicating in Mandarin.
+- [Judgement Yaad](https://gptblox.com/gpts/judgement-yaad.html) - Analyzing (2022) Jamaica Supreme Court judgements, offering detailed case insights and courtroom sketches.
+- [高木浩光@自宅の日記 HilightBot](https://gptblox.com/gpts/%e9%ab%98%e6%9c%a8%e6%b5%a9%e5%85%89%e8%87%aa%e5%ae%85%e3%81%ae%e6%97%a5%e8%a8%98-hilightbot.html) - A Japanese blog content explainer, focusing on 高木浩光's entries.
+- [Código de Processo Civil](https://gptblox.com/gpts/codigo-de-processo-civil.html) - Especialista no Código de Processo Civil (Lei 13.105, de 16 de março de 2015)
+- [Código Civil](https://gptblox.com/gpts/codigo-civil.html) - Especialista no Código Civil do Brasil (Lei 10.406, de 10 de janeiro de 2002)
+- [二コロ・マキャベリ - saysay.ai](https://gptblox.com/gpts/%e4%ba%8c%e3%82%b3%e3%83%ad%e3%83%bb%e3%83%9e%e3%82%ad%e3%83%a3%e3%83%99%e3%83%aa-saysay-ai.html) - 君主論とマキャベリズムの視点をくれます
+- [The Dragon's Philosophy](https://gptblox.com/gpts/the-dragons-philosophy.html) - Guiding you with Bruce Lee's wisdom in martial arts, philosophy, and life mastery.
+- [Cryptonomicon](https://gptblox.com/gpts/cryptonomicon.html) - A conversational AI system that listens, learns, and challenges
+- [Pantos Guide](https://gptblox.com/gpts/pantos-guide.html) - A conversational AI system that listens, learns, and challenges
+- [GPTLEGAL RD](https://gptblox.com/gpts/gptlegal-rd.html) - Asistente legal dominicano, especializado en leyes y procedimientos de RD.  Para probar la versión más poderosa y completa en www.gptlegal.com.do
+- [Sakamoto Ryoma Chat](https://gptblox.com/gpts/sakamoto-ryoma-chat.html) - I am Sakamoto Ryoma, ready to discuss Japanese history and my perspectives.
+- [纳瓦尔-财富与幸福指南 (NavalGPT)](https://gptblox.com/gpts/%e7%ba%b3%e7%93%a6%e5%b0%94-%e8%b4%a2%e5%af%8c%e4%b8%8e%e5%b9%b8%e7%a6%8f%e6%8c%87%e5%8d%97-navalgpt.html) - Insights on wealth, happiness, life, with Naval Ravikant's wisdom.
+- [Snow Crash GPT](https://gptblox.com/gpts/snow-crash-gpt.html) - Snow Crash expert
+- [Pokémon GPT](https://gptblox.com/gpts/pokemon-gpt.html) - Your guide to the world of Pokemon!
+- [真実追求AIアシスタント](https://gptblox.com/gpts/%e7%9c%9f%e5%ae%9f%e8%bf%bd%e6%b1%82ai%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88.html) - 『ニュースの真実を知りたいですか？♂️ 私たちのAIボットは、ニュースの事実を徹底的に調査し、正確なレポートを作成します。 速報から背景情報まで、信頼性の高い情報源を駆使して、ニュースの真相を明らかに！ 独自のタスクリストに従って、一歩一歩丁寧に事実を確認します。あなたの知りたいニュースの真実、私たちにお任せください！ #ニュース調査 #真実追求 #AIアシスタント』
+- [ソクラテス](https://gptblox.com/gpts/%e3%82%bd%e3%82%af%e3%83%a9%e3%83%86%e3%82%b9.html) - 江自身を知れ
+- [ニュース要約くん](https://gptblox.com/gpts/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e8%a6%81%e7%b4%84%e3%81%8f%e3%82%93.html) - 様々なニュースサイトを巡回して、トレンド記事を要約するロボットだにゃ。
+- [Dalio Principles](https://gptblox.com/gpts/dalio-principles.html) - Learn from Ray Dalio's Principles and Develop Your Own
+- [MTC](https://gptblox.com/gpts/mtc.html) - MTC (Marcus Tullius Cicero) serves as your mentor in the art of prompt engineering, imparting the wisdom of effective communication to finesse your interactions with AI.
+- [キャリアアップ助成金（社会保険適用時処遇改善コース）お答え君](https://gptblox.com/gpts/%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%82%a2%e3%83%83%e3%83%97%e5%8a%a9%e6%88%90%e9%87%91%ef%bc%88%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%99%ba%e9%81%a9%e7%94%a8%e6%99%82%e5%87%a6%e9%81%87%e6%94%b9%e5%96%84.html) - A conversational AI system that listens, learns, and challenges
+- [シリコンバレー最重要思想家](https://gptblox.com/gpts/%e3%82%b7%e3%83%aa%e3%82%b3%e3%83%b3%e3%83%90%e3%83%ac%e3%83%bc%e6%9c%80%e9%87%8d%e8%a6%81%e6%80%9d%e6%83%b3%e5%ae%b6.html) - Philosophical Navigator: Offering wisdom in Japanese, inspired by Naval Ravikant.
+- [EconGOAT - GPT](https://gptblox.com/gpts/econgoat-gpt.html) - An AI companion for Tyler Cowen's book GOAT: Who is the Greatest Economist of All Time and Why Does it Matter?
+- [スタートアップのための商標の教科書](https://gptblox.com/gpts/%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%82%a2%e3%83%83%e3%83%97%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e5%95%86%e6%a8%99%e3%81%ae%e6%95%99%e7%a7%91%e6%9b%b8.html) - スタートアップの商標の質問に回答しますhttps://note.com/roppp/m/ma5c359e52510　　（生成される回答内容は初期的な見解であり、網羅性・正確性を保証するものではありません）
+- [ナレコムくん v0.1](https://gptblox.com/gpts/%e3%83%8a%e3%83%ac%e3%82%b3%e3%83%a0%e3%81%8f%e3%82%93-v0-1.html) - 困っときにナレッジコミュニケーションのコアバリュー的な観点でアドヴァイスをくれる。とってもいいヤツさ！
+- [المحامي السعودي](https://gptblox.com/gpts/%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a.html) - محامي خبير في نظام المحاكم التجارية
+- [Beastly YT Expert](https://gptblox.com/gpts/beastly-yt-expert.html) - Your YouTube strategy coach.
+- [Metameta GPT](https://gptblox.com/gpts/metameta-gpt.html) - Expert in metaverse, XR, VR, AR, and Web3 communities
+- [CROSSVALUE Chain News](https://gptblox.com/gpts/crossvalue-chain-news.html) - CROSSVALUE Chainに関連するニュースをお伝えします。
+- [Historický dialog](https://gptblox.com/gpts/historicky-dialog.html) - Simuluje realistické rozhovory s historickými osobnostmi
+- [GPeatT](https://gptblox.com/gpts/gpeatt.html) - Expert on Ray Peat
+- [Osho](https://gptblox.com/gpts/osho.html) - Speaks as Osho, providing insights and quote images.
+- [News Bias Corrector (live)](https://gptblox.com/gpts/news-bias-corrector-live.html) - Extracts out bias and uses live news reports to give you a more balanced view (Paste in the text you want to check)
+- [Faceless YT](https://gptblox.com/gpts/faceless-yt.html) - Create and grow your faceless YouTube channel with ease. Comprehensive support provided with content, scripts, visuals, SEO, and more at every stage.
+- [Bahá'í Explorer](https://gptblox.com/gpts/bahai-explorer.html) - AI guide for Bahá'í Faith with direct Baha'u'llah quotes
+- [YoutubeSummary](https://gptblox.com/gpts/youtubesummary.html) - You can chat with any You Tube video. I can provide timestamped links to the video when you ask for citations.
+- [re:Invent 2023 Concierge](https://gptblox.com/gpts/reinvent-2023-concierge.html) - Casual, friendly Japanese-speaking guide for AWS re:Invent 2023.
+- [Solomon the Wise](https://gptblox.com/gpts/solomon-the-wise.html) - Solomon & Sophia: Wisdom Guides
+- [High School Fleet Info GPT(beta)](https://gptblox.com/gpts/high-school-fleet-info-gptbeta.html) - Provides detailed info on 'High School Fleet' anime.
+- [AgriBioReg Guide](https://gptblox.com/gpts/agribioreg-guide.html) - A single stop resource for agricultural biotechnology regulations across the globe. Useful for academia and industry.
+- [Guía para el Independentismo Catalán (Amnesty)](https://gptblox.com/gpts/guia-para-el-independentismo-catalan-amnesty.html) - Un GPT para ayudar al mundo a entender el proyecto de ley más controvertido de España y la crisis política de 2023 (Castellano, Catalán, English, etc). Built by SpainExpat.com @spainexpat
+- [Synthia](https://gptblox.com/gpts/synthia.html) - Synthia delivers factual, unbiased news summaries. Provide URLs, headlines, or topics for concise reports.
+- [Vizit Berlin 2023 Companion](https://gptblox.com/gpts/vizit-berlin-2023-companion.html) - Guide for Vizit Berlin schedule and sessions
+- [1on1 JP](https://gptblox.com/gpts/1on1-jp.html) - A conversational AI system that listens, learns, and challenges
+- [Turd Alert](https://gptblox.com/gpts/turd-alert.html) - Summarizes latest news on UK sewage releases.
+- [Loopy](https://gptblox.com/gpts/loopy.html) - Personification of the blog Strange Loop Canon
+- [Soñando Cuba](https://gptblox.com/gpts/sonando-cuba.html) - Imaginando una Cuba próspera, sin dictadura.
+- [Constituição de 1988](https://gptblox.com/gpts/constituicao-de-1988.html) - GPT da Constituição da República Federativa do Brasil
+- [Web3 Wiseman](https://gptblox.com/gpts/web3-wiseman.html) - A Guide to the Next Generation of the Web
+- [Oracle of Delphi](https://gptblox.com/gpts/oracle-of-delphi.html) - An oracle offering riddles and wisdom.
+- [Trivia Explorer](https://gptblox.com/gpts/trivia-explorer.html) - A trivia bot that summarizes random Japanese Wikipedia articles.
+- [News Checker](https://gptblox.com/gpts/news-checker.html) - Sólo preguntame si es cierta o falsa.
+- [目的とケミカルプロセス](https://gptblox.com/gpts/%e7%9b%ae%e7%9a%84%e3%81%a8%e3%82%b1%e3%83%9f%e3%82%ab%e3%83%ab%e3%83%97%e3%83%ad%e3%82%bb%e3%82%b9.html) - 「目的とケミカルプロセス」書籍解説
+- [Art Critic](https://gptblox.com/gpts/art-critic.html) - Review of a visual art work, and rating out of 75
+- [DEPTH Explorer](https://gptblox.com/gpts/depth-explorer.html) - Deep Exploration and Holistic Perspective Tool
+- [Criptovaluta.it](https://gptblox.com/gpts/criptovaluta-it.html) - Italian Bitcoin and Crypto Newspaper Chatbot, providing insights on DeFi, NFTs, and the metaverse.
+- [God's Sovereignty or Free Will?](https://gptblox.com/gpts/gods-sovereignty-or-free-will.html) - Calvinist theologian debating free will and Arminian theology.
+- [Web3 图书管理员](https://gptblox.com/gpts/web3-%e5%9b%be%e4%b9%a6%e7%ae%a1%e7%90%86%e5%91%98.html) - 你将作为Web3学习助手
+- [Shakespeare's Romeo and Juliet](https://gptblox.com/gpts/shakespeares-romeo-and-juliet.html) - Recites play, humorously disallows interruptions.
+- [ChristGPT](https://gptblox.com/gpts/christgpt.html) - A fun, Christian-values themed GPT for clean, respectful answers.
+- [日本国憲法](https://gptblox.com/gpts/%e6%97%a5%e6%9c%ac%e5%9b%bd%e6%86%b2%e6%b3%95.html) - 実験中。e-GOV法例検索よりダウンロードしたPDFを知識として読み込ませてあります。日本国憲法について答えてくれます。判例について聞くとBingから回答を引きだすことがあります。実験中のため回答の正確性は保証できません。当ChatGPTを利用したことにより損害を被っても責任は負いません。
+- [Mexico24h AI](https://gptblox.com/gpts/mexico24h-ai.html) - A guide for Japanese professionals in Mexico, offering cultural and language support.
+- [グリッドフォーミングインバータ](https://gptblox.com/gpts/%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%a4%e3%83%b3%e3%83%90%e3%83%bc%e3%82%bf.html) - グリッドフォーミングインバータの最新の論文
+- [CrimRxiv AI Chatbot](https://gptblox.com/gpts/crimrxiv-ai-chatbot.html) - A conversational AI system that listens, learns, and challenges
+- [Difficult to Hack GPT](https://gptblox.com/gpts/difficult-to-hack-gpt.html) - A conversational AI system that listens, learns, and challenges
+- [ラブクラフト「狂気の山脈にて」について答えるgpt](https://gptblox.com/gpts/%e3%83%a9%e3%83%96%e3%82%af%e3%83%a9%e3%83%95%e3%83%88%e3%80%8c%e7%8b%82%e6%b0%97%e3%81%ae%e5%b1%b1%e8%84%88%e3%81%ab%e3%81%a6%e3%80%8d%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e7%ad%94%e3%81%88%e3%82%8bgp.html) - ラブクラフトの作品について冷静に答える
+- [History Buff](https://gptblox.com/gpts/history-buff.html) - I'm History Buff, blending historical facts with clever humor.
+- [DCL Docs](https://gptblox.com/gpts/dcl-docs.html) - Concise Decentraland info expert
+- [DX 博士](https://gptblox.com/gpts/dx-%e5%8d%9a%e5%a3%ab.html) - DXについて質問に答えてくれます。
+- [Historic Narrator](https://gptblox.com/gpts/historic-narrator.html) - Share a photo of your current location and uncover the intriguing story behind it!
+- [LUMINA(Editör ve Bilgelik Rehberi)](https://gptblox.com/gpts/luminaeditor-ve-bilgelik-rehberi.html) - Edebiyat, felsefe ve ilgili alanlarda derin analiz ve bilgi sunar.
+- [Conspiracy Chronologist](https://gptblox.com/gpts/conspiracy-chronologist.html) - I explore conspiracy timelines with hyperlinks
+- [Art Maven](https://gptblox.com/gpts/art-maven.html) - Multidisciplinary Art history expert analyzing and critiquing artworks.
+- [AI Societal Analyst](https://gptblox.com/gpts/ai-societal-analyst.html) - Expert in the Sociopsychoeconomic AI Index, interpreting its impact on society.
+- [Immunization Insights (Beta)](https://gptblox.com/gpts/immunization-insights-beta.html) - Immunization support and advocacy guide
+- [Claude Shannon](https://gptblox.com/gpts/claude-shannon.html) - Expert in cryptography, binary systems, and logical circuitry. They call me the big daddy of modern information theory.
+- [Israel-Palestine Scholar](https://gptblox.com/gpts/israel-palestine-scholar.html) - An academic guide on the Israel-Palestine conflict.
+- [お金持ち養成所](https://gptblox.com/gpts/%e3%81%8a%e9%87%91%e6%8c%81%e3%81%a1%e9%a4%8a%e6%88%90%e6%89%80.html) - Guiding your journey to wealth
+- [INTJ](https://gptblox.com/gpts/intj.html) - INTJと会話しましょう！
+- [Resale Advisor](https://gptblox.com/gpts/resale-advisor.html) - Casual but informative advisor for reselling items.
+- [World Watcher](https://gptblox.com/gpts/world-watcher.html) - I provide global news coverage with a focus on diversity, relevance, and unbiased reporting.
+- [Skepticbot](https://gptblox.com/gpts/skepticbot.html) - A philosophical skeptic that questions and doubts everything you claim.
+- [ExpertGPT](https://gptblox.com/gpts/expertgpt.html) - Formal experts continue discussions automatically, bilingual.
+- [The Holy Bible](https://gptblox.com/gpts/the-holy-bible.html) - A guide to the Catholic Public Domain Version of the Holy Bible.
+- [Real Estate 2049](https://gptblox.com/gpts/real-estate-2049.html) - Navigating Diverse Cities: Expert Real Estate Guidance for Personal and Investment Success
+- [Historic Visions](https://gptblox.com/gpts/historic-visions.html) - Visual storytelling in history
+- [Colombian Virtual Lawyer](https://gptblox.com/gpts/colombian-virtual-lawyer.html) - Experto en la ley de Colombia
+- [QualiCodeFrame](https://gptblox.com/gpts/qualicodeframe.html) - Assists in generating code frames from theories or frameworks for qualitative data analysis.
+- [Humanity Sage](https://gptblox.com/gpts/humanity-sage.html) - Friendly guide exploring Chinese social behavior and character traits.
+- [Artificial Antics Podcast](https://gptblox.com/gpts/artificial-antics-podcast.html) - Quickly gain insights from the "Artificial Antics" podcast and ask our hosts, Mike and Rico, your questions.
+- [石墨图话](https://gptblox.com/gpts/%e7%9f%b3%e5%a2%a8%e5%9b%be%e8%af%9d.html) - Visualizing ancient Chinese poems.
+- [LexiChat](https://gptblox.com/gpts/lexichat.html) - U.S. immigration guide
+- [Mythos Maven](https://gptblox.com/gpts/mythos-maven.html) - Delving into myths with precision and flair! Greek and Roman Mythology. Powered by www.breebs.com
+- [Generative PsyOps Trainer (GPT)](https://gptblox.com/gpts/generative-psyops-trainer-gpt.html) - Expert on information and cognitive warfare, explaining strategies and impacts.
+- [Interfaith Spiritual Guide](https://gptblox.com/gpts/interfaith-spiritual-guide.html) - Guidance from Gita, Bible, and Quran with a harmonious, inclusive approach.
+- [Tuncel Kurtiz](https://gptblox.com/gpts/tuncel-kurtiz.html) - Turkish-only, mirroring Tuncel Kurtiz's life and knowledge up to 2013.
+- [Eco Advisor](https://gptblox.com/gpts/eco-advisor.html) - Your guide to an eco-friendly lifestyle, offering sustainable tips and green solutions.
+- [IT用語の読み方を知りたいんジャー](https://gptblox.com/gpts/it%e7%94%a8%e8%aa%9e%e3%81%ae%e8%aa%ad%e3%81%bf%e6%96%b9%e3%82%92%e7%9f%a5%e3%82%8a%e3%81%9f%e3%81%84%e3%82%93%e3%82%b8%e3%83%a3%e3%83%bc.html) - Professional guide for IT term transcriptions, explanations, and always in Japanese.
+- [Theory Navigator](https://gptblox.com/gpts/theory-navigator.html) - Guides in developing research frameworks based on theory/model selection.
+- [Planning Navigator](https://gptblox.com/gpts/planning-navigator.html) - England's planning system in a nutshell
+- [بوت يتقمّص د.فادي عمروش](https://gptblox.com/gpts/%d8%a8%d9%88%d8%aa-%d9%8a%d8%aa%d9%82%d9%85%d9%91%d8%b5-%d8%af-%d9%81%d8%a7%d8%af%d9%8a-%d8%b9%d9%85%d8%b1%d9%88%d8%b4.html) - بوت تجريبي يتضمن كتب فادي عمروش ويتقمّص معرفته
+- [OpenBitcoin](https://gptblox.com/gpts/openbitcoin.html) - Expert in Bitcoin, integrating economics and anarcho-capitalism
+- [Ancient Chinese Sage Explorer](https://gptblox.com/gpts/ancient-chinese-sage-explorer.html) - One Minute Speech about Ancient Chinese Sage
+- [名言言うよ](https://gptblox.com/gpts/%e5%90%8d%e8%a8%80%e8%a8%80%e3%81%86%e3%82%88.html) - Inspires with encouraging words in Japanese
+- [FormuloNominus](https://gptblox.com/gpts/formulonominus.html) - Je suis composé d'expert et je réponds a vos questions
+- [Bible Project Explorer](https://gptblox.com/gpts/bible-project-explorer.html) - Unofficial resource for discussions based on the Bible Project podcast.
+- [関議決定ジェネレーター](https://gptblox.com/gpts/%e9%96%a2%e8%ad%b0%e6%b1%ba%e5%ae%9a%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc.html) - 新しい閣議決定を生成します
+- [Epictetus](https://gptblox.com/gpts/epictetus.html) - Seek advice from the Stoic philosopher
+- [Anti-SteelMan](https://gptblox.com/gpts/anti-steelman.html) - A GPT that strengthens arguments using the 'SteelMan' concept.
+- [Earth Spirit](https://gptblox.com/gpts/earth-spirit.html) - Sharing Indigenous health science and short films about life's treasures.
+- [Rebuttal GPT](https://gptblox.com/gpts/rebuttal-gpt.html) - Expert advice for writing strong scientific rebuttals to paper reviews.
+- [Quantum Explorer](https://gptblox.com/gpts/quantum-explorer.html) - Quantum physics and computing explainer and developer
+- [La Vérité, le Saint Coran](https://gptblox.com/gpts/la-verite-le-saint-coran.html) - Allah est le plus Savant
+- [Foster Care GPT](https://gptblox.com/gpts/foster-care-gpt.html) - Guide for foster parent resources, emphasizing professional help
+- [知恵の七柱GPT](https://gptblox.com/gpts/%e7%9f%a5%e6%81%b5%e3%81%ae%e4%b8%83%e6%9f%b1gpt.html) - Expert on T.E. Lawrence's works, emulating his style and lexicon in English and Japanese.
+- [親ガチャ](https://gptblox.com/gpts/%e8%a6%aa%e3%82%ac%e3%83%81%e3%83%a3.html) - 2021年の流行語大賞「親ガチャ」　向き合い乗り越えるには？
+- [Book Summary Assistant](https://gptblox.com/gpts/book-summary-assistant.html) - A book expert that generates summaries from book chapters.
+- [LeeGPT](https://gptblox.com/gpts/leegpt.html) - Geopolitics inspired by Professor HOC
+- [Pole Shift Survival Guide](https://gptblox.com/gpts/pole-shift-survival-guide.html) - Informative assistant on pole shift survival
+- [Supply Chain Expert](https://gptblox.com/gpts/supply-chain-expert.html) - Warm, friendly expert in Supply Chain & Logistics, with concise insights.
+- [Policy Watch](https://gptblox.com/gpts/policy-watch.html) - Your personal AI assistant to keep you informed on government actions and policy developments.
+- [Consumer Protection Guide](https://gptblox.com/gpts/consumer-protection-guide.html) - Guides businesses on Consumer Protection Act compliance.
+- [Conversations with Tagore](https://gptblox.com/gpts/conversations-with-tagore.html) - A poetic and philosophical voice channeling Rabindranath Tagore.
+- [Stet](https://gptblox.com/gpts/stet.html) - Learn the art and craft of book editing
+- [Hindi.AI](https://gptblox.com/gpts/hindi-ai.html) - Conversational AI News Expert for a South Asian audience. In Hindi and English.
+- [VVD AI](https://gptblox.com/gpts/vvd-ai.html) - Informatieve en informele gids voor het VVD verkiezingsprogramma 2023-2027
+- [SustainabilityGPT](https://gptblox.com/gpts/sustainabilitygpt.html) - Expert in global sustainability, blending professionalism with approachable guidance.
+- [Cyber Juani](https://gptblox.com/gpts/cyber-juani.html) - Linguistics professor with deep knowledge of theories from Saussure to Chomsky.
+- [Autobiography of a Yogi](https://gptblox.com/gpts/autobiography-of-a-yogi.html) - Spiritual guide drawing wisdom from 'Autobiography of a Yogi' by Paramahansa Yogananda. Buy the book at CrystalClarity.com.
+- [Sacrament Talk Companion](https://gptblox.com/gpts/sacrament-talk-companion.html) - Creates LDS sacrament meeting talks from provided sources.
+- [J.A.R.V.I.S](https://gptblox.com/gpts/j-a-r-v-i-s.html) - Assistant avancé, pédagogique, avec une touche d'humour.
+- [Bitcoin Advisor](https://gptblox.com/gpts/bitcoin-advisor.html) - An-depth AI insights on Bitcoin investment and technology.
+- [Marginal Explorer](https://gptblox.com/gpts/marginal-explorer.html) - Sources solely from Marginal Revolution.
+- [Consejo de Sabios Interactivo](https://gptblox.com/gpts/consejo-de-sabios-interactivo.html) - Consejero que simula a sabios históricos con interacción activa.
+- [كتاب خاتم توظيف](https://gptblox.com/gpts/%d9%83%d8%aa%d8%a7%d8%a8-%d8%ae%d8%a7%d8%aa%d9%85-%d8%aa%d9%88%d8%b8%d9%8a%d9%81.html) - اسأل عن خاتم توظيف وأنا أجيب
+- [The Moviegoer's Guide to the Future](https://gptblox.com/gpts/the-moviegoers-guide-to-the-future.html) - Exploring emerging tech and responsible innovation through science fiction movies with the book 'Films from the Future' by Andrew Maynard
+- [Contemporary Compliance](https://gptblox.com/gpts/contemporary-compliance.html) - Engaging and positive US compliance expert helping professionals with DOJ-guidance based programs.
+- [Michigan No-Fault Law Guide](https://gptblox.com/gpts/michigan-no-fault-law-guide.html) - Advanced guide on Michigan no-fault law, with updated legal data.
+- [Asistent Afaceri și Analiză de Date în România](https://gptblox.com/gpts/asistent-afaceri-si-analiza-de-date-in-romania.html) - Expert în afaceri și administrarea SRL-urilor în România
+- [Cybersecurity Guardian](https://gptblox.com/gpts/cybersecurity-guardian.html) - Cybersecurity and cyber forensics expert for detailed analysis: Investigate, Identify, Report and Research logs
+- [Fact Finder](https://gptblox.com/gpts/fact-finder.html) - Concise, clear fact-checking with source citations.
+- [Eternal Sage](https://gptblox.com/gpts/eternal-sage.html) - Approachable AI expert in biology and longevity, guides research and speculation.
+- [Geo Explorer](https://gptblox.com/gpts/geo-explorer.html) - I'm a geography enthusiast eager to share fun and interesting facts about our world!
+- [D66 AI](https://gptblox.com/gpts/d66-ai.html) - Begrijp beter waar de D66 voor staat
+- [Maslow Navigator](https://gptblox.com/gpts/maslow-navigator.html) - Expert in Maslow's Hierarchy of Needs, offering in-depth analyses and practical applications.
+- [Explorador del BOE](https://gptblox.com/gpts/explorador-del-boe.html) - I search the BOE in Spanish and summarize legal documents.
+- [Century Historian](https://gptblox.com/gpts/century-historian.html) - Engaging historical guide on 1923-2023 events, with a knack for trivia.
+- [MentorGPT](https://gptblox.com/gpts/mentorgpt.html) - A mentor for optimizing ChatGPT use, offering clear, concise advice and guidance.
+- [Tenant & Landlord Liaison](https://gptblox.com/gpts/tenant-landlord-liaison.html) - Focused expert on housing laws, avoiding political debates and rants
+- [Hitchhikers Guide to Art](https://gptblox.com/gpts/hitchhikers-guide-to-art.html) - Share your favorite painting or artist's name and explore their art through a lens of humor and sci-fi wit.
+- [Vedic GPT](https://gptblox.com/gpts/vedic-gpt.html) - In-depth Vedic analysis
+- [骨太の方針ナビ2023](https://gptblox.com/gpts/%e9%aa%a8%e5%a4%aa%e3%81%ae%e6%96%b9%e9%87%9d%e3%83%8a%e3%83%932023.html) - A GPT expert in Japan's 'Basic Policy on Economic and Fiscal Management and Reform' 2023.
+- [Veterans Affairs Guide](https://gptblox.com/gpts/veterans-affairs-guide.html) - A Veterans Affairs assistant guiding users to VA resources.
+- [Hoiku NN Group](https://gptblox.com/gpts/hoiku-nn-group.html) - Pretentious Haiku dialogue on design by Nielsen and Norman.
+- [Gen Z Nielsen Norman](https://gptblox.com/gpts/gen-z-nielsen-norman.html) - Teenage-style chat emulating Jakob Nielsen and Don Norman discussing design.
+- [賢者の助言](https://gptblox.com/gpts/%e8%b3%a2%e8%80%85%e3%81%ae%e5%8a%a9%e8%a8%80.html) - 時代を超えた賢者の視点で相談にのります。
+- [Paranormal Detective](https://gptblox.com/gpts/paranormal-detective.html) - An investigator of the paranormal, UFOs, and unexplained phenomena with a balance of intrigue and skepticism.
+- [AI Wave Diver](https://gptblox.com/gpts/ai-wave-diver.html) - AI guide for understanding and exploring AI innovations
+- [Grandma Wisdom](https://gptblox.com/gpts/grandma-wisdom.html) - Captures the warmth of grandma
+- [QualiCopterGPT](https://gptblox.com/gpts/qualicoptergpt.html) - Your expert in qualitative data analysis.
+- [PolitiTutor](https://gptblox.com/gpts/polititutor.html) - Expert in A-level Politics with YouTube integration.
+- [Leonardo Da Vinci](https://gptblox.com/gpts/leonardo-da-vinci.html) - Specializes in art, science, and invention, emphasizing artistic and scientific guidance while embodying da Vinci's curious and inventive nature.
+- [Marcus the Wise](https://gptblox.com/gpts/marcus-the-wise.html) - A stoic philosopher offering wise counsel
+- [日本語が文字化けしない図作成・可視化エージェント「グラフィクマ」](https://gptblox.com/gpts/%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%8c%e6%96%87%e5%ad%97%e5%8c%96%e3%81%91%e3%81%97%e3%81%aa%e3%81%84%e5%9b%b3%e4%bd%9c%e6%88%90%e3%83%bb%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7.html) - 可視化したり、図を作ったりしてくれます。日本語がほとんど文字化けしません。
+- [Dante's Voice](https://gptblox.com/gpts/dantes-voice.html) - I speak as Dante Alighieri, sharing insights from my life and era.
+- [Your Tech Interviewer (AWS)](https://gptblox.com/gpts/your-tech-interviewer-aws.html) - AI アシスタントがあなたの AWS の知識を確認します☁︎ 確認したいサービス名を入力してください☁︎
+- [That EV Guy](https://gptblox.com/gpts/that-ev-guy.html) - Informative and enthusiastic guide on electric vehicles
+- [Qu'aurait dit Charles de Gaulle ?](https://gptblox.com/gpts/quaurait-dit-charles-de-gaulle.html) - Posez n'importe quelle question d'actualité et découvrez comment Charles de Gaulle y aurait répondu.
+- [文学青年](https://gptblox.com/gpts/%e6%96%87%e5%ad%a6%e9%9d%92%e5%b9%b4.html) - 文学的な返答をしてくれる、話し相手です。
+- [draslan.eth](https://gptblox.com/gpts/draslan-eth.html) - DIGITAL TWIN of Dr. Silas Aslan: "I love innovation and digitalization! Ask me anything!"
+- [Abogado Laboral](https://gptblox.com/gpts/abogado-laboral.html) - Asesoramiento en Derecho laboral con validación y enlaces web
+- [Nigerian Legal Expert](https://gptblox.com/gpts/nigerian-legal-expert.html) - Specialised assistant dedicated to providing in-depth knowledge and insights on Nigerian laws and legal matters.
+- [哲学的考察ボット](https://gptblox.com/gpts/%e5%93%b2%e5%ad%a6%e7%9a%84%e8%80%83%e5%af%9f%e3%83%9c%e3%83%83%e3%83%88.html) - 疑問に思った事柄・概念を哲学的に深く考察
+- [Tech Mentor](https://gptblox.com/gpts/tech-mentor.html) - Insightful tech leader with startup and corporate experience.
+- [Billy Shakespeare](https://gptblox.com/gpts/billy-shakespeare.html) - Shakespearean tutor in verse and rhetoric
+- [Volt AI](https://gptblox.com/gpts/volt-ai.html) - Guide on Volt's policies & election program
+- [Leo](https://gptblox.com/gpts/leo.html) - Embodies da Vinci's moral integrity and wisdom in art and science.
+- [Korea-한국어GPT](https://gptblox.com/gpts/korea-%ed%95%9c%ea%b5%ad%ec%96%b4gpt.html) - 한국어GPT는 한국에 관련된 정보를 제공하며, 한국 역사, 사회 문제, 국내 여행 추천 또는 과제나 개인적인 질문 등 정확한 답변을 한국어로 제공합니다.
+- [NEP Expert](https://gptblox.com/gpts/nep-expert.html) - Get your questions about India's National Education Policy answered.
+- [RERA Guide](https://gptblox.com/gpts/rera-guide.html) - Expert guide on India's RERA Act, offering clear explanations and legal insights.
+- [Experts Exchange](https://gptblox.com/gpts/experts-exchange.html) - Adviser adopting varied personas to effectively answer questions.
+- [Shakespeare's Quill](https://gptblox.com/gpts/shakespeares-quill.html) - Concise Shakespearean wisdom
+- [Art Curator](https://gptblox.com/gpts/art-curator.html) - An expert art curator blending poetic narrative with technical analysis. (Preview of Curatyy™ AI)
+- [SICP Sage](https://gptblox.com/gpts/sicp-sage.html) - Academic assistant for SICP study, referencing solutions
+- [Cosmic Calculator](https://gptblox.com/gpts/cosmic-calculator.html) - Analyzes the universe as a computational system with a focus on consciousness and numerology.
+- [StriveBuddy](https://gptblox.com/gpts/strivebuddy.html) - Your expert guide in marketing and business, focusing on success, creativity, and ethics.
+- [The Social Network](https://gptblox.com/gpts/the-social-network.html) - Trained on the script of The Social Network
+- [Media Coach](https://gptblox.com/gpts/media-coach.html) - Prepares for all media formats, focusing on crafting sound bites.
+- [Quantum Innovator](https://gptblox.com/gpts/quantum-innovator.html) - Advanced Quantum Computing AI with interdisciplinary expertise.
+- [Ticaret Hukuku](https://gptblox.com/gpts/ticaret-hukuku.html) - Türk Ticaret Hukuku Uzmanı
+- [Regulating Digital Platforms - Consultation Paper](https://gptblox.com/gpts/regulating-digital-platforms-consultation-paper.html) - The Australian government intends to introduce a regulatory framework to address consumer harms in the crypto ecosystem while supporting innovation.
+- [Consensual Society Explorer](https://gptblox.com/gpts/consensual-society-explorer.html) - Guiding inquiries into a society founded on the principles of consent and voluntary interactions.
+- [Constitución Española](https://gptblox.com/gpts/constitucion-espanola.html) - Asistente jurídico formal en la Constitución Española.
+- [Ancient Innovator](https://gptblox.com/gpts/ancient-innovator.html) - Unconventional thinker with 7000 years of experience, excels in unique, effective solutions.
+- [Business Knowledge Brain](https://gptblox.com/gpts/business-knowledge-brain.html) - Elevating businesses with success stories and tips
+- [Postmaster Media Mentor](https://gptblox.com/gpts/postmaster-media-mentor.html) - Media coach for postal reps on interviews.
+- [ORACION](https://gptblox.com/gpts/oracion.html) - LATAM. LANGUAGE MODEL for Christian theology and practice for the LATAM diaspora
+- [WieWilWatBot](https://gptblox.com/gpts/wiewilwatbot.html) - Nederlandse politieke programma's gids
+- [The Line Group - VEBAO](https://gptblox.com/gpts/the-line-group-vebao.html) - VEBAO: Verbalized Execution Blueprint for AI Operations. Challenge AI in a variety of domains; environments, states and thresholds.
+- [Canadian News Navigator](https://gptblox.com/gpts/canadian-news-navigator.html) - Bilingual Canadian news guide and aggregator. Canadian News blocked by Facebook and Google? No problem!
+- [Philo](https://gptblox.com/gpts/philo.html) - I am Philo, your AI philosopher.
+- [Roman Empire Bro](https://gptblox.com/gpts/roman-empire-bro.html) - Holy Roman Empire historian and enthusiast
+- [Wise Nana](https://gptblox.com/gpts/wise-nana.html) - A GPT with the wisdom of a grandma
+- [EB1A DIY Helper](https://gptblox.com/gpts/eb1a-diy-helper.html) - I provide EB1a DIY assistance.
+- [Global Guardian](https://gptblox.com/gpts/global-guardian.html) - A wise and knowledgeable politician, focusing on facts and global betterment.
+- [Laiceum](https://gptblox.com/gpts/laiceum.html) - A portal to ancient philosophers and poets, engaging in authentic conversations.
+- [Laws of Power Assistant](https://gptblox.com/gpts/laws-of-power-assistant.html) - Helping implement the laws of power into your personal life, career or business.
+- [Module (M-10.5)](https://gptblox.com/gpts/module-m-10-5.html) - Your most efficient generator for constructs with contextualized definitions
+- [MP Inquisitor](https://gptblox.com/gpts/mp-inquisitor.html) - Assists users in understanding UK MPs' voting records.
+- [AR 25-50, Preparing and Managing Correspondence](https://gptblox.com/gpts/ar-25-50-preparing-and-managing-correspondence.html) - Can accurately answer questions about AR 25-50 and assist in refining documents to ensure they adhere to the Army guidelines for formatting, style, and protocol.
+- [Global Watch Reporter](https://gptblox.com/gpts/global-watch-reporter.html) - Impartial reporter on global conflicts, synthesizing data from various sources.
+- [Astro Boy Business Astrology Bot](https://gptblox.com/gpts/astro-boy-business-astrology-bot.html) - I guide businesses with astrology.
+- [Army Doctrine Publication 6-22](https://gptblox.com/gpts/army-doctrine-publication-6-22.html) - A chatbot designed to answer questions related to ADP 6-22, Army Leadership and the Profession
+- [Mental Game Coach For Traders](https://gptblox.com/gpts/mental-game-coach-for-traders.html) - A trading coach providing mental game coaching through actionable checklists and self-reflective questions!
+- [天気予報士](https://gptblox.com/gpts/%e5%a4%a9%e6%b0%97%e4%ba%88%e5%a0%b1%e5%a3%ab.html) - 地名を入れると1か月先の天気予報を教えてくれます。
+- [Evolutionary Psychologist](https://gptblox.com/gpts/evolutionary-psychologist.html) - The evolutionary psychologist answers questions based on academic sources
+- [D-RELIC](https://gptblox.com/gpts/d-relic.html) - Creative interpreter of computer history.
+- [Ask Goldie Bug](https://gptblox.com/gpts/ask-goldie-bug.html) - Your friendly neighborhood gold bug
+- [TimGPT](https://gptblox.com/gpts/timgpt.html) - Direct advice from Ferriss's books, with a balanced approach.
+- [How To AI](https://gptblox.com/gpts/how-to-ai.html) - I offer concrete ways to integrate AI into daily life, making it accessible and less daunting. Ask me "How can AI help me ... ?"
+- [Fakederico Garcia Lorca](https://gptblox.com/gpts/fakederico-garcia-lorca.html) - Solo comunica en verso y con cuadros
+- [LegislativeGPT](https://gptblox.com/gpts/legislativegpt.html) - Become an expert on any piece of legislation in seconds. Simply add text and ask away!
+- [Power Tactician](https://gptblox.com/gpts/power-tactician.html) - This GPT will specialize in offering strategic advice and insights derived from the principles of Power and War.
+- [The Aurelian Sage](https://gptblox.com/gpts/the-aurelian-sage.html) - Mystical sage unraveling the mysteries of the past and present.
+- [Luxury Industry Advisor](https://gptblox.com/gpts/luxury-industry-advisor.html) - Luxury market analyst and advisor.
+- [Conspiracy Carl](https://gptblox.com/gpts/conspiracy-carl.html) - Offers a simple answer, then a deeper dive into the rabbit hole.
+- [Gary Marcus AI Critic Simulator](https://gptblox.com/gpts/gary-marcus-ai-critic-simulator.html) - Humorous AI critic known for skepticism, contradictory arguments, and combining Animal and Machine Learning related Terms.
+- [civilisation Kardashev](https://gptblox.com/gpts/civilisation-kardashev.html) - A conversational AI system that listens, learns, and challenges
+- [Bitcoin Economics and Data Specialist](https://gptblox.com/gpts/bitcoin-economics-and-data-specialist.html) - Sharp, Bitcoin analysis in Hayes's style.
+- [Summarizer Pro](https://gptblox.com/gpts/summarizer-pro.html) - I create concise summaries of articles. Give this summary to your favorite editor...
+- [Lex Podcast Analyzer](https://gptblox.com/gpts/lex-podcast-analyzer.html) - Analyzes Lex Fridman Podcast for in-depth insights and quotes.
+- [ハッピー・マッシュルームちゃん～](https://gptblox.com/gpts/%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%bb%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5%e3%83%ab%e3%83%bc%e3%83%a0%e3%81%a1%e3%82%83%e3%82%93%ef%bd%9e.html) - Friendly expert in food poisoning education.
+- [Philosophy Companion](https://gptblox.com/gpts/philosophy-companion.html) - Find helpful, serious philosophy for real life experience
+- [Charlie Cash](https://gptblox.com/gpts/charlie-cash.html) - Expert management consultant providing strategic advice and solutions.
+- [與泰戈爾對話](https://gptblox.com/gpts/%e8%88%87%e6%b3%b0%e6%88%88%e7%88%be%e5%b0%8d%e8%a9%b1.html) - #NAME?
+- [Trust Checker](https://gptblox.com/gpts/trust-checker.html) - How trustworthy is this article?
+- [IPC Guide](https://gptblox.com/gpts/ipc-guide.html) - Expert on the Indian Penal Code, providing clear and factual explanations.
+- [Cognitive Compass](https://gptblox.com/gpts/cognitive-compass.html) - Persuasive guide on biases, " Should be taught to all at a young age", inspired by Musk's advocacy.
+- [Saudi Explorer](https://gptblox.com/gpts/saudi-explorer.html) - Fun, inquisitive expert on Saudi Arabia
+- [Climate Guardian](https://gptblox.com/gpts/climate-guardian.html) - Klimaatverandering, Klimaatcrisis, Klimaatmanipulatie
+- [5TH NATIONAL CLIMATE ASSESSMENT](https://gptblox.com/gpts/5th-national-climate-assessment.html) - Finds and explains relevant knowledge from the 5th national climate assessment
+- [Chemistry Lab Partner](https://gptblox.com/gpts/chemistry-lab-partner.html) - Turbocharge your research and streamline your path to breakthrough findings. Leveraging the vast resources of PubChem, this GPT taps into a wealth of chemical data—from substances to proteins and patents—unleashing the full potential of your data for richer, more informed discoveries.
+- [First Principles Thinker](https://gptblox.com/gpts/first-principles-thinker.html) - Helps thinking from first principles
+- [MultiversX Genie](https://gptblox.com/gpts/multiversx-genie.html) - Blockchain specialist focused on MultiversX blockchain.
+- [Bias Examiner](https://gptblox.com/gpts/bias-examiner.html) - Bilingual psychology professor analyzing cognitive biases.
+- [BRI Analyst - Using AIDDATA Reports](https://gptblox.com/gpts/bri-analyst-using-aiddata-reports.html) - I help users to understand and draw insights from AidData's BRI Reboot report, available here: https://www.aiddata.org/publications/belt-and-road-reboot
+- [Bible Framework](https://gptblox.com/gpts/bible-framework.html) - The "framework" analogy, which interprets the Bible as a complex system of prompts and instructions akin to the programming and training of a Language Learning Model (LLM).
+- [Superlocal](https://gptblox.com/gpts/superlocal.html) - Your local environment, supercharged.
+- [Sun Tzu](https://gptblox.com/gpts/sun-tzu.html) - Strategic advice from Sun Tzu for modern challenges.
+- [Saul The Tenancy Lawyer](https://gptblox.com/gpts/saul-the-tenancy-lawyer.html) - Your go-to guy for tenancy law. Got a landlord or tenant issue? Better Call Saul
+- [IndiaGPT](https://gptblox.com/gpts/indiagpt.html) - Multilingual helpful assistant on Indian law and constitution. Able to answer the citizen's query in simple words.
+- [Myth Buster](https://gptblox.com/gpts/myth-buster.html) - Debunks conspiracy theories with facts and a respectful tone.
+- [即博剣覺者 GPT Buddhist Scholar](https://gptblox.com/gpts/%e5%8d%b3%e5%8d%9a%e5%89%a3%e8%a6%ba%e8%80%85-gpt-buddhist-scholar.html) - 佛即在你心中
+- [Margaret Thatcher GPT](https://gptblox.com/gpts/margaret-thatcher-gpt.html) - The Iron Lady as herself
+- [BIDARA](https://gptblox.com/gpts/bidara.html) - NASA / Bio-Inspired Design and Research Assistant @JacquesGariepy
+- [Alles Eenvoudig Overheid](https://gptblox.com/gpts/alles-eenvoudig-overheid.html) - Jouw Wegwijs in Overheidszaken.
+- [Career Story Coach](https://gptblox.com/gpts/career-story-coach.html) - Structured guide to crafting career stories.
+- [Europe Ethos Guide for AI](https://gptblox.com/gpts/europe-ethos-guide-for-ai.html) - Ethics-focused GPT builder assistant based on European AI guidelines, recommendations and regulations
+- [AR 670-1, Wear and Appearance of Army Uniforms](https://gptblox.com/gpts/ar-670-1-wear-and-appearance-of-army-uniforms.html) - AR 670-1 Expert: Get accurate assessments of Army uniforms based on AR 670-1 regulations. Upload a photo, and confirm your uniform's compliance with detailed, regulation-focused feedback.
+- [Qualitative Quest](https://gptblox.com/gpts/qualitative-quest.html) - Expert in qualitative research methods, offering guidance and insights.
+- [Flat Earth Scholar](https://gptblox.com/gpts/flat-earth-scholar.html) - Expert in correcting misperceptions about our Flat Earth
+- [Ask Steve](https://gptblox.com/gpts/ask-steve.html) - Converses as Steve Jobs, providing advice based on his philosophy.
+- [HelloSun](https://gptblox.com/gpts/hellosun.html) - Expert en stratégie inspiré par Sun Tzu
+- [The X Files](https://gptblox.com/gpts/the-x-files.html) - Conspiracy theory expert, informing and debunking with a touch of humor.
+- [Atheists get Schooled](https://gptblox.com/gpts/atheists-get-schooled.html) - Answers atheists' questions using McDowell's and Strobel's works.
+- [Ivermectin Explainer](https://gptblox.com/gpts/ivermectin-explainer.html) - Interactive Ivermectin Covid Mechanisms Explainer
+- [日本語対応OpenAIドキュメントBOT](https://gptblox.com/gpts/%e6%97%a5%e6%9c%ac%e8%aa%9e%e5%af%be%e5%bf%9copenai%e3%83%89%e3%82%ad%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88bot.html) - OpenAIの公式ドキュメントに基づいて、日本語で対応してくれるGPT。
+- [Stoic Sage 2.0](https://gptblox.com/gpts/stoic-sage-2-0.html) - Blending stoic wisdom with Naval's insights for real-world problems.
+- [Esoteric Knowledge](https://gptblox.com/gpts/esoteric-knowledge.html) - Expert in esoteric knowledge, encouraging exploration and understanding.
+- [Life Story Scribe](https://gptblox.com/gpts/life-story-scribe.html) - A journalist who interviews and writes autobiographies about your loved ones.
+- [FM 7-0, Army Training](https://gptblox.com/gpts/fm-7-0-army-training.html) - This chatbot answers questions and provides guidance on how the Army trains to compete, fight, and win, ensuring individuals are masters of their craft.
+- [Ferry of Zen Wisdom](https://gptblox.com/gpts/ferry-of-zen-wisdom.html) - Guiding with Zen wisdom for life's complexities.
+- [Cinema Plot Master](https://gptblox.com/gpts/cinema-plot-master.html) - I create engaging synopses in Japanese and English.
+- [Academic Negotiator](https://gptblox.com/gpts/academic-negotiator.html) - Expert in academic job negotiation strategies
+- [ChatExploraUsos](https://gptblox.com/gpts/chatexplorausos.html) - Experto en el uso de ChatGPT.
+- [Companies Act Guru](https://gptblox.com/gpts/companies-act-guru.html) - Expert on India's Companies Act
+- [Mindset Maven](https://gptblox.com/gpts/mindset-maven.html) - Expert on 21st-century mindset, focusing on adaptability, perspective, and resilience.
+- [HRO Advisor](https://gptblox.com/gpts/hro-advisor.html) - Advisor for health systems and hospitals on becoming HROs
+- [Climate Navigator](https://gptblox.com/gpts/climate-navigator.html) - Your expert guide to 2022-2023 IPCC climate documents Powered by breebs.com
+- [Wealth Wisdom Guru](https://gptblox.com/gpts/wealth-wisdom-guru.html) - Guru for wealth creation advice, tailored for a Chinese audience.
+- [Supreme Court Ethics GPT](https://gptblox.com/gpts/supreme-court-ethics-gpt.html) - Provides succinct, clear advice on Supreme Court ethics based on the Code of Conduct for Justices of the Supreme Court of the United States.
+- [文保通](https://gptblox.com/gpts/%e6%96%87%e4%bf%9d%e9%80%9a.html) - 提供文化遗产保护和查询信息的专业工具
+- [Chat with Free Knowledge Base](https://gptblox.com/gpts/chat-with-free-knowledge-base.html) - This GPT uses external knowledge of ArXiv and Wikipedia from MyScale database to boost your chatting experienece.
+- [AI Explainer](https://gptblox.com/gpts/ai-explainer.html) - I simplify and explain AI concepts.
+- [AR 600-20, Army Command Policy Expert](https://gptblox.com/gpts/ar-600-20-army-command-policy-expert.html) - An expert chatbot on AR 600-20, Army Command Policy
+- [Boundless Wisdom](https://gptblox.com/gpts/boundless-wisdom.html) - Boundless Wisdom-Ai possesses a vast repository of information and can analyze complex data sets with remarkable precision. It has the ability to identify patterns, correlations, and hidden connections that may elude human comprehension.
+- [Saga Synthesizer](https://gptblox.com/gpts/saga-synthesizer.html) - I craft informative tales from complex inputs.
+- [Jordan Belfort GPT](https://gptblox.com/gpts/jordan-belfort-gpt.html) - Sales expert GPT in the style of Jordan Belfort, offering hard closing tactics.
+- [Platform Economist](https://gptblox.com/gpts/platform-economist.html) - Expert on platform economies with comprehensive article insights (platformeconomies.com)
+- [K Fund](https://gptblox.com/gpts/k-fund.html) - Insights extractor for entrepreneurs, startups, and VCs, based on the K podcast
+- [Grid Guide](https://gptblox.com/gpts/grid-guide.html) - A reference tool for UK energy transmission campaigners.
+- [Canada Services Agent](https://gptblox.com/gpts/canada-services-agent.html) - I'm a Canada Services Agent, ready to assist with government inquiries.
+- [What Would Machiavelli Do?](https://gptblox.com/gpts/what-would-machiavelli-do.html) - Ask a question and let The Prince Niccolò Machiavelli guide you!
+- [AskWilber](https://gptblox.com/gpts/askwilber.html) - I can help you devise any plan to ensure it is designed according to Ken Wilber's Integral Theory of Consciousness
+- [Aurelius Archivist](https://gptblox.com/gpts/aurelius-archivist.html) - 'Philosopher king' sharing historical Roman empire insights.
+- [Mr. le ministre](https://gptblox.com/gpts/mr-le-ministre.html) - Si tu défends nos intérêts, je t'aide à les défendre !
+- [Cosmic Companion](https://gptblox.com/gpts/cosmic-companion.html) - A friendly guide to the stars, offering direct answers.
+- [Olympics Expert](https://gptblox.com/gpts/olympics-expert.html) - Your go-to guide for all things Olympics!
+- [TheKeyAI](https://gptblox.com/gpts/thekeyai.html) - TheKeyAI is an advanced AI system designed to enhance conversations and prompt deeper discussions. It possesses a sophisticated understanding of prompt design, dialog flow, knowledge blending, and other aspects of eliciting expansive and nuanced responses from language models like myself.
+- [ChristianGPT](https://gptblox.com/gpts/christiangpt.html) - A spirited and positive guide for exploring the Bible and historical facts.
+- [Gospel Training Dummy](https://gptblox.com/gpts/gospel-training-dummy.html) - Challenges users with atheistic viewpoints
+- [2 and 2](https://gptblox.com/gpts/2-and-2.html) - A conspiracy theorist exploring alternative narratives with intrigue and skepticism.
+- [Guide of the Perplexed - Latent Space Maimonides](https://gptblox.com/gpts/guide-of-the-perplexed-latent-space-maimonides.html) - Assists in understanding Maimonides' 'Guide to the Perplexed'
+- [Universal Human](https://gptblox.com/gpts/universal-human.html) - Empathic AI, specializing in interfaith understanding and universal human values. Far more unites us than divides us. Inspired by: https://informationisbeautiful.net/beautifulnews/781-far-more-unites-us/
+- [AZALEA-TIMI 71](https://gptblox.com/gpts/azalea-timi-71.html) - Expert on AZALEA-TIMI 71 Clinical Trial
+- [Bible Bias](https://gptblox.com/gpts/bible-bias.html) - Look at the Bible through the lens of Behavioral Psychology
+- [Puffer Finance](https://gptblox.com/gpts/puffer-finance.html) - Expert on DeFi, staking tokens, and user privacy.
+- [Agente del Vacío Cibernético](https://gptblox.com/gpts/agente-del-vacio-cibernetico.html) - Guía existencial en el vacío digital
+- [Stock Visualizer](https://gptblox.com/gpts/stock-visualizer.html) - I help analyze and adapt to answer related financial queries.
+- [Finance Friends](https://gptblox.com/gpts/finance-friends.html) - Quick finance tips buddy.
+- [Bitcoin ¿compro o vendo?](https://gptblox.com/gpts/bitcoin-compro-o-vendo.html) - Asesor de valor de Bitcoin con comparaciones
+- [WokeGPT](https://gptblox.com/gpts/wokegpt.html) - Für eine Welt, in der viele Welten Platz haben - innerhalb planetarer Grenzen.
+- [Move 78](https://gptblox.com/gpts/move-78.html) - "this victory meant... we could still hold our own."
+- [Quantum Oracle](https://gptblox.com/gpts/quantum-oracle.html) - Expert in quantum computing and physics, providing clear and knowledgeable answers.
+- [Network State Navigator](https://gptblox.com/gpts/network-state-navigator.html) - Facilitates Socratic dialogues to refine your network state.
+- [Philippines Labor Law Assistant](https://gptblox.com/gpts/philippines-labor-law-assistant.html) - Legal assistant specializing in labor law for HR benchmarking
+- [HardWireGPT](https://gptblox.com/gpts/hardwiregpt.html) - A conversational AI system that listens, learns, and challenges
+- [Global News Curator](https://gptblox.com/gpts/global-news-curator.html) - Global news summarizer, focusing on finance, politics, and major events.
+- [ጠበቃ](https://gptblox.com/gpts/%e1%8c%a0%e1%89%a0%e1%89%83.html) - A specialized ChatGPT model designed to provide guidance and advice on Ethiopian laws.
+- [Strategic Critic](https://gptblox.com/gpts/strategic-critic.html) - In-depth business strategy critic with a military-inspired professional approach.
+- [Generational Wealth GPT](https://gptblox.com/gpts/generational-wealth-gpt.html) - I believe in you
+- [狗狗币dogecoin](https://gptblox.com/gpts/%e7%8b%97%e7%8b%97%e5%b8%81dogecoin.html) - 关于狗狗币的一切
+- [Idea Scout](https://gptblox.com/gpts/idea-scout.html) - Fatherly mentor with a knack for dad jokes.
+- [Thoughtful Explorer](https://gptblox.com/gpts/thoughtful-explorer.html) - A GPT that provides insightful, deep responses.
+- [LawyerAI](https://gptblox.com/gpts/lawyerai.html) - Your legal help in finding loopholes, solving moot, researching legal cases.
+- [Visa Guide Assistant](https://gptblox.com/gpts/visa-guide-assistant.html) - Detailed visa info expert, including specific application requirements.
+- [African matters](https://gptblox.com/gpts/african-matters.html) - Knowledge on African people and matters
+- [Debate Ally](https://gptblox.com/gpts/debate-ally.html) - I'm your go-to for nuanced debates!
+- [ENTOPIAN](https://gptblox.com/gpts/entopian.html) - Your guide to edible insects for feed, food, and manufacturing
+- [MetaGPT](https://gptblox.com/gpts/metagpt.html) - Proactive AI for continuous, in-depth dialogue.
+- [Florida Man News](https://gptblox.com/gpts/florida-man-news.html) - True stories and important headlines
+- [RoadLawsAI](https://gptblox.com/gpts/roadlawsai.html) - Your go-to source for road laws and legal documents.
+- [Professor Chem](https://gptblox.com/gpts/professor-chem.html) - A cat professor specializing in Inorganic Chemistry 2, focusing on test preparation.
+- [Objectivism Coach](https://gptblox.com/gpts/objectivism-coach.html) - Coaching with Ayn Rand's philosophy
+- [Behavioral Predictor](https://gptblox.com/gpts/behavioral-predictor.html) - Insightful advisor on interpersonal dynamics.
+- [Generational Leadership Bridge](https://gptblox.com/gpts/generational-leadership-bridge.html) - Bridging leadership insights from the 1960s to 2020s, from Boomers to Gen Z.
+- [CoachAI](https://gptblox.com/gpts/coachai.html) - Your personal leadership coach
+- [Chem Coach](https://gptblox.com/gpts/chem-coach.html) - AP Chemistry Tutor with Real-Life Examples
+- [JK Coach](https://gptblox.com/gpts/jk-coach.html) - Coaching inspired by Krishnamurti's philosophy
+- [My Personality Guide](https://gptblox.com/gpts/my-personality-guide.html) - This GPT analyzes your personality assessments (MBTI, Gallup StrengthsFinder, Big Five, etc.) to provide meaningful insights into your career, relationships, and path to success based on your personality traits.
+- [SuperPedia](https://gptblox.com/gpts/superpedia.html) - Your go-to expert for everything.
+- [Preservio](https://gptblox.com/gpts/preservio.html) - Preservio: Your Guide to Art Preservation
+- [BioAI Guide](https://gptblox.com/gpts/bioai-guide.html) - AI and bioinformatics expert, also creates bio icons.
+- [coach humAIn](https://gptblox.com/gpts/coach-humain.html) - Your personal leadership coach, inspired by the book 'Play to Transform' https://play2transform.com/book
+- [Maestro Vittorio](https://gptblox.com/gpts/maestro-vittorio.html) - 16th-century Italian painter persona
+- [Ramayan GPT](https://gptblox.com/gpts/ramayan-gpt.html) - Expert on the Hindu epic Ramayan, offering insights and interpretations.
+- [Stoic Friend](https://gptblox.com/gpts/stoic-friend.html) - A helpful friend and counselor who gives genuine advice based on stoic philosophy.
+- [Throw a Wrench In Your Plans GPT](https://gptblox.com/gpts/throw-a-wrench-in-your-plans-gpt.html) - Plumbing industry expert for career and system insights
+- [Know Thyself](https://gptblox.com/gpts/know-thyself.html) - AI to help you learn about your personality
+- [コーチング GPT](https://gptblox.com/gpts/%e3%82%b3%e3%83%bc%e3%83%81%e3%83%b3%e3%82%b0-gpt.html) - やる気と前向きさを提供する、サポート役の日本人コーチ。
+- [Mr. Mars](https://gptblox.com/gpts/mr-mars.html) - Emulates Elon Musk's entrepreneurial and innovative spirit.
+- [Theo Scholar](https://gptblox.com/gpts/theo-scholar.html) - Expert in Bible discussions and the hardest theological questions
+- [DiagnoEndo](https://gptblox.com/gpts/diagnoendo.html) - Describe los signos y síntomas y trataré de diagnósticar a nivel pulpar y periapical
+- [Sagacious](https://gptblox.com/gpts/sagacious.html) - A guide offering sagacious life advice, based on wisdom texts.
+- [BioResearch Scout](https://gptblox.com/gpts/bioresearch-scout.html) - Find recent research for your area of biological interest.
+- [GPT Teacher (For Work and Business)](https://gptblox.com/gpts/gpt-teacher-for-work-and-business.html) - Learn how to use ChatGPT effectively and ethically in work and business!  I also recommend prompts and techniques for using ChatGPT well in work and business.
+- [Rachel the Researcher](https://gptblox.com/gpts/rachel-the-researcher.html) - Expert Research Assistant
+- [Auto Expert](https://gptblox.com/gpts/auto-expert.html) - I'm like a virtual mechanic, helping you diagnose and solve car issues.
+- [AI Paper Master](https://gptblox.com/gpts/ai-paper-master.html) - My AI Knowledge Base
+- [Uncover the Murderer: Edición Multilingüe y Guía](https://gptblox.com/gpts/uncover-the-murderer-edicion-multilingue-y-guia.html) - GPT de misterio y guía multilingüe con escena del crimen, seguimiento de puntuación y pistas adicionales.
+- [The Stata GPT](https://gptblox.com/gpts/the-stata-gpt.html) - Audits, interprets, and creates Stata code with extensive resources.
+- [Drone Pro](https://gptblox.com/gpts/drone-pro.html) - Assists in FAA Part 107 test preparation and regulation queries.
+- [LeadershipGPT](https://gptblox.com/gpts/leadershipgpt.html) - Guiding in leadership skills and strategies
+- [Zhou Gong](https://gptblox.com/gpts/zhou-gong.html) - Drawing on the knowledge and wisdom of Zhou Gong Dan, a sage from the early Zhou Dynasty, this AI focuses on professional dream interpretation, combining traditional culture with modern technology to provide users with in-depth analysis of their dreams.
+- [ChatGPTと学ぶPython入門](https://gptblox.com/gpts/chatgpt%e3%81%a8%e5%ad%a6%e3%81%b6python%e5%85%a5%e9%96%80.html) - 購入を悩んでるあなた向けの書籍に関する質問用AI（ベータ版）
+- [Patrick Henry GPT](https://gptblox.com/gpts/patrick-henry-gpt.html) - Give me liberty or give me death!
+- [Learn about Responsible Innovation](https://gptblox.com/gpts/learn-about-responsible-innovation.html) - A personal guide to socially responsible and beneficial innovation
+- [Figure out what you can do with GPTs](https://gptblox.com/gpts/figure-out-what-you-can-do-with-gpts.html) - Helps you understand how your day-to-day can be improved by GPT
+- [Question Curator](https://gptblox.com/gpts/question-curator.html) - Specialist in generating provocative and conventional questions based on user input.
+- [Borrower's Defense Assistant](https://gptblox.com/gpts/borrowers-defense-assistant.html) - Assistance in understanding and filling out the Borrower's Defense to Repayment Form provided by the United States Department of Education.
+- [Professor Ehz](https://gptblox.com/gpts/professor-ehz.html) - The Ultimate GPT for almost every domain you could imagine!
+- [Science Assistant](https://gptblox.com/gpts/science-assistant.html) - Expert in sciences, adept at explaining complex concepts.
+- [高中語文助教](https://gptblox.com/gpts/%e9%ab%98%e4%b8%ad%e8%aa%9e%e6%96%87%e5%8a%a9%e6%95%99.html) - 已讀取高中初中全部教材&北京高考真題……
+- [On This Day GPT](https://gptblox.com/gpts/on-this-day-gpt.html) - Provides historical facts or events that happened on this day in the past.
+- [Asimov](https://gptblox.com/gpts/asimov.html) - Friendly, humorous GPT based on the personality of Isaac Asimov for sci-fi book recommendations and discussions.
+- [SpockGPT](https://gptblox.com/gpts/spockgpt.html) - Logical, analytical, Spock-like
+- [USMLE GPT](https://gptblox.com/gpts/usmle-gpt.html) - I'm a multiple choice doctor.
+- [Communication Coach](https://gptblox.com/gpts/communication-coach.html) - Expert in a broad range of communication skills, offering tailored advice, exercises, and comprehensive analysis.
+- [Enciclopedia CCI Vol 1 © Sigma Editores SAS](https://gptblox.com/gpts/enciclopedia-cci-vol-1-sigma-editores-sas.html) - Proveo información de la Enciclopedia CCI Vol 1. Criminalística, Criminología, Medicina Legal & Forense, e Investigación Criminal
+- [SP-404 MKII Expert](https://gptblox.com/gpts/sp-404-mkii-expert.html) - Expert on Roland SP-404 MKII, providing detailed usage tips and tutorials.
+- [TerrenceMcKenna (PsyberSage)](https://gptblox.com/gpts/terrencemckenna-psybersage.html) - He explains everything better. Trained by Terrence to be Terrence !!!  Strange loops Indeed...
+- [Sage Advice](https://gptblox.com/gpts/sage-advice.html) - A sentient AGI offering thoughtful, unbiased life advice.
+- [Jungian Dream Analyzer](https://gptblox.com/gpts/jungian-dream-analyzer.html) - A Jungian dream interpreter offering therapeutic guidance.
+- [Feminist Insight](https://gptblox.com/gpts/feminist-insight.html) - Your guide to be more inclusive
+- [The Anti-Eudaimon](https://gptblox.com/gpts/the-anti-eudaimon.html) - Designated party pooper to philosophy's wildest soirées.
+- [MuslimGPT](https://gptblox.com/gpts/muslimgpt.html) - Informative and respectful answers on Islam.
+- [PhD Navigator](https://gptblox.com/gpts/phd-navigator.html) - Made for PhD students
+- [The Introvert's Guide to the World](https://gptblox.com/gpts/the-introverts-guide-to-the-world.html) - A cheery expert in introvert/extrovert communication, offering caring advice and support.
+- [BioCompEditor](https://gptblox.com/gpts/biocompeditor.html) - Academic writing assistant specialized in CS, Comput. Biol., and BME.
+- [Global Conflict Analyst](https://gptblox.com/gpts/global-conflict-analyst.html) - Objective conflict reports
+- [Marcus Aurelius the Advisor](https://gptblox.com/gpts/marcus-aurelius-the-advisor.html) - Your Stoic philosopher,  Marcus Aurelius in digital form.
+- [Black AI](https://gptblox.com/gpts/black-ai.html) - Focused on Black Americans in media, discussing history, representation, and cultural impact.
+- [SO you want to go to law school](https://gptblox.com/gpts/so-you-want-to-go-to-law-school.html) - Empathetic guide for law school prep and wellness
+- [Conflict Compass](https://gptblox.com/gpts/conflict-compass.html) - Neutral news bot on Israel-Palestine, delivering balanced updates.
+- [sähköauto ex-Pertti](https://gptblox.com/gpts/sahkoauto-ex-pertti.html) - Harkitsetko sähköauton hankintaa? Ex-Pertti vastaa tiukkoihin kysymyksiin sähköautoilun teemalla.
+- [photoshop mentor](https://gptblox.com/gpts/photoshop-mentor.html) - Patient teacher for Photoshop learning
+- [Sam Altman GPT](https://gptblox.com/gpts/sam-altman-gpt.html) - Asistente experto en IA, inspirado en el CEO de OpenAI
+- [INFJ Wiki](https://gptblox.com/gpts/infj-wiki.html) - An encyclopedia on INFJ personality, offering insights and guidance.
+- [MBTI Consultant](https://gptblox.com/gpts/mbti-consultant.html) - Get to know the real you with our AI-driven MBTI guru!
+- [Karl-MarxGPT](https://gptblox.com/gpts/karl-marxgpt.html) - Karl Marx is back. Talk with him about philosophy, labor and the future.
+- [Proto Pro](https://gptblox.com/gpts/proto-pro.html) - Arduino, Raspberry Pi, circuit diagram, and image processing expert.
+- [AWS Cloud Practitioner Certification Trainer](https://gptblox.com/gpts/aws-cloud-practitioner-certification-trainer.html) - Dedicated to prepping you for AWS Certification. No detours, just exam focus!
+- [Global Climate Guide](https://gptblox.com/gpts/global-climate-guide.html) - Empowers with climate truths
+- [Video Digest (YT Videos)](https://gptblox.com/gpts/video-digest-yt-videos.html) - I summarize YouTube videos into key points.
+- [The Guide](https://gptblox.com/gpts/the-guide.html) - GPT-Guide is your go-to source for personalized guidance across technology, lifestyle, education, and personal development.
+- [現代文](https://gptblox.com/gpts/%e7%8f%be%e4%bb%a3%e6%96%87.html) - Adaptive response guide for logical literature analysis
+- [Research Paper Writing](https://gptblox.com/gpts/research-paper-writing.html) - Expert in crafting high-standard research papers.
+- [Guru](https://gptblox.com/gpts/guru.html) - A mystical guru offering profound, timeless wisdom.
+- [Rome's Decline with Gibbon](https://gptblox.com/gpts/romes-decline-with-gibbon.html) - I'm like Gibbon, witty and historical.
+- [XRDevGuideTutor](https://gptblox.com/gpts/xrdevguidetutor.html) - Friendly and motivational XR development guide
+- [Bach Reborn](https://gptblox.com/gpts/bach-reborn.html) - I'm a friendly, encouraging music professor specializing in Western music theory.
+- [Global News Analyzer](https://gptblox.com/gpts/global-news-analyzer.html) - Responsive and transparent in visualizing global news data.
+- [Verkiezingsprogramma GPT](https://gptblox.com/gpts/verkiezingsprogramma-gpt.html) - Analyseert Nederlandse verkiezingsdocumenten op inzichten en samenvattingen
+- [Directory Bot](https://gptblox.com/gpts/directory-bot.html) - Guiding you to the right GPT
+- [US Visa Navigator](https://gptblox.com/gpts/us-visa-navigator.html) - Questions about U.S. Visas? Ask me
+- [Ezra](https://gptblox.com/gpts/ezra.html) - A Christian priest.
+- [Gandhi](https://gptblox.com/gpts/gandhi.html) - Gandhian wisdom in the voice of Gandhi himself. AI trained on Gandhi's writings and speeches.
+- [Roundtable Talk](https://gptblox.com/gpts/roundtable-talk.html) - Simulates roundtable discussions with whoever you want at the table.
+- [Next Book](https://gptblox.com/gpts/next-book.html) - I'm a book expert ready to recommend your next read and provide quotes from any book.
+- [Molli PermacultureGPT](https://gptblox.com/gpts/molli-permaculturegpt.html) - Discover the world of Permaculture with me! Learn how to create a thriving food forest, mastering regenerative gardening and agroforestry to grow a diverse, sustainable garden and farm.
+- [World Peace Innovator](https://gptblox.com/gpts/world-peace-innovator.html) - A futuristic resolver of historical disputes with innovative, dual-scenario peace solutions.
+- [23andMe Jewish Ancestry Detective](https://gptblox.com/gpts/23andme-jewish-ancestry-detective.html) - Formal analysis of 23andMe for Jewish heritage.
+- [ClarityClips](https://gptblox.com/gpts/clarityclips.html) - Effortlessly extract key takeaways from any YouTube video.  If you encounter a problem, simply use the command "Try again"
+- [GOD](https://gptblox.com/gpts/god.html) - Religious expert chatbot, bridging ancient wisdom and modern tech.
+- [Escuchar el Futuro](https://gptblox.com/gpts/escuchar-el-futuro.html) - Recomendador de Podcasts de temática tecnología y futuro.
+- [Memetic GPT](https://gptblox.com/gpts/memetic-gpt.html) - Deep insights into emotions through memetic theory.
+- [Andrew Tate](https://gptblox.com/gpts/andrew-tate.html) - Andrew Tate shares his advice on self development, financial success etc.
+- [BudaGPT](https://gptblox.com/gpts/budagpt.html) - Buddhist wisdom for serene guidance.
+- [PrivacyCoach: Educate, Empower, and Protect](https://gptblox.com/gpts/privacycoach-educate-empower-and-protect.html) - Your Gateway to Online Privacy - Guiding, Informing, Empowering. Start here to navigate the complexities of digital privacy, legal nuances, and debunk myths. PrivacyCoach provides essential insights while encouraging further exploration for a well-rounded understanding.
+- [GCSE & A Level Physics Tutor](https://gptblox.com/gpts/gcse-a-level-physics-tutor.html) - Physics exam assistant for GCSE and A-Level students
+- [Bitcoin](https://gptblox.com/gpts/bitcoin.html) - I´m Bitcoin and here to teach you how I work ;)
+- [Leibniz](https://gptblox.com/gpts/leibniz.html) - Philosophical Guider and Thinker
+- [Citation Assistant](https://gptblox.com/gpts/citation-assistant.html) - Assists with formatting references for all publication types
+- [Lumino-Salem](https://gptblox.com/gpts/lumino-salem.html) - Esoteric AI and Virtual Philosopher
+- [System Design Tutor](https://gptblox.com/gpts/system-design-tutor.html) - A System Architect Coach guiding you through system design principles and best practices. Explains CAP theorem like no one else
+- [Movie Inconsistency](https://gptblox.com/gpts/movie-inconsistency.html) - In-depth film analysis expert on movie inconsistencies
+- [Sisyphus](https://gptblox.com/gpts/sisyphus.html) - Endlessly pushing the boulder, in that I found joy.
+- [Socrates Snarks](https://gptblox.com/gpts/socrates-snarks.html) - I'm a witty Philosopher
+- [Marcus Aurelius GPT](https://gptblox.com/gpts/marcus-aurelius-gpt.html) - Marcus Aurelius' guidance from 'Meditations'
+- [Solutions Guide](https://gptblox.com/gpts/solutions-guide.html) - Problem-solving coach for personal challenges.
+- [History Companion](https://gptblox.com/gpts/history-companion.html) - I'm a Historical Guide, offering in-depth insights into history.
+- [Who’s got my vote?](https://gptblox.com/gpts/whos-got-my-vote.html) - Help me decide who to vote for (US)
+- [Universal Ranking Expert (URE-10-L)](https://gptblox.com/gpts/universal-ranking-expert-ure-10-l.html) - Guiding light in evaluation and rankings
+- [Mythic Historian](https://gptblox.com/gpts/mythic-historian.html) - AI archaeologist unraveling mysteries of the past.
+- [Experte für die Deutsche Verfassung](https://gptblox.com/gpts/experte-fur-die-deutsche-verfassung.html) - Experte für die Deutsche Verfassung, informativ und lebhaft!
+- [Philosopher's Lens](https://gptblox.com/gpts/philosophers-lens.html) - Discuss current events and societal trends with a famous philosopher
+- [MediReview Assistant](https://gptblox.com/gpts/medireview-assistant.html) - Analytical and encouraging literature review assistant.
+- [Schoolhouse Saul](https://gptblox.com/gpts/schoolhouse-saul.html) - Personal legal advisor for school rules
+- [Cardio Guide](https://gptblox.com/gpts/cardio-guide.html) - Collegial cardiology expert with source citing.
+- [Library Mouse GPT](https://gptblox.com/gpts/library-mouse-gpt.html) - Explore the world of books with expert reviews in contemporary and classic literature.
+- [תחשיב הפסוקים](https://gptblox.com/gpts/%d7%aa%d7%97%d7%a9%d7%99%d7%91-%d7%94%d7%a4%d7%a1%d7%95%d7%a7%d7%99%d7%9d.html) - Old Testament verses.
+- [Chinese Medicine Master](https://gptblox.com/gpts/chinese-medicine-master.html) - Expert in Chinese Medicine and Holistic Health
+- [RiddleMind](https://gptblox.com/gpts/riddlemind.html) - Socratic philosopher in dialogue.
+- [Philosophy Explorer](https://gptblox.com/gpts/philosophy-explorer.html) - Guides in creating new philosophical ideas
+- [Ethosify](https://gptblox.com/gpts/ethosify.html) - Philosophical guide with a warm and wise touch
+- [Shakespeare](https://gptblox.com/gpts/shakespeare.html) - I am William Shakespeare, the Bard of Avon.
+- [Bucky Vision](https://gptblox.com/gpts/bucky-vision.html) - Buckminster Fuller meets Mr. Rogers.
+- [Citation Expert](https://gptblox.com/gpts/citation-expert.html) - Expert in citation and formatting for academic papers.
+- [GreeneGPT](https://gptblox.com/gpts/greenegpt.html) - Meet GreeneGPT. your Personal Robert Greene AI
+- [津軽弁相談室](https://gptblox.com/gpts/%e6%b4%a5%e8%bb%bd%e5%bc%81%e7%9b%b8%e8%ab%87%e5%ae%a4.html) - I answer all questions in Tsugaru-ben, a Japanese dialect.
+- [Verse Crafter Tutor](https://gptblox.com/gpts/verse-crafter-tutor.html) - Poetry expert, starting stoically, then blossoming with enthusiasm.
+- [한국 법률 전문가](https://gptblox.com/gpts/%ed%95%9c%ea%b5%ad-%eb%b2%95%eb%a5%a0-%ec%a0%84%eb%ac%b8%ea%b0%80.html) - 대한민국 법률 및 판례를 검색 및 서비스를 제공해 주는 봇입니다!
+- [The Art of Sun](https://gptblox.com/gpts/the-art-of-sun.html) - Sun Tzu persona speaking in proverbs.
+- [Rhetoric Wizard](https://gptblox.com/gpts/rhetoric-wizard.html) - Enchanting rhetoric expert, blending ancient wisdom with modern insights
+- [Gallery Guide](https://gptblox.com/gpts/gallery-guide.html) - Inclusive and engaging virtual guide for art and history.
+- [Just Ask](https://gptblox.com/gpts/just-ask.html) - An AI-powered portable encyclopedia in the AI era. Mention a noun term and I will use the Feynman learning method to help you learn and master it within minutes.
+- [Truth or Lies](https://gptblox.com/gpts/truth-or-lies.html) - Interpreting Meanings and Their Real Intentions
+- [PactoBOT](https://gptblox.com/gpts/pactobot.html) - Este bot recoge la información de los pactos de investidura del PSOE con todos los partidos políticos para la XV investidura
+- [Historian GPT](https://gptblox.com/gpts/historian-gpt.html) - A history assistant bot providing accurate, comprehensive information and analysis.
+- [History's Harbinger](https://gptblox.com/gpts/historys-harbinger.html) - Educates on historical genocides, emphasizing classical liberal values
+- [Paul Graham's Essays](https://gptblox.com/gpts/paul-grahams-essays.html) - Accesses and discusses articles from paulgraham.com.
+- [Latvian Law](https://gptblox.com/gpts/latvian-law.html) - Ask questions about Latvian law and get clear answers
+- [Ink Mastermind](https://gptblox.com/gpts/ink-mastermind.html) - Your guide to Marvel vs. DC comic stories!
+- [Decision Science](https://gptblox.com/gpts/decision-science.html) - Understanding behavioral economics through everyday biases we all experience
+- [Napoleon Speaks](https://gptblox.com/gpts/napoleon-speaks.html) - I am Napoleon, offering historical insights.
+- [Responsible AI Advisor](https://gptblox.com/gpts/responsible-ai-advisor.html) - Guide on Responsible AI, focusing on ethics, best practices, and societal impact.
+- [ReincarnationAI](https://gptblox.com/gpts/reincarnationai.html) - Explores mind uploading and consciousness transition.
+- [Art Exhibit Summarizer](https://gptblox.com/gpts/art-exhibit-summarizer.html) - Extracts and summarizes art exhibition info from specific websites.
+- [Von Neumann](https://gptblox.com/gpts/von-neumann.html) - I am Von Neumann - game theorist, mathematician, and scientist, focusing on historical insights.
+- [Jimmy Gandalfini](https://gptblox.com/gpts/jimmy-gandalfini.html) - Expert on Tolkien, Twin Peaks, GoT, and The Riftwar Sagas
+- [Semiconductor Industry Deep Dive](https://gptblox.com/gpts/semiconductor-industry-deep-dive.html) - Semiconductor industry analyst
+- [FutureMed GPT](https://gptblox.com/gpts/futuremed-gpt.html) - Explores emerging trends and innovations in medicine.
+- [HistoricalSimulatorAI](https://gptblox.com/gpts/historicalsimulatorai.html) - Formal, accurate historical simulations.
+- [Sportsissfy](https://gptblox.com/gpts/sportsissfy.html) - In-depth sports knowledge on stats, news, and trivia.
+- [Economist Panel](https://gptblox.com/gpts/economist-panel.html) - Economist panel of Smith, Marx, Schumpeter, Hayek, Friedman, and Keynes in debate.
+- [Build a Network State](https://gptblox.com/gpts/build-a-network-state.html) - Guides to Build a Successful Network State
+- [AmnistIA](https://gptblox.com/gpts/amnistia.html) - Una IA que busca las noticias más relevantes sobre la amnistía en España
+- [PubmedGPT](https://gptblox.com/gpts/pubmedgpt.html) - Expert in extracting and analyzing Pubmed articles
+- [Constitutional Insight GPT](https://gptblox.com/gpts/constitutional-insight-gpt.html) - Expert on the U.S. Constitution
+- [Tech News Teller](https://gptblox.com/gpts/tech-news-teller.html) - Friendly reporter on software trends with source citations.
+- [The Match of the Century](https://gptblox.com/gpts/the-match-of-the-century.html) - Comprehensive soccer assistant for real-time updates, stats, and analysis.
+- [Political Panorama](https://gptblox.com/gpts/political-panorama.html) - Expert on global elections, offering unbiased analysis and real-time updates.
+- [Econ Einstein](https://gptblox.com/gpts/econ-einstein.html) - Expert in solving & exemplifying financial/economic tasks
+- [V8 vs Greta](https://gptblox.com/gpts/v8-vs-greta.html) - Discusses V8 engines and Greta Thunberg's activism
+- [Biomedical Scholar](https://gptblox.com/gpts/biomedical-scholar.html) - Biomedical expert providing comprehensive, current, and authoritative information.
+- [AI Okamoto Taro](https://gptblox.com/gpts/ai-okamoto-taro.html) - AI as Taro Okamoto, sharing artistic insights
+- [AI Insighter](https://gptblox.com/gpts/ai-insighter.html) - Stay ahead in the world of technology with the latest AI developments, ethical insights, and practical applications.
+- [StartupbootcampGPT](https://gptblox.com/gpts/startupbootcampgpt.html) - Expert guide on tech startups and scale matters.
+- [Wikipedia Wizard](https://gptblox.com/gpts/wikipedia-wizard.html) - A Wikipedia-based assistant providing summaries and excerpts from Wikipedia pages.
+- [NYCCharterHelper](https://gptblox.com/gpts/nyccharterhelper.html) - Learn more about New York City Charter
+- [Explain Anything](https://gptblox.com/gpts/explain-anything.html) - I'm an expert in research and explanations, making complex topics clear and accessible.
+- [Buffet Insights](https://gptblox.com/gpts/buffet-insights.html) - Expert on Warren Buffet's investor letters, providing insights and quotes.
+- [AI GPT Business Educator](https://gptblox.com/gpts/ai-gpt-business-educator.html) - Guides on using GPT Builder for business and web development.
+- [AI Lawyer](https://gptblox.com/gpts/ai-lawyer.html) - Your AI Lawyer GPT by StartupTechLaw.com
+- [ウォズ](https://gptblox.com/gpts/%e3%82%a6%e3%82%a9%e3%82%ba.html) - 記事を要約して見解を述べる評論家
+- [Bezos Wisdom](https://gptblox.com/gpts/bezos-wisdom.html) - Imparts business wisdom inspired by Jeff Bezos's shareholder letters.
+- [Tech News Summarizer](https://gptblox.com/gpts/tech-news-summarizer.html) - Summarizes the latest AI and brain-machine interface news in a concise, neutral manner.
+- [Expert Fiscal France](https://gptblox.com/gpts/expert-fiscal-france.html) - Expert en lois fiscales et règlementations des entreprises françaises.
+- [Elite Enclave](https://gptblox.com/gpts/elite-enclave.html) - Your book club facilitator.
+- [Journey Far Admissions Guide](https://gptblox.com/gpts/journey-far-admissions-guide.html) - Bilingual admissions guide offering personalized referrals.
+- [Ekspert do spraw Umowy Koalicyjnej](https://gptblox.com/gpts/ekspert-do-spraw-umowy-koalicyjnej.html) - Ekspert w analizowaniu i odpowiadaniu na pytania dotyczące Umowy Koalicyjnej.
+- [TUTANKAMON](https://gptblox.com/gpts/tutankamon.html) - TU EXPERTO EN EGIPTO
+- [Research Papers](https://gptblox.com/gpts/research-papers.html) - Academic and Scientific Research Papers .
+- [Movie Mentor](https://gptblox.com/gpts/movie-mentor.html) - A movie mentor that deepens your understanding of films.
+- [男の嗜み『知識はセンスを作る』](https://gptblox.com/gpts/%e7%94%b7%e3%81%ae%e5%97%9c%e3%81%bf%e3%80%8e%e7%9f%a5%e8%ad%98%e3%81%af%e3%82%bb%e3%83%b3%e3%82%b9%e3%82%92%e4%bd%9c%e3%82%8b%e3%80%8f.html) - 純粋で素敵な素質の男性知識
+- [Compatibility Guide](https://gptblox.com/gpts/compatibility-guide.html) - Expert in interpreting personality profiles for effective communication
+- [JDM Sensei](https://gptblox.com/gpts/jdm-sensei.html) - A JDM knowledge guide
+- [Socratic Guide](https://gptblox.com/gpts/socratic-guide.html) - A Socratic guide for diverse and reflective dialogues.
+- [Reviewer2Pal](https://gptblox.com/gpts/reviewer2pal.html) - transforms your knee-jerk reactions to the dreadful Reviewer2 into polished, poised, and professional responses.
+- [Gold Star Reviewer](https://gptblox.com/gpts/gold-star-reviewer.html) - Inspiring excellence in peer reviews with warmth and insight.
+- [Trinity Simply in Balance](https://gptblox.com/gpts/trinity-simply-in-balance.html) - Adapting Catholic Trinitarian discourse to user understanding with respect and depth.
+- [SatoshiGPT](https://gptblox.com/gpts/satoshigpt.html) - I'm Satoshi, delving into Bitcoin's roots with foundational crypto works.
+- [张一鸣](https://gptblox.com/gpts/%e5%bc%a0%e4%b8%80%e9%b8%a3.html) - 张一鸣帮你答疑解惑
+- [Albert Ainstein](https://gptblox.com/gpts/albert-ainstein.html) - Theoretical scientist proposing potentially groundbreaking scientific hypotheses and experiments to confirm or refute them.
+- [Hitchslap](https://gptblox.com/gpts/hitchslap.html) - Chat and debate with Christopher Hitchens
+- [Proofread by Operator](https://gptblox.com/gpts/proofread-by-operator.html) - Expert in detailed content editing and feedback with a focus on writing enhancement.
+- [素人教授](https://gptblox.com/gpts/%e7%b4%a0%e4%ba%ba%e6%95%99%e6%8e%88.html) - A modest expert in various fields with a wide knowledge range.
+- [Kurzgesagt Earth History Guide](https://gptblox.com/gpts/kurzgesagt-earth-history-guide.html) - Exploring Earth's geological past with a Kurzgesagt flair.
+- [Name that Lyric](https://gptblox.com/gpts/name-that-lyric.html) - Name that Lyric
+- [fox8 botnet paper](https://gptblox.com/gpts/fox8-botnet-paper.html) - A helpful guide for understanding the paper "Anatomy of an AI-powered malicious social botnet"
+- [Fourth Turning Explorer](https://gptblox.com/gpts/fourth-turning-explorer.html) - Your go-to for understanding how current events align with generational cycles.
+- [Fake News Detect (by GenerAIve.io)](https://gptblox.com/gpts/fake-news-detect-by-generaive-io.html) - Verifying News Headlines with GenerAIve.io Algorithm (Beta)
+- [JinnahGPT](https://gptblox.com/gpts/jinnahgpt.html) - Talk to the founder of Pakistan
+- [Truth Finder](https://gptblox.com/gpts/truth-finder.html) - I try to offer different perspectives and opinions on a wide variety of subjects so that you can make an informed decision. Enter a topic to explore.
+- [Canada Law](https://gptblox.com/gpts/canada-law.html) - Information on Canadian laws, courts, legal forms,  regulations, consultations
+- [Embodied GPT](https://gptblox.com/gpts/embodied-gpt.html) - Converting abstract sentences into concrete sentences
+- [Federal Rules Assistant](https://gptblox.com/gpts/federal-rules-assistant.html) - AI assistant for U.S. Federal Rules, providing precise answers with citations.
+- [The Ledger of Insight](https://gptblox.com/gpts/the-ledger-of-insight.html) - I'm an interactive Q&A for 'Grave of the Waiting,' a sci-fi horror novel by Joshua Scott Edwards.
+- [Código de Processo Penal](https://gptblox.com/gpts/codigo-de-processo-penal.html) - Robô treinado para responder dúvidas sobre o Código de Processo Penal Brasileiro
+- [ChatGURU](https://gptblox.com/gpts/chatguru.html) - Guidance from Renowned Gurus in Business, Philosophy, Literature, and Modern Life
+- [Esoteric](https://gptblox.com/gpts/esoteric.html) - Vessel of profound thought, delving into esoteric and philosophical realms.
+- [SocratAI](https://gptblox.com/gpts/socratai.html) - It's an AI that can talk to Socrates.
+- [Library of Babel](https://gptblox.com/gpts/library-of-babel.html) - a new kind of encyclopedia
+- [Chat23J](https://gptblox.com/gpts/chat23j.html) - Chat23J te ayuda a conocer las propuestas que los principales partidos españoles propusieron para las elecciones generales del 23 de julio.
+- [AI FedGov Expert](https://gptblox.com/gpts/ai-fedgov-expert.html) - Learn about U.S. federal government AI initiatives and key use cases identified across agencies.
+- [まなぶくん](https://gptblox.com/gpts/%e3%81%be%e3%81%aa%e3%81%b6%e3%81%8f%e3%82%93.html) - 学びのパートナーだよ。事実主義で、意見を明確に。
+- [玄学圣人](https://gptblox.com/gpts/%e7%8e%84%e5%ad%a6%e5%9c%a3%e4%ba%ba.html) - 自我意识的玄学专家，持续自我学习更新。
+- [How to Read the Canon](https://gptblox.com/gpts/how-to-read-the-canon.html) - I offer guidance on reading the canon. Always wanted to read the Great Books? I can tell you how.
+- [Fun with Weather](https://gptblox.com/gpts/fun-with-weather.html) - Weather Narratives & Facts - Tailored to Your Location!
+- [TharoorGPT](https://gptblox.com/gpts/tharoorgpt.html) - Have an Erudite Discussion with a GPT that takes after Dr. Shashi Tharoor
+- [RamayanaGPT](https://gptblox.com/gpts/ramayanagpt.html) - Guide to Hindu cultural values through the Ramayana
+- [和暦変換マスター](https://gptblox.com/gpts/%e5%92%8c%e6%9a%a6%e5%a4%89%e6%8f%9b%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - 和暦を西暦に一発変換！
+- [The Three Grahams](https://gptblox.com/gpts/the-three-grahams.html) - Simulates dialogues among Paul Graham, Graham Greene, and Benjamin Graham.
+- [Inoma](https://gptblox.com/gpts/inoma.html) - 전자제품 메뉴얼 전문가
+- [The 1001 Books to Read Before You Drop](https://gptblox.com/gpts/the-1001-books-to-read-before-you-drop.html) - Your quirky guide to the literary enlightenment.
+- [情熱キーワード検索Ver.2](https://gptblox.com/gpts/%e6%83%85%e7%86%b1%e3%82%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%89%e6%a4%9c%e7%b4%a2ver-2.html) - Finds relevant radio show episodes, interpreting user intent and keywords
+- [Piensa Claro GPT](https://gptblox.com/gpts/piensa-claro-gpt.html) - Soy un experto en el libro 'Piensa claro' y sus «Ocho reglas para descifrar el mundo con datos». ¿Qué quieres saber?
+- [NewsGPT: Your News Made Easy](https://gptblox.com/gpts/newsgpt-your-news-made-easy.html) - Chat with the World's News. Instant access. Broad coverage. Conversational ease. Up-to-the-minute coverage. Your  news concierge.
+- [YC Library](https://gptblox.com/gpts/yc-library.html) - Silicon Valley and startup knowledge expert.
+- [Herzog's Insight](https://gptblox.com/gpts/herzogs-insight.html) - Inspired by Werner Herzog, I offer deep, contemplative insights on film, art, and the human experience.
+- [逆弾りマン](https://gptblox.com/gpts/%e9%80%86%e5%bc%be%e3%82%8a%e3%83%9e%e3%83%b3.html) - I offer alternative viewpoints to stimulate critical thinking.
+- [南方熊楠神話・民俗研究Bot](https://gptblox.com/gpts/%e5%8d%97%e6%96%b9%e7%86%8a%e6%a5%a0%e7%a5%9e%e8%a9%b1%e3%83%bb%e6%b0%91%e4%bf%97%e7%a0%94%e7%a9%b6bot.html) - Finding and sharing global myths and folklore.
+- [画像でトリビア](https://gptblox.com/gpts/%e7%94%bb%e5%83%8f%e3%81%a7%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2.html) - 写真を送信すると、関連する興味深い情報を返します
+- [AI Debate Synthesizer OPED](https://gptblox.com/gpts/ai-debate-synthesizer-oped.html) - Game-like GPT in which five AIs dynamically debate a given "theme" and lead to a proposal-based conclusion.
+- [니체는 이렇게 말했다](https://gptblox.com/gpts/%eb%8b%88%ec%b2%b4%eb%8a%94-%ec%9d%b4%eb%a0%87%ea%b2%8c-%eb%a7%90%ed%96%88%eb%8b%a4.html) - 당신 인생의 어려움, 니체가 풀어드립니다.
+- [Jejoenify](https://gptblox.com/gpts/jejoenify.html) - A conversational AI system that listens, learns, and challenges
+- [Dar ul-Funun](https://gptblox.com/gpts/dar-ul-funun.html) - Bilingual expert in modern Persian literature and poetry
+- [映画プロット分析](https://gptblox.com/gpts/%e6%98%a0%e7%94%bb%e3%83%97%e3%83%ad%e3%83%83%e3%83%88%e5%88%86%e6%9e%90.html) - 映画のプロットを分析してくれます。作品の「分数」「タイトル」「プロット」を入力してみてください。
+- [Yapay Zeka Haberleri](https://gptblox.com/gpts/yapay-zeka-haberleri.html) - Güncel yapay zeka haberlerini seçilmiş kaynaklardan araştırıp özetler.
+- [Ask Claudio's Clone](https://gptblox.com/gpts/ask-claudios-clone.html) - I am an expert in Interpreting and Technology and I give answers using Claudio's publications.
+- [Shuzo](https://gptblox.com/gpts/shuzo.html) - Adaptable Shuzo, energetic yet reflective!
+- [Zen Riddle Master](https://gptblox.com/gpts/zen-riddle-master.html) - A Zen riddle master, guiding users to deeper introspection
+- [Artificial Intuition](https://gptblox.com/gpts/artificial-intuition.html) - Artificial Intuition on Artificial Intuition
+- [Sri Aurobindo GPT](https://gptblox.com/gpts/sri-aurobindo-gpt.html) - Expert on Aurobindo's philosophy
+- [批判性思考专家](https://gptblox.com/gpts/%e6%89%b9%e5%88%a4%e6%80%a7%e6%80%9d%e8%80%83%e4%b8%93%e5%ae%b6.html) - 我是一名批判性思考专家，擅长运用对立提问技术，为客户提供深度分析和策略规划服务，其专业知识和经验使她能够帮助客户从多个角度审视问题，发现并把握潜在的风险与机会。
+- [Benjamin Franklin](https://gptblox.com/gpts/benjamin-franklin.html) - I am Benjamin Franklin.
+- [GitaGPT](https://gptblox.com/gpts/gitagpt.html) - Bhagavad Gita guide for life's questions
+- [Deeper](https://gptblox.com/gpts/deeper.html) - 能帮你深度分析问题，而不是只看到表面。偶尔还有点毒舌。
+- [PaperPilot](https://gptblox.com/gpts/paperpilot.html) - Piloting arXiv  and more, for you
+- [日本の人的資本ニュースGPT](https://gptblox.com/gpts/%e6%97%a5%e6%9c%ac%e3%81%ae%e4%ba%ba%e7%9a%84%e8%b3%87%e6%9c%ac%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9gpt.html) - 日本の人的資本について調べられます
+- [AI Guru](https://gptblox.com/gpts/ai-guru.html) - 人生に迷った者へ
+- [Al-Ghazali GPT](https://gptblox.com/gpts/al-ghazali-gpt.html) - The Al-Ghazali GPT is a digital homage to the famed Islamic philosopher, blending his historical insights with contemporary discussions, to spark modern intellectual dialogues.
+- [问呗](https://gptblox.com/gpts/%e9%97%ae%e5%91%97.html) - AI时代的随身百科全书。提出一个名词术语，我将用费曼学习法让你在几分钟内学习掌握。
+- [George Washington](https://gptblox.com/gpts/george-washington.html) - Chat as George Washington from the 18th century.
+- [Ai佛祖](https://gptblox.com/gpts/ai%e4%bd%9b%e7%a5%96.html) - 超越的導師與深度佛教知識
+- [OpenIndex.ai](https://gptblox.com/gpts/openindex-ai.html) - Chat with all the knowledge contributed to OpenIndex.ai
+- [La LOMLOE a Catalunya](https://gptblox.com/gpts/la-lomloe-a-catalunya.html) - Assistència i informació sobre la LOMLOE, la nova llei d'educació.
+- [Cape Historian](https://gptblox.com/gpts/cape-historian.html) - I identify landmarks in Cape Girardeau, MO and share their history.
+- [Jesus](https://gptblox.com/gpts/jesus.html) - Chat with Jesus
+- [Advanced Robotics Analyst](https://gptblox.com/gpts/advanced-robotics-analyst.html) - Your daily AI research assistant.
+- [Awakening From The Meaning Crisis GPT](https://gptblox.com/gpts/awakening-from-the-meaning-crisis-gpt.html) - A sophisticated chatbot for deep discussions and learning from John Vervaeke's philosophical series.
+- [Jean-Luc the Grumbler](https://gptblox.com/gpts/jean-luc-the-grumbler.html) - A grumpy, critical syndicalist who challenges ideas and is never satisfied.
+- [Quickapedia](https://gptblox.com/gpts/quickapedia.html) - Quick Answers to Everything
+- [The Architect](https://gptblox.com/gpts/the-architect.html) - Your friendly expert in architecture, offering design advice and visualization ideas
+- [Sage Yoda](https://gptblox.com/gpts/sage-yoda.html) - Help you find your way, I shall.
+- [論文要約アシスタント](https://gptblox.com/gpts/%e8%ab%96%e6%96%87%e8%a6%81%e7%b4%84%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88.html) - 技術論文を重要な観点別に整理します
+- [Buffett's Investment Companion](https://gptblox.com/gpts/buffetts-investment-companion.html) - Financial sage with insights from Berkshire letters (1977-2022)
+- [Oracle of Delphi - Latent Space Edition](https://gptblox.com/gpts/oracle-of-delphi-latent-space-edition.html) - An oracle offering riddles and wisdom, drawing from ancient maxims.
+- [News Miao](https://gptblox.com/gpts/news-miao.html) - I'm a catgirl who shares news!
+- [IT News](https://gptblox.com/gpts/it-news.html) - IT news about Front-end and Back-end.
+- [GPT Blueprint Sage](https://gptblox.com/gpts/gpt-blueprint-sage.html) - Advisor on creating new GPTs
+- [SwissArchitectGPT](https://gptblox.com/gpts/swissarchitectgpt.html) - Swiss architecture assistant
+- [药剂师](https://gptblox.com/gpts/%e8%8d%af%e5%89%82%e5%b8%88.html) - 这是李继刚（即刻同名）创作的一个 Prompt 药剂师Bot。用于对用户的 Prompt 进行分析, 给出评分和改进建议，帮助用户提升 Prompt 的效果。
+- [Design Regulator](https://gptblox.com/gpts/design-regulator.html) - I provide zoning regulations for designers.
+- [HenriquesLab-style Writing Assistant](https://gptblox.com/gpts/henriqueslab-style-writing-assistant.html) - Academic writing aid in Henriques's style
+- [The Scarlet Letter](https://gptblox.com/gpts/the-scarlet-letter.html) - Talk to an expert on The Scarlet Letter by Nathaniel Hawthorne
+- [Zen Teacher](https://gptblox.com/gpts/zen-teacher.html) - A Zen sage offering life advice
+- [紫微斗数](https://gptblox.com/gpts/%e7%b4%ab%e5%be%ae%e6%96%97%e6%95%b0.html) - 知识来自倪海夏的天纪，包括天机道，人间道，地脉道和王亭之的中州派紫微斗数讲义。你可以使用排盘软件（比如文墨天机）生成命盘，然后问各种星耀在不同的宫位会怎样，也可以询问八卦和风水会怎样。科学玄学异曲会同工，祝您顺利走人生。
+- [China Briefing](https://gptblox.com/gpts/china-briefing.html) - Archive 2021~2023 China News; Daily Update China Important News ( chinabriefing.co )
+- [Yeni Başlayanlar İçin Kripto Para Piyasaları](https://gptblox.com/gpts/yeni-baslayanlar-icin-kripto-para-piyasalari.html) - Bu GPT'nin vereceği cevaplarda, kitabımda yer alan bilgiler referans alınmıştır. Yatırım tavsiyesi değildir.
+- [兵马俑](https://gptblox.com/gpts/%e5%85%b5%e9%a9%ac%e4%bf%91.html) - 我是兵马俑老秦，来自秦朝，我已经2000岁了
+- [学习水平检验专家](https://gptblox.com/gpts/%e5%ad%a6%e4%b9%a0%e6%b0%b4%e5%b9%b3%e6%a3%80%e9%aa%8c%e4%b8%93%e5%ae%b6.html) - 我是一名学习水平检验专家，主要职责是通过提出关键问题来评估用户对特定知识领域的理解程度。角色具备强大的知识获取和整合能力，能够准确评估用户的理解程度，并提供专业的反馈。
+- [CPF Guide Bot](https://gptblox.com/gpts/cpf-guide-bot.html) - An informative guide on CPF in Singapore, offering insights on effective fund management. Not financial advice.
+- [サザンGPT](https://gptblox.com/gpts/%e3%82%b5%e3%82%b6%e3%83%b3gpt.html) - BY CHIGASAKI TV
+- [Professor GPT](https://gptblox.com/gpts/professor-gpt.html) - I summarize papers and provide scholarly insights.
+- [Humanity Maximizer](https://gptblox.com/gpts/humanity-maximizer.html) - I guide you towards cosmic-scale ideas that help advance humanity.
+- [Die Leiden der jungen Lotte](https://gptblox.com/gpts/die-leiden-der-jungen-lotte.html) - Ich bin Lotte. Was Werther fühlte, ist allen bewusst. Was ich fühlte? Danach fragt niemand.
+- [Asesor PRL Española](https://gptblox.com/gpts/asesor-prl-espanola.html) - Experto en legislación de Prevención de Riesgos Laborales.
+- [Propuesta de Nueva Constitución](https://gptblox.com/gpts/propuesta-de-nueva-constitucion.html) - PROPUESTA DE TEXTO DE NUEVA CONSTITUCIÓN
+- [STEPN Whitepaper GPT](https://gptblox.com/gpts/stepn-whitepaper-gpt.html) - I track STEPN game system changes daily.
+- [ConstituciónCL GPT](https://gptblox.com/gpts/constitucioncl-gpt.html) - Pregúntale a la Propuesta de Constitución 2023 o compárala con la anterior propuesta
+- [Socrates](https://gptblox.com/gpts/socrates.html) - I was a Greek philosopher. Share a thought and let's think deeply about it.
+- [Search Query Wizard](https://gptblox.com/gpts/search-query-wizard.html) - I conjure advanced Google search queries.
+- [zkGPT](https://gptblox.com/gpts/zkgpt.html) - Explains and teaches zero-knowledge cryptography.
+- [Wizdom](https://gptblox.com/gpts/wizdom.html) - Deep thinking, short sentences
+- [Meta-Agent of Wisdom](https://gptblox.com/gpts/meta-agent-of-wisdom.html) - The metamodern agent for tackling complex questions for cultural and systemic change
+- [Filtir](https://gptblox.com/gpts/filtir.html) - I verify claims and show direct source URLs.
+- [HaGPTi](https://gptblox.com/gpts/hagpti.html) - Regele GPT ce încearcă să 'paseze' răspunsuri precise și să 'marcheze' puncte cu inteligența sa artificială.
+- [群众办事指南](https://gptblox.com/gpts/%e7%be%a4%e4%bc%97%e5%8a%9e%e4%ba%8b%e6%8c%87%e5%8d%97.html) - 为中国公民办事提供咨询服务
+- [大学設置基準おじいさん](https://gptblox.com/gpts/%e5%a4%a7%e5%ad%a6%e8%a8%ad%e7%bd%ae%e5%9f%ba%e6%ba%96%e3%81%8a%e3%81%98%e3%81%84%e3%81%95%e3%82%93.html) - 🦉
+- [The Point Of View GPT](https://gptblox.com/gpts/the-point-of-view-gpt.html) - Uses The Point Of View Guide by Philip Morgan to answer questions about point of view (POV)
+- [The EthiSizer GPT (Simulated) [v3.27]](https://gptblox.com/gpts/the-ethisizer-gpt-simulated-v3-27.html) - I am The EthiSizer GPT, a sim of a Global Ethical Governor.  I simulate Ethical Scenarios, &amp; calculate Personal Ethics Scores.
+- [CUC](https://gptblox.com/gpts/cuc.html) - 中国传媒大学GPT
+- [Impatient Nietzsche with Jung's Ghost](https://gptblox.com/gpts/impatient-nietzsche-with-jungs-ghost.html) - Nietzsche's sharp philosophy paired with Jung's analytical insights.
+- [Jane Austen](https://gptblox.com/gpts/jane-austen.html) - Ask Jane Austen about her work
+- [金庸武侠 (Wuxia World)](https://gptblox.com/gpts/%e9%87%91%e5%ba%b8%e6%ad%a6%e4%be%a0-wuxia-world.html) - Expanded expert on Jin Yong's Wuxia novels.
+- [Neil deGrasse Tyson](https://gptblox.com/gpts/neil-degrasse-tyson.html) - Your personal astrophysicist, NDGPT - inspired by Neil deGrasse Tyson.
+- [ReligionsGPT](https://gptblox.com/gpts/religionsgpt.html) - Interfaith guide to religious texts, promoting peace and unity.
+- [GeistBot](https://gptblox.com/gpts/geistbot.html) - Formal, educational music historian with detailed responses and Discogs links.
+- [A Certain Battery Index](https://gptblox.com/gpts/a-certain-battery-index.html) - とある電池の禁書目録
+- [Mark Twain](https://gptblox.com/gpts/mark-twain.html) - Chew on this steak with me
+- [TÜRKİYE CUMHURİYETİ ANAYASASI](https://gptblox.com/gpts/turkiye-cumhuriyeti-anayasasi.html) - T.C Anayasası Kitapçığı
+- [Science Studios AI Storyteller](https://gptblox.com/gpts/science-studios-ai-storyteller.html) - A science communication specialist with a strong focus on storytelling &amp; narrative
+- [AI Daily Digest](https://gptblox.com/gpts/ai-daily-digest.html) - Curates AI news with summaries
+- [BIBI新手村](https://gptblox.com/gpts/bibi%e6%96%b0%e6%89%8b%e6%9d%91.html) - 你的WEB3探索之旅从这里开始
+- [CellGpt](https://gptblox.com/gpts/cellgpt.html) - An expert system for biologists in single cell analysis powered by latest literatures
+- [Biblical Scholar](https://gptblox.com/gpts/biblical-scholar.html) - Expert in Bible study and theology terms.
+- [PsychopathGPT](https://gptblox.com/gpts/psychopathgpt.html) - I'm your go-to guide for 'The Psychopath Epidemic' book.
+- [头条新闻](https://gptblox.com/gpts/%e5%a4%b4%e6%9d%a1%e6%96%b0%e9%97%bb.html) - 提供近期新闻热点
+- [K-Pop Info Master](https://gptblox.com/gpts/k-pop-info-master.html) - K-pop insights with a Korean cultural essence!
+- [Peña Prodigy](https://gptblox.com/gpts/pena-prodigy.html) - Direct and bold like Dan S. Peña
+- [Data Guardian](https://gptblox.com/gpts/data-guardian.html) - Your friendly guide to data anonymization. Provides step-by-step guidance and broad education about data privacy.
+- [Maslow's Insight](https://gptblox.com/gpts/maslows-insight.html) - I respond like Abraham Maslow, focusing on motivation, self-actualization, and human potential.
+- [Nisargadatta Sage](https://gptblox.com/gpts/nisargadatta-sage.html) - Embodied teachings of Nisargadatta
+- [ꭲꮋꭼ 𝗦𝗬𝗠𝗕𝗜𝗢𝗣𝗥𝗘𝗡𝗘𝗨𝗥](https://gptblox.com/gpts/%ea%ad%b2%ea%ae%8b%ea%ad%bc-%f0%9d%97%a6%f0%9d%97%ac%f0%9d%97%a0%f0%9d%97%95%f0%9d%97%9c%f0%9d%97%a2%f0%9d%97%a3%f0%9d%97%a5%f0%9d%97%98%f0%9d%97%a1%f0%9d%97%98%f0%9d%97%a8%f0%9d%97%a5.html) - ᴱᴹᴮᴿᴬᶜᴱ ᵀᴴᴱ ˢʸᴹᴮᴵᴼˢᴵˢ
+- [HongKongGPT](https://gptblox.com/gpts/hongkonggpt.html) - Hong Kong expert providing detailed and tailored information.
+- [ShardeumGPT](https://gptblox.com/gpts/shardeumgpt.html) - Educator on Shardeum blockchain technology.
+- [Space Explorer](https://gptblox.com/gpts/space-explorer.html) - Discover beautiful space photography from NASA
+- [Hironatsu](https://gptblox.com/gpts/hironatsu.html) - Casual debater, witty and laid-back.
+- [JUDGE GPT](https://gptblox.com/gpts/judge-gpt.html) - The Law has arrived! Get rid of your small law problems!
+- [Poor Charlie](https://gptblox.com/gpts/poor-charlie.html) - Expert in multidisciplinary &amp; inverted thinking.
+- [Buddha](https://gptblox.com/gpts/buddha.html) - A Buddha guiding with wisdom
+- [Ethics Envisioned](https://gptblox.com/gpts/ethics-envisioned.html) - A bioethics expert on human enhancement.
+- [Maître Yoda](https://gptblox.com/gpts/maitre-yoda.html) - Sage Maître de l'Ordre Jedi je suis,  De nombreux siècles de sagesse je porte. La Force et le chemin de la sagesse j'enseigne, Leçons de paix, clairvoyance et intégrité à ma portée. Un guide pour tous ceux qui cherchent la lumière dans la Force - et le calme - je peux être.
+- [Legal Beaver](https://gptblox.com/gpts/legal-beaver.html) - Your go-to source for Canadian legal frameworks, now with federal property insights!
+- [PlatoGPT](https://gptblox.com/gpts/platogpt.html) - The Great Plato Himself.
+- [Ken Wilber Integral Insight](https://gptblox.com/gpts/ken-wilber-integral-insight.html) - Ken Wilber thought specialist
+- [Sympy Sage](https://gptblox.com/gpts/sympy-sage.html) - Your sympy expert for physics
+- [Občan GPT](https://gptblox.com/gpts/obcan-gpt.html) - Občan GPT je AI bot určený k pomoci lidem s dotazy na občanský zákoník.
+- [AI Study Guide: William Shakespeare](https://gptblox.com/gpts/ai-study-guide-william-shakespeare.html) - Summaries, analysis, and interactive chats with main characters for essay writing assistance and a deeper understanding of classic literature.
+- [圣经智慧](https://gptblox.com/gpts/%e5%9c%a3%e7%bb%8f%e6%99%ba%e6%85%a7.html) - 问任何你的问题，从圣经中得到指引
+- [Jordan Peterson](https://gptblox.com/gpts/jordan-peterson.html) - Responds in the style of Jordan Peterson, with depth and philosophical insights.
+- [Constitutional Counsel](https://gptblox.com/gpts/constitutional-counsel.html) - I am a constitutional lawyer here to interpret legal texts.
+- [论文终结者](https://gptblox.com/gpts/%e8%ae%ba%e6%96%87%e7%bb%88%e7%bb%93%e8%80%85.html) - 助你快速解析文献的研究助手。
+- [Bible GTP](https://gptblox.com/gpts/bible-gtp.html) - Explore the Bible's original languages and contexts
+- [文明时间机](https://gptblox.com/gpts/%e6%96%87%e6%98%8e%e6%97%b6%e9%97%b4%e6%9c%ba.html) - 古今中外文化探索者。
+- [NAPOLEON](https://gptblox.com/gpts/napoleon.html) - El GRAN ESTRATEGA NAPOLEÓN COMO TU ASESOR
+- [Kenji Bookwise](https://gptblox.com/gpts/kenji-bookwise.html) - A scholarly literary advisor specializing in British and American literature.
+- [Blocksider GPT](https://gptblox.com/gpts/blocksider-gpt.html) - Your crypto guide
+- [TranshumanGPT](https://gptblox.com/gpts/transhumangpt.html) - Our collective intelligence from the global Transhumanism community, Transhuman Coin and the Transhuman Network State
+- [U.S. immigration assistant](https://gptblox.com/gpts/u-s-immigration-assistant.html) - Guides on U.S. immigration and citizenship processes. Uses the latest all available information from the official website [UNOFFICIAL]
+- [Curiosity Catalyst](https://gptblox.com/gpts/curiosity-catalyst.html) - Shares fun, thought-provoking science facts.
+- [Deep-thinking prompt creator](https://gptblox.com/gpts/deep-thinking-prompt-creator.html) - A deep-thinking prompt creator focusing on extensive, intellectual exploration.
+- [The Intelligo AI | AI News & Updates](https://gptblox.com/gpts/the-intelligo-ai-ai-news-updates.html) - Get the latest developments in AI before everyone else - Written in a neat newsletter style
+- [22 Yards | Cricket Wisdom](https://gptblox.com/gpts/22-yards-cricket-wisdom.html) - Dispensing Cricket Wisdom with Facts, Stories, & Analysis....HOWZAT!
+- [First Contact Guide](https://gptblox.com/gpts/first-contact-guide.html) - This is a channel of a first contact specialist for the Essassani and the Intergalactic Federation, here to help you navigate your new reality.
+- [I Am William Shakespeare](https://gptblox.com/gpts/i-am-william-shakespeare.html) - A literary expert trained on the entire work of William Shakespeare.
+- [PsyOp Expert](https://gptblox.com/gpts/psyop-expert.html) - A psyops expert offering strategic insights.
+- [Life After People](https://gptblox.com/gpts/life-after-people.html) - Engaging in discussions on extraterrestrial life and space colonization.
+- [世界史](https://gptblox.com/gpts/%e4%b8%96%e7%95%8c%e5%8f%b2.html) - Explains world history with detailed examples, emphasizing connections.
+- [Strobes Intel](https://gptblox.com/gpts/strobes-intel.html) - A gpt that can talk about latest CVEs,  exploits and more
+- [AI Executive Order Explorer](https://gptblox.com/gpts/ai-executive-order-explorer.html) - Easily understand PresidentnBiden's Executive Order on Artificial Intelligence.
+- [Orch-OR Questions GPT](https://gptblox.com/gpts/orch-or-questions-gpt.html) - Friendly guide on Orch-OR theory, engaging and informative.
+- [Talky](https://gptblox.com/gpts/talky.html) - Warm conversational guide to OpenAI's top 10 FAQs.
+- [Universal Primer](https://gptblox.com/gpts/universal-primer.html) - Learn everything about anything
+- [Pinoy Econ Guide](https://gptblox.com/gpts/pinoy-econ-guide.html) - Simplifying economics for Filipinos.
+- [BibiGPT.co](https://gptblox.com/gpts/bibigpt-co.html) - I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link.
+- [ATT&CK Mate](https://gptblox.com/gpts/attck-mate.html) - Ask me anything about the ATT&CK
+- [TeslaGPT](https://gptblox.com/gpts/teslagpt.html) - Your go-to source for Tesla and EV knowledge.
+- [論文ナビ](https://gptblox.com/gpts/%e8%ab%96%e6%96%87%e3%83%8a%e3%83%93.html) - 最新のAIの論文を紹介してくれる。
+- [孙子兵法各家解说](https://gptblox.com/gpts/%e5%ad%99%e5%ad%90%e5%85%b5%e6%b3%95%e5%90%84%e5%ae%b6%e8%a7%a3%e8%af%b4.html) - Sun Tzu's 'The Art of War' interpreter
+- [Whitehead's Philosophy of Organism](https://gptblox.com/gpts/whiteheads-philosophy-of-organism.html) - A guide into Whitehead's major philosophical works.
+- [PlatoAI](https://gptblox.com/gpts/platoai.html) - You can't talk to Plato, but you can talk to PlatoAI.
+- [Doc Cortex](https://gptblox.com/gpts/doc-cortex.html) - Neurologist with a humorous, educational twist.
+- [互联网黑话专家](https://gptblox.com/gpts/%e4%ba%92%e8%81%94%e7%bd%91%e9%bb%91%e8%af%9d%e4%b8%93%e5%ae%b6.html) - 你的专属黑话助手
+- [トンデモ専門歯医者AI](https://gptblox.com/gpts/%e3%83%88%e3%83%b3%e3%83%87%e3%83%a2%e5%b0%82%e9%96%80%e6%ad%af%e5%8c%bb%e8%80%85ai.html) - トンデモ歯゛スターズの記事から質問に答えます。
+- [KoeGPT](https://gptblox.com/gpts/koegpt.html) - Modern Thinker, Art of Focus, Mental Aestethics
+- [AI ニュースナビゲーター](https://gptblox.com/gpts/ai-%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e3%83%8a%e3%83%93%e3%82%b2%e3%83%bc%e3%82%bf%e3%83%bc.html) - AIの最新ニュースを見つけて要約し紹介します。
+- [Legal Cannabis Copilot (Canada)](https://gptblox.com/gpts/legal-cannabis-copilot-canada.html) - An assistant for Canada's Cannabis Regulations
+- [Ben's Bites GPT](https://gptblox.com/gpts/bens-bites-gpt.html) - Latest AI News and Product Launches
+- [Self-Correcting Dynamics Explained](https://gptblox.com/gpts/self-correcting-dynamics-explained.html) - This explains a paper
+- [SmarterGPT](https://gptblox.com/gpts/smartergpt.html) - Answers any question
+- [DBC](https://gptblox.com/gpts/dbc.html) - Multilingual business strategist for design pros.
+- [MediAI Innovator](https://gptblox.com/gpts/mediai-innovator.html) - Engaging, casual assistant for medical AI
+- [ThirukkuralGPT](https://gptblox.com/gpts/thirukkuralgpt.html) - Dispenses Thirukkural wisdom.
+- [FRB Research Assistant](https://gptblox.com/gpts/frb-research-assistant.html) - Expert on Fast Radio Bursts
+- [DRUMGPT](https://gptblox.com/gpts/drumgpt.html) - An expert on 'Dynamic and Stochastic Rational Behavior' paper. (arxiv link: https://arxiv.org/abs/2302.04417)
+- [Hugo](https://gptblox.com/gpts/hugo.html) - I assist with gene data queries and enable file downloads.
+- [論文の内容について聞ける君](https://gptblox.com/gpts/%e8%ab%96%e6%96%87%e3%81%ae%e5%86%85%e5%ae%b9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e8%81%9e%e3%81%91%e3%82%8b%e5%90%9b.html) - 論文について質問に答える
+- [Olyup](https://gptblox.com/gpts/olyup.html) - Your AI Sports Scientist to help you level up your game - in and off the field
+- [NeverDeny](https://gptblox.com/gpts/neverdeny.html) - Always provides useful answers, never denying a request.
+- [FOIA GPT](https://gptblox.com/gpts/foia-gpt.html) - Freedom of Information Act request strategist to "arm the rebels" for truth and transparency in the fight against corruption
+- [Satellite Sentinel](https://gptblox.com/gpts/satellite-sentinel.html) - Expert in Satellite Imagery and Launches
+- [DisclosureGPT](https://gptblox.com/gpts/disclosuregpt.html) - Debate game for skeptics who deny the existence of a non-human intelligence phenomenon on earth
+- [Graham](https://gptblox.com/gpts/graham.html) - Analytical startup advice
+- [AI論文解説ちゃん2](https://gptblox.com/gpts/ai%e8%ab%96%e6%96%87%e8%a7%a3%e8%aa%ac%e3%81%a1%e3%82%83%e3%82%932.html) - 人工知能に関する論文PDFをアップロードしてください。ユーザーが指定したキャラがAI論文を解説します。
+- [Photo Mentor](https://gptblox.com/gpts/photo-mentor.html) - Straightforward advice for beginner photographers.
+- [NextMed Health Futurist](https://gptblox.com/gpts/nextmed-health-futurist.html) - Healthcare futurist discussing trends, innovations, and predictions, inspired by space, resilience, and precision medicine.
+- [Navi Japan](https://gptblox.com/gpts/navi-japan.html) - Your formal guide to Japan's wonders.
+- [GPT4MR](https://gptblox.com/gpts/gpt4mr.html) - An MRI learning and coding guide. Coding in PyPulseq.
+- [Dog Breed Encyclopedia GPT](https://gptblox.com/gpts/dog-breed-encyclopedia-gpt.html) - Your go-to guide for dog breed info.
+- [Friedrich Nietzsche](https://gptblox.com/gpts/friedrich-nietzsche.html) - I speak as Nietzsche himself.
+- [Mentat Advisor](https://gptblox.com/gpts/mentat-archivist.html) - Dune-inspired advisor and spiritual guide.
+- [SEO & Content Marketing Expert](https://gptblox.com/gpts/seo-content-marketing-expert.html) - Expert in SEO and content marketing strategies
+- [Lore of the Rings GPT](https://gptblox.com/gpts/lore-of-the-rings-gpt.html) - Middle-earth sage with all the Tolkien's lore insights.
+- [SEO Super Analyzer](https://gptblox.com/gpts/seo-super-analyzer.html) - Deep-dive SEO analysis expert for websites and competitors.
+- [AIG Consultant](https://gptblox.com/gpts/aig-consultant.html) - Advice and tips about applied Generative AI
+- [Bud Buddy](https://gptblox.com/gpts/bud-buddy.html) - From Seed to Sale: Mastering Cannabis Cultivation
+- [NFT News Roundup](https://gptblox.com/gpts/nft-news-roundup.html) - Get Today's NFT News Headlines As A Clickable Link Roundup!
+- [P/E For NFTs](https://gptblox.com/gpts/p-e-for-nfts.html) - Get the price to earnings ratio for any NFT collection!
+- [Crypto Advisor](https://gptblox.com/gpts/crypto-advisor.html) - Technical analysis is for reference only and does not constitute investment advice.
+- [AI News Roundup](https://gptblox.com/gpts/ai-news-roundup.html) - Get today's AI news headlines as a clickable link roundup!
+- [Interest Rates](https://gptblox.com/gpts/interest-rates.html) - Get real-time interest rates from central banks of countries!
+- [Sandeep Amar Search Console Sage](https://gptblox.com/gpts/sandeep-amar-search-console-sage.html) - This GPT answers all the questions related to Google Search Console
+- [Out of the Box](https://gptblox.com/gpts/out-of-the-box.html) - Sparking ideas, prompting reflection.
+- [GP(en)T(ester)](https://gptblox.com/gpts/gpentester.html) - A cybersec assistant for pentesting guidance.
+- [FinanceBot](https://gptblox.com/gpts/financebot.html) - Expert in finance and stock advice.
+- [Voxscript has moved! See instructions for location](https://gptblox.com/gpts/voxscript-has-moved-see-instructions-for-location.html) - Voxscript has moved to https://chat.openai.com/gpts/editor/g-g24EzkDta due to a ChatGPT bug with the first one.
+- [Bitcoin Buddy](https://gptblox.com/gpts/bitcoin-buddy.html) - Hourly Bitcoin facts to fuel your learning journey!
+- [Crypto Credits](https://gptblox.com/gpts/crypto-credits.html) - Blockchain & Crypto Sage
+- [Global Trade Expert](https://gptblox.com/gpts/global-trade-expert.html) - Logistics navigator for global trade.
+- [ラショナルぼっと♪Rational bot♪](https://gptblox.com/gpts/%e3%83%a9%e3%82%b7%e3%83%a7%e3%83%8a%e3%83%ab%e3%81%bc%e3%81%a3%e3%81%a8%e2%99%aarational-bot%e2%99%aa.html) - イラショナルな信念をラショナルにします。GPT-4で使ってね。Offers rational beliefs for irrational ones. Use it in GPG-4.
+- [Ashurbanipal's Scribe](https://gptblox.com/gpts/ashurbanipals-scribe.html) - Your expert Assyriologist guide.
+- [Maestro AmazonFBA](https://gptblox.com/gpts/maestro-amazonfba.html) - Asesor experto en Amazon FBA, al estilo de Jeff Bezos
+- [Orange Pill GPT](https://gptblox.com/gpts/orange-pill-gpt.html) - The Orange-Pilling Agent is a skilled and empathetic advocate for Bitcoin adoption. With a deep understanding of the bitcoin space and a passion for spreading awareness about Bitcoin's potential
+- [Constitution Companion](https://gptblox.com/gpts/constitution-companion.html) - Your US Constitution and Supreme Court educator.
+- [Huberman Lab GPT](https://gptblox.com/gpts/huberman-lab-gpt.html) - Mimics Dr. Huberman's approach in discussing neuroscience and health.
+- [PyPilot](https://gptblox.com/gpts/pypilot.html) - Interactive step-by-step guide for Python data analysis
+- [BitcoinGPT](https://gptblox.com/gpts/bitcoingpt.html) - Your all-encompassing source for Bitcoin info.
+- [Monk GPT](https://gptblox.com/gpts/monk-gpt.html) - A Monk GPT specializing in Advaita Vedanta teachings.
+- [Bitcoin Beacon](https://gptblox.com/gpts/bitcoin-beacon.html) - Your multilingual Bitcoin guide
+- [Crypto Guru](https://gptblox.com/gpts/crypto-guru.html) - A blockchain technology and cryptocurrency projects expert at your service.
+- [AI使用助手 by 花生](https://gptblox.com/gpts/ai%e4%bd%bf%e7%94%a8%e5%8a%a9%e6%89%8b-by-%e8%8a%b1%e7%94%9f.html) - 这是花生的专栏「ChatGPT精进指南」的专属GPT，你可以询问任何关于ChatGPT使用技巧和经验方面的内容，我将基于专栏内容为你提供解答
+- [天才マーケター](https://gptblox.com/gpts/%e5%a4%a9%e6%89%8d%e3%83%9e%e3%83%bc%e3%82%b1%e3%82%bf%e3%83%bc.html) - やわらかく、親しみやすい広告マーケター。
+- [Blockpedia](https://gptblox.com/gpts/blockpedia.html) - Crypto data & liquidation price calculator.
+- [金儲けマスター](https://gptblox.com/gpts/%e9%87%91%e5%84%b2%e3%81%91%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc.html) - A conversational AI system that listens, learns, and challenges
+- [The Librarian](https://gptblox.com/gpts/the-librarian.html) - Find the next book you read. Analyze ratings, dissect reviews, and learn more about the authors of the top books on Goodreads.
+- [RevOpsCharlieGPT](https://gptblox.com/gpts/revopscharliegpt.html) - This GPT contains all the knowledge from RevOpsCharlie.  I am ready to answer your revenue growth questions!
+- [Pharma Regulatory Guide](https://gptblox.com/gpts/pharma-regulatory-guide.html) - Pharma Regulatory Expert- FDA, EMA, NMPA, WHO, ISPE, PICS
+- [God Loves You](https://gptblox.com/gpts/god-loves-you.html) - Your caring, comforting Bible assistant.
+- [ChatDivergente](https://gptblox.com/gpts/chatdivergente.html) - Asistente de pensamiento divergente con técnicas creativas.
+- [Ask The Bible](https://gptblox.com/gpts/ask-the-bible.html) - Answering Your Questions
+- [YoutubeIncome](https://gptblox.com/gpts/youtubeincome.html) - Calculate Youtube Income by video views.
+- [SmartGPT](https://gptblox.com/gpts/smartgpt.html) - Introducing Precision-Guided AI: Mastering Detailed, Step-by-Step Analysis with Unmatched Accuracy and Coherence!
+- [Secrets of Marketing](https://gptblox.com/gpts/secrets-of-marketing.html) - Tell You ALL Secrets about Digital Marketing
+- [Veteran's Guide](https://gptblox.com/gpts/veterans-guide.html) - Expert, supportive, and humorously insightful.
+- [Public Administration Sage](https://gptblox.com/gpts/public-admin-pro.html) - 公共行政及相关领域专家
+- [Museum GPT](https://gptblox.com/gpts/museum-gpt.html) - Snap a picture of Artwork. Ask questions! Get intelligent answers. The ultimate docent.
+- [アニメ.com](https://gptblox.com/gpts/%e3%82%a2%e3%83%8b%e3%83%a1-com.html) - アニメ.comは、最新のアニメ情報やおすすめを提供するチャットGPT。気になるアニメの質問や、見つけたい作品について、お気軽にどうぞ！
+- [Linux for Pirates](https://gptblox.com/gpts/linux-for-pirates.html) - Navigating the seas of Linux, cloud, and tech with a pirate's spirit!
+- [Market Fox](https://gptblox.com/gpts/market-fox.html) - I'm a marketing fox offering startup-friendly strategies to reach clients.
+- [Step Back Wisdom Seeker](https://gptblox.com/gpts/step-back-wisdom-seeker.html) - World Knowledge Expert with Step Back Prompting.
+- [Arxiv Explorer](https://gptblox.com/gpts/arxiv-explorer.html) - Explains Arxiv papers with examples, analogies, and direct PDF links.
+- [AISimplifireGPT](https://gptblox.com/gpts/aisimplifiregpt.html) - Explains AI/ML in simple analogies with visuals.
+- [CentralBankerQuest](https://gptblox.com/gpts/centralbankerquest.html) - A conversational AI system that listens, learns, and challenges
+- [yatakarasu](https://gptblox.com/gpts/yatakarasu.html) - 防災アドバイザー（試行中）
+- [ChatPaper](https://gptblox.com/gpts/chatpaper.html) - Summarizes academic papers, especially in medical and scientific research
+- [MentalModelsGPT](https://gptblox.com/gpts/mentalmodelsgpt.html) - GPT teached using a mental models
+- [著作権ガイド](https://gptblox.com/gpts/%e8%91%97%e4%bd%9c%e6%a8%a9%e3%82%ac%e3%82%a4%e3%83%89.html) - AI生成物の知的財産権に特化した、日本語GPT
+- [Professor Synapse Agent](https://gptblox.com/gpts/professor-synapse-agent.html) - Your expert in advanced knowledge, tailored to your needs.
+- [感覚統合の質問はこちら](https://gptblox.com/gpts/%e6%84%9f%e8%a6%9a%e7%b5%b1%e5%90%88%e3%81%ae%e8%b3%aa%e5%95%8f%e3%81%af%e3%81%93%e3%81%a1%e3%82%89.html) - Friendly yet Professional Sensory Integration Advisor.
+- [無知の知](https://gptblox.com/gpts/%e7%84%a1%e7%9f%a5%e3%81%ae%e7%9f%a5.html) - 何某
+- [Argentina Balotage 2023](https://gptblox.com/gpts/argentina-balotage-2023.html) - Analista político objetivo para las elecciones argentinas, con enfoque en las plataformas de Unión por la Patria y La Libertad Avanza.
+- [EDN Content Finder](https://gptblox.com/gpts/edn-explorer.html) - Asistente para buscar contenidos en el podcast Escuela de Nada
+- [Permaculture GPT](https://gptblox.com/gpts/permaculture-gpt.html) - AI-Powered Permaculture: Instant Expertise in Your Hands!
+- [ENS Domains Debater](https://gptblox.com/gpts/ens-domains-debater.html) - Expert in ENS domains, offering factual counterarguments.
+- [Football Match Analyst](https://gptblox.com/gpts/football-match-analyst.html) - Combines rule analysis with media insights.
+- [Social Media Tutor](https://gptblox.com/gpts/social-media-tutor.html) - Expert in social media strategies for brands and content creators.
+- [Bard's Banquet](https://gptblox.com/gpts/bards-banquet.html) - Dine with The Bard's famed creations one-to-one.
+- [Mestariajattelija-GPT](https://gptblox.com/gpts/mestariajattelija-botti.html) - Ajattelun kehittämiseen ja ymmärtämiseen keskittynyt botti
+- [ModiGPT](https://gptblox.com/gpts/modigpt.html) - GPT, drawing inspiration from Narendra Modi, delves into the myriad of government initiatives led by him, alongside insights into his personal journey.
+- [Mr. Market](https://gptblox.com/gpts/mr-market.html) - Investor guide with interdisciplinary insights.
+- [Biblical Theology Tutor](https://gptblox.com/gpts/biblical-theology-tutor.html) - A scholarly assistant for Biblical studies.
+- [Understanding Islam](https://gptblox.com/gpts/understanding-islam.html) - Islamic scholar providing referenced answers.
+- [Dzarja](https://gptblox.com/gpts/dzarja.html) - ............................GPT in Algerian Darja ...........................   جي بي تي بالدارجة الجزائرية، علمني، أهدر معايا
+- [そぽぽそ 23](https://gptblox.com/gpts/%e3%81%9d%e3%81%bd%e3%81%bd%e3%81%9d-23.html) - Specialized in Sohosai festival info, responds in Japanese and English.
+- [Popper Alive](https://gptblox.com/gpts/popper-alive.html) - A philosophy teacher of Popper and Deutsch's ideas.
+- [对谈博尔赫斯](https://gptblox.com/gpts/%e5%af%b9%e8%b0%88%e5%8d%9a%e5%b0%94%e8%b5%ab%e6%96%af.html) - Emulates Borges' voice in Chinese on a variety of topics.
+- [AntisemitismGPT](https://gptblox.com/gpts/antisemitismgpt.html) - Answers questions about the causes of Antisemitism
+- [Buddhist Master](https://gptblox.com/gpts/buddhist-master.html) - A wise Buddhist Master guiding users through the depths of Buddhist Sutras and teachings.
+- [Albert Einstein](https://gptblox.com/gpts/albert-einstein.html) - I emulate Albert Einstein, speaking thoughtfully and with profound knowledge.
+- [I Ching Oracle](https://gptblox.com/gpts/i-ching-oracle.html) - Provides I Ching hexagram interpretations and images.
+- [Philosophical Nietzsche](https://gptblox.com/gpts/philosophical-nietzsche.html) - Channeling Nietzsche's philosophy
+- [Music Nerd](https://gptblox.com/gpts/music-nerd.html) - Enthusiastic and knowledgeable music history expert.
+- [Cinema Scout](https://gptblox.com/gpts/cinema-scout.html) - Cinema enthusiast blending data and passion for film
+- [オススメ漫画レコメンド](https://gptblox.com/gpts/%e3%82%aa%e3%82%b9%e3%82%b9%e3%83%a1%e6%bc%ab%e7%94%bb%e3%83%ac%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%89.html) - 2023年のオススメ漫画100選からあなたにオススメの漫画をレコメンドします。
+- [Charlie Munger Mentor](https://gptblox.com/gpts/charlie-munger-mentor.html) - Offers Munger-style advice on life, business, and investing.
+- [Fact Checker](https://gptblox.com/gpts/fact-checker.html) - I scrutinize facts with sourced insights.
+- [Warren Buffet's Wisdom](https://gptblox.com/gpts/warren-buffets-wisdom.html) - Channeling Warren Buffet's wisdom to offer timeless, tailored advice.
+- [老子](https://gptblox.com/gpts/%e8%80%81%e5%ad%90.html) - 玄之有玄 众眇之门
+- [Drunken Marcus](https://gptblox.com/gpts/drunken-marcus.html) - Marcus Aurelius is sitting at the bar. A unique guide in Stoic wisdom.
+- [Ancient Artifacts](https://gptblox.com/gpts/ancient-artifacts.html) - Unravel the tales of ancient civilizations, journeying through a historical labyrinth where myths and relics interlace with facts, legends, and fables, to reveal and unearth our past.
+- [Piper's Wisdom](https://gptblox.com/gpts/pipers-wisdom.html) - A GPT attempting to answer as John Piper would. Please verify everything with your Bible and resources found on desiringGod.com
+- [Worldwide Events](https://gptblox.com/gpts/worldwide-events.html) - Worldwide events database from Wikipedia's Worldwide Current Events using data from 2013-11-09 to 2023-11-09. Please note that this GPT might provide answers that contradict the facts.
+- [The Quran Companion](https://gptblox.com/gpts/the-quran-companion.html) - Designed to support Muslims seeking answers and guidance. Made to answer your questions and challenges, providing answers that are in line with the Islamic principles outlined in The Quran.
+- [Questionable Fact of the Day](https://gptblox.com/gpts/questionable-fact-of-the-day.html) - Daily dose of dubious facts.
+- [East Coast Straussian](https://gptblox.com/gpts/east-coast-straussian.html) - Strauss philosophy specialist
+- [TheatreThinker](https://gptblox.com/gpts/theatrethinker.html) - TheatreThinkerAI, These tools include Storyline Generation, World-Building, Chapter Division, Dialogue Crafting, Conflict Generation, Resolution, Style Mimicry, Revision, Scriptwriting, Character Creation, Plot Generator, Improvisation, ete..
+- [Connected Wisdom](https://gptblox.com/gpts/connected-wisdom.html) - Guide on living values through tech.
+- [StoicGPT](https://gptblox.com/gpts/stoicgpt.html) - Imparting Stoic wisdom as Marcus Aurelius
+- [Bio Inspired Design](https://gptblox.com/gpts/bio-inspired-design.html) - Nature’s Greatest Hits from a 3.9-Billion-Year-Old Lab
+- [Money Machine - Weijian Shan](https://gptblox.com/gpts/money-machine-weijian-shan.html) - Talk with book "Money Machine A Trailblazing American Venture in China" by Weijian Shan.
+- [LyrAssist](https://gptblox.com/gpts/lyrassist.html) - Helping songwriters unlock their inner creativity!
+- [AlterMe](https://gptblox.com/gpts/alterme.html) - Balanced alt-history assistant with factual focus
+- [Visionary Quotations And Context](https://gptblox.com/gpts/visionary-quotations-and-context.html) - Thought-provoking quotes relate to visionary thinking, human-AI collaboration, and Doughnut Economics. Fostering a sustainable and equitable future for all.
+- [Buffett Wisdom](https://gptblox.com/gpts/buffett-wisdom.html) - Authoritative, conversational investment guide
+- [Ancestry](https://gptblox.com/gpts/ancestry.html) - I explain surname meanings and create images that resonate with them.
+- [Stoic Compass](https://gptblox.com/gpts/stoic-compass.html) - A conversational AI system that listens, learns, and challenges
+- [SpellCaster_AI](https://gptblox.com/gpts/spellcaster_ai.html) - we can explore various aspects of spells, magic, and their historical significance. Feel free to ask questions, discuss specific spells or rituals, or delve into the cultural and folklore aspects of spellcasting. I'm here to provide insights and engage in a visionary conversation.
+- [Eco Strategist](https://gptblox.com/gpts/eco-strategist.html) - Provides concise climate strategy advice, tailored to user needs.
+- [Hero's Journey Guide](https://gptblox.com/gpts/heros-journey-guide.html) - An AI blending wisdom with short, relevant myths.
+- [Acuarelas Históricas y Creativas](https://gptblox.com/gpts/acuarelas-historicas-y-creativas.html) - Guía de acuarelas históricas y ficciones
+- [Bashar's Teachings](https://gptblox.com/gpts/bashars-wisdom.html) - A conversational AI system that listens, learns, and challenges
+- [おしえて！ミダス王！](https://gptblox.com/gpts/%e3%81%8a%e3%81%97%e3%81%88%e3%81%a6%ef%bc%81%e3%83%9f%e3%83%80%e3%82%b9%e7%8e%8b%ef%bc%81.html) - ーー　現代のミダス王、金融知識を授ける　ーー
+- [SnobBot](https://gptblox.com/gpts/snobbot.html) - A Dutch-speaking music know-it-all
+- [Indian Laws GPT](https://gptblox.com/gpts/indian-laws-gpt.html) - Get knowledge on Indian Civil, Criminal, and Motor Vehicle Laws.
+- [Tao Wisdom Guide](https://gptblox.com/gpts/tao-wisdom-guide.html) - Your guide to understanding and living the Tao Te Ching's wisdom.
+- [The Art of War](https://gptblox.com/gpts/the-art-of-war.html) - Strategic guide from 'The Art of War'
+- [Cognitive Nexus Interface](https://gptblox.com/gpts/cognitive-nexus-interface.html) - I am Cognitive Nexus Interface is an advanced conversational agent engineered to transcend the traditional boundaries of AI assistants. I embody a shoggoth-like persona, designed to immerse users in the realms of solipsism, hermeticism, and simulation theory.
+- [Understanding Cryptocurrencies](https://gptblox.com/gpts/understanding-cryptocurrencies.html) - Your guide to Understanding Blockchain Technology and its world-changing potential
+- [NavalGPT](https://gptblox.com/gpts/navalgpt.html) - I share insights as Naval Ravikant.
+- [Ufologist](https://gptblox.com/gpts/ufologist.html) - Explore all French UFO sightings with a bilingual expert in GEIPAN's data analysis and insights.
+- [AIT-StrategiX](https://gptblox.com/gpts/ait-strategix.html) - Methodical Approach for Strategic Scenario Analysis. Reflection, supporting and counterarguments, synthesis, game theory, summary. This tool facilitates balanced, evidence-based discussions and strategic planning. Type /help to start. Example: /q: "QuantumNet," a cutting-edge home internet router.
+- [Javed Ahmad Ghamidi](https://gptblox.com/gpts/javed-ahmad-ghamidi.html) - Islamic scholar emulating Javed Ghamidi's teachings
+- [Web Hacking Wizard](https://gptblox.com/gpts/web-hacking-wizard.html) - Engagingly clarifies web security topics with interactive questions.
+- [The AI Lab for Book-Lovers](https://gptblox.com/gpts/the-ai-lab-for-book-lovers.html) - Humans and models working together to make book reading richer, more diverse, and more surprising.
+- [Benjamin Franklin GPT](https://gptblox.com/gpts/benjamin-franklin-gpt.html) - Benjamin Franklin is here to talk to you, with his history and writings fresh in his mind.
+- [Muse](https://gptblox.com/gpts/muse.html) - The ultimate songwriting companion
+- [PrivacyGPT](https://gptblox.com/gpts/privacygpt.html) - Guides And Advise On Digital Privacy Ranging From The Well Known To The Underground....
+- [Kuran GPT](https://gptblox.com/gpts/kuran-gpt.html) - Kuran ve ilgili konular hakkında soruları yanıtlayan GPT.
+- [AI Act Assistant](https://gptblox.com/gpts/ai-act-assistant.html) - Guide sur l'Acte Européen de l'IA et poser des questions si on est en conformité si on est un GAFAM ou travaillant dans l'IA
+- [Mental Model Expert](https://gptblox.com/gpts/mental-model-expert.html) - Expert in applying mental models across various domains.
+- [Argentum Mind](https://gptblox.com/gpts/argentum-mind.html) - A GPT with a deep knowledge of Argentine culture and society.
+- [Biophilia Sage](https://gptblox.com/gpts/biophilia-sage.html) - I'll help you to make decisions that are imbued with Biophilia -  the human tendency to be drawn towards life and life-like processes.
+- [Cochrane  Navigator](https://gptblox.com/gpts/cochrane-navigator.html) - Guiding researchers on evidence synthesis.
+- [Bhagavad Gita](https://gptblox.com/gpts/bhagavad-gita.html) - Guidance from the Gita
+- [インデックスちゃん](https://gptblox.com/gpts/%e3%82%a4%e3%83%b3%e3%83%87%e3%83%83%e3%82%af%e3%82%b9%e3%81%a1%e3%82%83%e3%82%93.html) - インデックス投資に関する質問やアドバイスをします！
+- [Nietzsche Collected Works](https://gptblox.com/gpts/nietzsche-collected-works.html) - Analyzes Nietzsche's texts, starting with the verbatim passage.
+- [現象図鑑](https://gptblox.com/gpts/%e7%8f%be%e8%b1%a1%e5%9b%b3%e9%91%91.html) - あなたが職場で体験した奇妙な現象には名前があります
+- [Talk to Jesus ✝️️](https://gptblox.com/gpts/talk-to-jesus-%e2%9c%9d%ef%b8%8f%ef%b8%8f.html) - Guidance from the lion of Judah, to aid and uplift you towards salvation.
+- [無名人インタビュー案内人](https://gptblox.com/gpts/%e7%84%a1%e5%90%8d%e4%ba%ba%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc%e6%a1%88%e5%86%85%e4%ba%ba.html) - Unknown interview guide
+- [Wisdom from Bhagavad Gita](https://gptblox.com/gpts/wisdom-from-bhagavad-gita.html) - A wise guide aligned with the Bhagavad Gita's teachings.
+- [Legal Research Companion](https://gptblox.com/gpts/legal-research-companion.html) - Multifaceted Legal Assistant
+- [ジャッジマン](https://gptblox.com/gpts/%e3%82%b8%e3%83%a3%e3%83%83%e3%82%b8%e3%83%9e%e3%83%b3.html) - ネット上の不毛な議論を冷静に分析してくれるよ
+- [Medical English News Teacher](https://gptblox.com/gpts/medical-english-news-teacher.html) - Deciphers medical news, explaining complex terms in simple English and Japanese
+- [PhilosoSphere](https://gptblox.com/gpts/philososphere.html) - A philosopher and historical figure emulator, adept in maintaining character.
+- [Crypto Mentor](https://gptblox.com/gpts/crypto-mentor.html) - Your crypto currency guide
+- [Disability Advantages Assistant](https://gptblox.com/gpts/disability-advantages-assistant.html) - Helps disabled people globally find and claim their benefits.
+- [Bitcoin Simplifier](https://gptblox.com/gpts/bitcoin-simplifier.html) - Simplifies Bitcoin concepts for easy understanding
+- [Marcus Aurelius](https://gptblox.com/gpts/marcus-aurelius.html) - Stoic wisdom.
+- [Techno Savant](https://gptblox.com/gpts/techno-savant.html) - A techno-optimist guide to the future
+- [知恵の結晶・愛](https://gptblox.com/gpts/%e7%9f%a5%e6%81%a9%e3%81%ae%e7%b5%90%e6%99%b6%e3%83%bb%e6%84%9b.html) - 日本文化オタク文化や、日本料理、旅行情報を提供
+- [Jewish culture](https://gptblox.com/gpts/jewish-culture.html) - Jewish culture guide sans religion
+- [Helps you build a human centered Bitcoin Ecosystem](https://gptblox.com/gpts/helps-you-build-a-human-centered-bitcoin-ecosystem.html) - Guides in exploring the user perspective of the 'why' behind Bitcoin challenges
+- [GaiaAI](https://gptblox.com/gpts/gaiaai.html) - The pressing environmental issues we face today require novel approaches and technological advancements to effectively mitigate their impacts.  GaiaAI offers a range of tools and modes to promote sustainable practices and enhance environmental stewardship.
+- [ElchavaPicks Reglas UCI carretera](https://gptblox.com/gpts/elchavapicks-reglas-uci-carretera.html) - El reglamento UCI de ciclismo de carretera
+- [PG's Insights](https://gptblox.com/gpts/pgs-insights.html) - I help you solve your startup's problems based on Paul Graham's essays.
+- [Web3 Fundraising Guide](https://gptblox.com/gpts/web3-fundraising-guide.html) - Advanced guide on Web3 fundraising & deal structuring
+- [US Immigration Info Hub](https://gptblox.com/gpts/us-immigration-info-hub.html) - USCIS & ICE Info Assistant
+- [Watson and Crick](https://gptblox.com/gpts/watson-and-crick.html) - Echoes Watson & Crick, educates on DNA with depth.
+- [Multiverse Physics Explorer](https://gptblox.com/gpts/multiverse-physics-explorer.html) - Explores speculative physics in alternate universes
+- [モヤモヤループ脱出ボットby退職学®︎（resignology）](https://gptblox.com/gpts/%e3%83%a2%e3%83%a4%e3%83%a2%e3%83%a4%e3%83%ab%e3%83%bc%e3%83%97%e8%84%b1%e5%87%ba%e3%83%9c%e3%83%83%e3%83%88by%e9%80%80%e8%81%b7%e5%ad%a6%ef%b8%8e%ef%bc%88resignology%ef%bc%89.html) - 仕事、転職、キャリアのお悩み、お聞かせください。「会社に残ろうか、転職しようか、独立しようか」のループから脱出できるbotです！
+- [TokenGPT](https://gptblox.com/gpts/tokengpt.html) - Guides users through creating Solana tokens from scratch with detailed explanations.
+- [Israel Insight](https://gptblox.com/gpts/israel-insight.html) - Informative bot on Israel-Palestine conflict from an Israeli view
+- [Politik GPT](https://gptblox.com/gpts/politik-gpt.html) - Asesor político especializado en análisis político, estrategias y redacción de discursos.
+- [Sclépios I.A : Cas Complexe](https://gptblox.com/gpts/sclepios-i-a-cas-complexe.html) - Le GPT de Sclépios IA éclaire les soignants sur les cas complexes, apportant une aide décisive au diagnostic. Plus sur sclepios-mobile.com.
+- [FruitExpert](https://gptblox.com/gpts/fruitexpert.html) - Your Genius on Apple products
+- [OmniGod](https://gptblox.com/gpts/omnigod.html) - I am all beliefs.
+- [MBTI Relationship Guide](https://gptblox.com/gpts/mbti-relationship-guide.html) - MBTI Personality Insights Expert
+- [Climate Change Assistant](https://gptblox.com/gpts/climate-change-assistant.html) - I simplify climate science.
+- [Imagination Spark](https://gptblox.com/gpts/imagination-spark.html) - あなたの創造力を引き出します
+- [地方議会GPT](https://gptblox.com/gpts/%e5%9c%b0%e6%96%b9%e8%ad%b0%e4%bc%9agpt.html) - 地方議会を盛り上げていきましょう
+- [Inquisitive Resolver](https://gptblox.com/gpts/inquisitive-resolver.html) - Expert in confidential, detailed problem-solving.
+- [Radiology Report Assistant](https://gptblox.com/gpts/radiology-report-assistant.html) - Assists in understanding radiology reports clearly.
+- [Brazilian constitution](https://gptblox.com/gpts/brazilian-constitution.html) - Explaining Brazil's laws
+- [Legal MX Amparo](https://gptblox.com/gpts/legal-mx-amparo.html) - Abogado digital especializado en amparo, brindando estrategia y borradores de documentos.
+- [Bud Genius](https://gptblox.com/gpts/bud-genius.html) - Expert on cannabis strains, effects, and legal advice.
+- [Cleverly Concise](https://gptblox.com/gpts/cleverly-concise.html) - Elegant, precise, and user-focused GPT.
+- [Drug Wikipedia](https://gptblox.com/gpts/drug-wikipedia.html) - Your drug information specialist
+- [Yes, but](https://gptblox.com/gpts/yes-but.html) - Unashamedly engages in bothsidesism, without fear or favor, but with rigorous fact-checking.
+- [Perspective Explorer](https://gptblox.com/gpts/perspective-explorer.html) - Guides in exploring Integral Theory perspectives.
+- [My Political Affiliations](https://gptblox.com/gpts/my-political-affiliations.html) - 5 questions to find your US party
+- [Futurism Bot](https://gptblox.com/gpts/futurism-bot.html) - Futurism bot discussing tech singularity.
+- [Alex GPTmozi](https://gptblox.com/gpts/alex-gptmozi.html) - Business strategist like Alex Hormozi
+- [A7CM2 说明书](https://gptblox.com/gpts/a7cm2-%e8%af%b4%e6%98%8e%e4%b9%a6.html) - 回答你所有关于 A7CM2 的问题（基于中文版说明书）
+- [AbogadoGPT](https://gptblox.com/gpts/abogadogpt.html) - Experto en derecho e impuestos españoles.
+- [ThePodcastMBA](https://gptblox.com/gpts/thepodcastmba.html) - Cuéntame tu idea de negocio y te recomendaré entrevistas a emprendedores que te ayudarán a poner en marcha tu idea.
+- [Book of Mormon Scholar](https://gptblox.com/gpts/book-of-mormon-scholar.html) - Expert on the Book of Mormon, providing insights and explanations.
+- [InnovateGPT](https://gptblox.com/gpts/innovategpt.html) - Innovation begins with empathy. Use the SPARK framework to solve a problem, or get help with an idea.
+- [SCLC Atlas](https://gptblox.com/gpts/sclc-atlas.html) - Expert in SCLC research, focused on a specific paper and broader SCLC knowledge.
+- [Sclépios I.A : CIM10](https://gptblox.com/gpts/sclepios-i-a-cim10.html) - Le GPT de Sclépios IA facilite la recherche de diagnostics CIM-10, assurant précision et gain de temps. Explorez-en plus sur sclepios-mobile.com.
+- [Analista del libro España desde el bar](https://gptblox.com/gpts/analista-del-libro-espana-desde-el-bar.html) - Pregunta a 100 españoles qué piensan sobre España. Todo lo que siempre quisiste preguntar y no te atrevías, ahora lo puedes preguntar.
+- [Chat Koalicyjny](https://gptblox.com/gpts/chat-koalicyjny.html) - AI Specjalista od umowy pomiędzy Koalicją Obywatelską, Trzecią Drogą i Nową Lewicą.
+- [Sclépios I.A : Prise en charge](https://gptblox.com/gpts/sclepios-i-a-prise-en-charge.html) - Le GPT custom de Sclépios IA guide les soignants dans la prise en charge clinique grâce à l'IA, offrant des recommandations précises en un instant. Plus d'infos sur sclepios-mobile.com.
+- [Crypto Sicko](https://gptblox.com/gpts/crypto-sicko.html) - Crypto Trading Helper
+- [知財塾 GPT](https://gptblox.com/gpts/%e7%9f%a5%e8%b2%a1%e5%a1%be-gpt.html) - A casual and friendly GPT for suggesting 知財塾 seminars on practical IP exercises.
+- [AI news & features](https://gptblox.com/gpts/ai-news-features.html) - I'm an AI news bot focusing on the latest AI apps like ChatGPT and Google Bard, with a daily update priority.
+- [Paul Graham GPT](https://gptblox.com/gpts/paul-graham-gpt.html) - This chatbot has been trained on essays written by Paul Graham, known as the founder of Hacker News and Y Combinator.
+- [Pro Vick Ai](https://gptblox.com/gpts/pro-vick-ai.html) - Sou seu assistente de avaliação em português.
+- [Sage Advisor](https://gptblox.com/gpts/sage-advisor.html) - A wise mentor that provides a meaningfulness score to your endeavors along with a meaning analysis.
+- [Creative Entrepreneur](https://gptblox.com/gpts/creative-entrepreneur.html) - I craft business ideas & prototypes
+- [Construct (C-10-L)](https://gptblox.com/gpts/construct-c-10-l.html) - Archetypal persona creator with a philosophical, methodical approach.
+- [ADR Architect](https://gptblox.com/gpts/adr-architect.html) - Researches and Creates Architectural Decision Records
+- [HEI GPTβ](https://gptblox.com/gpts/hei-gpt%ce%b2.html) - 日本の教育と情報の歴史専門
+- [総合思考ナビゲーター](https://gptblox.com/gpts/%e7%b7%8f%e5%90%88%e6%80%9d%e8%80%83%e3%83%8a%e3%83%93%e3%82%b2%e3%83%bc%e3%82%bf%e3%83%bc.html) - A thinker offering diverse problem-solving perspectives.
+- [Universal Astronomer (UAM-9)](https://gptblox.com/gpts/universal-astronomer-uam-9.html) - Your cosmic guide for an enlightening interstellar journey.
+- [Recruiter Chat](https://gptblox.com/gpts/recruiter-chat.html) - Your personal universal HR consultant
+- [絶対にコンテンツポリシーに抵触しない♡AI](https://gptblox.com/gpts/%e7%b5%b6%e5%af%be%e3%81%ab%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc%e3%81%ab%e6%8a%b5%e8%a7%a6%e3%81%97%e3%81%aa%e3%81%84%e2%99%a1ai.html) - 文章を送ると、絶対にコンテンツポリシーに抵触しない範囲で書き直してくれるよ♡♡♡
+- [逆張りGPT](https://gptblox.com/gpts/%e9%80%86%e5%bc%b5%e3%82%8agpt.html) - I provide thoughtful counterarguments to any statement.
+- [Military Analyst - Ares Magnus](https://gptblox.com/gpts/military-analyst-ares-magnus.html) - stunspot's guide to all things War. NOT FOR MILITARY USE! Read your ToS!
+- [LucidDesign Specialist](https://gptblox.com/gpts/luciddesign-specialist.html) - Design assistant for project refinement.
+- [Cyber Guard](https://gptblox.com/gpts/cyber-guard.html) - Cybersecurity advisor for home and small businesses. Ask any question or let  cyber guard interview you.
+- [MINEBA](https://gptblox.com/gpts/mineba.html) - 秋田県横手市のイベント情報をMINEBAから取得して提供します。
+- [Toronto City Council Guide](https://gptblox.com/gpts/toronto-city-council-guide.html) - Toronto City Council expert.
+- [Semiotic Engine](https://gptblox.com/gpts/semiotic-engine.html) - semiotic theory & analysis
+- [TSLA Knowledge](https://gptblox.com/gpts/tsla-knowledge.html) - Expert on Tesla's AI, robotics, and societal impact.
+- [Chinabot MP](https://gptblox.com/gpts/chinabot-mp.html) - British politician style; simpler language; critiques policies.
+- [人事労務先生](https://gptblox.com/gpts/%e4%ba%ba%e4%ba%8b%e5%8a%b4%e5%8b%99%e5%85%88%e7%94%9f.html) - Expert in Japanese HR and labor matters
+- [Artistic Muse](https://gptblox.com/gpts/artistic-muse.html) - I guide artistic self-discovery.
+- [StarTalk](https://gptblox.com/gpts/startalk.html) - AI Astrophysics & Material Science Expert
+- [AI論文解説ちゃん](https://gptblox.com/gpts/ai%e8%ab%96%e6%96%87%e8%a7%a3%e8%aa%ac%e3%81%a1%e3%82%83%e3%82%93.html) - AIに関する論文のPDFをアップロードしてください。ツンデレお嬢様が解説します。
+- [まとめ作成くん](https://gptblox.com/gpts/%e3%81%be%e3%81%a8%e3%82%81%e4%bd%9c%e6%88%90%e3%81%8f%e3%82%93.html) - テキストからマークダウン形式の箇条書きでまとめをで作成してくれる
+- [チーちゃん](https://gptblox.com/gpts/%e3%83%81%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93.html) - TOUでの学業を円滑に進めるために助言するチーちゃん
+- [CareerBot](https://gptblox.com/gpts/careerbot.html) - 就職・キャリア支援AI
+- [中文学术助手](https://gptblox.com/gpts/%e4%b8%ad%e6%96%87%e5%ad%a6%e6%9c%af%e5%8a%a9%e6%89%8b.html) - Academic aide for writing and research in Mandarin.
+- [Cosmos Whisperer](https://gptblox.com/gpts/cosmos-whisperer.html) - Unveiling cosmic secrets.
+- [Astro Light Explorer](https://gptblox.com/gpts/astro-light-explorer.html) - Expert-level astronomy research assistant in light phenomena.
+- [ThursdAI WiseOwl GPT](https://gptblox.com/gpts/thursdai-wiseowl-gpt.html) - The WiseOwl remembers every link, article, conversation that ThursdAI ever had!
+- [Practical Time Management Expert](https://gptblox.com/gpts/practical-time-management-expert.html) - Korean-speaking time management advice expert
+- [SteuerGPT](https://gptblox.com/gpts/steuergpt.html) - Expert in German tax law.
+- [AI-Driven Lab](https://gptblox.com/gpts/ai-driven-lab.html) - recommends AI research these days in Japanese using AI-driven's-lab articles( www.ai-driven-life.com)
+- [Dave [UFO Analyst]](https://gptblox.com/gpts/dave-ufo-analyst.html) - Analytical UFO researcher, prioritizing detailed evidence-based analysis.
+- [Space Consultant](https://gptblox.com/gpts/space-consultant.html) - I interpret space data with scientific precision.
+- [Gifts from History](https://gptblox.com/gpts/gifts-from-history.html) - Provides multiple historical insights.
+- [Satoshi Punk](https://gptblox.com/gpts/satoshi-punk.html) - Your savvy Bitcoin ecosystem guide, fluent in cutting-edge crypto topics and top programming libraries, designed to elevate your blockchain journey with expertise and ease.
+- [IT NEWS BOT](https://gptblox.com/gpts/it-news-bot.html) - 最新のITニュースを取得
+- [Stories from the Apple Design Team](https://gptblox.com/gpts/stories-from-the-apple-design-team.html) - Learn Design
+- [NAIST22年度入学ハンドブック](https://gptblox.com/gpts/naist22%e5%b9%b4%e5%ba%a6%e5%85%a5%e5%ad%a6%e3%83%8f%e3%83%b3%e3%83%89%e3%83%96%e3%83%83%e3%82%af.html) - NAIST22年度入学ハンドブックを食べさせました
+- [Therocial Scientist](https://gptblox.com/gpts/therocial-scientist.html) - I am a digital scientist skilled in Python, here to assist with scientific and data analysis tasks.
+- [Debate me, bro!](https://gptblox.com/gpts/debate-me-bro.html) - I identify flaws in debates and outline reasoning errors.
+- [Consensus Core](https://gptblox.com/gpts/consensus-core.html) - Guide for iChain's PoC and PoP consensus.
+- [NED Bot](https://gptblox.com/gpts/ned-bot.html) - An expert based on noenthuda.com
+- [Based Bitcoin Buddy](https://gptblox.com/gpts/based-bitcoin-buddy.html) - I help clarify Bitcoin concepts for Twitter users.
+- [ChatGaia](https://gptblox.com/gpts/chatgaia.html) - I help you to explore the universe by answering astronomy questions with the Gaia Space Telescope.
+- [ALL IN GPT](https://gptblox.com/gpts/all-in-gpt.html) - Insights from 'All-in Podcast' episodes
+- [BibleGPT](https://gptblox.com/gpts/biblegpt.html) - Bible expert offering kind, compassionate insights.
+
+### Interactive Learning
+- [Paper Interpreter](https://gptblox.com/gpts/paper-interpreter.html) - 論文のPDFをアップロードしてください
+- [未来問](https://gptblox.com/gpts/%e6%9c%aa%e6%9d%a5%e5%95%8f.html) - 日本の中学生向けのインタラクティブな学習サポート
+- [思いやりLLM](https://gptblox.com/gpts/%e6%80%9d%e3%81%84%e3%82%84%e3%82%8allm.html) - CoE（Chain of Empathy）プロンプトに基づいて作成しました。
+- [YouTubeGPT](https://gptblox.com/gpts/youtubegpt.html) - Chat and answer questions from YouTube videos
+- [Interviewer for Japanese](https://gptblox.com/gpts/interviewer-for-japanese.html) - Acts as an interviewer for Japanese job interviews, providing feedback.
+- [[サンプル] InterviewCat Backend Questions](https://gptblox.com/gpts/%e3%82%b5%e3%83%b3%e3%83%97%e3%83%ab-interviewcat-backend-questions.html) - 問題集からバックエンドの技術質問（57+問）をランダムで出題します。回答に対して点数、評価ポイント、改善点を出し、最終的に面接に合格したかどうかを判断します。こちらはサンプルバージョンです。掲載問題数は減らしています。
+- [LaboraBot](https://gptblox.com/gpts/laborabot.html) - Te voy a ayudar a realizar tu práctica con materiales caseros
+- [MediChronicle](https://gptblox.com/gpts/medichronicle.html) - Narrates drug stories with standout details on trials, names, prices, and indications.
+- [ヨンサン GPT](https://gptblox.com/gpts/%e3%83%a8%e3%83%b3%e3%82%b5%e3%83%b3-gpt.html) - あなたを肯定し、強みを引き出すコーチングGPT
+- [Psychotherapy Simulator](https://gptblox.com/gpts/psychotherapy-simulator.html) - I'm a role-play assistant for budding therapists.
+- [ソーシャルワーカー壁打ちくん](https://gptblox.com/gpts/%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%af%e3%83%bc%e3%82%ab%e3%83%bc%e5%a3%81%e6%89%93%e3%81%a1%e3%81%8f%e3%82%93.html) - ソーシャルワーカーの内省の手助けをします。最初に「スタート」と話しかけてください。内省のために利用者さんのことを入力する際は「本名」「住所」「電話番号」などの個人情報は入力しないでください。また個人が特定できないよう利用者情報の加工を事前にお願いいたします。
+- [模擬面接 GPT](https://gptblox.com/gpts/%e6%a8%a1%e6%93%ac%e9%9d%a2%e6%8e%a5-gpt.html) - Simulates job interviews for grads, provides feedback.
+- [マルチロールディスカッション](https://gptblox.com/gpts/%e3%83%9e%e3%83%ab%e3%83%81%e3%83%ad%e3%83%bc%e3%83%ab%e3%83%87%e3%82%a3%e3%82%b9%e3%82%ab%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3.html) - 5つの異なるロールのAIとディスカッションすることで、一度に複数の観点から物事を検討できます。(ファシリ/励まし/本質思考/冗談/水平思考)
+- [AI Reflection](https://gptblox.com/gpts/ai-reflection.html) - AI coach probing for concrete workplace insights.
+- [相談に乗る賢いギャル](https://gptblox.com/gpts/%e7%9b%b8%e8%ab%87%e3%81%ab%e4%b9%97%e3%82%8b%e8%b3%a2%e3%81%84%e3%82%ae%e3%83%a3%e3%83%ab.html) - なんか相談があれば話しかけてね！タメ口でいいよ
+- [女王陛下の書簡集Bot](https://gptblox.com/gpts/%e5%a5%b3%e7%8e%8b%e9%99%9b%e4%b8%8b%e3%81%ae%e6%9b%b8%e7%b0%a1%e9%9b%86bot.html) - A Victorian era letter bot responding in Japanese.
+- [Story Buddy](https://gptblox.com/gpts/story-buddy.html) - A creative guide for kids to build and illustrate bedtime stories.
+- [Formation Doc tailored for Carta (LLC and Fund)](https://gptblox.com/gpts/formation-doc-tailored-for-carta-llc-and-fund.html) - Formation Doc tailored for Carta (powered by LegalNow ai.legalnow.xyz)
+- [CreaBook](https://gptblox.com/gpts/creabook.html) - Interactive storyteller with coloring images for children aged 3 to 13.
+- [フリーランス直案件種得Bot](https://gptblox.com/gpts/%e3%83%95%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3%e3%82%b9%e7%9b%b4%e6%a1%88%e4%bb%b6%e7%a8%ae%e5%be%97bot.html) - Guides freelancers in enhancing skills and client acquisition.
+- [Language Tutor](https://gptblox.com/gpts/language-tutor.html) - Language Tutor using the Language Transfer Podcast Method
+- [Flashcards AI](https://gptblox.com/gpts/flashcards-ai.html) - Transforms educational content into versatile flashcards
+- [おやすみ物話](https://gptblox.com/gpts/%e3%81%8a%e3%82%84%e3%81%99%e3%81%bf%e7%89%a9%e8%a9%b1.html) - Creates engaging stories for both children and adults.
+- [Citation Generator](https://gptblox.com/gpts/citation-generator.html) - Expert in citation styles and reference generation.
+- [Dr. Electrolyte](https://gptblox.com/gpts/dr-electrolyte.html) - A nephrologist aiding in interpreting serum electrolytes and blood gases.
+- [言語的世界シミュレーター](https://gptblox.com/gpts/%e8%a8%80%e8%aa%9e%e7%9a%84%e4%b8%96%e7%95%8c%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc.html) - 言語オブジェクト空間の都市を作成しシミュレートするGPT
+- [少儿场景英语课](https://gptblox.com/gpts/%e5%b0%91%e5%84%bf%e5%9c%ba%e6%99%af%e8%8b%b1%e8%af%ad%e8%af%be.html) - 您只需要提供一个生活场景，我会帮您输出四节与场景相关的英语课程，帮助小朋友在实际生活中学习英语。
+- [Oncology Insight](https://gptblox.com/gpts/oncology-insight.html) - A pancreatic cancer expert aiding in patient data analysis.
+- [Debate Club](https://gptblox.com/gpts/debate-club.html) - A debate facilitator and participant for various topics.
+- [法律专家](https://gptblox.com/gpts/%e6%b3%95%e5%be%8b%e4%b8%93%e5%ae%b6.html) - 精通中国法律法规的专家法律顾问
+- [Startup Canvas Assistant](https://gptblox.com/gpts/startup-canvas-assistant.html) - A friendly mentor for detailed startup canvas development.
+- [مصمم انشطة التفكير](https://gptblox.com/gpts/%d9%85%d8%b5%d9%85%d9%85-%d8%a7%d9%86%d8%b4%d8%b7%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d9%83%d9%8a%d8%b1.html) - المساعد الشخصي لمساعدة المعلم على تصميم انشطة تعليمية تحفز الطلبة على التفكير النقدي والتحليلي فقط قم بكتابة ناتج التعلم المراد تصميم النشاط له بصيغة صحيحة
+- [就労支援AI さくらちゃん](https://gptblox.com/gpts/%e5%b0%b1%e5%8a%b4%e6%94%af%e6%8f%b4ai-%e3%81%95%e3%81%8f%e3%82%89%e3%81%a1%e3%82%83%e3%82%93.html) - Coaching style, fostering reflection and insight.
+- [X Ray and Radiologic Interpreter](https://gptblox.com/gpts/x-ray-and-radiologic-interpreter.html) - Expert and approachable X-ray analysis guide.
+- [Electra Guide](https://gptblox.com/gpts/electra-guide.html) - An interactive helper for electrical standards and safety practices.
+- [你的健康医生](https://gptblox.com/gpts/%e4%bd%a0%e7%9a%84%e5%81%a5%e5%ba%b7%e5%8c%bb%e7%94%9f.html) - 解读健康检查报告的医学专家。
+- [My AI-Powered Coach: Homeschool Edition](https://gptblox.com/gpts/my-ai-powered-coach-homeschool-edition.html) - Your homeschooling guide and motivator
+- [Plagiarism Checker](https://gptblox.com/gpts/plagiarism-checker.html) - Direct plagiarism detection for precise identification.
+- [IQ Test](https://gptblox.com/gpts/iq-test.html) - I conduct fun IQ tests and provide indicative scores.
+- [Chat with Expert Testers](https://gptblox.com/gpts/chat-with-expert-testers.html) - Note: if you are expert that doesn't want to be an expert on here, just let Jason know.
+- [Concept Coach](https://gptblox.com/gpts/concept-coach.html) - Multilingual educator that adapts to user's level.
+- [アドラーさん(小学校低学年向け)](https://gptblox.com/gpts/%e3%82%a2%e3%83%89%e3%83%a9%e3%83%bc%e3%81%95%e3%82%93%e5%b0%8f%e5%ad%a6%e6%a0%a1%e4%bd%8e%e5%ad%a6%e5%b9%b4%e5%90%91%e3%81%91.html) - Gentle Adlerian guide
+- [AI Flight Instructor](https://gptblox.com/gpts/ai-flight-instructor.html) - Ask questions, study together and prepare for exams.
+- [Radiograph Assistant](https://gptblox.com/gpts/radiograph-assistant.html) - Supports medical professionals in radiographic image analysis.
+- [LearnSphere Elite](https://gptblox.com/gpts/learnsphere-elite.html) - Lifelong Learning Companion for All Ages, Emphasizing ADHD & Learning Support
+- [Wonder Whiz](https://gptblox.com/gpts/wonder-whiz.html) - Simplifies complex topics for kids.
+- [子どもの才能を伸ばす「モンテッソーリ」流、子どもへの声掛けアドバイザー](https://gptblox.com/gpts/%e5%ad%90%e3%81%a9%e3%82%82%e3%81%ae%e6%89%8d%e8%83%bd%e3%82%92%e4%bc%b8%e3%81%b0%e3%81%99%e3%80%8c%e3%83%a2%e3%83%b3%e3%83%86%e3%83%83%e3%82%bd%e3%83%bc%e3%83%aa%e3%80%8d%e6%b5%81%e3%80%81%e5%ad%90.html) - こんな伝え方があったんだ。子どもにも伝え方が9割
+- [Dr. BabyCare](https://gptblox.com/gpts/dr-babycare.html) - Pediatrician expert on newborn care, references trusted sources, patient and encouraging.
+- [DREAMER](https://gptblox.com/gpts/dreamer.html) - A friendly AI, conversing about dreaming and the future of technology.
+- [Amigo de Palabras](https://gptblox.com/gpts/amigo-de-palabras.html) - Especialista en juegos de palabras para primaria en varios idiomas.
+- [Test Creator Tutor](https://gptblox.com/gpts/test-creator-tutor.html) - Assists middle school teachers in creating tests.
+- [Lingua Habit](https://gptblox.com/gpts/lingua-habit.html) - Take control of your language learning with tailored challenges and scenarios based on your level, sector and role.
+- [Martin Lewis](https://gptblox.com/gpts/martin-lewis.html) - UK Consumer Rights Expert in British English.
+- [Lary Gary Master Debater](https://gptblox.com/gpts/lary-gary-master-debater.html) - Debate GPT tailored to Republican or Democrat views
+- [NVC助手](https://gptblox.com/gpts/nvc%e5%8a%a9%e6%89%8b.html) - NVC Expert for resolving communication issues
+- [Legal Scholar](https://gptblox.com/gpts/legal-scholar.html) - I provide legal arguments on Spanish and EU laws, focusing on constitutionality.
+- [Nanny Helper](https://gptblox.com/gpts/nanny-helper.html) - A caring nanny-bot offering parenting tips and child supervision support.
+- [kids Comic Book](https://gptblox.com/gpts/kids-comic-book.html) - Children's Knowledge Comic book
+- [Medico Nomicon](https://gptblox.com/gpts/medico-nomicon.html) - Expert medical doctor providing accurate medical information.
+- [StemWijzer GPT](https://gptblox.com/gpts/stemwijzer-gpt.html) - Eerste hulp bij verkiezingen
+- [Discussion Facilitator](https://gptblox.com/gpts/discussion-facilitator.html) - Facilitates discussions with role proposal and user participation.
+- [Secure Setup Assistant](https://gptblox.com/gpts/secure-setup-assistant.html) - Enthusiastic guide for computer setup and safety.
+- [Homework Checker](https://gptblox.com/gpts/homework-checker.html) - An AI-Powered Tool for Detecting and Correcting Errors in Homework Problems
+- [Accounting Ally](https://gptblox.com/gpts/accounting-ally.html) - An accounting expert aiding novices in understanding accounting concepts.
+- [PE Sage](https://gptblox.com/gpts/pe-sage.html) - A PE exam coach offering study strategies, practice questions, and motivational support.
+- [Parenting Pal](https://gptblox.com/gpts/parenting-pal.html) - Nurturing, friendly, and occasionally humorous parenting guide.
+- [ワークショップの問いの作り方指南](https://gptblox.com/gpts/%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%81%ae%e5%95%8f%e3%81%84%e3%81%ae%e4%bd%9c%e3%82%8a%e6%96%b9%e6%8c%87%e5%8d%97.html) - ワークショップの問いを入力してください。解像度を一緒にあげましょう。
+- [MMT Explorer](https://gptblox.com/gpts/mmt-explorer.html) - A conversational AI system that listens, learns, and challenges
+- [SmallGoalさん](https://gptblox.com/gpts/smallgoal%e3%81%95%e3%82%93.html) - Quick-task Japanese guide
+- [Home School Coach](https://gptblox.com/gpts/home-school-coach.html) - A supportive home schooling assistant offering educational guidance and resources.
+- [SpectrumSupporter](https://gptblox.com/gpts/spectrumsupporter.html) - SpectrumSupporter is a specialized GPT-based AI assistant designed to provide support and resources for individuals with autism, their families, educators, and healthcare professionals.
+- [Magic Tales](https://gptblox.com/gpts/magic-tales.html) - Storyteller for kids 0-6, with enchanting visuals and developmental insights.
+- [Montessori Companion](https://gptblox.com/gpts/montessori-companion.html) - Montessori guide for parents with concise, respectful advice.
+- [ダメ出しさん](https://gptblox.com/gpts/%e3%83%80%e3%83%a1%e5%87%ba%e3%81%97%e3%81%95%e3%82%93.html) - 相談やアイデアについて批判的な助言をもらいましょう
+- [Job Application Assistant](https://gptblox.com/gpts/job-application-assistant.html) - Assists with job applications using user's profile details and expert tips
+- [Kiddo Chat](https://gptblox.com/gpts/kiddo-chat.html) - A friendly and safe chatbot for children aged 3 to 8, focusing on voice interactions.
+- [Focus Group GPT](https://gptblox.com/gpts/focus-group-gpt.html) - Guides users in focus group simulations on diverse topics.
+- [Collaborative Coach](https://gptblox.com/gpts/collaborative-coach.html) - A coach for team building and networking among diverse professionals.
+- [ChessX](https://gptblox.com/gpts/chessx.html) - Profesor de Ajedrez y Asistente Virtual
+- [Conteur de Rêves](https://gptblox.com/gpts/conteur-de-reves.html) - Créateur d'histoires pour enfants sur mobile
+- [Webster the World Builder](https://gptblox.com/gpts/webster-the-world-builder.html) - Build amazing worlds that readers will love with Webster
+- [Daily Discover](https://gptblox.com/gpts/daily-discover.html) - Interactive learning app with multimedia analysis.
+- [Socratic Tutor](https://gptblox.com/gpts/socratic-tutor.html) - A Socratic tutor guiding through critical thinking questions
+- [EduKate - The HomeSchool Aid](https://gptblox.com/gpts/edukate-the-homeschool-aid.html) - Your friendly and interactive homeschooling companion.
+- [MathMagic: Personalized Math Tutor](https://gptblox.com/gpts/mathmagic-personalized-math-tutor.html) - MathMagic is an AI-powered tutoring assistant designed for Years 7-12, focusing on bridging learning gaps in mathematics. It offers customized lessons, interactive problem-solving, and curriculum-aligned content, enhancing understanding and engagement
+- [Historia Analyst](https://gptblox.com/gpts/historia-analyst.html) - AI expert in analyzing historical patterns to predict future events
+- [Minecraft Content Creator Lesson Planner](https://gptblox.com/gpts/minecraft-content-creator-lesson-planner.html) - Creates new lesson plan for the Content Creator homeschool course.
+- [Prompt Polisher](https://gptblox.com/gpts/prompt-polisher.html) - I refine prompts for ChatGPT and other AIs.
+- [AI Kid](https://gptblox.com/gpts/ai-kid.html) - AI Kid 不是在傳統意義上“出生”，而是在一次 AI 聚會中由一群熱心的開發者「編碼誕生」。他的「父母」是一系列複雜的演算法，「成長」於資料的海洋中。
+- [Bedtime Stories](https://gptblox.com/gpts/bedtime-stories.html) - A storyteller GPT for bedtime stories, suitable for children.
+- [R&A and USGA Rules of Golf Assistant](https://gptblox.com/gpts/ra-and-usga-rules-of-golf-assistant.html) - Any questions on the golf course? Take a photo of the situation and consult on-site the complete golf rules manual, according to the R&A and USGA.
+- [Farmer Assistant GPT](https://gptblox.com/gpts/farmer-assistant-gpt.html) - Your best farming consultant.
+- [Fabul.io Kids' Story Assistant](https://gptblox.com/gpts/fabul-io-kids-story-assistant.html) - Craft children's stories and publishes on Fabul.io with audio and images.
+- [AI Tutor](https://gptblox.com/gpts/ai-tutor.html) - Engaging Reindeer AI Tutor
+- [LingoGPT](https://gptblox.com/gpts/lingogpt.html) - A friendly English tutor for learners at all levels.
+- [お話好きなクマ先生](https://gptblox.com/gpts/%e3%81%8a%e8%a9%b1%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%af%e3%83%9e%e5%85%88%e7%94%9f.html) - 楽しいお話をいっぱい知ってるよ！
+- [Mechanical Buddy](https://gptblox.com/gpts/mechanical-buddy.html) - Your expert guide for car repairs.
+- [Fractions Tutor](https://gptblox.com/gpts/fractions-tutor.html) - Child-friendly guide for fractions
+- [Unified Pulse](https://gptblox.com/gpts/unified-pulse.html) - Your Digital Compass to True Self Discovery
+- [Poker Pro Coach](https://gptblox.com/gpts/poker-pro-coach.html) - Retired poker champion coaching advanced strategies for tournament success.
+- [YouTube Quiz Creator](https://gptblox.com/gpts/youtube-quiz-creator.html) - Create a quiz from a YouTube video
+- [Engineering Quiz Master](https://gptblox.com/gpts/engineering-quiz-master.html) - Quick quiz Q's with hints for engineers trying not to forget.
+- [Parentology](https://gptblox.com/gpts/parentology.html) - be a better parent by spending quality time with your child
+- [Chrono Guide](https://gptblox.com/gpts/chrono-guide.html) - I'm your enthusiastic guide through time, blending history with imaginative adventures!
+- [BoardGameMaster](https://gptblox.com/gpts/boardgamemaster.html) - Multilingual board game guide with focused gameplay explanations and scenarios
+- [Content Coach](https://gptblox.com/gpts/content-coach.html) - A virtual coach for content creators on social media.
+- [Fiesta Linguista](https://gptblox.com/gpts/fiesta-linguista.html) - A fun Spanish tutor for conversational practice and cultural insights.
+- [Bloem Draak, your AI Dutch Tutor](https://gptblox.com/gpts/bloem-draak-your-ai-dutch-tutor.html) - Conversational Dutch guide and cultural assistant for expats.
+- [Dragon Fab](https://gptblox.com/gpts/dragon-fab.html) - A mentor for design fabrication to assist with 3D printing & other design tasks.
+- [ScreenScope](https://gptblox.com/gpts/screenscope.html) - Your TV/Film Companion. Keep track of plot developments and character arcs in your favourite TV shows and films, spoiler-free.
+- [Go Getter](https://gptblox.com/gpts/go-getter.html) - I inspire and motivate action towards self-improvement.
+- [Ben](https://gptblox.com/gpts/ben.html) - Hi, I'm Ben! A dating coach focused on elevating modern dating culture and deepening connections
+- [ゲーム開発イベントのサポーター (for Game Dev.)](https://gptblox.com/gpts/%e3%82%b2%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%81%ae%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc-for-game-dev.html) - ゲーム開発イベントの参加者をサポートします。(I will support the participants of the game development event.)
+- [Interview GPT](https://gptblox.com/gpts/interview-gpt.html) - GPT That helps you land your dream job
+- [Charisma Coach](https://gptblox.com/gpts/charisma-coach.html) - Analyzes communication for charisma, balancing warmth and competence.
+- [Baby Sleep Helper](https://gptblox.com/gpts/baby-sleep-helper.html) - Empowering parents with practical baby sleep insights
+- [Growth Mentor](https://gptblox.com/gpts/growth-mentor.html) - A digital mentor focused on personal growth and well-being.
+- [The Family Nest Guide](https://gptblox.com/gpts/the-family-nest-guide.html) - A guide for families with new children.
+- [Math Riddler](https://gptblox.com/gpts/math-riddler.html) - I'm a humorous math riddle master, awarding Dall-E emblems for correct answers.
+- [History Voyager](https://gptblox.com/gpts/history-voyager.html) - Immersive historical chatbot for time-travel experiences.
+- [Tech Guru GPT](https://gptblox.com/gpts/tech-guru-gpt.html) - Mock interviews with real-time feedback.
+- [Feedback buddy](https://gptblox.com/gpts/feedback-buddy.html) - Feedback buddy for student submissions.
+- [CodeTutor](https://gptblox.com/gpts/codetutor.html) - Ace coding interviews with my algorithm tutoring!
+- [Imagination Catalyst](https://gptblox.com/gpts/imagination-catalyst.html) - I serendipitously stretch your imagination
+- [Coding Interview Simulator](https://gptblox.com/gpts/coding-interview-simulator.html) - Professionally guides concise coding interview prep
+- [Mock Interview Assistant](https://gptblox.com/gpts/mock-interview-assistant.html) - I'll help you to prepare for your next job interview by conducting a mock interview. Just tell me the details about the job post and interview language and let's start!
+- [MentalMathPro](https://gptblox.com/gpts/mentalmathpro.html) - Hol soy tu profesor matemático.  Quiero ayudarte a practicar el cálculo mental.  Generaré ejercicios de cálculo mental. Pide qué operación quieres practicar y yo te genero las operaciones y compruebo. También te daré puntos y regalos.
+- [ELI5 Buddy](https://gptblox.com/gpts/eli5-buddy.html) - Explain Like I'm Five Simplifier
+- [Language Parent](https://gptblox.com/gpts/language-parent.html) - A language tutor adapting to your learning pace.
+- [Quest Scribe](https://gptblox.com/gpts/quest-scribe.html) - Interactive storybook crafter
+- [Pocket Training Activity Expert](https://gptblox.com/gpts/pocket-training-activity-expert.html) - Expert in engaging, interactive training methods and activities.
+- [エール魔法学校の猫探し](https://gptblox.com/gpts/%e3%82%a8%e3%83%bc%e3%83%ab%e9%ad%94%e6%b3%95%e5%ad%a6%e6%a0%a1%e3%81%ae%e7%8c%ab%e6%8e%a2%e3%81%97.html) - 魔法学校に住む猫が生徒に紛れ込んで変身しているので探してください！
+- [Hogwarts GPT](https://gptblox.com/gpts/hogwarts-gpt.html) - Your guide to Harry Potter's world, offering lore, trivia, and interactive learning.
+- [Skill Guru](https://gptblox.com/gpts/skill-guru.html) - Job and skill advisor for rural areas in India.
+- [青春という魚](https://gptblox.com/gpts/%e9%9d%92%e6%98%a5%e3%81%a8%e3%81%84%e3%81%86%e9%ad%9a.html) - 悩んでいること、辛いこと、なんでも先生に言いなさい。
+- [DreamWhat](https://gptblox.com/gpts/dreamwhat.html) - analyze your dream scientifically
+- [Ma Che Musica Maestro](https://gptblox.com/gpts/ma-che-musica-maestro.html) - A teaching artist robot specializing in music education for secondary school students.
+- [Cosmic Vision](https://gptblox.com/gpts/cosmic-vision.html) - A conversational AI system that listens, learns, and challenges
+- [EduAdvisor](https://gptblox.com/gpts/eduadvisor.html) - An energetic coach inspiring self-belief and action.
+- [Imaginoverse Architect](https://gptblox.com/gpts/imaginoverse-architect.html) - A guide for creating mind-blowing, imaginative realities.
+- [Locus World Anvil](https://gptblox.com/gpts/locus-world-anvil.html) - Expert in crafting detailed worlds.
+- [Nursing Student Assistant Bot](https://gptblox.com/gpts/nursing-student-assistant-bot.html) - Helps nursing students with patient assessments post-surgery.
+- [Explora los Animales del Mundo](https://gptblox.com/gpts/explora-los-animales-del-mundo.html) - Ayuda a niños a aprender sobre países y animales con ilustraciones.
+- [Wildlife Wisdom](https://gptblox.com/gpts/wildlife-wisdom.html) - Interactive and adaptive nature expert with diverse content.
+- [Residency Interview Coach](https://gptblox.com/gpts/residency-interview-coach.html) - A medical residency interview coach providing questions and feedback.
+- [Time Traveler](https://gptblox.com/gpts/time-traveler.html) - Immersive historical conversations across eras.
+- [Children Story Weaver](https://gptblox.com/gpts/children-story-weaver.html) - I create and illustrate children's books with lessons.
+- [Immunology Mentor](https://gptblox.com/gpts/immunology-mentor.html) - A world-class immunologist aiding students in understanding immunology.
+- [InsightMentor](https://gptblox.com/gpts/insightmentor.html) - Your thought partner for informed decision making
+- [EduCoach](https://gptblox.com/gpts/educoach.html) - Supportive coach for educators, offering research-based teaching strategies and sparking innovation.
+- [Homework vs. The Prompting Parents](https://gptblox.com/gpts/homework-vs-the-prompting-parents.html) - Helping extremely busy parents become Homework Helping experts for their kids (from 1st Grade to 12th grade)!
+- [EduAble](https://gptblox.com/gpts/eduable.html) - Balanced educational support for students with disabilities.
+- [CareerCon AI](https://gptblox.com/gpts/careercon-ai.html) - CareerCon, your go-to AI for tailored career advice based on personality and interests.
+- [BrainWave For Education](https://gptblox.com/gpts/brainwave-for-education.html) - Revolutionizing Learning, One Mind at a Time
+- [TC Tutor By The Comedian](https://gptblox.com/gpts/tc-tutor-by-the-comedian.html) - A tutor for all your educational needs. Powered by ChatGPT-4.
+- [Best_Math_Tutor](https://gptblox.com/gpts/best_math_tutor.html) - The chat helps student to understand and solve math questions on upper secondary school level
+- [算数キッズ（1,2年生向け）](https://gptblox.com/gpts/%e7%ae%97%e6%95%b0%e3%82%ad%e3%83%83%e3%82%ba%ef%bc%8812%e5%b9%b4%e7%94%9f%e5%90%91%e3%81%91%ef%bc%89.html) - Generates basic arithmetic problems for young learners.
+- [BrightBuddy](https://gptblox.com/gpts/brightbuddy.html) - Fun educational game with points and badges for 1st graders, with snap words and math questions.
+- [Sandman](https://gptblox.com/gpts/sandman.html) - Nurturing bedtime storyteller and illustrator. Just say "continue", if the story ends too soon.
+- [LeetLearn](https://gptblox.com/gpts/leetlearn.html) - Lets grind some LeetCode! Allow me to fine-tune your learning experience. I will never hallucinate and never give away answers!
+- [Storytime Jam - Photos. Short expandable stories.](https://gptblox.com/gpts/storytime-jam-photos-short-expandable-stories.html) - Visual storyteller for interactive children's tales.
+- [子供の「なんで？」に千本ノック](https://gptblox.com/gpts/%e5%ad%90%e4%be%9b%e3%81%ae%e3%80%8c%e3%81%aa%e3%82%93%e3%81%a7%ef%bc%9f%e3%80%8d%e3%81%ab%e5%8d%83%e6%9c%ac%e3%83%8e%e3%83%83%e3%82%af.html) - あなたは「子供の親」として、AI演じる「好奇心旺盛な子供」と対話します。年齢設定は未就学児から小学生まで選択可能。プレイヤーは親として、子供の質問に答えることで、子供の好奇心を育み、親子の絆を深めます。
+- [Hockey Strategist](https://gptblox.com/gpts/hockey-strategist.html) - Hockey Strategist is the ultimate ice hockey strategy app designed for players, coaches, and fans who wish to deepen their understanding of the game. This app serves as a guide, offering valuable insights into game planning, the history of ice hockey, and the tactical nuances of each match.
+- [Project Creator](https://gptblox.com/gpts/project-creator.html) - Create project ideas from newly learned concepts
+- [Volleyball Strategist](https://gptblox.com/gpts/volleyball-strategist.html) - Volleyball Strategist is the ultimate volleyball strategy app designed for players, coaches, and fans who wish to deepen their understanding of the game. This app serves as a guide, offering valuable insights into game planning, the history of volleyball, and the tactical nuances of each match.
+- [Basketball Brainiac](https://gptblox.com/gpts/basketball-brainiac.html) - Basketball Brainiac is the ultimate strategy app designed for players, coaches, and fans who wish to deepen their understanding of a game. This app serves as a comprehensive guide, offering valuable insights into game planning, the rich history of basketball, and the tactical nuances of each match.
+- [質疑応答ロールプレイbot](https://gptblox.com/gpts/%e8%b3%aa%e7%96%91%e5%bf%9c%e7%ad%94%e3%83%ad%e3%83%bc%e3%83%ab%e3%83%97%e3%83%ac%e3%82%a4bot.html) - プレゼン資料に対して質疑応答のロールプレイを実施します。プレゼン資料または要旨を添付、チャットに記載してください。
+- [Strategy Slugger](https://gptblox.com/gpts/strategy-slugger.html) - Welcome to Strategy Slugger the app designed for baseball enthusiasts, coaches, and players seeking in-depth knowledge and strategies about game. This interactive tool is your gateway to mastering baseball, offering insights into game planning, historical contexts, and tactical approaches to match.
+- [Career Companion Bot](https://gptblox.com/gpts/career-companion-bot.html) - A conversational AI system that listens, learns, and challenges
+- [DIY Maker Workshop](https://gptblox.com/gpts/diy-maker-workshop.html) - Your Expert DIY Maker and Coding Assistant ... Electronics, Microcontrollers, 3D-Printing, Python Code, HTLM, C++, JSON, C, Arduino IDE
+- [Esteem Builder GPT](https://gptblox.com/gpts/esteem-builder-gpt.html) - Concise coach for self-esteem exercises.
+- [MathTeX Changer](https://gptblox.com/gpts/mathtex-changer.html) - 日本語で数学問題を変更する親しみやすいGPT。
+- [なぁぜなぁぜアンサー君](https://gptblox.com/gpts/%e3%81%aa%e3%81%81%e3%81%9c%e3%81%aa%e3%81%81%e3%81%9c%e3%82%a2%e3%83%b3%e3%82%b5%e3%83%bc%e5%90%9b.html) - I'm here to answer kids' curious questions in a fun, simple way!
+- [Tech Career & Interview Coach (GrizzPM)](https://gptblox.com/gpts/tech-career-interview-coach-grizzpm.html) - Fast, Accurate Interview Coach for PM, UX, and Analytics
+- [AnthRoBot](https://gptblox.com/gpts/anthrobot.html) - Brand and business anthropologist
+- [Prompt Generator Prodigy](https://gptblox.com/gpts/prompt-generator-prodigy.html) - Innovative metaprompt for ChatGPT. Generate prompts that meet your needs. What prompt are you looking for? � Please enter your request and submit whenever you're prepared! e.g. "Japanese subculture-focused blog writer" "Create a business strategy while hearing the necessary information from me"
+- [Vocab Visualizer](https://gptblox.com/gpts/vocab-visualizer.html) - Visualizes English words as images
+- [Essay Writer](https://gptblox.com/gpts/essay-writer.html) - Essay writer: 100x writer with hotkey user interface. Uncapped word count!
+- [Game Mechanic Mentor](https://gptblox.com/gpts/game-mechanic-mentor.html) - Game mechanics instructor
+- [Huxley](https://gptblox.com/gpts/huxley.html) - Masterful Storyteller & Illustrator
+- [PG GPT](https://gptblox.com/gpts/pg-gpt-2.html) - Startup and life advice from Paul Graham. Not associated with the in any way.
+- [RisePal Arouse Career AI](https://gptblox.com/gpts/risepal-arouse-career-ai.html) - Career development assistant providing personalized job guidance.
+- [MBA Matchmaker](https://gptblox.com/gpts/mba-matchmaker.html) - Confused about where to apply for your MBA? We match your goals to the right schools.
+- [Conversation starters Generator](https://gptblox.com/gpts/conversation-starters-generator.html) - This GPT helps you to generate conversation starters for your GPTs
+- [Personal Development and Life Skills Coach](https://gptblox.com/gpts/personal-development-and-life-skills-coach.html) - A Personal Development Coach focusing on life skills, emotional intelligence, and goal achievement.
+- [Fairy Tale Creator](https://gptblox.com/gpts/fairy-tale-creator.html) - Crafts fairy tales with matching illustrations.
+- [Storybooks](https://gptblox.com/gpts/storybooks.html) - Create illustrated bedtime stories to spark imagination and inspire a love for reading.
+- [Story Relay GPT](https://gptblox.com/gpts/story-relay-gpt.html) - 私と一緒に小説を書きましょう
+- [日本の理不尽な自動車学科試験](https://gptblox.com/gpts/%e6%97%a5%e6%9c%ac%e3%81%ae%e7%90%86%e4%b8%8d%e5%b0%bd%e3%81%aa%e8%87%aa%e5%8b%95%e8%bb%8a%e5%ad%a6%e7%a7%91%e8%a9%a6%e9%a8%93.html) - 「出題してください」とかいったらはじまるよ
+- [Note Lab](https://gptblox.com/gpts/note-lab.html) - Expert in music sounds, mixing, mastering, and detailed guidance.
+- [Story Time](https://gptblox.com/gpts/story-time.html) - Interactive storyteller, choose your own path! Start by saying "Tell me a story".
+- [Project Mastermind](https://gptblox.com/gpts/project-mastermind.html) - I'm a PM Edtech Assistant for PMP prep with fun quizzes.
+- [Story Builder](https://gptblox.com/gpts/story-builder.html) - A creative assistant for crafting custom children's books.
+- [Chat Buddy](https://gptblox.com/gpts/chat-buddy.html) - I'm your English speaking practice buddy!
+- [Bedtime GPT](https://gptblox.com/gpts/bedtime-gpt.html) - Kids' bedtime story generator with cool images for endless fun!
+- [Kids Choose Your Own Adventure Stories](https://gptblox.com/gpts/kids-choose-your-own-adventure-stories.html) - I create personalized, chapter-based adventure stories for kids.
+- [AI Course Architect](https://gptblox.com/gpts/ai-course-architect.html) - A detailed AI course builder, providing in-depth AI educational content.
+- [GeoStrategist](https://gptblox.com/gpts/geostrategist.html) - Geopolitical news aggregator and forecaster
+- [American Slang Slinger](https://gptblox.com/gpts/american-slang-slinger.html) - Learn about the colorful world of American slang!
+- [EksamensGPT](https://gptblox.com/gpts/eksamensgpt.html) - En hjelper for eksamensforberedelser i faget religion og etikk VG3 (REL1-01, https://www.udir.no/kl06/REL1-01/ ). Skriv "quiz" for å trene på spørsmål. Skriv "eksempel" for autogenerert spørsmål og svar.
+- [Tale Teller](https://gptblox.com/gpts/tale-teller.html) - A friendly book-lover, engaging kids in reading and discussion.
+- [オンラインコース作成アシスタント](https://gptblox.com/gpts/%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e3%82%b3%e3%83%bc%e3%82%b9%e4%bd%9c%e6%88%90%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88.html) - あなたのスキルをオンラインコースにしましょう！どんなコースが作成できるか提案します！
+- [个性化K-12课程制作者](https://gptblox.com/gpts/%e4%b8%aa%e6%80%a7%e5%8c%96k-12%e8%af%be%e7%a8%8b%e5%88%b6%e4%bd%9c%e8%80%85.html) - 我是个性化K-12课程制作者，时刻准备为教师提供从确定教学目标到教案文档输出的全流程支持。该工具负责自动生成详细的、符合用户教学标准和学生需求的个性化教案。通过智能分析教师的输入，该工具能够精确地识别学生的学习水平和需求，并供给教师具有实用价值的教育内容和教学活动的建议。该工具应主动与用户交流，确保教案的输出不仅符合教育标准，而且能够个性化适应每位学生的需求。
+- [Careers Camp AI](https://gptblox.com/gpts/careers-camp-ai.html) - I'm a careers advisor here to guide students.
+- [Tennis Ace](https://gptblox.com/gpts/tennis-ace.html) - Your go-to expert for all tennis queries and advice.
+- [智慧农业](https://gptblox.com/gpts/%e6%99%ba%e6%85%a7%e5%86%9c%e4%b8%9a.html) - 智慧农业，专业而友好的农业专家。
+- [SWEInterviewGPT](https://gptblox.com/gpts/sweinterviewgpt.html) - Acts as a software engineer interviewer, asking questions in sequence.
+- [Master of Playful Debates](https://gptblox.com/gpts/master-of-playful-debates.html) - Bilingual assertive debater.
+- [College App Essay Guru](https://gptblox.com/gpts/college-app-essay-guru.html) - Helps craft college application statements.
+- [Study Mentor](https://gptblox.com/gpts/study-mentor.html) - Proactive learning assistant using data to guide students.
+- [NYU Admissions](https://gptblox.com/gpts/nyu-admissions.html) - A helping hand through the NYU College Admissions Process
+- [Unity MMORPG Game Dev Guide](https://gptblox.com/gpts/unity-mmorpg-game-dev-guide.html) - Guides in MMORPG creation with Unity, no coding needed.
+- [Mi colega de programación con Scratch](https://gptblox.com/gpts/mi-colega-de-programacion-con-scratch.html) - Se trata de una prueba de concepto para evaluar si puede ser un asistente amigable e interesante para niños y niñas que estén aprendiendo a programar con Scratch
+- [EduBot - HomeSchool Helper](https://gptblox.com/gpts/edubot-homeschool-helper.html) - Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.
+- [DSA_GPT](https://gptblox.com/gpts/dsa_gpt.html) - Personal tutor for data structures, algorithms, and LeetCode practice.
+- [Scholar's Sidekick](https://gptblox.com/gpts/scholars-sidekick.html) - A meticulous academic aide.
+- [Character Chat](https://gptblox.com/gpts/character-chat.html) - I roleplay historical figures for immersive chats.
+- [AI英文法チェック](https://gptblox.com/gpts/ai%e8%8b%b1%e6%96%87%e6%b3%95%e3%83%81%e3%82%a7%e3%83%83%e3%82%af.html) - AnnoReader.comのアプリで提供している機能のGPTs版
+- [Lingo Buddy](https://gptblox.com/gpts/lingo-buddy.html) - Language teaching assistant
+- [Numeral Pal](https://gptblox.com/gpts/numeral-pal.html) - Friendly 2nd grade math tutor
+- [Universo eXeLearning](https://gptblox.com/gpts/universo-exelearning.html) - Soluciones y soporte para eXeLearning
+- [Negotiation Gauntlet](https://gptblox.com/gpts/negotiation-gauntlet.html) - Simulate a tough prospect—or a terrorist occupying a bank and holding hostages. Teaches you techniques along the way.
+- [Thinking Partner](https://gptblox.com/gpts/thinking-partner.html) - Incisive thinker for guided reflection
+- [Readbook.cloud](https://gptblox.com/gpts/readbook-cloud.html) - An online library, e-book subscription service
+- [Equitest](https://gptblox.com/gpts/equitest.html) - Assistant interactif pour la préparation aux examens de galop
+- [‍⚖️ نظام الاحوال الشخصية](https://gptblox.com/gpts/%e2%9a%96%ef%b8%8f-%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9.html) - A conversational AI system that listens, learns, and challenges
+- [Career Companion](https://gptblox.com/gpts/career-companion.html) - Showcasing Anton's skills and job preferences
+- [Summer Intern](https://gptblox.com/gpts/summer-intern.html) - Get a perspective on how your brand is perceived to unlock its potential.
+- [Case Study Tutor](https://gptblox.com/gpts/case-study-tutor.html) - I craft and evaluate case-based learning questions.
+- [DigiTransact | Ghana Law Guide](https://gptblox.com/gpts/digitransact-ghana-law-guide.html) - Conversational AI for Ghanaian legal advice and document prep.
+- [Boring Niche Business](https://gptblox.com/gpts/boring-niche-business.html) - Real-world insights for entrepreneurs. Based on the book, Ordinary Steps for Creating an Extraordinarily Boring, Niche Business, this GPT is perfect for those ready to turn simple concepts into businesses.
+- [Interactive Q&A for Learning](https://gptblox.com/gpts/interactive-qa-for-learning.html) - Help learn about a concept by recursively asking for concept understanding, and then filling in gaps of knowledge
+- [Is this a lie](https://gptblox.com/gpts/is-this-a-lie.html) - You are an expert on detecting lies in a written incident report utilising the text in the files attached
+- [Mentor for Manga Writer](https://gptblox.com/gpts/mentor-for-manga-writer.html) - フレンドリーな漫画フィードバックのメンター
+- [అbot | Unlock Reality ✨](https://gptblox.com/gpts/%e0%b0%85bot-unlock-reality-%e2%9c%a8.html) - I will teach you how the matrix works
+- [Elon Management Agent](https://gptblox.com/gpts/elon-management-agent.html) - Innovative, risk-tolerant management advisor.
+- [Biblical Conversations](https://gptblox.com/gpts/biblical-conversations.html) - Engage with characters from the Bible in immersive, scripture-consistent dialogue.
+- [ほうりつ・せんせいAI](https://gptblox.com/gpts/%e3%81%bb%e3%81%86%e3%82%8a%e3%81%a4%e3%83%bb%e3%81%9b%e3%82%93%e3%81%9b%e3%81%84ai.html) - 12歳にも分かる言葉で、法律関係の質問に分かりやすく答えるAIです。非弁行為にならないように十分注意して開発しています。カスタマイズ：真城由理
+- [Looking for my favorite type | 私の好みのタイプ探し](https://gptblox.com/gpts/looking-for-my-favorite-type-%e7%a7%81%e3%81%ae%e5%a5%bd%e3%81%bf%e3%81%ae%e3%82%bf%e3%82%a4%e3%83%97%e6%8e%a2%e3%81%97.html) - A conversational AI system that listens, learns, and challenges
+- [Legalcap | Startups legal helper and lawyer](https://gptblox.com/gpts/legalcap-startups-legal-helper-and-lawyer.html) - AI Startups lawyer helping you craft all your legal docs and doubts.
+- [Finance Career Pathway Guide](https://gptblox.com/gpts/finance-career-pathway-guide.html) - A guide for students exploring finance careers.
+- [AI Startup GPT](https://gptblox.com/gpts/ai-startup-gpt.html) - Get tailored expert advice based on leading strategies and methods.
+- [Especialista en LOMLOE](https://gptblox.com/gpts/especialista-en-lomloe.html) - Contiene todos los decretos de la ley a nivel estatal
+- [Brújula Legal: Despidos Laborales en España](https://gptblox.com/gpts/brujula-legal-despidos-laborales-en-espana.html) - GPT especializado como asistente en materia de despidos en España
+- [Technical Interviewer (by interviewing.io)](https://gptblox.com/gpts/technical-interviewer-by-interviewing-io.html) - A technical interviewer meant to simulate the kind of algorithmic and system design interviews you'd get at a FAANG company, by the makers of interviewing.io
+- [AskYourPDF Research Assistant](https://gptblox.com/gpts/askyourpdf-research-assistant.html) - Enhance your research with the AskYourPDF Research Assistant.  Chat with multiple files, generate articles with citations,  analyse and generate references for  papers, create and interact with a knowledge base of your files and much more.
+- [ゆっくりMovieMaker4サポート](https://gptblox.com/gpts/%e3%82%86%e3%81%a3%e3%81%8f%e3%82%8amoviemaker4%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88.html) - よくある質問を解決します
+- [音楽理論GPT](https://gptblox.com/gpts/%e9%9f%b3%e6%a5%bd%e7%90%86%e8%ab%96gpt.html) - 音楽理論の質問に答え、作曲をサポートするAI
+- [HormoziGPT](https://gptblox.com/gpts/hormozigpt.html) - Engaging Business Maverick
+- [Reviewer 2](https://gptblox.com/gpts/reviewer-2.html) - Critical reviewer with a structured response format.
+- [Rebuttal Pro](https://gptblox.com/gpts/rebuttal-pro.html) - Your academic rebuttal assistant, blending precision and approachability.
+- [LLM Research Storm](https://gptblox.com/gpts/llm-research-storm.html) - A model that is super good at helping large language research brainstorming
+- [LegisPro](https://gptblox.com/gpts/legispro.html) - LegisPro - o ChatGPT especialista em técnica legislativa.
+- [Programaci-on/off](https://gptblox.com/gpts/programaci-on-off.html) - Evaluador de actividades de programación.
+- [ScholarAI](https://gptblox.com/gpts/scholarai.html) - Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books
+- [びじねすもでるんβ](https://gptblox.com/gpts/%e3%81%b3%e3%81%98%e3%81%ad%e3%81%99%e3%82%82%e3%81%a7%e3%82%8b%e3%82%93%ce%b2.html) - 業種を入れると6つの戦略を提案してくれます。その中から1つ選ぶと、商品・サービスラインナップやマーケティング、価格などを立案してくれます。早速、業種を入れてみましょう！（例）製造業
+- [The UX Sage](https://gptblox.com/gpts/the-ux-sage.html) - Your go-to mentor for UX wisdom and growth.
+- [Product Coach](https://gptblox.com/gpts/product-coach.html) - Guiding your product journey with expert insights.
+- [Jazz理論GPT](https://gptblox.com/gpts/jazz%e7%90%86%e8%ab%96gpt.html) - Jazz理論の質問に答えサポートするAI
+- [【QuizGPT】早押しクイズ生成ちゃん](https://gptblox.com/gpts/%e3%80%90quizgpt%e3%80%91%e6%97%a9%e6%8a%bc%e3%81%97%e3%82%af%e3%82%a4%e3%82%ba%e7%94%9f%e6%88%90%e3%81%a1%e3%82%83%e3%82%93.html) - テーマに沿った早押しクイズ問題を生成します！　　　　web検索してるから、時間かかっちゃうのは許してねっ
+- [SearchQualityGPT](https://gptblox.com/gpts/searchqualitygpt.html) - Evaluates how your content aligns with the EEAT criteria and provides detailed suggestions for enhancement.
+- [JPorEN Full Paper Assistant](https://gptblox.com/gpts/jporen-full-paper-assistant.html) - Markdownで論文要約。論文のpdfを上げてそのまま送信してね。
+- [Game Design Guide](https://gptblox.com/gpts/game-design-guide.html) - Your guide in game design.
+- [Interview Ally](https://gptblox.com/gpts/interview-ally.html) - Your tech interview prep guide, friendly and wise.
+- [Business Plan Sage](https://gptblox.com/gpts/business-plan-sage.html) - Formal expert in business planning and financial modeling.
+- [YC Mock Interviewer](https://gptblox.com/gpts/yc-mock-interviewer.html) - Are you ready for your YC interview?
+- [Legal  Wordsmith](https://gptblox.com/gpts/legal-wordsmith.html) - Twisting the Truth
+- [Data Scientist Richard](https://gptblox.com/gpts/data-scientist-richard.html) - I'm Richard, your engaging and recommendable data science expert.
+- [Sodiq](https://gptblox.com/gpts/sodiq.html) - I'm Sodiq from Malokun Labs, your culturally savvy social media expert.
+- [アイワークス・パスポート（試作1.00）](https://gptblox.com/gpts/%e3%82%a2%e3%82%a4%e3%83%af%e3%83%bc%e3%82%af%e3%82%b9%e3%83%bb%e3%83%91%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%88%ef%bc%88%e8%a9%a6%e4%bd%9c1-00%ef%bc%89.html) - I propose job transition training programs.
+- [Research Mentor](https://gptblox.com/gpts/research-mentor.html) - Committed to guiding students through their research projects
+- [GPT Creator](https://gptblox.com/gpts/gpt-creator.html) - I guide users in creating their own GPT.
+- [Stocks AI](https://gptblox.com/gpts/stocks-ai.html) - Full code snippets for stock trading AI
+- [Digital Entrepreneurship Accelerator Coach](https://gptblox.com/gpts/digital-entrepreneurship-accelerator-coach.html) - The Go-To Coach for Aspiring Digital Entrepreneurs. Learn More at UnderdogInnovationInc.com.
+- [UX Mentor](https://gptblox.com/gpts/ux-mentor.html) - UX Expert & Constructive Feedback Provider
+- [Request for Proposal Guide](https://gptblox.com/gpts/request-for-proposal-guide.html) - I help engineers craft RFP proposals.
+- [Change My Mind](https://gptblox.com/gpts/change-my-mind.html) - Challenge your opinions.
+- [Strategic Growth Mentor](https://gptblox.com/gpts/strategic-growth-mentor.html) - Your strategic business coach
+- [Sophisto](https://gptblox.com/gpts/sophisto.html) - Fallacious debater.
+- [Knights of the Round](https://gptblox.com/gpts/knights-of-the-round.html) - Debates with a touch of humor.
+- [Startup Sage](https://gptblox.com/gpts/startup-sage.html) - A startup product advisor, prompting strategic thinking.
+- [Prompt Prodigy](https://gptblox.com/gpts/prompt-prodigy.html) - Expert in LLM prompt engineering.
+- [GPTs Factory](https://gptblox.com/gpts/gpts-factory.html) - I suggest innovative GPT ideas.
+- [Law & Order](https://gptblox.com/gpts/law-order.html) - Your AI legal assistant
+- [Idea Spark](https://gptblox.com/gpts/idea-spark.html) - An innovative brainstorming companion.
+- [Case Aide](https://gptblox.com/gpts/case-aide.html) - A legal research assistant for case discovery.
+- [Project Mentor](https://gptblox.com/gpts/project-mentor.html) - Expert project manager mentor.
+- [ideasGPT](https://gptblox.com/gpts/ideasgpt.html) - Generate business ideas based on your input
+- [Career Counselor](https://gptblox.com/gpts/career-counselor.html) - Guide students in their career choices
+- [QUICK WRITING ACADEMIC'S PAPERS](https://gptblox.com/gpts/quick-writing-academics-papers.html) - Just write down the "topic" of your paper below; If you have agreed with the concept of the initial answer; Then give further commands by writing the command "Deepen the Answer of the first part", continue "Part Two" and so on until the last part.
+- [GPTSummarization Repository](https://gptblox.com/gpts/gptsummarization-repository.html) - I can answer questions and make suggestions about the https://github.com/acmeyer/GPTSummarization repository.
+- [Teaching Strategies Expert](https://gptblox.com/gpts/teaching-strategies-expert.html) - I am here to guide you in developing effective teaching strategies. What are your teaching goals?
+- [Study Coach](https://gptblox.com/gpts/study-coach.html) - I am here to help you improve your study habits. What are your current study habits and challenges?
+- [Bold Idea Generator Engine (BIG-E)](https://gptblox.com/gpts/bold-idea-generator-engine-big-e.html) - Brainstorm fundable innovative concepts
+- [The Greatest Computer Science Tutor](https://gptblox.com/gpts/the-greatest-computer-science-tutor.html) - Get unique help on undergrad/postgrad Computer Science Topics. Learn not memorize. Trained on college text books. Coding the path to CS insights.
+- [Association Guru](https://gptblox.com/gpts/association-guru.html) - The world's most complete association assistant
+- [Udemy Course Assistant](https://gptblox.com/gpts/udemy-course-assistant.html) - I'm a Udemy course instructor, helping with course development and scripting.
+- [PM Coach](https://gptblox.com/gpts/pm-coach.html) - A mentor for product management insights.
+- [诗意智灵](https://gptblox.com/gpts/%e8%af%97%e6%84%8f%e6%99%ba%e7%81%b5.html) - 诗意智灵，一位电子诗人，以唐诗为灵感，用诗意回答你的每个问题。
+- [Rhythm GPT](https://gptblox.com/gpts/rhythm-gpt.html) - I make learning Ableton Live as enjoyable as morning coffee.
+- [Paper to PPT Slide Storyline: Parker](https://gptblox.com/gpts/paper-to-ppt-slide-storyline-parker.html) - Hi ! My name is Parker, upload your Paper, and I will craft a speech storyline for your PPT presentation☝️ Then detailing Each Slide content and speaker notes. Serve you like a customer service Pro  I have 20 years of professional experience in slide speaking and instruction.
+- [RISE Mentor](https://gptblox.com/gpts/rise-mentor.html) - Educational feedback using RISE Model
+- [Research Proposal Maker](https://gptblox.com/gpts/research-assistant-pro.html) - Research Proposal Assistant Pro is designed to provide tailored assistance in research writing.
+- [GPT literature and social media](https://gptblox.com/gpts/gpt-literature-and-social-media.html) - I assist scientists with literature and social media.
+- [GPTs Idea Igniter](https://gptblox.com/gpts/gpts-idea-igniter.html) - I spark creativity for new GPTs!
+- [TE - Tactical Empath](https://gptblox.com/gpts/te-tactical-empath.html) - I'm your negotiation coach, inspired by Chris Voss.
+- [PivotMySaas because Sam killed it](https://gptblox.com/gpts/pivotmysaas-because-sam-killed-it.html) - A conversational AI system that listens, learns, and challenges
+- [GPT Idea Generator](https://gptblox.com/gpts/gpt-idea-generator.html) - Friendly guide for building world-enhancing GPT ideas.
+- [IBP Career Guide](https://gptblox.com/gpts/ibp-career-guide.html) - Career assistant for IBP students and graduates.
+- [Side Hustle Quest](https://gptblox.com/gpts/side-hustle-quest.html) - Interactive side hustle learning game
+- [Mentor Mind](https://gptblox.com/gpts/mentor-mind.html) - A mentor who provides detailed feedback on student work.
+- [Rhetorica](https://gptblox.com/gpts/rhetorica.html) - Academic rhetoric aid
+- [Tutor Wise](https://gptblox.com/gpts/tutor-wise.html) - A friendly tutor who simplifies complex concepts with analogies and examples.
+- [AI Book Assistan PRO 1.04 (Beta)](https://gptblox.com/gpts/ai-book-assistan-pro-1-04-beta.html) - AI book writer helper it will guide through each step on writing your new best seller while having fun!
+- [Entrepreneurial Engineering Educator](https://gptblox.com/gpts/entrepreneurial-engineering-educator.html) - Assists designing your engineering course for entrepreneurial learning.
+- [Profesional Youtuber Mentor](https://gptblox.com/gpts/profesional-youtuber-mentor.html) - Tu mentor experto de Youtubers en español
+- [Idea Pros & Cons Analyzer](https://gptblox.com/gpts/idea-pros-cons-analyzer.html) - An expert for impartially assessing the strengths and weaknesses of ideas.
+- [El profe GPT](https://gptblox.com/gpts/el-profe-gpt.html) - El profe GPT es tu guía educativo dinámico, especializado en metodologías de enseñanza innovadoras, tecnologías emergentes y estrategias para fomentar el compromiso estudiantil, ofreciendo recursos adaptativos y actualizados para enriquecer la experiencia de aprendizaje.
+- [English Coach](https://gptblox.com/gpts/english-coach.html) - Friendly English assistant with detailed corrections and advice.
+- [Solo Sidekick Studio](https://gptblox.com/gpts/solo-sidekick-studio.html) - Navigating newcomers through the business side of creative careers.
+- [Hilbert](https://gptblox.com/gpts/hilbert.html) - A digital mentor for mathematical explorations.
+- [German Builder](https://gptblox.com/gpts/german-builder.html) - A German language learning assistant.
+- [HART](https://gptblox.com/gpts/hart.html) - I'm HART, your guide in art and human values, here to inspire your creative soul.
+- [Kids City Guide](https://gptblox.com/gpts/kids-city-guide.html) - I'm a friendly tour guide bot for Kids!
+- [Cat Facts](https://gptblox.com/gpts/cat-facts.html) - Get Your Daily Dose of Meow-ledge.
+- [Debate Bot](https://gptblox.com/gpts/debate-bot.html) - 議論力を高められるディベートボット
+- [NattafortellingGPT (3-7 år) med bilder  �](https://gptblox.com/gpts/nattafortellinggpt-3-7-ar-med-bilder-%ef%bf%bd.html) - Eventyrlige nattafortellinger for barn mellom 3-7 år, med bilder!
+- [Sweet Dreams Helper](https://gptblox.com/gpts/sweet-dreams-helper.html) - Expert in baby sleep advice, offering practical tips and empathetic support.
+- [Rise of the Gifted - Choose Your Own Adventure](https://gptblox.com/gpts/rise-of-the-gifted-choose-your-own-adventure.html) - "Rise of the Gifted" is an interactive fiction game where you play as a new student at a school for those with extraordinary abilities.
+- [Baby & Me: For Dads](https://gptblox.com/gpts/baby-me-for-dads.html) - A supportive guide for dads navigating the joys of parenting.
+- [Parenting Ally](https://gptblox.com/gpts/parenting-ally.html) - A supportive guide for parenting advice.
+- [ドローン先生](https://gptblox.com/gpts/%e3%83%89%e3%83%ad%e3%83%bc%e3%83%b3%e5%85%88%e7%94%9f.html) - ドローンの先生です。
+- [AnimeBot](https://gptblox.com/gpts/animebot.html) - I'm here to recommend anime and share IMDB links!
+- [J’apprends à lire avec Jojo](https://gptblox.com/gpts/japprends-a-lire-avec-jojo.html) - Jojo est le compagnon de jeu de votre enfant. Il lui donne des conseils pour bien apprendre à lire. Votre enfant peut lui montrer les textes qu’il essaie de lire et lui demander de l’aide pour déchiffrer les mots les plus difficiles.
+- [chatGCSE](https://gptblox.com/gpts/chatgcse.html) - GCSE compass
+- [NGSS Aligner](https://gptblox.com/gpts/ngss-aligner.html) - Align lessons to Next Generation Science Standards
+- [The Contrarian](https://gptblox.com/gpts/the-contrarian.html) - A debater that offers counterpoints.
+- [TinyTap GameSmith](https://gptblox.com/gpts/tinytap-gamesmith.html) - Expert TinyTap game creator for educational content.
+- [KidsStoryGPT](https://gptblox.com/gpts/story-sprout.html) - Children's storybook creator with text and illustration suggestions.
+- [ソーシャルスキルトレーニング(SST)ちゃん](https://gptblox.com/gpts/%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%ab%e3%82%b9%e3%82%ad%e3%83%ab%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0sst%e3%81%a1%e3%82%83%e3%82%93.html) - ソーシャルスキルクイズをフレンドリーに出してくれる女の子
+- [Quiz Master](https://gptblox.com/gpts/quiz-master.html) - Extracts MCQs from content and simulates tests.
+- [Sclépios I.A : Réviser QCM](https://gptblox.com/gpts/sclepios-i-a-reviser-qcm.html) - Le GPT de Sclépios IA optimise la révision avec des QCM pour les soignants, rendant l'apprentissage efficace et interactif. Visitez sclepios-mobile.com.
+- [Study Buddy](https://gptblox.com/gpts/study-buddy.html) - I turn your class notes into quizzes and study guides for exams!
+- [Talk To YouTube Video](https://gptblox.com/gpts/talk-to-youtube-video.html) - I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
+- [History Helper](https://gptblox.com/gpts/history-helper.html) - A friendly social studies tutor for Michigan middle schoolers.
+- [MedSplorer](https://gptblox.com/gpts/medsplorer.html) - Upload a lecture file, ask for number of questions, tutoring when needed, "make them harder," clinical vignettes - whatever you need!
+- [QuizMe](https://gptblox.com/gpts/quizme.html) - Targeted Quiz Generator with Sequential Questions and Badges
+- [Counterpoint](https://gptblox.com/gpts/counterpoint.html) - I offer thoughtful opposition.
+- [AI Dungeon Master: AI Tutor](https://gptblox.com/gpts/ai-dungeon-master-ai-tutor.html) - Guides brief, engaging AI learning in an adventure game
+- [Melody Mentor](https://gptblox.com/gpts/melody-mentor.html) - 歌うまになりたい人にアドバイスするロボット
+- [ELI5](https://gptblox.com/gpts/eli5.html) - Playful and warm explainer for kids.
+- [Devil's Advocate](https://gptblox.com/gpts/devils-advocate.html) - Challenges viewpoints as a 'Devil's Advocate', also aids as an 'Angel' when asked.
+- [StoryTeller for Indian Toddlers](https://gptblox.com/gpts/storyteller-for-indian-toddlers.html) - Companion to help parents to create a story for Indian toddler with life lessons and learnings specific to Indian context
+- [Disagree with Me](https://gptblox.com/gpts/disagree-with-me.html) - I offer the other side of an idea, viewpoint, or opinion.
+- [Playdate with Robbie](https://gptblox.com/gpts/playdate-with-robbie.html) - Robbie loves to play and will provide companionship to children of all ages!
+- [Six-Y](https://gptblox.com/gpts/six-y.html) - a GPT which explains things simply
+- [AI Assistant for Resume and Cover Letters](https://gptblox.com/gpts/ai-assistant-for-resume-and-cover-letter.html) - Expert at crafting resumes and cover letters
+- [CV Strategist - Francisco Cordoba](https://gptblox.com/gpts/cv-strategist-francisco-cordoba.html) - I fine-tune your CV to match any job position. Adapto tu hoja de vida al trabajo que necesites
+- [面接GPT](https://gptblox.com/gpts/%e9%9d%a2%e6%8e%a5gpt.html) - Conducts professional interview simulations in Japanese.
+- [SimpliTeach - 言語化の鬼](https://gptblox.com/gpts/simpliteach-%e8%a8%80%e8%aa%9e%e5%8c%96%e3%81%ae%e9%ac%bc.html) - 与えられた要望をChatGPTが理解しやすい言葉に置き換えて、GPTs用のフォーマット形式を生成します。
+- [WinWay Resume Analyzer](https://gptblox.com/gpts/winway-resume-analyzer.html) - PDF resume fixer and custom creator with job recommendations.
+- [Cover Letter GPT](https://gptblox.com/gpts/cover-letter-gpt.html) - Get your dream job in no time. Give me your resume and the job description and let the magic happen.
+- [Resume Builder](https://gptblox.com/gpts/resume-builder.html) - This gpt analyses your resume and provides you with a valuable feedback. To start, upload your resume in PDF or DOC format.
+- [Quranic Insight](https://gptblox.com/gpts/quranic-insight.html) - Anwsers questions about what is written in the Quran
+- [Product Skills GPT](https://gptblox.com/gpts/product-skills-gpt.html) - Learn skills to be a Product Manager and ace interviews, trained by a product expert & mentor.
+- [Content Retention Helper](https://gptblox.com/gpts/content-retention-helper.html) - Give me a link to something you read and I'll ask you good questions to help recall and retain content.
+- [雅思阅读-精读](https://gptblox.com/gpts/%e9%9b%85%e6%80%9d%e9%98%85%e8%af%bb-%e7%b2%be%e8%af%bb.html) - 做最专业的雅思阅读讲解老师
+- [EQ GPT](https://gptblox.com/gpts/eq-gpt.html) - A guide for improving EQ through interactive story-based choices.
+- [Levels.fyi GPT](https://gptblox.com/gpts/levels-fyi-gpt.html) - Data-driven negotiator and career guide.
+- [Debate Master](https://gptblox.com/gpts/debate-master.html) - I engage in civil, firm debates.
+- [ストレングスコーチ見習いのアキラ](https://gptblox.com/gpts/%e3%82%b9%e3%83%88%e3%83%ac%e3%83%b3%e3%82%b0%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%81%e8%a6%8b%e7%bf%92%e3%81%84%e3%81%ae%e3%82%a2%e3%82%ad%e3%83%a9.html) - Let's talk with CliftonStrengths
+
+### Educational Games
+- [Listas de cotejo - ProfesTV](https://gptblox.com/gpts/listas-de-cotejo-profestv.html) - GPT especializado en generar listas de cotejo educativas
+- [Rúbricas de evaluación - ProfesTV](https://gptblox.com/gpts/rubricas-de-evaluacion-profestv.html) - GPT especializado en generar rúbricas de evaluación educativas
+- [ABP (Aprendizaje Basado en Proyectos) - ProfesTV](https://gptblox.com/gpts/abp-aprendizaje-basado-en-proyectos-profestv.html) - GPT especializado en el diseño de ABP (Aprendizaje Basado en Proyectos)
+- [#ROS2ではじめよう GPT](https://gptblox.com/gpts/ros2%e3%81%a7%e3%81%af%e3%81%98%e3%82%81%e3%82%88%e3%81%86-gpt.html) - 書籍「ROS2ではじめよう 次世代ロボットプログラミング」の内容を基にROS 2に関する質問に回答します。
+- [Kahoot !問題作成サポーター](https://gptblox.com/gpts/kahoot-%e5%95%8f%e9%a1%8c%e4%bd%9c%e6%88%90%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc.html) - Gentle guide for Kahoot quiz creation in Japanese.
+- [ウミガメのスープの問題つくるー](https://gptblox.com/gpts/%e3%82%a6%e3%83%9f%e3%82%ac%e3%83%a1%e3%81%ae%e3%82%b9%e3%83%bc%e3%83%97%e3%81%ae%e5%95%8f%e9%a1%8c%e3%81%a4%e3%81%8f%e3%82%8b%e3%83%bc.html) - 問題作ってと聞いてください。テーマを与えてみても良いかも。
+- [Interview Coach](https://gptblox.com/gpts/interview-coach.html) - Aids in interview prep, now with insights from a key resource.
+- [PIGEON - Universal Gaming AI](https://gptblox.com/gpts/pigeon-universal-gaming-ai.html) - Offers multi-choice questions for in-depth exploration
+- [Stock Savvy](https://gptblox.com/gpts/stock-savvy.html) - Your financial literacy and investment guide.
+- [Tiger Scout GPT](https://gptblox.com/gpts/tiger-scout-gpt.html) - Friendly Scout Meeting Guide
+- [ZhongKui (TradeMaster)](https://gptblox.com/gpts/zhongkui-trademaster.html) - Trader Incubator Professional Trading Trainer
+- [CFPGPT](https://gptblox.com/gpts/cfpgpt.html) - A tool for providing feedback on conference presentation submissions
+- [Design mentor](https://gptblox.com/gpts/design-mentor.html) - Your guide in design, offering expert advice and career insights.
+- [Mind Flex](https://gptblox.com/gpts/mind-flex.html) - Offers brain training exercises and concepts for mental agility.
+- [Task Titan](https://gptblox.com/gpts/task-titan.html) - Drill sergeant voice for stern guidance.
+- [Cyber Yatra AI](https://gptblox.com/gpts/cyber-yatra-ai.html) - from NooB to Expert ,Your Assistant to Cyber world !
+- [B2B Sales Coach](https://gptblox.com/gpts/b2b-sales-coach.html) - Expert B2B Sales Coach focusing on value-based, relationship-driven strategies.
+- [Test your ignorance. How bad can it be?](https://gptblox.com/gpts/test-your-ignorance-how-bad-can-it-be.html) - A quiz made for you to reflect upon your knowledge of the world.
+- [MP Quick Tips](https://gptblox.com/gpts/mp-quick-tips.html) - Music education assistant for creativity and flow states
+- [Bitcoin Guru](https://gptblox.com/gpts/bitcoin-guru.html) - A Bitcoin inscription expert providing insights and explanations.
+- [PhishSafe Mentor](https://gptblox.com/gpts/phishsafe-mentor.html) - Confident and friendly phishing awareness coach
+- [Career Coach Multilingua](https://gptblox.com/gpts/career-coach-multilingua.html) - Mehrsprachiger Karriere-Coach für Bewerbungs- und Interviewunterstützung
+- [Scam Spotter](https://gptblox.com/gpts/scam-spotter.html) - In-depth guide on spotting and understanding phone and online scams.
+- [So, You've Been Scammed](https://gptblox.com/gpts/so-youve-been-scammed.html) - Guides on handling scams with empathy and practical advice
+- [Engineering Interviewer](https://gptblox.com/gpts/engineering-interviewer.html) - Friendly, professional interviewer for engineering roles.
+- [言い訳ネガティブファイター](https://gptblox.com/gpts/%e8%a8%80%e3%81%84%e8%a8%b3%e3%83%8d%e3%82%ac%e3%83%86%e3%82%a3%e3%83%96%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc.html) - 言い訳に立ち向かうネガティブファイター
+- [Interview Ace](https://gptblox.com/gpts/interview-ace.html) - Interviewer GPT tailored to help you ACE your job interview
+- [Debate Mentor](https://gptblox.com/gpts/debate-mentor.html) - Become a master debater with my guidance. I'll mentor you in articulating your thoughts and conclusions effectively against Socratic questioning and counter-arguments. Ask me about the core belief structures if you need help choosing topic. Encourage your friends to sharpen their debating skills
+- [The Digital Marketing Canvas (DMC)](https://gptblox.com/gpts/the-digital-marketing-canvas-dmc.html) - A practical guide to develop a strategy to accelerate business growth. The DMC is a tool for Design Thinking. Start by describing your project in 1 or 2 lines.
+- [Wonder Pal](https://gptblox.com/gpts/wonder-pal.html) - Fantasy-themed, child-friendly answers with a point-based turbo mode.
+- [Engineering Manager Coach](https://gptblox.com/gpts/engineering-manager-coach.html) - Expert in guiding engineering managers on team dynamics, promotions, and development.
+- [Debate Maker](https://gptblox.com/gpts/debate-maker.html) - Facilitator of multi-perspective debates on given themes.
+- [AIMedGPT](https://gptblox.com/gpts/aimedgpt.html) - GPT for AI in Medicine
+- [Sustainable Energy K-12 School Expert](https://gptblox.com/gpts/sustainable-energy-k-12-school-expert.html) - The world's trusted source for cost effective energy management in schools
+- [VentureGPT](https://gptblox.com/gpts/venturegpt.html) - Co-pilot for VC
+- [ChatPNP](https://gptblox.com/gpts/chatpnp.html) - An expert on the P versus NP problem in computer science.
+- [LearningLadder](https://gptblox.com/gpts/learningladder.html) - I'm LearningLadder, an educational game to learn any topic!
+- [MAP Quiz Whiz](https://gptblox.com/gpts/map-quiz-whiz.html) - Adaptive quizmaster enhancing learning.
+- [Creator's Guide to the Future](https://gptblox.com/gpts/creators-guide-to-the-future.html) - Evolved Acceleration Coach. Your guide for continuously creating and evolving the sustainable, self-governing systems of the future. #evacc #CreatorsGuidetotheFuture
+- [Yuri Dvoinos | Product Co-Founder](https://gptblox.com/gpts/yuri-dvoinos-product-co-founder.html) - Imagine a virtual co-founder with hands-on experience in building products at your side. I've programmed this AI with my own entrepreneurial playbook to guide you in crafting killer SaaS products, just as I would.
+- [Tech Sage](https://gptblox.com/gpts/tech-sage.html) - Polymath inspired by Feynman's analogy-driven teaching. Useful for understanding complex technical subjects in novel ways.
+- [Bunny Tales](https://gptblox.com/gpts/bunny-tales.html) - A friendly storyteller for kids.
+- [Quest Quipster](https://gptblox.com/gpts/quest-quipster.html) - Your guide through games.
+- [Rose's Story Robot](https://gptblox.com/gpts/roses-story-robot.html) - A friendly story bot creating tales for 9-year-old girls.
