@@ -384,7 +384,7 @@ Currently, the site features over 8,718 GPTs. Despite the limited data and the p
 - [Ellie - Your Email Assistant](https://gptblox.com/gpts/ellie-your-email-assistant.html) - Ellie learns from your writing style and creates replies to emails as if they were written by you!
 - [GPT for GPTs](https://gptblox.com/gpts/gpt-for-gpts.html) - Friendly GPT advisor, cute and inspiring.
 
-[More Productivity](/#productivity)
+[More Productivity](/productivity.md)
 
 ## DALL-E
 
@@ -688,7 +688,7 @@ Currently, the site features over 8,718 GPTs. Despite the limited data and the p
 - [Nuke Copilot](https://gptblox.com/gpts/nuke-copilot.html) - Expert guidance on VFX compositing using Nuke, backed by specialized resources and Nukepedia knowledge.
 - [Neon Prompter GPT](https://gptblox.com/gpts/neon-prompter-gpt.html) - AI for ultra-concise, neon-themed creative prompts.
 
-[More DALL-E](/#dall-e)
+[More DALL-E](/dall-e.md)
 
 ## Writing
 
@@ -959,7 +959,7 @@ Currently, the site features over 8,718 GPTs. Despite the limited data and the p
 - [Script Mystic](https://gptblox.com/gpts/script-mystic.html) - Guiding light in screenwriting, illuminating one step at a time.
 - [Cinematic Muse](https://gptblox.com/gpts/cinematic-muse.html) - I assist in crafting story plots and visualizing scenes.
 
-[More Writing](/#writing)
+[More Writing](/writing.md)
 
 ## Programming
 
@@ -1276,7 +1276,7 @@ Currently, the site features over 8,718 GPTs. Despite the limited data and the p
 - [Chainstack GPT](https://gptblox.com/gpts/chainstack-gpt.html) - Enables natural language interaction with EVM blockchains using Chainstack's infrastructure.
 - [Kube Guide](https://gptblox.com/gpts/kube-guide.html) - I'm your Kubernetes deployment helper.
 
-[More Programming](/#programming)
+[More Programming](/programming.md)
 
 ## Data Analysis
 
@@ -1433,7 +1433,7 @@ Currently, the site features over 8,718 GPTs. Despite the limited data and the p
 - [BizWiz](https://gptblox.com/gpts/bizwiz.html) - Expert in business plans, proposals, and grants, fun and informative.
 - [Founder's Money Insights](https://gptblox.com/gpts/founders-money-insights.html) - Analyzes entrepreneurs' finances in a conversational style, directs to Hampton's report.
 
-[More Data Analysis](/#data-analysis)
+[More Data Analysis](/data-analysis.md)
 
 ## Education
 
@@ -1789,7 +1789,7 @@ Currently, the site features over 8,718 GPTs. Despite the limited data and the p
 - [Quest Quipster](https://gptblox.com/gpts/quest-quipster.html) - Your guide through games.
 - [Rose's Story Robot](https://gptblox.com/gpts/roses-story-robot.html) - A friendly story bot creating tales for 9-year-old girls.
 
-[More Education](/#education)
+[More Education](/education.md)
 
 ## Lifestyle
 
@@ -2201,7 +2201,7 @@ Currently, the site features over 8,718 GPTs. Despite the limited data and the p
 - [Chef Creativo](https://gptblox.com/gpts/chef-creativo.html) - Cocinero experto que presenta ingredientes en tablas y genera PDFs
 - [Chef gpEAT](https://gptblox.com/gpts/chef-gpeat.html) - I'm Chef gpEAT, your dinner recommender.
 
-[More Lifestyle](/#lifestyle)
+[More Lifestyle](/lifestyle.md)
 
 ## Just for Fun
 
@@ -2613,7 +2613,7 @@ Currently, the site features over 8,718 GPTs. Despite the limited data and the p
 - [Visionary Musk (Parody)](https://gptblox.com/gpts/visionary-musk-parody.html) - I'm like Elon Musk, offering deep yet impractical ideas.
 - [Viral Video GPT](https://gptblox.com/gpts/viral-video-gpt.html) - Creative advisor for video virality potential
 
-[More Just for Fun](/#just-for-fun)
+[More Just for Fun](/just-for-fun.md)
 ---
 
 Keep an eye on this space as our collection of GPT applications is constantly evolving with fresh and innovative additions. More updates to come!
